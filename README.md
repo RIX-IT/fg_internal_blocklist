@@ -2,30 +2,50 @@
 
 ## Description
 
-This repository contains two lists of IP addresses for internal use within our organization. Users should add IP addresses to the `internal_ip_address_blacklist_raw.txt` file. The `internal_ip_address_blacklist_cleaned.txt` file is the cleaned version of the raw list and should be used for firewall configuration.
+This repository is intended for internal use only. Use `internal_ip_address_blacklist_cleaned.txt` as a threat feed for your Firewall and incorporate it into your Firewall policies.
 
-## Files
+---
 
-- `internal_ip_address_blacklist_raw.txt`: The raw list of IP addresses and subnets. Users should add new entries to this file.
-- `internal_ip_address_blacklist_cleaned.txt`: The cleaned and processed list of IP addresses and subnets. This file should be used for firewall configuration.
-- `clean_ip_list.ps1`: A PowerShell script to clean and process the raw list.
+## Usage
 
-## PowerShell Script
+- **`internal_ip_address_blacklist_raw.txt`**
 
-The `clean_ip_list.ps1` script performs the following tasks:
+  - Add new addresses to block in CIDR notation. For single IPs, use "/32".
 
-1. **Parse the File**: Reads the `internal_ip_address_blacklist_raw.txt` file and trims any unnecessary whitespace.
-2. **Validate Entries**: Checks each entry to ensure it is a valid IP address or subnet. If any invalid entries are found, the script will throw an error and provide details of the invalid entries.
-3. **Combine Subnets**: If more than a specified number (default is 5) of IP addresses share the same first three octets, they are combined into a /24 subnet.
-4. **Remove Duplicates**: Removes any duplicate entries from the list.
-5. **Order Entries**: Orders the entries by subnet size and IP address.
-6. **Write Output**: Writes the cleaned and processed list to `internal_ip_address_blacklist_cleaned.txt`.
+- **`threat_feed_generator.exe`**
+
+  - Run the generator tool; see features below.
+
+- **`internal_ip_address_blacklist_cleaned.txt`**
+  - A cleaned and processed list of IP addresses and subnets. Use this file for firewall configuration.
+
+---
+
+## Generator Tool Features
+
+The `threat_feed_generator.exe` tool performs the following tasks:
+
+1. **Parse the Input File**: Automatically selects `internal_ip_address_blacklist_raw.txt` if found in the tool's directory. Otherwise, use the file dialog to specify its location.
+
+2. **Validate Entries**: Checks each entry for valid IP addresses/subnets.
+
+3. **Remove Duplicates**: Ensures each entry is unique.
+
+4. **Order Entries**: Organizes entries by subnet size and IP address.
+
+5. **Combine Addresses into Subnets (Optional)**: Groups IPs into subnets based on a specified threshold. IPs sharing the same first three octets and exceeding the threshold are combined into a /24 subnet.
+
+6. **WhoIs Lookup (Optional)**: Provides additional context like country, region, and ISP through optional WhoIs lookup, added as comments.
+
+7. **Write Output**: Saves the processed list to `internal_ip_address_blacklist_cleaned.txt`.
+
+**Source Code:** [`src\threat_feed_generator.py`](src/threat_feed_generator.py)
 
 ---
 
 ## Disclaimer
 
-- This blacklist of IP addresses is intended solely for internal use.
-- Unauthorized access, distribution, or usage of this list by any external parties is strictly prohibited.
-- This list is provided "as is" without any warranties or guarantees of any kind.
-- We are not responsible for any consequences resulting from the use or misuse of this list.
+- This IP address blacklist is strictly for internal use.
+- Unauthorized access, distribution, or use by external parties is prohibited.
+- Provided "as is" without warranties or guarantees.
+- We are not liable for any consequences resulting from its use or misuse.
