@@ -36,8 +36,6 @@ The validation process includes:
 - Sorting
 - Fetching WHOIS information for new or changed entries
 
-More information about the validation process can be found [here](URL_TO_OTHER_REPO).
-
 ---
 
 ## Disclaimer
