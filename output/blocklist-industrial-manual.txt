@@ -1,11 +1,13 @@
 146.70.0.0/16 # Romania | Bucharest | M Europe SRL
 107.152.96.0/23 # United States | Georgia | Performive LLC
 209.95.50.0/23 # United States | New York | Hosting Services, Inc.
+5.183.255.0/24 # Netherlands | North Holland | Hosting Solution Ltd.
 23.162.40.0/24 # United States | Kentucky | Cyber Data LLC
 37.19.200.0/24 # United States | Texas | Datacamp Limited
 43.225.189.0/24 # United States | Massachusetts | Hostroyale Technologies Pv...
 45.134.140.0/24 # United States | Georgia | Datacamp Limited
 46.161.27.0/24 # Netherlands | South Holland | Nforce Entertainment B.V.
+62.233.39.0/24 # Russia | Moscow | Hosting Solution Ltd.
 66.115.189.0/24 # United States | Georgia | Performive LLC
 68.235.43.0/24 # United States | Illinois | Tzulo, Inc.
 69.4.234.0/24 # United States | Utah | Uk Limited
@@ -24,12 +26,15 @@
 149.40.50.0/24 # United States | Massachusetts | Datacamp Limited
 169.150.203.0/24 # United States | California | Datacamp Limited
 185.92.73.0/24 # Netherlands | North Holland | FOXCLOUD LLP
+185.96.37.0/24 # United States | New York | Btt Group Finance LTD
+185.141.119.0/24 # United States | Michigan | Hostroyale Technologies Pvt LTD
 185.156.46.0/24 # United States | Virginia | Datacamp Limited
 192.252.212.0/24 # United States | Washington | Performive LLC
 193.37.69.0/24 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 198.44.128.0/24 # United States | Colorado | Tzulo, Inc.
 198.44.129.0/24 # United States | California | Tzulo, Inc.
 198.54.135.0/24 # United States | Virginia | Tzulo, Inc.
+198.96.89.0/24 # United States | California | Quadranet Enterprises LLC
 199.116.118.0/24 # United States | California | Performive LLC
 204.152.216.0/24 # United States | California | Quadranet Enterprises LLC
 206.190.154.0/24 # United States | New York | Hosting Services, Inc.
@@ -41,9 +46,6 @@
 5.181.171.125/32 # United States | New York | Btt Group Finance LTD
 5.181.171.249/32 # United States | New York | Btt Group Finance LTD
 5.183.254.219/32 # United States | California | Btt Group Finance LTD
-5.183.255.128/32 # Netherlands | North Holland | Hosting Solution Ltd.
-5.183.255.181/32 # Netherlands | North Holland | Hosting Solution Ltd.
-5.183.255.193/32 # Netherlands | North Holland | Hosting Solution Ltd.
 5.188.206.134/32 # Bulgaria | Sofia-city | KREZ EOOD
 5.188.217.46/32 # United States | New York | Btt Group Finance LTD
 5.188.217.84/32 # United States | New Jersey | Btt Group Finance LTD
@@ -81,13 +83,6 @@
 45.132.186.15/32 # United States | New York | Btt Group Finance LTD
 45.132.187.71/32 # United States | New York | Btt Group Finance LTD
 45.132.187.165/32 # United States | New York | Btt Group Finance LTD
-45.134.140.158/32 # United States | Georgia | Datacamp Limited
-45.134.140.164/32 # United States | Georgia | Datacamp Limited
-45.134.140.168/32 # United States | Georgia | Datacamp Limited
-45.134.140.173/32 # United States | Georgia | Datacamp Limited
-45.134.140.176/32 # United States | Georgia | Datacamp Limited
-45.134.140.180/32 # United States | Georgia | Datacamp Limited
-45.134.140.181/32 # United States | Georgia | Datacamp Limited
 45.134.142.19/32 # United States | Florida | Datacamp Limited
 45.134.142.197/32 # United States | Florida | Datacamp Limited
 45.138.102.46/32 # United States | New York | Btt Group Finance LTD
@@ -123,9 +118,6 @@
 54.205.216.28/32 # United States | Virginia | Amazon.com, Inc.
 62.204.41.40/32 # Russia | Moscow | HORIZON LLC
 62.233.39.48/32 # Russia | Moscow | Hosting Solution Ltd.
-62.233.39.167/32 # Russia | Moscow | Hosting Solution Ltd.
-62.233.39.169/32 # Russia | Moscow | Hosting Solution Ltd.
-62.233.39.189/32 # Russia | Moscow | Hosting Solution Ltd.
 64.68.9.44/32 # United States | North Dakota | West River Telecommunicatio...
 66.115.189.153/32 # United States | Georgia | Performive LLC
 67.55.201.239/32 # United States | Iowa | Aureon Network Services
@@ -142,22 +134,6 @@
 68.194.102.242/32 # United States | New York | Cablevision Systems Corp.
 68.225.191.35/32 # United States | Virginia | Cox Communications Inc.
 68.234.98.69/32 # United States | Kansas | Blue Valley Tele communications, ...
-68.235.43.58/32 # United States | Illinois | Tzulo, Inc.
-68.235.43.69/32 # United States | Illinois | Tzulo, Inc.
-68.235.43.88/32 # United States | Illinois | Tzulo, Inc.
-68.235.43.101/32 # United States | Illinois | Tzulo, Inc.
-68.235.43.103/32 # United States | Illinois | Tzulo, Inc.
-68.235.43.122/32 # United States | Illinois | Tzulo, Inc.
-69.4.234.11/32 # United States | Utah | Uk Limited
-69.4.234.16/32 # United States | Utah | Uk Limited
-69.4.234.19/32 # United States | Utah | Uk Limited
-69.4.234.23/32 # United States | Utah | Uk Limited
-69.4.234.24/32 # United States | Utah | Uk Limited
-69.4.234.25/32 # United States | Utah | Uk Limited
-69.4.234.30/32 # United States | Utah | Uk Limited
-69.4.234.32/32 # United States | Utah | Uk Limited
-69.4.234.37/32 # United States | Utah | Uk Limited
-69.4.234.44/32 # United States | Utah | Uk Limited
 69.14.52.7/32 # United States | Michigan | Wideopenwest Finance LLC
 69.26.0.201/32 # United States | Washington | West River Telecommunications...
 69.39.99.28/32 # United States | Maine | Redzone Wireless, LLC
@@ -214,6 +190,7 @@
 85.239.35.22/32 # United States | California | Hosting Solution Ltd.
 85.239.35.44/32 # United States | California | Hosting Solution Ltd.
 85.239.35.146/32 # United States | California | Hosting Solution Ltd.
+85.239.36.185/32 # United States | Florida | Hosting Solution Ltd.
 85.239.36.216/32 # United States | Florida | Hosting Solution Ltd.
 85.239.39.33/32 # Norway | Oslo | Hosting Solution Ltd.
 85.239.54.203/32 # United States | Georgia | Bluevps Ou
@@ -299,6 +276,7 @@
 146.185.204.97/32 # United States | New York | Purevoltage Hosting Inc.
 147.78.47.240/32 # Netherlands | North Holland | Flyservers S.A.
 147.78.47.243/32 # Netherlands | North Holland | Flyservers S.A.
+147.78.180.51/32 # United States | New York | Purevoltage Hosting Inc.
 147.78.180.121/32 # United States | New York | Purevoltage Hosting Inc.
 147.78.181.29/32 # United States | New York | Purevoltage Hosting Inc.
 147.78.181.72/32 # United States | New York | Purevoltage Hosting Inc.
@@ -319,14 +297,6 @@
 165.227.16.70/32 # United States | California | Digitalocean, LLC
 166.1.131.242/32 # Finland | Mainland Finland | Btt Group Finance LTD
 166.215.52.82/32 # United States | Georgia | AT T Mobility LLC
-169.150.203.43/32 # United States | California | Datacamp Limited
-169.150.203.45/32 # United States | California | Datacamp Limited
-169.150.203.47/32 # United States | California | Datacamp Limited
-169.150.203.52/32 # United States | California | Datacamp Limited
-169.150.203.56/32 # United States | California | Datacamp Limited
-169.150.203.59/32 # United States | California | Datacamp Limited
-169.150.203.65/32 # United States | California | Datacamp Limited
-169.150.203.66/32 # United States | California | Datacamp Limited
 172.112.10.92/32 # United States | California | Charter Communications INC
 172.112.19.70/32 # United States | California | Charter Communications INC
 173.3.48.197/32 # United States | New Jersey | Cablevision Systems Corp.
@@ -353,10 +323,13 @@
 184.105.139.7/32 # United States | California | Hurricane Electric LLC
 184.105.139.78/32 # United States | California | Hurricane Electric LLC
 185.61.216.63/32 # Brazil | State of São Paulo | Btt Group Finance LTD
+185.61.217.37/32 # United States | New York | Purevoltage Hosting Inc.
+185.61.218.87/32 # United States | New York | Purevoltage Hosting Inc.
 185.61.220.23/32 # Brazil | State of São Paulo | Btt Group Finance LTD
 185.61.222.90/32 # United States | New York | Purevoltage Hosting Inc.
 185.61.222.148/32 # United States | New York | Purevoltage Hosting Inc.
 185.61.223.147/32 # United States | New York | Purevoltage Hosting Inc.
+185.61.223.199/32 # United States | New York | Purevoltage Hosting Inc.
 185.65.134.15/32 # Netherlands | North Holland | 11 Services Ab
 185.65.134.154/32 # Netherlands | North Holland | 11 Services Ab
 185.68.184.182/32 # Netherlands | North Holland | Hosting Solution Ltd.
@@ -371,16 +344,6 @@
 185.88.102.224/32 # United States | New York | Btt Group Finance LTD
 185.92.73.115/32 # Netherlands | North Holland | FOXCLOUD LLP
 185.92.73.116/32 # Netherlands | North Holland | FOXCLOUD LLP
-185.96.37.59/32 # United States | New York | Btt Group Finance LTD
-185.96.37.63/32 # United States | New York | Btt Group Finance LTD
-185.96.37.179/32 # United States | New York | Btt Group Finance LTD
-185.96.37.213/32 # United States | New York | Btt Group Finance LTD
-185.96.37.243/32 # United States | New York | Btt Group Finance LTD
-185.96.37.244/32 # United States | New York | Btt Group Finance LTD
-185.141.119.139/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
-185.141.119.158/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
-185.141.119.169/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
-185.141.119.188/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
 185.156.46.174/32 # United States | Virginia | Datacamp Limited
 185.156.46.179/32 # United States | Virginia | Datacamp Limited
 185.156.46.180/32 # United States | Virginia | Datacamp Limited
@@ -408,6 +371,7 @@
 193.203.11.62/32 # United States | New York | Purevoltage Hosting Inc.
 193.203.11.122/32 # United States | New York | Purevoltage Hosting Inc.
 193.233.89.26/32 # Germany | Hesse | Hosting Solution Ltd.
+193.233.89.182/32 # Germany | Hesse | Hosting Solution Ltd.
 193.233.90.21/32 # Netherlands | North Holland | Hosting Solution Ltd.
 193.233.90.191/32 # Netherlands | North Holland | Hosting Solution Ltd.
 193.233.91.72/32 # France | Île-de-France | Hosting Solution Ltd.
@@ -417,27 +381,9 @@
 194.104.10.244/32 # United Kingdom | England | Hosting Solution Ltd.
 194.104.11.88/32 # United States | New York | Purevoltage Hosting Inc.
 194.104.11.199/32 # United States | New York | Purevoltage Hosting Inc.
-198.44.128.116/32 # United States | Colorado | Tzulo, Inc.
-198.44.128.121/32 # United States | Colorado | Tzulo, Inc.
-198.44.128.122/32 # United States | Colorado | Tzulo, Inc.
-198.44.128.123/32 # United States | Colorado | Tzulo, Inc.
-198.44.128.150/32 # United States | Colorado | Tzulo, Inc.
-198.44.128.229/32 # United States | Colorado | Tzulo, Inc.
-198.44.128.233/32 # United States | Colorado | Tzulo, Inc.
-198.44.128.250/32 # United States | Colorado | Tzulo, Inc.
-198.44.129.141/32 # United States | California | Tzulo, Inc.
-198.44.129.154/32 # United States | California | Tzulo, Inc.
-198.44.129.165/32 # United States | California | Tzulo, Inc.
-198.44.129.175/32 # United States | California | Tzulo, Inc.
-198.44.129.186/32 # United States | California | Tzulo, Inc.
 198.54.130.36/32 # United States | Virginia | Tzulo, Inc.
 198.54.135.119/32 # United States | Virginia | Tzulo, Inc.
 198.54.135.197/32 # United States | Virginia | Tzulo, Inc.
-198.96.89.207/32 # United States | California | Quadranet Enterprises LLC
-198.96.89.212/32 # United States | California | Quadranet Enterprises LLC
-198.96.89.220/32 # United States | California | Quadranet Enterprises LLC
-198.96.89.227/32 # United States | California | Quadranet Enterprises LLC
-198.96.89.249/32 # United States | California | Quadranet Enterprises LLC
 199.116.118.199/32 # United States | California | Performive LLC
 199.116.118.207/32 # United States | California | Performive LLC
 199.116.118.215/32 # United States | California | Performive LLC
@@ -446,12 +392,6 @@
 204.152.216.110/32 # United States | California | Quadranet Enterprises LLC
 204.152.216.119/32 # United States | California | Quadranet Enterprises LLC
 205.220.247.19/32 # United States | Alabama | Tombigbee Communications, LLC
-206.217.205.24/32 # United States | California | Uk Limited
-206.217.205.67/32 # United States | California | Uk Limited
-206.217.205.74/32 # United States | California | Uk Limited
-206.217.205.81/32 # United States | California | Uk Limited
-206.217.205.88/32 # United States | California | Uk Limited
-206.217.205.95/32 # United States | California | Uk Limited
 206.217.206.84/32 # United States | California | Uk Limited
 207.5.8.30/32 # United States | South Carolina | Hargray Communications Gr...
 207.144.39.164/32 # United States | South Carolina | Spirit Communications
@@ -472,6 +412,7 @@
 213.108.0.154/32 # Canada | Ontario | Hosting Solution Ltd.
 213.108.0.192/32 # Canada | Ontario | Hosting Solution Ltd.
 213.108.3.107/32 # Canada | Ontario | Hosting Solution Ltd.
+213.108.3.233/32 # Canada | Ontario | Hosting Solution Ltd.
 213.232.120.231/32 # Netherlands | North Holland | Hosting Solution Ltd.
 213.232.122.35/32 # Netherlands | North Holland | Hosting Solution Ltd.
 213.232.122.85/32 # Netherlands | North Holland | Hosting Solution Ltd.
