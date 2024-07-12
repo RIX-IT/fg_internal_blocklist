@@ -19,8 +19,13 @@
 69.4.234.0/24 # United States | Utah | Uk Limited
 77.220.193.0/24 # United States | New York | Purevoltage Hosting Inc.
 77.220.194.0/24 # United States | New York | Purevoltage Hosting Inc.
+77.220.195.0/24 # United States | California | Hosting Solution Ltd.
 79.127.217.0/24 # United States | California | Datacamp Limited
 79.127.222.0/24 # United States | Texas | Datacamp Limited
+83.142.52.0/24 # United States | New York | Purevoltage Hosting Inc.
+83.142.53.0/24 # United States | New York | Purevoltage Hosting Inc.
+83.142.54.0/24 # United Kingdom | England | Purevoltage Hosting Inc.
+83.142.55.0/24 # United Kingdom | England | Purevoltage Hosting Inc.
 85.239.35.0/24 # United States | California | Hosting Solution Ltd.
 94.232.44.0/24 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 96.44.189.0/24 # United States | Texas | Quadranet Enterprises LLC
@@ -31,6 +36,7 @@
 142.147.89.0/24 # United States | California | xTom
 143.244.47.0/24 # United States | New York | Datacamp Limited
 146.19.78.0/24 # United States | New York | Purevoltage Hosting Inc.
+146.19.140.0/24 # United Kingdom | England | Hosting Solution Ltd.
 146.70.168.0/24 # United States | California | M Europe SRL
 146.185.200.0/24 # Russia | Moscow | Purevoltage Hosting Inc.
 147.78.47.0/24 # Netherlands | North Holland | Flyservers S.A.
@@ -44,6 +50,7 @@
 193.37.69.0/24 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 193.203.11.0/24 # United States | New York | Purevoltage Hosting Inc.
 193.233.91.0/24 # France | Île-de-France | Hosting Solution Ltd.
+193.233.248.0/24 # Netherlands | North Holland | Hosting Solution Ltd.
 198.44.128.0/24 # United States | Colorado | Tzulo, Inc.
 198.44.129.0/24 # United States | California | Tzulo, Inc.
 198.54.135.0/24 # United States | Virginia | Tzulo, Inc.
@@ -52,6 +59,7 @@
 204.152.216.0/24 # United States | California | Quadranet Enterprises LLC
 206.190.154.0/24 # United States | New York | Hosting Services, Inc.
 206.217.205.0/24 # United States | California | Uk Limited
+212.119.44.0/24 # United States | New York | Purevoltage Hosting Inc.
 213.232.122.0/24 # Netherlands | South Holland | Hosting Solution Ltd.
 216.218.206.0/24 # United States | California | Hurricane Electric LLC
 4.36.10.34/32 # United States | Michigan | Level
@@ -169,26 +177,17 @@
 76.244.174.254/32 # United States | Florida | AT T Services, Inc.
 77.200.192.198/32 # France | Île-de-France | Societe Francaise Du Radiotelepho...
 77.220.192.245/32 # United States | California | Hosting Solution Ltd.
-77.220.195.57/32 # United States | California | Hosting Solution Ltd.
-77.220.195.149/32 # United States | California | Hosting Solution Ltd.
 78.128.112.62/32 # Bulgaria | Sofia-city | media Ltd.
 79.110.28.121/32 # Finland | Mainland Finland | Btt Group Finance LTD
 79.110.28.186/32 # Finland | Mainland Finland | Btt Group Finance LTD
 79.110.62.202/32 # United Kingdom | England | Emanuel Hosting Ltd.
 79.127.222.215/32 # United States | Texas | Datacamp Limited
 80.66.88.34/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
-83.142.52.122/32 # United States | New York | Purevoltage Hosting Inc.
-83.142.52.149/32 # United States | New York | Purevoltage Hosting Inc.
-83.142.53.128/32 # United Kingdom | England | Purevoltage Hosting Inc.
-83.142.54.149/32 # United Kingdom | England | Purevoltage Hosting Inc.
-83.142.54.158/32 # United Kingdom | England | Purevoltage Hosting Inc.
-83.142.55.48/32 # United States | New York | Purevoltage Hosting Inc.
-83.142.55.202/32 # United States | New York | Purevoltage Hosting Inc.
-83.142.55.244/32 # United States | New York | Purevoltage Hosting Inc.
 83.171.224.127/32 # Germany | Hesse | Hosting Solution Ltd.
 83.171.227.154/32 # Germany | Hesse | Hosting Solution Ltd.
 85.239.36.185/32 # United States | Florida | Hosting Solution Ltd.
 85.239.36.216/32 # United States | Florida | Hosting Solution Ltd.
+85.239.38.202/32 # Russia | Moscow | Hosting Solution Ltd.
 85.239.39.33/32 # Norway | Oslo | Hosting Solution Ltd.
 85.239.54.203/32 # United States | Georgia | Bluevps Ou
 87.251.75.6/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
@@ -238,7 +237,6 @@
 143.55.131.179/32 # United States | Tennessee | HOLSTON ELECTRIC COOPERATIVE
 143.244.47.76/32 # United States | New York | Datacamp Limited
 146.19.91.106/32 # United States | New York | Purevoltage Hosting Inc.
-146.19.140.199/32 # United Kingdom | England | Hosting Solution Ltd.
 146.70.165.10/32 # United States | New York | M Europe SRL
 146.70.165.100/32 # United States | New York | M Europe SRL
 146.70.165.175/32 # United States | New York | M Europe SRL
@@ -372,8 +370,6 @@
 193.233.89.182/32 # Germany | Hesse | Hosting Solution Ltd.
 193.233.90.21/32 # Netherlands | North Holland | Hosting Solution Ltd.
 193.233.90.191/32 # Netherlands | North Holland | Hosting Solution Ltd.
-193.233.248.44/32 # Netherlands | North Holland | Hosting Solution Ltd.
-193.233.248.204/32 # Netherlands | North Holland | Hosting Solution Ltd.
 194.99.25.157/32 # United States | New Jersey | Hosting Solution Ltd.
 194.104.10.25/32 # United Kingdom | England | Hosting Solution Ltd.
 194.104.10.244/32 # United Kingdom | England | Hosting Solution Ltd.
@@ -403,7 +399,6 @@
 209.198.73.138/32 # United States | Vermont | Firstlight Fiber, Inc.
 212.22.93.35/32 # Russia | Moscow | Individual Entrepreneur Rylov Roman Yrevich
 212.22.93.109/32 # Russia | Moscow | Individual Entrepreneur Rylov Roman Yrevich
-212.119.44.212/32 # United States | New York | Purevoltage Hosting Inc.
 212.119.45.24/32 # United Kingdom | England | Purevoltage Hosting Inc.
 212.119.46.94/32 # United States | New York | Purevoltage Hosting Inc.
 212.119.46.211/32 # United States | New York | Purevoltage Hosting Inc.
