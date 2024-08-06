@@ -8,6 +8,7 @@
 45.205.144.0/24 # United States | Texas | OCTOPUS WEB SOLUTION INC
 45.205.145.0/24 # United States | Texas | OCTOPUS WEB SOLUTION INC
 45.205.146.0/24 # United States | Texas | OCTOPUS WEB SOLUTION INC
+69.4.234.0/24 # United States | Utah | Uk Limited
 85.28.47.0/24 # United Kingdom | England | CHROMIS IT LTD
 88.214.25.0/24 # Germany | Hesse | Aixit GmbH
 94.232.47.0/24 # Russia | Perm Krai | Kontel LLC
@@ -27,7 +28,6 @@
 23.162.40.63/32 # United States | California | Cyber Data LLC
 23.162.40.104/32 # United States | California | Cyber Data LLC
 23.162.40.117/32 # United States | California | Cyber Data LLC
-37.19.221.153/32 # United States | Texas | Datacamp Limited
 37.19.221.166/32 # United States | Texas | Datacamp Limited
 37.19.221.179/32 # United States | Texas | Datacamp Limited
 45.14.244.39/32 # Netherlands | Drenthe | STARK INDUSTRIES SOLUTIONS LTD
@@ -59,15 +59,12 @@
 45.205.147.243/32 # United States | Texas | OCTOPUS WEB SOLUTION INC
 45.205.147.253/32 # United States | Texas | OCTOPUS WEB SOLUTION INC
 45.227.255.120/32 # Netherlands | North Holland | Nforce Entertainment B.V.
+57.129.19.207/32 # Germany | Hesse | OVH SAS
 62.96.184.130/32 # Germany | Hesse | Colt Technology Services Group Limited
 62.122.184.113/32 # Russia | Moscow | Chang Way Technologies Co. Limited
 62.122.184.188/32 # Russia | Moscow | Chang Way Technologies Co. Limited
 62.204.41.84/32 # Russia | Moscow | HORIZON LLC
 66.254.171.103/32 # United States | California | Esited Solutions
-69.4.234.55/32 # United States | Utah | Uk Limited
-69.4.234.62/32 # United States | Utah | Uk Limited
-69.4.234.69/32 # United States | Utah | Uk Limited
-69.4.234.76/32 # United States | Utah | Uk Limited
 69.79.197.203/32 # Jamaica | Saint Catherine | Cable Wireless Jamaica
 77.75.230.98/32 # Czech Republic | Southwest | STARK INDUSTRIES SOLUTIONS LTD
 77.83.36.2/32 # United Kingdom | Wales | Layer Networks GmbH
@@ -97,10 +94,8 @@
 95.164.44.200/32 # Ireland | Leinster | STARK INDUSTRIES SOLUTIONS LTD
 95.164.62.186/32 # Belgium | Brussels-Capital | STARK INDUSTRIES SOLUTIONS LTD
 103.108.229.57/32 # Australia | Victoria | Host Universal Pty LTD
-103.108.229.75/32 # Australia | Victoria | Host Universal Pty LTD
 103.108.231.57/32 # Australia | Western Australia | Host Universal Pty LTD
 103.108.231.73/32 # Australia | Western Australia | Host Universal Pty LTD
-103.214.20.137/32 # Australia | South Australia | Host Universal Pty LTD
 104.129.57.101/32 # United States | Washington | Quadranet Enterprises LLC
 104.221.129.253/32 # United States | California | Esited Solutions
 104.221.145.108/32 # United States | California | Esited Solutions
@@ -108,10 +103,11 @@
 112.216.56.162/32 # Republic of Korea | Gyeonggi | Lg Dacom Corporation
 138.199.43.76/32 # United States | Washington | Datacamp Limited
 138.199.43.89/32 # United States | Washington | Datacamp Limited
-141.98.80.139/32 # Netherlands | North Holland | Nforce Entertainment B.V.
 143.244.47.75/32 # United States | New York | Datacamp Limited
 143.244.47.88/32 # United States | New York | Datacamp Limited
 146.70.141.207/32 # Australia | New South Wales | M Europe SRL
+146.70.165.239/32 # United States | New York | M Europe SRL
+146.70.166.175/32 # United States | New York | M Europe SRL
 146.70.172.28/32 # United States | California | M Europe SRL
 146.70.173.28/32 # United States | California | M Europe SRL
 146.70.173.92/32 # United States | California | M Europe SRL
@@ -121,7 +117,6 @@
 146.70.198.142/32 # Canada | Québec | M Europe SRL
 146.70.198.206/32 # Canada | Québec | M Europe SRL
 146.70.198.214/32 # Canada | Québec | M Europe SRL
-146.70.200.15/32 # Australia | New South Wales | M Europe SRL
 146.70.200.44/32 # Australia | New South Wales | M Europe SRL
 146.70.200.207/32 # Australia | New South Wales | M Europe SRL
 146.70.203.21/32 # Hungary | Central Hungary | M Europe SRL
@@ -161,7 +156,6 @@
 169.150.203.34/32 # United States | California | Datacamp Limited
 173.205.85.51/32 # United States | New Jersey | Quadranet Enterprises LLC
 173.205.93.10/32 # United States | Washington | Quadranet Enterprises LLC
-184.105.139.69/32 # United States | California | Hurricane Electric LLC
 185.11.61.145/32 # Russia | Moscow | Chang Way Technologies Co. Limited
 185.68.185.110/32 # United States | New York | Purevoltage Hosting Inc.
 185.68.246.32/32 # Netherlands | North Holland | Hosting Solution Ltd.
@@ -187,7 +181,6 @@
 198.44.140.185/32 # Canada | Ontario | Tzulo, Inc.
 198.54.131.155/32 # United States | Washington | Tzulo, Inc.
 198.54.131.187/32 # United States | Washington | Tzulo, Inc.
-198.54.132.153/32 # Canada | Ontario | Tzulo, Inc.
 198.54.133.181/32 # United States | Arizona | Tzulo, Inc.
 198.96.89.220/32 # United States | California | Quadranet Enterprises LLC
 204.44.112.89/32 # United States | Texas | Quadranet Enterprises LLC
