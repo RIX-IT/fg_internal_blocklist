@@ -20,15 +20,12 @@
 185.190.24.0/24 # Åland | Åland Islands | Internet Solutions Innovations Ltd.
 192.252.212.0/24 # United States | Washington | Performive LLC
 198.54.130.0/24 # United States | North Carolina | Tzulo, Inc.
-206.217.205.0/24 # United States | Texas | Uk Limited
 2.57.149.155/32 # Russia | Moscow | Red Byte LLC
 5.180.55.132/32 # Slovak Republic | Bratislava | STARK INDUSTRIES SOLUTIONS LTD
 5.182.36.244/32 # Switzerland | Bern | STARK INDUSTRIES SOLUTIONS LTD
 5.182.39.149/32 # Portugal | Lisbon | STARK INDUSTRIES SOLUTIONS LTD
 23.162.40.63/32 # United States | California | Cyber Data LLC
-23.162.40.104/32 # United States | California | Cyber Data LLC
 23.162.40.117/32 # United States | California | Cyber Data LLC
-37.19.221.166/32 # United States | Texas | Datacamp Limited
 37.19.221.179/32 # United States | Texas | Datacamp Limited
 45.14.244.39/32 # Netherlands | Drenthe | STARK INDUSTRIES SOLUTIONS LTD
 45.89.53.34/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
@@ -43,7 +40,6 @@
 45.135.232.66/32 # Russia | Moscow | Proton OOO
 45.140.17.2/32 # Russia | Moscow | Proton OOO
 45.140.17.52/32 # Russia | Moscow | Proton OOO
-45.140.207.235/32 # United States | New York | Purevoltage Hosting Inc.
 45.142.213.167/32 # Latvia | Vidzeme | STARK INDUSTRIES SOLUTIONS LTD
 45.148.232.36/32 # United States | New York | Purevoltage Hosting Inc.
 45.155.91.100/32 # Poland | Masovian Voivodeship | HUSAM A. H. HIJAZI
@@ -70,7 +66,6 @@
 77.83.36.2/32 # United Kingdom | Wales | Layer Networks GmbH
 77.83.36.3/32 # United Kingdom | Wales | Layer Networks GmbH
 77.91.74.71/32 # Israel | Center District | STARK INDUSTRIES SOLUTIONS LTD
-78.24.219.180/32 # Russia | Moscow | JSC IOT
 79.124.60.198/32 # Bulgaria | Plovdiv | Tamatiya Eood
 79.127.222.203/32 # United States | Texas | Datacamp Limited
 79.127.222.204/32 # United States | Texas | Datacamp Limited
@@ -83,9 +78,11 @@
 85.209.11.136/32 # Russia | Moscow | Chang Way Technologies Co. Limited
 85.209.154.170/32 # Germany | Hesse | STARK INDUSTRIES SOLUTIONS LTD
 91.228.10.161/32 # United Kingdom | England | STARK INDUSTRIES SOLUTIONS LTD
+92.222.100.42/32 # France | Hauts-de-France | OVH SAS
 94.131.8.229/32 # Greece | Attica | STARK INDUSTRIES SOLUTIONS LTD
 94.131.96.126/32 # Poland | Masovian Voivodeship | STARK INDUSTRIES SOLUTIONS...
 94.131.100.96/32 # Finland | Mainland Finland | STARK INDUSTRIES SOLUTIONS LTD
+94.232.43.35/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 94.232.44.127/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 94.232.45.228/32 # Poland | Masovian Voivodeship | XHOST INTERNET SOLUTIONS LP
 94.232.46.45/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
@@ -94,7 +91,6 @@
 95.164.44.200/32 # Ireland | Leinster | STARK INDUSTRIES SOLUTIONS LTD
 95.164.62.186/32 # Belgium | Brussels-Capital | STARK INDUSTRIES SOLUTIONS LTD
 103.108.229.57/32 # Australia | Victoria | Host Universal Pty LTD
-103.108.231.57/32 # Australia | Western Australia | Host Universal Pty LTD
 103.108.231.73/32 # Australia | Western Australia | Host Universal Pty LTD
 104.129.57.101/32 # United States | Washington | Quadranet Enterprises LLC
 104.221.129.253/32 # United States | California | Esited Solutions
@@ -105,7 +101,6 @@
 138.199.43.89/32 # United States | Washington | Datacamp Limited
 143.244.47.75/32 # United States | New York | Datacamp Limited
 143.244.47.88/32 # United States | New York | Datacamp Limited
-146.70.141.207/32 # Australia | New South Wales | M Europe SRL
 146.70.165.239/32 # United States | New York | M Europe SRL
 146.70.166.175/32 # United States | New York | M Europe SRL
 146.70.172.28/32 # United States | California | M Europe SRL
@@ -165,7 +160,6 @@
 185.73.125.52/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 185.141.119.150/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
 185.141.119.180/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
-185.152.94.121/32 # Turkey | İstanbul | Hosting Solution Ltd.
 185.234.216.4/32 # Russia | Moscow | Chang Way Technologies Co. Limited
 188.241.176.206/32 # Canada | Québec | M Europe SRL
 193.143.1.36/32 # Russia | Moscow | Proton OOO
@@ -175,10 +169,10 @@
 194.104.11.242/32 # United States | New York | Purevoltage Hosting Inc.
 194.165.16.4/32 # Republic of Lithuania | Kaunas County | Flyservers S.A.
 194.165.17.6/32 # Republic of Lithuania | Kaunas County | Flyservers S.A.
+194.233.92.77/32 # Singapore | Southeast | Contabo Asia Private Limited
 198.44.136.56/32 # United States | Arkansas | Tzulo, Inc.
 198.44.136.88/32 # United States | New York | Tzulo, Inc.
 198.44.136.120/32 # United States | New York | Tzulo, Inc.
-198.44.140.185/32 # Canada | Ontario | Tzulo, Inc.
 198.54.131.155/32 # United States | Washington | Tzulo, Inc.
 198.54.131.187/32 # United States | Washington | Tzulo, Inc.
 198.54.133.181/32 # United States | Arizona | Tzulo, Inc.
@@ -186,8 +180,12 @@
 204.44.112.89/32 # United States | Texas | Quadranet Enterprises LLC
 204.152.216.104/32 # United States | California | Quadranet Enterprises LLC
 204.152.216.120/32 # United States | California | Quadranet Enterprises LLC
+206.217.205.85/32 # United States | California | Uk Limited
+206.217.205.92/32 # United States | California | Uk Limited
+206.217.205.99/32 # United States | California | Uk Limited
+206.217.205.105/32 # United States | California | Uk Limited
 212.119.44.200/32 # United States | New York | Purevoltage Hosting Inc.
-212.119.46.242/32 # United States | New York | Purevoltage Hosting Inc.
 213.109.202.116/32 # Russia | Moscow | Red Byte LLC
 216.218.206.66/32 # United States | California | Hurricane Electric LLC
+216.218.206.67/32 # United States | California | Hurricane Electric LLC
 216.218.206.68/32 # United States | California | Hurricane Electric LLC
