@@ -4,10 +4,10 @@
 23.94.157.0/24 # United States | New York | HostPapa
 45.205.144.0/24 # United States | Texas | OCTOPUS WEB SOLUTION INC
 69.4.234.0/24 # United States | Utah | Uk Limited
-94.232.47.0/24 # Russia | Perm Krai | Kontel LLC
 109.120.137.0/24 # United Kingdom | England | H NEXUS LTD
 146.19.53.0/24 # United States | New York | Aiyun hk Network
 157.254.231.0/24 # United States | District of Columbia | Aiyun hk Network
+161.77.232.0/24 # United States | Massachusetts | CROCKER COMMUNICATIONS, IN...
 185.190.24.0/24 # Åland | Åland Islands | Internet Solutions Innovations Ltd.
 198.54.130.0/24 # United States | North Carolina | Tzulo, Inc.
 5.180.55.132/32 # Slovak Republic | Bratislava | STARK INDUSTRIES SOLUTIONS LTD
@@ -18,8 +18,9 @@
 5.182.39.149/32 # Portugal | Lisbon | STARK INDUSTRIES SOLUTIONS LTD
 5.182.102.5/32 # United States | Texas | H y Technologies LLC
 5.182.102.9/32 # United States | Texas | H y Technologies LLC
-23.162.40.117/32 # United States | California | Cyber Data LLC
 45.14.244.39/32 # Netherlands | Drenthe | STARK INDUSTRIES SOLUTIONS LTD
+45.85.206.133/32 # United States | District of Columbia | Level Parent, LLC
+45.85.207.98/32 # United States | District of Columbia | Level Parent, LLC
 45.89.53.34/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
 45.89.104.218/32 # United States | New York | Aiyun hk Network
 45.89.104.219/32 # United States | New York | Aiyun hk Network
@@ -63,7 +64,6 @@
 77.75.230.98/32 # Czech Republic | Southwest | STARK INDUSTRIES SOLUTIONS LTD
 77.83.36.3/32 # United Kingdom | Wales | Layer Networks GmbH
 77.91.74.71/32 # Israel | Center District | STARK INDUSTRIES SOLUTIONS LTD
-79.124.60.198/32 # Bulgaria | Plovdiv | Tamatiya Eood
 79.127.222.204/32 # United States | Texas | Datacamp Limited
 79.127.222.217/32 # United States | Texas | Datacamp Limited
 80.66.66.84/32 # Finland | Mainland Finland | Oy Crea Nova Hosting Solution...
@@ -91,13 +91,25 @@
 94.232.45.228/32 # Poland | Masovian Voivodeship | XHOST INTERNET SOLUTIONS LP
 94.232.46.45/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 94.232.46.147/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
+94.232.47.47/32 # Russia | Perm Krai | Kontel LLC
+94.232.47.205/32 # Russia | Perm Krai | Kontel LLC
+94.232.47.211/32 # Russia | Perm Krai | Kontel LLC
+94.232.47.213/32 # Russia | Perm Krai | Kontel LLC
 95.164.4.193/32 # Brazil | State of São Paulo | STARK INDUSTRIES SOLUTIONS LTD
 95.164.44.200/32 # Ireland | Leinster | STARK INDUSTRIES SOLUTIONS LTD
 95.164.62.186/32 # Belgium | Brussels-Capital | STARK INDUSTRIES SOLUTIONS LTD
 104.129.57.101/32 # United States | Washington | Quadranet Enterprises LLC
 104.223.118.51/32 # United States | New Jersey | Quadranet Enterprises LLC
+139.171.67.167/32 # United States | Michigan | Level Parent, LLC
+139.171.72.87/32 # United States | Michigan | Level Parent, LLC
+139.171.72.221/32 # United States | Michigan | Level Parent, LLC
+139.171.73.215/32 # United States | Michigan | Level Parent, LLC
+139.171.73.219/32 # United States | Michigan | Level Parent, LLC
+139.171.74.47/32 # United States | Michigan | Level Parent, LLC
+139.171.75.111/32 # United States | Michigan | Level Parent, LLC
 143.244.47.75/32 # United States | New York | Datacamp Limited
 143.244.47.88/32 # United States | New York | Datacamp Limited
+146.70.165.72/32 # United States | New York | M Europe SRL
 146.70.165.239/32 # United States | New York | M Europe SRL
 146.70.166.175/32 # United States | New York | M Europe SRL
 146.70.198.78/32 # Canada | Québec | M Europe SRL
@@ -113,10 +125,20 @@
 154.202.130.238/32 # United States | Texas | OCTOPUS WEB SOLUTION INC
 154.202.130.248/32 # United States | Texas | OCTOPUS WEB SOLUTION INC
 154.202.131.231/32 # United States | Texas | OCTOPUS WEB SOLUTION INC
+161.77.65.99/32 # United States | Massachusetts | CROCKER COMMUNICATIONS, IN...
 161.77.66.114/32 # United States | Massachusetts | CROCKER COMMUNICATIONS, IN...
+161.77.67.198/32 # United States | Massachusetts | CROCKER COMMUNICATIONS, IN...
+161.77.67.212/32 # United States | Massachusetts | CROCKER COMMUNICATIONS, IN...
+161.77.69.146/32 # United States | Massachusetts | CROCKER COMMUNICATIONS, IN...
 161.77.73.37/32 # United States | Massachusetts | CROCKER COMMUNICATIONS, IN...
-161.77.232.52/32 # United States | Massachusetts | CROCKER COMMUNICATIONS, IN...
-161.77.232.125/32 # United States | Massachusetts | CROCKER COMMUNICATIONS, IN...
+161.77.73.242/32 # United States | Massachusetts | CROCKER COMMUNICATIONS, IN...
+161.77.75.248/32 # United States | Massachusetts | CROCKER COMMUNICATIONS, IN...
+161.77.229.41/32 # United States | California | CROCKER COMMUNICATIONS, INCOR...
+161.77.230.20/32 # United States | California | CROCKER COMMUNICATIONS, INCOR...
+161.77.233.37/32 # United States | Massachusetts | CROCKER COMMUNICATIONS, IN...
+161.77.233.134/32 # United States | Massachusetts | CROCKER COMMUNICATIONS, IN...
+161.77.233.161/32 # United States | Massachusetts | CROCKER COMMUNICATIONS, IN...
+161.77.234.40/32 # United States | Massachusetts | CROCKER COMMUNICATIONS, IN...
 173.205.85.51/32 # United States | New Jersey | Quadranet Enterprises LLC
 173.205.93.10/32 # United States | Washington | Quadranet Enterprises LLC
 184.105.139.68/32 # United States | California | Hurricane Electric LLC
@@ -126,9 +148,9 @@
 185.234.216.4/32 # Russia | Moscow | Chang Way Technologies Co. Limited
 192.3.107.152/32 # United States | Kansas | HostPapa
 192.252.212.22/32 # United States | Washington | Performive LLC
-192.252.212.48/32 # United States | Washington | Performive LLC
 192.252.212.52/32 # United States | Washington | Performive LLC
 192.252.212.54/32 # United States | Washington | Performive LLC
+193.47.34.21/32 # Russia | Tomsk Oblast | Flynet LTD
 193.143.1.36/32 # Russia | Moscow | Proton OOO
 193.143.1.170/32 # Russia | Moscow | Proton OOO
 194.26.135.147/32 # Russia | Moscow | Chang Way Technologies Co. Limited
@@ -139,7 +161,5 @@
 198.44.136.88/32 # United States | New York | Tzulo, Inc.
 198.44.136.120/32 # United States | New York | Tzulo, Inc.
 198.46.169.188/32 # United States | Arizona | HostPapa
-198.54.133.181/32 # United States | Arizona | Tzulo, Inc.
 216.218.206.66/32 # United States | California | Hurricane Electric LLC
 216.218.206.67/32 # United States | California | Hurricane Electric LLC
-216.218.206.68/32 # United States | California | Hurricane Electric LLC
