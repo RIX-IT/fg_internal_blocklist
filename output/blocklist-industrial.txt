@@ -6,7 +6,6 @@
 74.80.255.0/24 # United States | Colorado | Datacamp Limited
 74.115.0.0/24 # United States | Virginia | Datacamp Limited
 74.115.1.0/24 # United States | Virginia | Datacamp Limited
-94.131.86.0/24 # United States | New Jersey | Isp life INC
 156.228.126.0/24 # United States | New York | NUUK COMMUNICATIONS PTE. LTD.
 156.228.127.0/24 # United States | New York | NUUK COMMUNICATIONS PTE. LTD.
 166.1.8.0/24 # United States | California | Datacamp Limited
@@ -15,13 +14,8 @@
 166.1.11.0/24 # United States | California | Datacamp Limited
 166.1.13.0/24 # United States | California | Datacamp Limited
 166.1.14.0/24 # United States | California | Datacamp Limited
-168.181.229.0/24 # United States | New York | HOST PARA TU VIDA S.A.
 179.60.183.0/24 # United States | New York | Webline Services, S.A.
 193.37.69.0/24 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
-193.169.218.0/24 # United States | New York | Gtt Communications Inc.
-193.169.219.0/24 # United States | New York | Gtt Communications Inc.
-195.160.192.0/24 # United States | New York | Gtt Communications Inc.
-200.10.34.0/24 # United States | Oregon | TODAS LAS REDES SA
 200.10.35.0/24 # United States | Oregon | TODAS LAS REDES SA
 216.185.46.0/24 # United States | California | Datacamp Limited
 216.185.47.0/24 # United States | California | Datacamp Limited
@@ -35,6 +29,8 @@
 45.10.156.255/32 # Germany | Hesse | Hivelocity LLC
 45.12.70.2/32 # Switzerland | Aargau | Securebit AG
 45.12.70.45/32 # Switzerland | Aargau | Securebit AG
+45.12.70.54/32 # Switzerland | Aargau | Securebit AG
+45.12.70.194/32 # Switzerland | Aargau | Securebit AG
 45.66.95.80/32 # United Kingdom | England | Hivelocity LLC
 45.76.65.42/32 # United States | California | The Constant Company, LLC
 45.112.173.51/32 # India | Telangana | PRAMODANJALI TECHNOLOGIES PRIVATE LIMITED
@@ -42,8 +38,10 @@
 45.151.99.154/32 # United States | California | Interserver, INC
 45.156.118.163/32 # Brazil | State of São Paulo | Hivelocity LLC
 45.157.37.75/32 # Netherlands | North Holland | Leaseweb Netherlands B.V.
+45.157.37.201/32 # Netherlands | North Holland | Leaseweb Netherlands B.V.
 45.198.27.22/32 # Indonesia | Special Capital Region of Jakarta | OCTOPUS WE...
 45.198.28.52/32 # Indonesia | Special Capital Region of Jakarta | OCTOPUS WE...
+45.198.30.76/32 # Indonesia | Special Capital Region of Jakarta | OCTOPUS WE...
 45.203.140.148/32 # United States | Illinois | OCTOPUS WEB SOLUTION INC
 45.203.141.81/32 # United States | Illinois | OCTOPUS WEB SOLUTION INC
 45.203.141.122/32 # United States | Illinois | OCTOPUS WEB SOLUTION INC
@@ -96,10 +94,7 @@
 45.205.70.125/32 # United States | New York | OCTOPUS WEB SOLUTION INC
 45.205.72.56/32 # United States | New York | OCTOPUS WEB SOLUTION INC
 45.205.74.50/32 # United States | New York | OCTOPUS WEB SOLUTION INC
-45.205.134.145/32 # United States | Texas | OCTOPUS WEB SOLUTION INC
-45.205.138.153/32 # United States | Texas | OCTOPUS WEB SOLUTION INC
-45.205.146.6/32 # United States | Texas | OCTOPUS WEB SOLUTION INC
-45.205.148.15/32 # United States | Texas | OCTOPUS WEB SOLUTION INC
+45.206.50.120/32 # Taiwan | Keelung City | OCTOPUS WEB SOLUTION INC
 45.206.50.125/32 # Taiwan | Keelung City | OCTOPUS WEB SOLUTION INC
 45.206.51.168/32 # Taiwan | Keelung City | OCTOPUS WEB SOLUTION INC
 46.8.31.61/32 # Kazakhstan | Karaganda Region | Pe Fedinyak Sergey Vyaches...
@@ -108,8 +103,10 @@
 46.232.3.234/32 # United States | Virginia | Windstream Communications LLC
 46.232.19.22/32 # United States | New York | Windstream Communications LLC
 46.232.19.196/32 # United States | New York | Windstream Communications LLC
+46.232.19.197/32 # United States | New York | Windstream Communications LLC
 46.232.64.156/32 # United States | New York | Windstream Communications LLC
 46.232.117.56/32 # United States | Virginia | Windstream Communications LLC
+46.232.117.243/32 # United States | Virginia | Windstream Communications LLC
 50.114.85.128/32 # United States | New York | Datacamp Limited
 50.114.104.61/32 # United States | District of Columbia | Datacamp Limited
 50.114.104.190/32 # United States | District of Columbia | Datacamp Limited
@@ -118,7 +115,6 @@
 50.114.105.250/32 # United States | District of Columbia | Datacamp Limited
 50.114.107.146/32 # United States | New York | Datacamp Limited
 50.114.107.171/32 # United States | New York | Datacamp Limited
-51.178.74.27/32 # France | Grand Est | OVH SAS
 63.223.67.128/32 # United States | Washington | Sentris Network LLC
 63.223.67.245/32 # United States | Washington | Sentris Network LLC
 64.43.123.33/32 # Germany | Hesse | EANCENTER TELECOM LLC
@@ -136,8 +132,10 @@
 79.124.62.186/32 # Bulgaria | Sofia-city | DM AUTO EOOD
 81.168.120.167/32 # United Kingdom | England | Hivelocity LLC
 82.211.7.51/32 # Germany | Hesse | Firstcolo GmbH
+82.211.8.231/32 # Germany | Hesse | Firstcolo GmbH
 85.209.177.20/32 # United Kingdom | England | Hivelocity LLC
 85.209.177.78/32 # United Kingdom | England | Hivelocity LLC
+88.209.207.254/32 # United States | California | Hivelocity LLC
 88.214.26.57/32 # Seychelles | Mahe | Alviva Holding Limited
 88.216.34.102/32 # Netherlands | North Holland | Datacamp Limited
 89.116.56.210/32 # United States | New York | Datacamp Limited
@@ -145,11 +143,18 @@
 89.117.250.210/32 # Netherlands | North Holland | Datacamp Limited
 91.92.41.82/32 # Bulgaria | Sofia-city | NTT America, Inc.
 91.92.41.84/32 # Bulgaria | Sofia-city | NTT America, Inc.
+91.92.41.86/32 # Bulgaria | Sofia-city | NTT America, Inc.
 91.92.41.189/32 # Bulgaria | Sofia-city | NTT America, Inc.
 91.186.214.17/32 # United Kingdom | England | Hivelocity LLC
 91.186.215.16/32 # United Kingdom | England | Hivelocity LLC
+91.186.215.53/32 # United Kingdom | England | Hivelocity LLC
+91.186.215.97/32 # United Kingdom | England | Hivelocity LLC
 94.74.159.75/32 # Turkey | Balıkesir | Spdnet Telekomunikasyon Hizmetleri Bi...
 94.131.48.40/32 # United States | Nebraska | Gtt Communications Inc.
+94.131.86.182/32 # United States | Pennsylvania | Isp life INC
+94.131.86.196/32 # United States | Pennsylvania | Isp life INC
+94.131.86.214/32 # United States | Pennsylvania | Isp life INC
+94.131.86.242/32 # United States | Pennsylvania | Isp life INC
 94.131.108.78/32 # Turkey | İzmir | STARK INDUSTRIES SOLUTIONS LTD
 94.232.42.155/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 94.232.44.148/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
@@ -170,6 +175,7 @@
 109.248.199.90/32 # Kazakhstan | Karaganda Region | Pe Fedinyak Sergey Vyaches...
 117.120.0.32/32 # Singapore | Southeast | NTT America, Inc.
 117.120.0.142/32 # Singapore | Southeast | NTT America, Inc.
+131.196.255.239/32 # Mexico | Baja California | Truxgo S. R.L. De C.V.
 131.196.255.254/32 # Mexico | Baja California | Truxgo S. R.L. De C.V.
 134.209.30.220/32 # United Kingdom | England | Digitalocean, LLC
 138.68.90.19/32 # Germany | Hesse | Digitalocean, LLC
@@ -177,10 +183,11 @@
 139.177.149.6/32 # Turkey | İstanbul | Spdnet Telekomunikasyon Hizmetleri Bil...
 141.98.252.182/32 # United Kingdom | England | 11 Services Ab
 146.70.198.200/32 # Canada | Québec | M Europe SRL
+151.248.71.161/32 # Romania | Bucharest | Power Nms Vpp SRL
 151.248.71.236/32 # Romania | Bucharest | Power Nms Vpp SRL
+154.16.236.140/32 # United States | California | Hivelocity LLC
 154.70.153.117/32 # South Africa | Gauteng | Hivelocity LLC
 154.70.153.149/32 # South Africa | Gauteng | Hivelocity LLC
-154.202.134.30/32 # United States | Texas | OCTOPUS WEB SOLUTION INC
 156.249.137.46/32 # Thailand | Bangkok | OCTOPUS WEB SOLUTION INC
 156.249.137.108/32 # Thailand | Bangkok | OCTOPUS WEB SOLUTION INC
 156.249.137.159/32 # Thailand | Bangkok | OCTOPUS WEB SOLUTION INC
@@ -192,7 +199,12 @@
 166.1.15.158/32 # United States | California | Datacamp Limited
 166.1.15.198/32 # United States | California | Datacamp Limited
 167.99.202.130/32 # United Kingdom | England | Digitalocean, LLC
+168.181.229.39/32 # United States | New York | HOST PARA TU VIDA S.A.
+168.181.229.88/32 # United States | New York | HOST PARA TU VIDA S.A.
+168.181.229.121/32 # United States | New York | HOST PARA TU VIDA S.A.
+168.181.229.223/32 # United States | New York | HOST PARA TU VIDA S.A.
 173.205.85.36/32 # United States | New Jersey | Quadranet Enterprises LLC
+176.106.61.6/32 # Latvia | Vidzeme | Telenet Sia
 176.106.61.63/32 # Latvia | Vidzeme | Telenet Sia
 176.116.228.85/32 # Denmark | Region of Southern Denmark | EANCENTER TELECOM LLC
 176.116.228.155/32 # Denmark | Region of Southern Denmark | EANCENTER TELECOM LLC
@@ -201,6 +213,7 @@
 181.215.11.239/32 # Brazil | State of São Paulo | Hivelocity LLC
 185.65.134.208/32 # Netherlands | North Holland | 11 Services Ab
 185.73.124.66/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
+185.120.79.124/32 # Kazakhstan | Karaganda Region | Pe Fedinyak Sergey Vyaches...
 185.126.196.140/32 # Czech Republic | Prague | Pavel Zizka
 185.155.233.76/32 # Armenia | Yerevan | Hivelocity LLC
 185.187.233.24/32 # Brazil | State of São Paulo | Hivelocity LLC
@@ -211,37 +224,56 @@
 185.209.196.158/32 # Germany | Hesse | 11 Services Ab
 185.209.196.200/32 # Germany | Hesse | 11 Services Ab
 185.209.196.252/32 # Germany | Hesse | 11 Services Ab
+185.212.205.3/32 # Spain | Madrid | Datacamp Limited
 185.212.205.41/32 # Spain | Madrid | Datacamp Limited
 185.228.192.121/32 # United States | New York | Gtt Communications Inc.
 185.228.192.231/32 # United States | New York | Gtt Communications Inc.
-185.228.193.146/32 # United States | New York | Gtt Communications Inc.
 185.228.193.173/32 # United States | New York | Gtt Communications Inc.
 185.228.194.113/32 # United States | New York | Gtt Communications Inc.
-185.228.194.165/32 # United States | New York | Gtt Communications Inc.
 185.239.140.58/32 # Spain | Madrid | Datacamp Limited
 185.240.120.59/32 # United States | Illinois | Datacamp Limited
 185.240.120.229/32 # United States | Illinois | Datacamp Limited
 185.241.150.235/32 # Germany | Hesse | Datacamp Limited
+185.253.45.163/32 # Poland | Pomeranian Voivodeship | GREEN FLOID LLC
 185.254.75.37/32 # Germany | North Rhine-Westphalia | Owl Limited
+192.190.232.207/32 # Turkey | İzmir | Spdnet Telekomunikasyon Hizmetleri Bilgi ...
 193.36.222.115/32 # Poland | Masovian Voivodeship | Relinfo Solutions LLC
+193.39.209.68/32 # Netherlands | North Holland | Leaseweb Netherlands B.V.
 193.39.209.158/32 # Netherlands | North Holland | Leaseweb Netherlands B.V.
 193.39.209.188/32 # Netherlands | North Holland | Leaseweb Netherlands B.V.
+193.41.86.41/32 # Netherlands | North Holland | Leaseweb Netherlands B.V.
 193.149.187.41/32 # United Kingdom | England | Bl Networks
 193.149.190.248/32 # United Kingdom | England | Bl Networks
+193.169.218.73/32 # United States | New York | Gtt Communications Inc.
+193.169.218.167/32 # United States | New York | Gtt Communications Inc.
+193.169.219.63/32 # United States | New York | Gtt Communications Inc.
+193.169.219.124/32 # United States | New York | Gtt Communications Inc.
+193.169.219.224/32 # United States | New York | Gtt Communications Inc.
+193.169.219.242/32 # United States | New York | Gtt Communications Inc.
 194.35.226.130/32 # Netherlands | North Holland | Leaseweb Netherlands B.V.
 194.50.223.27/32 # United States | California | Hivelocity LLC
 194.50.223.39/32 # United States | California | Hivelocity LLC
 194.165.59.39/32 # Italy | Lazio | STARK INDUSTRIES SOLUTIONS LTD
 194.233.150.186/32 # United States | New York | Datacamp Limited
 195.34.78.26/32 # Greece | Attica | Hivelocity LLC
+195.34.78.54/32 # Greece | Attica | Hivelocity LLC
 195.34.78.121/32 # Greece | Attica | Hivelocity LLC
 195.34.78.174/32 # Greece | Attica | Hivelocity LLC
+195.160.192.172/32 # United States | New York | Gtt Communications Inc.
+195.160.192.179/32 # United States | New York | Gtt Communications Inc.
+195.160.192.196/32 # United States | New York | Gtt Communications Inc.
+195.238.248.156/32 # Portugal | Viseu | Xervers, Unipessoal Lda.
 195.238.248.190/32 # Portugal | Viseu | Xervers, Unipessoal Lda.
 199.181.239.16/32 # United States | Colorado | Datacamp Limited
 199.181.239.160/32 # United States | Colorado | Datacamp Limited
 199.181.239.231/32 # United States | Colorado | Datacamp Limited
+200.10.34.37/32 # United States | Oregon | TODAS LAS REDES SA
+200.10.34.65/32 # United States | Oregon | TODAS LAS REDES SA
+200.10.34.79/32 # United States | Oregon | TODAS LAS REDES SA
+200.10.34.94/32 # United States | Oregon | TODAS LAS REDES SA
 206.53.54.239/32 # United Kingdom | England | Hivelocity LLC
 206.71.148.78/32 # United Kingdom | England | Bl Networks
+206.168.88.57/32 # Turkey | İzmir | Spdnet Telekomunikasyon Hizmetleri Bilgi ...
 206.168.89.235/32 # Turkey | İzmir | Spdnet Telekomunikasyon Hizmetleri Bilgi ...
 206.168.90.120/32 # Turkey | İzmir | Spdnet Telekomunikasyon Hizmetleri Bilgi ...
 213.204.18.0/32 # Italy | Lombardy | Uno Communications SPA
