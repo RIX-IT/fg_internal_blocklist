@@ -6,6 +6,7 @@
 74.115.0.0/24 # United States | Virginia | Datacamp Limited
 89.23.103.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 89.23.107.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
+91.92.41.0/24 # Germany | Hesse | NTT America, Inc.
 93.190.247.0/24 # Netherlands | North Holland | Leaseweb Netherlands B.V.
 115.167.26.0/24 # Canada | Québec | Level Parent, LLC
 147.45.50.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
@@ -61,6 +62,7 @@
 45.205.70.125/32 # United States | New York | OCTOPUS WEB SOLUTION INC
 45.205.72.56/32 # United States | New York | OCTOPUS WEB SOLUTION INC
 45.205.74.50/32 # United States | New York | OCTOPUS WEB SOLUTION INC
+45.206.40.199/32 # Taiwan | Keelung City | OCTOPUS WEB SOLUTION INC
 45.206.50.120/32 # Taiwan | Keelung City | OCTOPUS WEB SOLUTION INC
 45.206.50.125/32 # Taiwan | Keelung City | OCTOPUS WEB SOLUTION INC
 45.206.51.168/32 # Taiwan | Keelung City | OCTOPUS WEB SOLUTION INC
@@ -112,10 +114,6 @@
 89.117.250.210/32 # Netherlands | North Holland | Datacamp Limited
 89.185.85.102/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
 90.131.156.107/32 # Latvia | Vidzeme | Tele Sverige Ab
-91.92.41.82/32 # Bulgaria | Sofia-city | NTT America, Inc.
-91.92.41.84/32 # Bulgaria | Sofia-city | NTT America, Inc.
-91.92.41.86/32 # Bulgaria | Sofia-city | NTT America, Inc.
-91.92.41.189/32 # Bulgaria | Sofia-city | NTT America, Inc.
 91.92.240.29/32 # Netherlands | North Holland | Limenet
 91.92.240.234/32 # Netherlands | North Holland | Limenet
 91.92.240.247/32 # Netherlands | North Holland | Limenet
@@ -153,9 +151,13 @@
 94.156.69.6/32 # Netherlands | North Holland | Limenet
 94.156.69.111/32 # Netherlands | North Holland | Limenet
 95.164.68.24/32 # Germany | Hesse | STARK INDUSTRIES SOLUTIONS LTD
+95.164.151.8/32 # United States | New York | Isp life INC
 95.216.196.85/32 # Finland | Mainland Finland | Hetzner Online GmbH
 102.36.163.135/32 # Nigeria | Osun | Netit Solutions LTD
 102.36.163.177/32 # Nigeria | Osun | Netit Solutions LTD
+102.177.146.50/32 # Sweden | Stockholm County | Cogent Communications
+102.177.146.51/32 # Sweden | Stockholm County | Cogent Communications
+102.177.147.198/32 # Sweden | Stockholm County | Cogent Communications
 103.75.68.218/32 # United States | California | Hivelocity LLC
 103.115.17.179/32 # Switzerland | Zurich | Securebit AG
 103.167.33.217/32 # United States | California | Hivelocity LLC
@@ -181,7 +183,6 @@
 141.98.234.166/32 # Hong Kong | Hong Kong | GLOBAL CONNECTIVITY SOLUTIONS LLP
 141.98.252.182/32 # United Kingdom | England | 11 Services Ab
 146.19.44.89/32 # Finland | Mainland Finland | Oy Crea Nova Hosting Solution...
-146.70.198.200/32 # Canada | Québec | M Europe SRL
 147.45.79.82/32 # United States | California | AEZA INTERNATIONAL LTD
 147.45.178.54/32 # Germany | Hesse | GLOBAL CONNECTIVITY SOLUTIONS LLP
 151.236.17.180/32 # Germany | Hesse | M Europe SRL
@@ -236,7 +237,6 @@
 185.187.233.24/32 # Brazil | State of São Paulo | Hivelocity LLC
 185.191.144.35/32 # France | Île-de-France | Datacamp Limited
 185.196.8.158/32 # Seychelles | Mahe | Global data System IT Corporation
-185.201.188.60/32 # United Kingdom | Scotland | Hostroyale Technologies Pvt LTD
 185.209.196.158/32 # Germany | Hesse | 11 Services Ab
 185.209.196.200/32 # Germany | Hesse | 11 Services Ab
 185.209.196.252/32 # Germany | Hesse | 11 Services Ab
