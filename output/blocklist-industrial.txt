@@ -3,7 +3,6 @@
 46.232.116.0/24 # United States | Virginia | Windstream Communications LLC
 62.133.61.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 68.67.198.0/24 # United States | California | Datacamp Limited
-74.115.0.0/24 # United States | Virginia | Datacamp Limited
 89.23.103.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 89.23.107.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 91.92.41.0/24 # Germany | Hesse | NTT America, Inc.
@@ -13,16 +12,11 @@
 156.228.126.0/24 # United States | New York | NUUK COMMUNICATIONS PTE. LTD.
 156.228.127.0/24 # United States | New York | NUUK COMMUNICATIONS PTE. LTD.
 166.1.8.0/24 # United States | California | Datacamp Limited
-166.1.9.0/24 # United States | California | Datacamp Limited
-166.1.10.0/24 # United States | California | Datacamp Limited
-166.1.11.0/24 # United States | California | Datacamp Limited
 166.1.13.0/24 # United States | California | Datacamp Limited
 166.1.14.0/24 # United States | California | Datacamp Limited
 193.37.69.0/24 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 209.200.239.0/24 # United States | California | Hivelocity LLC
-216.185.46.0/24 # United States | California | Datacamp Limited
 2.59.60.11/32 # United States | California | Datacamp Limited
-2.59.60.96/32 # United States | California | Datacamp Limited
 5.183.98.45/32 # Portugal | Viseu | Xervers, Unipessoal Lda.
 5.226.139.66/32 # United Kingdom | England | Hydra Communications LTD
 23.27.3.119/32 # United States | California | EGIHosting
@@ -79,21 +73,18 @@
 46.232.64.156/32 # United States | New York | Windstream Communications LLC
 46.232.117.56/32 # United States | Virginia | Windstream Communications LLC
 46.232.117.243/32 # United States | Virginia | Windstream Communications LLC
-50.114.85.128/32 # United States | New York | Datacamp Limited
-50.114.104.61/32 # United States | District of Columbia | Datacamp Limited
 50.114.105.14/32 # United States | District of Columbia | Datacamp Limited
 50.114.105.120/32 # United States | District of Columbia | Datacamp Limited
-50.114.105.250/32 # United States | District of Columbia | Datacamp Limited
 51.195.37.155/32 # Germany | Hesse | OVH SAS
 62.173.140.223/32 # Russia | Moscow | Internet cosmos LLC
 62.204.49.135/32 # Finland | Mainland Finland | Oy Crea Nova Hosting Solution...
 63.223.67.78/32 # United States | Washington | Sentris Network LLC
 64.43.123.33/32 # Germany | Hesse | EANCENTER TELECOM LLC
-74.80.255.13/32 # United States | Colorado | Datacamp Limited
-74.80.255.206/32 # United States | Colorado | Datacamp Limited
 74.80.255.234/32 # United States | Colorado | Datacamp Limited
-74.80.255.246/32 # United States | Colorado | Datacamp Limited
-74.115.1.6/32 # United States | Virginia | Datacamp Limited
+74.115.0.24/32 # United States | Virginia | Datacamp Limited
+74.115.0.27/32 # United States | Virginia | Datacamp Limited
+74.115.0.29/32 # United States | Virginia | Datacamp Limited
+74.115.0.162/32 # United States | Virginia | Datacamp Limited
 78.141.238.182/32 # United Kingdom | England | The Constant Company, LLC
 78.153.139.202/32 # Finland | Mainland Finland | GLOBAL CONNECTIVITY SOLUTIONS...
 79.124.8.66/32 # Netherlands | North Holland | Colocationx Ltd.
@@ -172,6 +163,7 @@
 109.248.199.90/32 # Kazakhstan | Karaganda Region | Pe Fedinyak Sergey Vyaches...
 112.51.253.153/32 # China | Guangdong Province | China Mobile
 112.132.218.45/32 # China | Anhui | China Unicom China1 Backbone
+114.66.225.111/32 # Germany | Hesse | Meerfarbig GmbH Co. Kg
 117.120.0.32/32 # Singapore | Southeast | NTT America, Inc.
 117.120.0.142/32 # Singapore | Southeast | NTT America, Inc.
 131.196.255.239/32 # Mexico | Baja California | Truxgo S. R.L. De C.V.
@@ -183,6 +175,7 @@
 141.98.234.166/32 # Hong Kong | Hong Kong | GLOBAL CONNECTIVITY SOLUTIONS LLP
 141.98.252.182/32 # United Kingdom | England | 11 Services Ab
 146.19.44.89/32 # Finland | Mainland Finland | Oy Crea Nova Hosting Solution...
+146.247.113.252/32 # Germany | Hesse | Datacamp Limited
 147.45.79.82/32 # United States | California | AEZA INTERNATIONAL LTD
 147.45.178.54/32 # Germany | Hesse | GLOBAL CONNECTIVITY SOLUTIONS LLP
 151.236.17.180/32 # Germany | Hesse | M Europe SRL
@@ -202,10 +195,19 @@
 156.249.137.108/32 # Thailand | Bangkok | OCTOPUS WEB SOLUTION INC
 156.249.137.159/32 # Thailand | Bangkok | OCTOPUS WEB SOLUTION INC
 162.19.135.182/32 # Germany | Schleswig-Holstein | OVH SAS
+166.1.9.11/32 # United States | California | Datacamp Limited
+166.1.9.20/32 # United States | California | Datacamp Limited
+166.1.9.26/32 # United States | California | Datacamp Limited
+166.1.9.222/32 # United States | California | Datacamp Limited
+166.1.10.24/32 # United States | California | Datacamp Limited
+166.1.10.87/32 # United States | California | Datacamp Limited
+166.1.10.132/32 # United States | California | Datacamp Limited
+166.1.10.162/32 # United States | California | Datacamp Limited
+166.1.11.5/32 # United States | California | Datacamp Limited
+166.1.11.12/32 # United States | California | Datacamp Limited
+166.1.11.78/32 # United States | California | Datacamp Limited
 166.1.12.209/32 # United States | California | Datacamp Limited
-166.1.12.222/32 # United States | California | Datacamp Limited
 166.1.12.247/32 # United States | California | Datacamp Limited
-166.1.15.158/32 # United States | California | Datacamp Limited
 166.1.15.198/32 # United States | California | Datacamp Limited
 167.99.202.130/32 # United Kingdom | England | Digitalocean, LLC
 168.100.9.199/32 # Netherlands | North Holland | Bl Networks
@@ -225,8 +227,8 @@
 179.43.187.47/32 # Switzerland | Zurich | Private Layer INC
 179.43.189.218/32 # Switzerland | Zurich | Private Layer INC
 179.60.149.185/32 # United States | New York | HOSTKEY
-179.60.149.210/32 # United States | New York | HOSTKEY
 181.215.11.239/32 # Brazil | State of São Paulo | Hivelocity LLC
+185.50.251.178/32 # Finland | Mainland Finland | Silverstar Invest Limited
 185.65.134.208/32 # Netherlands | North Holland | 11 Services Ab
 185.68.153.176/32 # Finland | Mainland Finland | Oy Crea Nova Hosting Solution...
 185.120.79.124/32 # Kazakhstan | Karaganda Region | Pe Fedinyak Sergey Vyaches...
@@ -286,11 +288,11 @@
 206.188.196.28/32 # Netherlands | North Holland | Bl Networks
 212.18.104.111/32 # United States | Arizona | GLOBAL CONNECTIVITY SOLUTIONS LLP
 213.204.18.0/32 # Italy | Lombardy | Uno Communications SPA
+216.185.46.147/32 # United States | California | Datacamp Limited
+216.185.46.199/32 # United States | California | Datacamp Limited
 216.185.47.193/32 # United States | California | Datacamp Limited
 216.185.47.198/32 # United States | California | Datacamp Limited
 216.185.47.217/32 # United States | California | Datacamp Limited
 216.185.47.220/32 # United States | California | Datacamp Limited
-216.185.48.151/32 # United States | Utah | Datacamp Limited
-216.185.48.236/32 # United States | Utah | Datacamp Limited
 216.185.48.249/32 # United States | Utah | Datacamp Limited
 216.218.206.66/32 # United States | California | Hurricane Electric LLC
