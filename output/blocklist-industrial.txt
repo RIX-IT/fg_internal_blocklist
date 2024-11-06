@@ -1,3 +1,4 @@
+23.162.40.0/24 # United States | Kentucky | Cyber Data LLC
 45.205.144.0/24 # United States | Texas | OCTOPUS WEB SOLUTION INC
 45.205.145.0/24 # United States | Texas | OCTOPUS WEB SOLUTION INC
 45.205.146.0/24 # United States | Texas | OCTOPUS WEB SOLUTION INC
@@ -10,6 +11,7 @@
 89.23.103.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 89.23.107.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 146.70.173.0/24 # United States | California | M Europe SRL
+146.70.187.0/24 # United States | Florida | M Europe SRL
 147.45.50.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 149.57.16.0/24 # United States | Maryland | LogicWeb Inc
 154.202.128.0/24 # United States | Texas | OCTOPUS WEB SOLUTION INC
@@ -28,15 +30,12 @@
 5.226.139.66/32 # United Kingdom | England | Hydra Communications LTD
 23.88.58.170/32 # Germany | Bavaria | Hetzner Online GmbH
 23.157.40.89/32 # United States | California | GTHost
-23.162.40.31/32 # United States | Kentucky | Cyber Data LLC
-23.162.40.59/32 # United States | Kentucky | Cyber Data LLC
-23.162.40.62/32 # United States | Kentucky | Cyber Data LLC
-23.162.40.82/32 # United States | Kentucky | Cyber Data LLC
 31.16.199.119/32 # Germany | Free Hanseatic City of Bremen | Vodafone GmbH
 31.41.244.10/32 # Russia | Saint Petersburg | Cat Technologies Co. Limited
 31.41.244.11/32 # Russia | Saint Petersburg | Cat Technologies Co. Limited
 31.150.20.162/32 # Germany | Lower Saxony | Ewe Tel GmbH
 31.184.240.248/32 # Russia | Saint Petersburg | Chernyshov Aleksandr Aleksandr...
+31.222.247.8/32 # United States | New York | Clouvider Limited
 34.244.225.76/32 # Ireland | Leinster | Amazon.com, Inc.
 34.246.77.147/32 # Ireland | Leinster | Amazon.com, Inc.
 35.195.165.68/32 # Belgium | Brussels-Capital | Google LLC
@@ -46,6 +45,7 @@
 37.46.113.197/32 # Luxembourg | Canton Luxembourg | Altushost B.V.
 37.46.113.206/32 # Luxembourg | Canton Capellen | Altushost B.V.
 38.96.255.142/32 # United States | California | GTHost
+38.180.91.117/32 # United States | Texas | Scalaxy B.V.
 38.181.34.72/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 38.181.34.153/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 38.181.34.182/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
@@ -66,6 +66,7 @@
 45.147.176.83/32 # Russia | Saint Petersburg | Beget LLC
 45.147.200.87/32 # Russia | Moscow | LLC Baxet
 45.151.62.238/32 # Russia | Moscow | GLOBAL INTERNET SOLUTIONS LLC
+45.159.127.204/32 # United States | Indiana | Clouvider Limited
 45.192.40.45/32 # United States | New York | Clouvider Limited
 45.205.148.5/32 # United States | Texas | OCTOPUS WEB SOLUTION INC
 45.205.148.10/32 # United States | Texas | OCTOPUS WEB SOLUTION INC
@@ -74,6 +75,7 @@
 45.205.150.3/32 # United States | Texas | OCTOPUS WEB SOLUTION INC
 45.205.150.16/32 # United States | Texas | OCTOPUS WEB SOLUTION INC
 45.227.254.3/32 # Republic of Lithuania | Vilnius County | Flyservers S.A.
+45.227.254.17/32 # Republic of Lithuania | Vilnius County | Flyservers S.A.
 46.3.7.129/32 # United States | New York | Clouvider Limited
 46.17.45.249/32 # Russia | Moscow | LLC Baxet
 46.29.234.129/32 # Republic of Lithuania | Vilnius County | GLOBAL CONNECTIVI...
@@ -93,6 +95,7 @@
 50.118.198.186/32 # United States | New York | GREEN FLOID LLC
 51.178.178.103/32 # France | Hauts-de-France | OVH SAS
 51.195.37.155/32 # Germany | Hesse | OVH SAS
+51.195.119.47/32 # Germany | Hesse | OVH SAS
 54.37.224.199/32 # France | Hauts-de-France | OVH SAS
 60.48.245.231/32 # Malaysia | Selangor | TM TECHNOLOGY SERVICES SDN BHD
 62.27.241.207/32 # Germany | North Rhine-Westphalia | Ecotel Communication AG
@@ -105,6 +108,7 @@
 66.63.167.205/32 # United States | Illinois | Quadranet Enterprises LLC
 67.210.178.168/32 # United States | Missouri | Fidelity Communication Internat...
 69.110.165.13/32 # United States | California | AT T Services, Inc.
+72.5.43.29/32 # Romania | Bucharest | Bl Networks
 77.11.179.135/32 # Germany | Berlin | Telefonica Germany GmbH Co.ohg
 77.13.51.109/32 # Germany | Berlin | Telefonica Germany GmbH Co.ohg
 77.221.157.170/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
@@ -119,6 +123,7 @@
 79.214.108.226/32 # Germany | Hesse | Deutsche Telekom AG
 79.228.210.127/32 # Germany | Lower Saxony | Deutsche Telekom AG
 79.243.34.53/32 # Germany | Hesse | Deutsche Telekom AG
+80.66.88.146/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 80.87.199.189/32 # Russia | Irkutsk Oblast | JSC IOT
 80.133.43.16/32 # Germany | North Rhine-Westphalia | Deutsche Telekom AG
 80.147.163.17/32 # Germany | Hamburg | Deutsche Telekom AG
@@ -149,6 +154,8 @@
 87.146.39.245/32 # Germany | Brandenburg | Deutsche Telekom AG
 87.176.211.48/32 # Germany | Hesse | Deutsche Telekom AG
 87.229.85.226/32 # Hungary | Western Transdanubia | Hostingbazis Beteti Tarsasag
+87.251.67.58/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
+87.251.67.179/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 87.251.67.207/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 88.66.80.244/32 # Germany | Bavaria | Vodafone GmbH
 88.130.118.76/32 # Germany | North Rhine-Westphalia | 1 1 Versatel Deutschlan...
@@ -193,6 +200,7 @@
 91.186.215.239/32 # Finland | Mainland Finland | Hivelocity LLC
 91.193.183.107/32 # Russia | Moscow | RECONN LLC
 91.202.233.136/32 # Russia | Saint Petersburg | PROSPERO OOO
+91.202.233.252/32 # Russia | Saint Petersburg | PROSPERO OOO
 91.221.36.156/32 # Russia | Tomsk Oblast | Flynet LTD
 91.240.87.190/32 # Russia | Moscow | JSC IOT
 91.247.78.139/32 # United States | New York | Clouvider Limited
@@ -230,6 +238,7 @@
 94.232.40.230/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 94.232.40.234/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 94.232.46.45/32 # Poland | Masovian Voivodeship | XHOST INTERNET SOLUTIONS LP
+94.232.249.36/32 # Netherlands | North Holland | PSB HOSTING LTD
 94.237.116.54/32 # Finland | Mainland Finland | Upcloud LTD
 95.158.189.99/32 # Bulgaria | Sofia-city | NOVATEL EOOD
 95.164.68.24/32 # Germany | Hesse | STARK INDUSTRIES SOLUTIONS LTD
@@ -256,12 +265,14 @@
 104.143.47.226/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 104.183.100.189/32 # United States | Florida | AT T Services, Inc.
 107.175.242.95/32 # United States | Texas | HostPapa
+109.236.80.191/32 # Netherlands | South Holland | Worldstream B.V.
 112.51.253.153/32 # China | Guangdong Province | China Mobile
 112.132.218.45/32 # China | Anhui | China Unicom China1 Backbone
 116.111.185.59/32 # Vietnam | Ho Chi Minh | Viettel Corporation
 134.209.30.220/32 # United Kingdom | England | Digitalocean, LLC
 138.68.90.19/32 # Germany | Hesse | Digitalocean, LLC
 138.199.43.72/32 # United States | Washington | Datacamp Limited
+138.199.43.98/32 # United States | Washington | Datacamp Limited
 139.6.184.137/32 # Germany | North Rhine-Westphalia | Verein Zur Foerderung E...
 141.98.234.166/32 # Hong Kong | Hong Kong | GLOBAL CONNECTIVITY SOLUTIONS LLP
 142.111.226.119/32 # United States | Florida | GREEN FLOID LLC
@@ -280,13 +291,10 @@
 146.70.168.141/32 # United States | New York | M Europe SRL
 146.70.168.185/32 # United States | New York | M Europe SRL
 146.70.171.115/32 # United States | Nebraska | M Europe SRL
+146.70.171.163/32 # United States | New York | M Europe SRL
 146.70.172.48/32 # United States | California | M Europe SRL
 146.70.174.5/32 # United States | California | M Europe SRL
 146.70.185.38/32 # United States | Oregon | M Europe SRL
-146.70.187.141/32 # United States | Florida | M Europe SRL
-146.70.187.150/32 # United States | Florida | M Europe SRL
-146.70.187.155/32 # United States | Florida | M Europe SRL
-146.70.187.165/32 # United States | Florida | M Europe SRL
 146.70.211.110/32 # United States | Texas | M Europe SRL
 146.70.211.170/32 # United States | Texas | M Europe SRL
 146.247.93.25/32 # France | Auvergne-Rhône-Alpes | ADISTA SAS
@@ -309,6 +317,7 @@
 154.23.185.59/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 154.23.185.60/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 154.82.29.239/32 # United States | Kansas | Clouvider Limited
+154.82.30.157/32 # United States | Kansas | Clouvider Limited
 154.202.132.38/32 # United States | Texas | OCTOPUS WEB SOLUTION INC
 154.202.132.52/32 # United States | Texas | OCTOPUS WEB SOLUTION INC
 154.202.134.10/32 # United States | Texas | OCTOPUS WEB SOLUTION INC
@@ -319,6 +328,7 @@
 155.207.200.230/32 # Greece | Macedonia and Thrace | Aristotle University of Th...
 156.146.60.74/32 # Austria | Vienna | Datacamp Limited
 157.90.163.137/32 # Germany | Bavaria | Hetzner Online GmbH
+157.173.104.153/32 # Germany | North Rhine-Westphalia | Contabo GmbH
 159.69.38.115/32 # Germany | Bavaria | Hetzner Online GmbH
 159.69.159.43/32 # Germany | Bavaria | Hetzner Online GmbH
 159.69.208.96/32 # Germany | Bavaria | Hetzner Online GmbH
@@ -349,6 +359,7 @@
 176.53.133.45/32 # United States | New York | Clouvider Limited
 176.57.32.185/32 # France | Grand Est | CELESTE SAS
 176.61.148.207/32 # Portugal | Faro | DMNS DOMINIOS, S.A.
+176.100.130.94/32 # United States | New York | Clouvider Limited
 176.100.149.50/32 # United States | New York | GREEN FLOID LLC
 176.106.138.70/32 # United States | Arizona | Clouvider Limited
 176.106.140.85/32 # United States | Arizona | Clouvider Limited
@@ -366,7 +377,6 @@
 179.43.176.60/32 # Switzerland | Zurich | Private Layer INC
 179.43.187.47/32 # Switzerland | Zurich | Private Layer INC
 179.43.189.218/32 # Switzerland | Zurich | Private Layer INC
-179.60.149.185/32 # United States | New York | HOSTKEY
 181.214.166.59/32 # United States | Illinois | Cogent Communications
 181.214.166.132/32 # United States | Illinois | Cogent Communications
 181.215.184.37/32 # United States | Illinois | Datacamp Limited
@@ -374,16 +384,19 @@
 185.4.65.83/32 # Russia | Moscow Oblast | RECONN LLC
 185.5.249.158/32 # Russia | Moscow | I SERVERS LTD
 185.22.152.40/32 # Russia | Moscow | LLC Baxet
+185.49.69.41/32 # Germany | Hamburg | Leaseweb Deutschland GmbH
 185.52.192.31/32 # Poland | Masovian Voivodeship | Cloudferro S.a
 185.68.82.55/32 # United States | New York | Clouvider Limited
 185.70.220.245/32 # Germany | Hesse | Vodafone GmbH
 185.70.221.11/32 # Germany | Hesse | Vodafone GmbH
 185.70.221.87/32 # Germany | Hesse | Vodafone GmbH
 185.70.221.174/32 # Germany | Hesse | Vodafone GmbH
+185.73.124.164/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 185.75.149.137/32 # Germany | Hesse | Goetel GmbH
 185.98.41.215/32 # United States | Texas | Clouvider Limited
 185.119.56.212/32 # Russia | Saint Petersburg | Timeweb Ltd.
 185.119.58.145/32 # Russia | Saint Petersburg | Timeweb Ltd.
+185.128.42.82/32 # United States | New York | Clouvider Limited
 185.128.213.9/32 # Russia | Moscow | JSC Rtcomm.ru
 185.132.187.105/32 # Belgium | Brussels-Capital | Internet Utilities Europe And...
 185.132.187.147/32 # Belgium | Flemish Brabant | Internet Utilities Europe And ...
@@ -440,6 +453,7 @@
 195.15.243.240/32 # Switzerland | Geneva | Infomaniak Network SA
 195.19.92.168/32 # Russia | Moscow | Chernyshov Aleksandr Aleksandrovich
 195.19.209.158/32 # United States | New York | Clouvider Limited
+195.19.213.158/32 # United States | New York | Clouvider Limited
 195.137.186.12/32 # France | Île-de-France | Serinya Telecom SAS
 195.201.197.218/32 # Germany | Saxony | Hetzner Online GmbH
 198.44.128.170/32 # United States | Colorado | Tzulo, Inc.
