@@ -97,6 +97,7 @@
 42.55.238.65/32 # China | Liaoning | China Unicom China1 Backbone
 42.224.206.166/32 # China | Henan | China Unicom China1 Backbone
 42.229.117.235/32 # China | Henan | China Unicom China1 Backbone
+42.229.219.143/32 # China | Henan | China Unicom China1 Backbone
 42.232.28.23/32 # China | Henan | China Unicom China1 Backbone
 42.238.171.152/32 # China | Henan | China Unicom China1 Backbone
 43.225.189.177/32 # United States | Massachusetts | Hostroyale Technologies Pv...
@@ -335,7 +336,7 @@
 94.236.129.211/32 # Bulgaria | Sofia | Opticcom Bulgaria Ltd.
 94.236.214.7/32 # Bulgaria | Sofia-city | Opticcom Bulgaria Ltd.
 94.237.116.54/32 # Finland | Mainland Finland | Upcloud LTD
-95.137.252.149/32 # Georgia | Tbilisi | System Net LTD
+95.164.4.59/32 # Brazil | State of São Paulo | STARK INDUSTRIES SOLUTIONS LTD
 95.164.68.24/32 # Germany | Hesse | STARK INDUSTRIES SOLUTIONS LTD
 95.164.151.160/32 # United States | New York | Isp life INC
 95.164.151.165/32 # United States | New York | Isp life INC
@@ -369,7 +370,6 @@
 103.152.17.84/32 # United States | California | Clouvider Limited
 103.152.17.246/32 # United States | California | Clouvider Limited
 103.163.109.54/32 # India | Uttar Pradesh | Cityline Networks Pvt LTD
-103.167.175.170/32 # India | Uttar Pradesh | Fibre Air Services Private Limited
 103.197.113.118/32 # India | Tamil Nadu | Railtel Corporation of India Ltd.
 103.197.115.87/32 # India | Kerala | Railtel Corporation of India Ltd.
 103.197.115.88/32 # India | Kerala | Railtel Corporation of India Ltd.
@@ -381,6 +381,7 @@
 104.131.7.207/32 # United States | New Jersey | Digitalocean, LLC
 104.143.46.143/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 104.143.47.226/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
+104.167.28.150/32 # Canada | Ontario | xk Tech GmbH
 104.183.100.189/32 # United States | Florida | AT T Services, Inc.
 104.202.6.235/32 # United States | California | Wave Broadband
 104.223.118.58/32 # United States | New Jersey | Quadranet Enterprises LLC
@@ -469,6 +470,8 @@
 121.234.32.188/32 # China | Jiangsu | Chinanet
 122.39.65.69/32 # Republic of Korea | Seoul | LG POWERCOMM
 122.96.31.46/32 # China | Jiangsu | China Unicom China1 Backbone
+122.97.136.40/32 # China | Jiangsu | China Unicom China1 Backbone
+122.97.136.116/32 # China | Jiangsu | China Unicom China1 Backbone
 122.97.138.142/32 # China | Jiangsu | China Unicom China1 Backbone
 123.60.148.47/32 # China | Shanghai | Huawei Cloud Service Data Center
 123.192.203.158/32 # Taiwan | Keelung City | Kbro Co. Ltd.
@@ -497,6 +500,7 @@
 141.98.234.166/32 # Hong Kong | Hong Kong | GLOBAL CONNECTIVITY SOLUTIONS LLP
 142.93.71.95/32 # United States | New Jersey | Digitalocean, LLC
 142.111.43.27/32 # United States | New York | GREEN FLOID LLC
+142.111.176.57/32 # United States | New York | GREEN FLOID LLC
 142.111.226.119/32 # United States | Florida | GREEN FLOID LLC
 142.111.229.18/32 # United States | New York | GREEN FLOID LLC
 142.252.4.19/32 # United States | California | GREEN FLOID LLC
@@ -575,12 +579,12 @@
 157.173.104.153/32 # Germany | North Rhine-Westphalia | Contabo GmbH
 158.46.179.242/32 # United States | New York | Clouvider Limited
 158.255.83.52/32 # Russia | Moscow | Atc Telecom Ltd.
+159.223.93.18/32 # Singapore | Southeast | Digitalocean, LLC
 161.35.210.170/32 # Germany | Hesse | Digitalocean, LLC
 161.97.173.109/32 # Germany | North Rhine-Westphalia | Contabo GmbH
 161.230.41.45/32 # Portugal | Porto | Vodafone Portugal Communicacoes Pessoai...
 161.230.119.38/32 # Portugal | Aveiro | Vodafone Portugal Communicacoes Pessoa...
 162.19.135.182/32 # Germany | Schleswig-Holstein | OVH SAS
-162.243.18.52/32 # United States | New York | Digitalocean, LLC
 162.243.50.220/32 # United States | New York | Digitalocean, LLC
 163.5.241.43/32 # France | Île-de-France | Internet Utilities Europe And Asi...
 163.204.39.162/32 # China | Guangdong Province | China Unicom Ip Network China...
@@ -620,6 +624,7 @@
 172.121.58.120/32 # United States | Nevada | GREEN FLOID LLC
 172.121.67.189/32 # United States | Nevada | GREEN FLOID LLC
 172.121.241.13/32 # United States | Nevada | Clouvider Limited
+173.44.63.83/32 # United States | Florida | Quadranet Enterprises LLC
 173.212.238.231/32 # Germany | Bavaria | Contabo GmbH
 173.239.232.20/32 # United States | Colorado | Performive LLC
 175.19.168.69/32 # China | Jilin | China Unicom China1 Backbone
@@ -636,6 +641,7 @@
 176.100.130.94/32 # United States | New York | Clouvider Limited
 176.100.131.206/32 # United States | New York | Clouvider Limited
 176.100.145.68/32 # United States | New York | GREEN FLOID LLC
+176.100.148.18/32 # United States | New York | GREEN FLOID LLC
 176.100.149.50/32 # United States | New York | GREEN FLOID LLC
 176.100.149.199/32 # United States | New York | GREEN FLOID LLC
 176.106.136.131/32 # United States | Arizona | Clouvider Limited
@@ -651,7 +657,6 @@
 176.123.187.9/32 # United States | Arizona | Clouvider Limited
 176.123.187.157/32 # United States | Arizona | Clouvider Limited
 177.21.133.51/32 # Brazil | State of São Paulo | America net Ltda.
-177.163.248.141/32 # Brazil | State of São Paulo | TELEF NICA BRASIL S.A
 178.35.164.100/32 # Russia | Volgograd Oblast | Pjsc Rostelecom
 178.159.95.156/32 # United Kingdom | England | Clouvider Limited
 178.209.51.222/32 # Switzerland | Zurich | Nine Internet Solutions AG
@@ -674,6 +679,7 @@
 181.215.185.166/32 # United States | Illinois | Datacamp Limited
 181.215.185.236/32 # United States | Illinois | Datacamp Limited
 182.46.161.48/32 # China | Shandong | Chinanet
+182.113.3.103/32 # China | Henan | China Unicom China1 Backbone
 182.119.6.49/32 # China | Henan | China Unicom China1 Backbone
 182.119.233.200/32 # China | Henan | China Unicom China1 Backbone
 182.121.236.123/32 # China | Henan | China Unicom China1 Backbone
@@ -773,11 +779,14 @@
 197.52.73.118/32 # Egypt | Giza | TE AS
 197.56.155.177/32 # Egypt | Giza | TE AS
 197.56.187.77/32 # Egypt | Giza | TE AS
+198.44.128.135/32 # United States | Colorado | Tzulo, Inc.
 198.44.128.210/32 # United States | Colorado | Tzulo, Inc.
 198.44.129.93/32 # United States | California | Tzulo, Inc.
 198.44.129.111/32 # United States | California | Tzulo, Inc.
 198.44.136.50/32 # United States | New York | Tzulo, Inc.
+198.44.136.83/32 # United States | Rhode Island | Tzulo, Inc.
 198.44.136.123/32 # United States | New York | Tzulo, Inc.
+198.44.136.208/32 # United States | New York | Tzulo, Inc.
 198.54.130.85/32 # United States | North Carolina | Tzulo, Inc.
 198.54.131.103/32 # United States | Washington | Tzulo, Inc.
 198.54.131.104/32 # United States | Washington | Tzulo, Inc.
