@@ -60,6 +60,7 @@
 5.255.97.55/32 # Netherlands | North Holland | The Infrastructure Group B.V.
 8.142.222.112/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
 8.215.81.217/32 # Indonesia | Special Capital Region of Jakarta | Alibaba us...
+8.222.140.84/32 # Singapore | Southeast | Alibaba us Technology Co., Ltd.
 8.222.181.107/32 # Singapore | Southeast | Alibaba us Technology Co., Ltd.
 8.222.225.103/32 # Singapore | Southeast | Alibaba us Technology Co., Ltd.
 8.222.226.153/32 # Singapore | Southeast | Alibaba us Technology Co., Ltd.
@@ -104,14 +105,15 @@
 34.141.54.19/32 # Germany | Hesse | Google LLC
 35.156.68.216/32 # Germany | Hesse | Amazon.com, Inc.
 35.234.118.67/32 # Germany | Hesse | Google LLC
+36.212.137.134/32 # China | Shanghai | China Mobile
 37.19.197.182/32 # United States | New York | Datacamp Limited
 37.46.113.206/32 # Luxembourg | Canton Capellen | Altushost B.V.
 37.59.235.28/32 # France | Île-de-France | OVH SAS
 37.138.5.50/32 # Germany | Lower Saxony | Ewe Tel GmbH
 37.140.255.192/32 # United States | New York | Clouvider Limited
 38.55.97.178/32 # Hong Kong | Hong Kong | Vh Global Limited
-38.68.46.67/32 # United States | Texas | Majestic Hosting Solutions, LLC
 38.87.196.216/32 # United States | Florida | Cogent Communications
+38.180.91.59/32 # United States | Texas | Scalaxy B.V.
 38.180.91.117/32 # United States | Texas | Scalaxy B.V.
 38.181.34.72/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 38.181.34.153/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
@@ -130,7 +132,6 @@
 42.229.219.143/32 # China | Henan | China Unicom China1 Backbone
 42.235.91.143/32 # China | Henan | China Unicom China1 Backbone
 42.238.171.152/32 # China | Henan | China Unicom China1 Backbone
-43.225.189.143/32 # United States | Massachusetts | Hostroyale Technologies Pv...
 43.225.189.155/32 # United States | Connecticut | Hostroyale Technologies Pvt LTD
 43.248.136.110/32 # China | Jiangsu | China Telecom
 43.248.136.215/32 # China | Jiangsu | China Telecom
@@ -304,7 +305,6 @@
 46.232.47.118/32 # United States | New York | Clouvider Limited
 46.246.122.185/32 # Norway | Oslo | Glesys Ab
 47.84.176.156/32 # Singapore | Southeast | Alibaba us Technology Co., Ltd.
-47.101.52.45/32 # China | Shanghai | Hangzhou Alibaba Advertising CO.,LTD.
 47.101.213.90/32 # China | Shanghai | Hangzhou Alibaba Advertising CO.,LTD.
 47.108.119.225/32 # China | Sichuan | Hangzhou Alibaba Advertising CO.,LTD.
 47.108.129.39/32 # China | Sichuan | Hangzhou Alibaba Advertising CO.,LTD.
@@ -332,11 +332,9 @@
 58.242.157.86/32 # China | Jiangsu | China Unicom China1 Backbone
 59.88.4.63/32 # India | Kerala | Bharat Sanchar Nigam LTD
 59.88.14.238/32 # India | Karnataka | Bharat Sanchar Nigam LTD
-59.89.231.108/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.97.116.41/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.97.122.212/32 # India | Gujarat | Bharat Sanchar Nigam LTD
 59.99.209.77/32 # India | Kerala | Bharat Sanchar Nigam LTD
-59.99.212.6/32 # India | Kerala | Bharat Sanchar Nigam LTD
 59.101.119.25/32 # Australia | New South Wales | Aapt Limited
 59.178.46.137/32 # India | Haryana | Bharat Sanchar Nigam LTD
 59.183.120.218/32 # India | Punjab | Bharat Sanchar Nigam LTD
@@ -498,7 +496,6 @@
 92.8.147.154/32 # United Kingdom | England | Talktalk Communications Limited
 92.12.64.45/32 # United Kingdom | England | Talktalk Communications Limited
 92.116.125.20/32 # Germany | Hesse | 1 1 Versatel Deutschland GmbH
-92.118.112.150/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 92.118.112.223/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 92.118.112.253/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 92.119.163.62/32 # United States | California | Shock Hosting LLC
@@ -567,6 +564,7 @@
 102.165.16.127/32 # United States | New Jersey | Cogent Communications
 103.8.222.230/32 # China | Jiangsu | Chinatelecom Jiangsu Yangzhou Idc Networ...
 103.15.254.13/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
+103.15.254.147/32 # India | Delhi | Railtel Corporation of India Ltd.
 103.27.108.152/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.27.108.205/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.27.108.207/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
@@ -603,7 +601,6 @@
 104.129.57.82/32 # United States | Washington | Quadranet Enterprises LLC
 104.129.57.98/32 # United States | Washington | Quadranet Enterprises LLC
 104.129.57.110/32 # United States | Washington | Quadranet Enterprises LLC
-104.129.57.116/32 # United States | Washington | Quadranet Enterprises LLC
 104.131.7.207/32 # United States | New Jersey | Digitalocean, LLC
 104.143.46.143/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 104.143.47.226/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
@@ -662,6 +659,7 @@
 112.132.218.45/32 # China | Anhui | China Unicom China1 Backbone
 112.248.185.24/32 # China | Shandong | China Unicom China1 Backbone
 113.26.86.43/32 # China | Shanxi | No. 1,jin rong Street
+113.138.83.190/32 # China | Shaanxi | No. 1,jin rong Street
 113.215.222.133/32 # China | Zhejiang | Huashu Media network Limited
 115.49.89.184/32 # China | Henan | China Unicom China1 Backbone
 115.50.41.79/32 # China | Henan | China Unicom China1 Backbone
@@ -674,6 +672,7 @@
 117.193.117.107/32 # India | Delhi | Bharat Sanchar Nigam LTD
 117.196.129.41/32 # India | Puducherry | Bharat Sanchar Nigam LTD
 117.196.172.234/32 # India | Kerala | Bharat Sanchar Nigam LTD
+117.197.31.37/32 # India | Haryana | Bharat Sanchar Nigam LTD
 117.198.8.27/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.199.31.68/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.200.159.105/32 # India | Karnataka | Bharat Sanchar Nigam LTD
@@ -706,7 +705,7 @@
 117.254.103.39/32 # India | Delhi | Bharat Sanchar Nigam LTD
 117.254.103.83/32 # India | Delhi | Bharat Sanchar Nigam LTD
 117.255.180.225/32 # India | Telangana | Bharat Sanchar Nigam LTD
-118.239.12.255/32 # China | Beijing | No. 1,jin rong Street
+118.182.100.137/32 # China | Gansu | China Telecom
 119.147.213.48/32 # China | Guangdong Province | No. 1,jin rong Street
 120.60.224.135/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
 120.61.7.0/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
@@ -716,15 +715,20 @@
 120.85.94.20/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.112.90/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.113.198/32 # China | Guangdong Province | China Unicom Guangzhou Network
+120.85.113.246/32 # China | Guangdong Province | China Unicom Guangzhou Network
+120.85.118.44/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
 120.86.253.63/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
 121.201.109.98/32 # China | Guangdong Province | Guangdong
+121.228.46.170/32 # China | Jiangsu | Chinanet
 122.97.136.40/32 # China | Jiangsu | China Unicom China1 Backbone
 122.97.136.116/32 # China | Jiangsu | China Unicom China1 Backbone
 122.97.138.142/32 # China | Jiangsu | China Unicom China1 Backbone
+122.97.214.185/32 # China | Jiangsu | CNC Group CHINA1 Jiangsu Province Network
 123.5.171.159/32 # China | Henan | China Unicom China1 Backbone
 123.9.198.248/32 # China | Henan | China Unicom China1 Backbone
 123.12.29.131/32 # China | Henan | China Unicom China1 Backbone
 123.14.209.89/32 # China | Henan | China Unicom China1 Backbone
+123.125.21.149/32 # China | Beijing | China Unicom Beijing Province Network
 124.95.14.227/32 # China | Liaoning | China Unicom China1 Backbone
 124.131.151.2/32 # China | Shandong | China Unicom China1 Backbone
 124.156.48.83/32 # India | Maharashtra | Shenzhen Tencent Computer Systems Co...
@@ -734,7 +738,6 @@
 125.41.140.141/32 # China | Henan | China Unicom China1 Backbone
 125.44.247.52/32 # China | Henan | China Unicom China1 Backbone
 125.46.243.221/32 # China | Henan | China Unicom China1 Backbone
-125.179.93.252/32 # Republic of Korea | Seoul | LG POWERCOMM
 130.61.35.108/32 # Germany | Hesse | Oracle Corporation
 132.148.181.236/32 # United States | Arizona | Godaddy.com, LLC
 134.209.30.220/32 # United Kingdom | England | Digitalocean, LLC
@@ -757,6 +760,7 @@
 142.111.176.57/32 # United States | New York | GREEN FLOID LLC
 142.111.176.221/32 # United States | New York | GREEN FLOID LLC
 142.111.177.128/32 # United States | New York | GREEN FLOID LLC
+142.111.177.129/32 # United States | New York | GREEN FLOID LLC
 142.111.193.28/32 # United States | Florida | GREEN FLOID LLC
 142.111.193.211/32 # United States | Florida | GREEN FLOID LLC
 142.111.213.87/32 # United States | California | Clouvider Limited
@@ -773,6 +777,7 @@
 142.111.231.141/32 # United States | California | Clouvider Limited
 142.111.233.21/32 # United States | Florida | GREEN FLOID LLC
 142.111.233.253/32 # United States | Florida | GREEN FLOID LLC
+142.111.246.242/32 # United States | California | GREEN FLOID LLC
 142.111.246.243/32 # United States | California | GREEN FLOID LLC
 142.111.247.176/32 # United States | California | GREEN FLOID LLC
 142.111.247.231/32 # United States | California | GREEN FLOID LLC
@@ -842,6 +847,7 @@
 146.70.172.16/32 # United States | California | M Europe SRL
 146.70.172.29/32 # United States | California | M Europe SRL
 146.70.172.34/32 # United States | California | M Europe SRL
+146.200.16.233/32 # United Kingdom | England | British Telecommunications PLC
 146.255.186.52/32 # United States | New York | Clouvider Limited
 146.255.186.179/32 # United States | New York | Clouvider Limited
 146.255.186.197/32 # United States | New York | Clouvider Limited
@@ -947,9 +953,11 @@
 166.1.255.33/32 # United States | Arizona | Clouvider Limited
 166.1.255.163/32 # United States | Arizona | Clouvider Limited
 166.1.255.254/32 # United States | Arizona | Clouvider Limited
+166.88.0.16/32 # United States | Florida | GREEN FLOID LLC
 166.88.9.43/32 # United States | California | Clouvider Limited
 166.88.9.135/32 # United States | California | Clouvider Limited
 166.88.9.168/32 # United States | California | Clouvider Limited
+166.88.9.211/32 # United States | California | Clouvider Limited
 166.88.49.10/32 # United States | Florida | GREEN FLOID LLC
 166.88.49.25/32 # United States | Florida | GREEN FLOID LLC
 166.88.49.123/32 # United States | Florida | GREEN FLOID LLC
@@ -1148,7 +1156,6 @@
 179.60.149.185/32 # United States | New York | HOSTKEY
 179.60.149.189/32 # United States | New York | HOSTKEY
 179.60.149.211/32 # United States | New York | HOSTKEY
-179.172.43.55/32 # Brazil | Santa Catarina | TELEF NICA BRASIL S.A
 180.94.34.93/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
 180.115.84.224/32 # China | Jiangsu | Chinanet
 181.41.206.69/32 # United States | Colorado | Cogent Communications
@@ -1339,7 +1346,6 @@
 198.44.129.111/32 # United States | California | Tzulo, Inc.
 198.54.131.103/32 # United States | Washington | Tzulo, Inc.
 198.54.131.135/32 # United States | Washington | Tzulo, Inc.
-198.54.131.174/32 # United States | Washington | Tzulo, Inc.
 198.54.131.176/32 # United States | Washington | Tzulo, Inc.
 198.54.134.135/32 # United States | California | Tzulo, Inc.
 198.54.134.167/32 # United States | California | Tzulo, Inc.
