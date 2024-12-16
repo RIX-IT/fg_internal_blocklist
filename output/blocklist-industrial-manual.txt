@@ -7,6 +7,7 @@
 5.183.254.0/24 # United States | California | Btt Group Finance LTD
 5.183.255.0/24 # Netherlands | North Holland | Hosting Solution Ltd.
 23.162.40.0/24 # United States | California | Cyber Data LLC
+31.15.17.0/24 # Netherlands | North Holland | CGI GLOBAL LIMITED
 37.19.200.0/24 # United States | Texas | Datacamp Limited
 43.225.189.0/24 # United States | Massachusetts | Hostroyale Technologies Pv...
 45.10.164.0/24 # Canada | Ontario | Hosting Solution Ltd.
@@ -27,6 +28,7 @@
 45.148.234.0/24 # United Kingdom | England | Purevoltage Hosting Inc.
 45.148.235.0/24 # United Kingdom | England | Purevoltage Hosting Inc.
 45.159.20.0/24 # United States | New York | Btt Group Finance LTD
+46.8.227.0/24 # United States | California | CGI GLOBAL LIMITED
 46.161.27.0/24 # Netherlands | North Holland | Nforce Entertainment B.V.
 46.161.63.0/24 # United States | New York | Purevoltage Hosting Inc.
 62.233.39.0/24 # Russia | Moscow | Hosting Solution Ltd.
@@ -92,6 +94,7 @@
 185.88.102.0/24 # United States | New York | Btt Group Finance LTD
 185.88.103.0/24 # United States | New York | Btt Group Finance LTD
 185.92.73.0/24 # Netherlands | North Holland | FOXCLOUD LLP
+185.92.182.0/24 # United States | Missouri | CGI GLOBAL LIMITED
 185.96.37.0/24 # United States | New York | Btt Group Finance LTD
 185.141.119.0/24 # United States | Michigan | Hostroyale Technologies Pvt LTD
 185.156.46.0/24 # United States | Virginia | Datacamp Limited
@@ -115,6 +118,7 @@
 193.233.248.0/24 # Netherlands | North Holland | Hosting Solution Ltd.
 194.36.25.0/24 # Germany | Hesse | Owl Limited
 194.104.10.0/24 # United Kingdom | England | Hosting Solution Ltd.
+194.113.37.0/24 # United States | Missouri | CGI GLOBAL LIMITED
 198.44.128.0/24 # United States | Colorado | Tzulo, Inc.
 198.44.129.0/24 # United States | California | Tzulo, Inc.
 198.54.135.0/24 # United States | Virginia | Tzulo, Inc.
@@ -162,12 +166,13 @@
 24.192.170.137/32 # United States | Michigan | Wideopenwest Finance LLC
 24.214.196.186/32 # United States | Ohio | Breezeline
 24.230.80.202/32 # United States | Illinois | Midcontinent Communications
-31.15.17.99/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
-31.15.17.164/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
+31.15.16.165/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
+31.15.16.244/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
 31.16.75.129/32 # Germany | Schleswig-Holstein | Vodafone GmbH
 31.150.20.162/32 # Germany | Lower Saxony | Ewe Tel GmbH
 31.184.236.84/32 # Czech Republic | Prague | Bralu Jurjanu Biedriba
 34.244.213.37/32 # Ireland | Leinster | Amazon.com, Inc.
+37.1.192.67/32 # Germany | Hesse | Leaseweb Deutschland GmbH
 37.1.200.68/32 # Netherlands | North Holland | Scalaxy B.V.
 37.1.208.113/32 # United States | Illinois | Hivelocity, Inc.
 37.24.53.181/32 # Germany | North Rhine-Westphalia | Vodafone GmbH
@@ -186,12 +191,25 @@
 45.10.166.57/32 # United States | New York | Purevoltage Hosting Inc.
 45.25.191.231/32 # United States | Louisiana | AT T Services, Inc.
 45.66.211.179/32 # United States | New York | Btt Group Finance LTD
+45.130.86.11/32 # United States | New York | Pvdatanet Ab
+45.130.87.15/32 # Sweden | Stockholm County | Pvdatanet Ab
 45.134.142.19/32 # United States | Florida | Datacamp Limited
 45.134.142.197/32 # United States | Florida | Datacamp Limited
 45.140.206.165/32 # United States | New York | Purevoltage Hosting Inc.
+45.145.4.236/32 # France | Île-de-France | CGI GLOBAL LIMITED
 45.148.126.77/32 # United States | New York | Btt Group Finance LTD
 45.148.126.102/32 # United States | New York | Btt Group Finance LTD
 45.148.126.121/32 # United States | New York | Btt Group Finance LTD
+45.152.112.167/32 # France | Île-de-France | CGI GLOBAL LIMITED
+45.152.114.124/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
+45.152.115.238/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
+45.156.23.188/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
+45.156.25.139/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
+45.156.25.222/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
+46.8.68.20/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
+46.8.229.12/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
+46.8.229.35/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
+46.21.159.225/32 # United States | California | Hivelocity, Inc.
 46.88.100.101/32 # Germany | Hesse | Deutsche Telekom AG
 46.91.165.215/32 # Germany | Hesse | Deutsche Telekom AG
 46.114.104.17/32 # Germany | North Rhine-Westphalia | Telefonica Germany GmbH...
@@ -210,11 +228,15 @@
 60.11.116.23/32 # China | Heilongjiang | China Unicom China1 Backbone
 62.27.241.207/32 # Germany | North Rhine-Westphalia | Ecotel Communication AG
 62.102.148.162/32 # Sweden | Stockholm County | Globalconnect Ab
+62.102.148.185/32 # Sweden | Stockholm County | Globalconnect Ab
 62.110.192.3/32 # Italy | Piemont | Telecom Italia S.P.A.
+62.115.255.162/32 # Denmark | Denmark | Arelion Sweden Ab
+62.115.255.163/32 # Denmark | Denmark | Arelion Sweden Ab
 62.156.16.191/32 # Germany | Berlin | Deutsche Telekom AG
 62.204.41.40/32 # Russia | Moscow | HORIZON LLC
 62.233.39.48/32 # Russia | Moscow | Hosting Solution Ltd.
 63.142.218.168/32 # United States | Washington | Localtel Communications
+64.42.179.35/32 # United States | Georgia | Dedicated.com
 64.53.6.76/32 # United States | South Carolina | Hargray Communications Gr...
 64.68.9.44/32 # United States | North Dakota | West River Telecommunicatio...
 64.99.150.50/32 # United States | North Carolina | Ting Fiber Inc.
@@ -302,8 +324,10 @@
 80.66.88.34/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 80.132.56.128/32 # Germany | Hesse | Deutsche Telekom AG
 80.140.192.243/32 # Germany | Lower Saxony | Deutsche Telekom AG
+80.239.140.67/32 # Germany | Hesse | Arelion Sweden Ab
 81.178.136.100/32 # United Kingdom | England | Talktalk Communications Limited
 81.178.137.69/32 # United Kingdom | England | Talktalk Communications Limited
+82.221.113.209/32 # Iceland | Capital Region | Advania Island Ehf
 83.135.113.65/32 # Germany | Schleswig-Holstein | 1 1 Versatel Deutschland GmbH
 83.135.144.222/32 # Germany | North Rhine-Westphalia | 1 1 Versatel Deutschlan...
 83.135.167.248/32 # Germany | Bavaria | 1 1 Versatel Deutschland GmbH
@@ -441,6 +465,7 @@
 123.30.240.27/32 # Vietnam | Hanoi | Vnpt Corp
 125.67.11.12/32 # China | Sichuan | Chinanet
 128.201.217.94/32 # Brazil | Piauí | QERO TELECOMUNICACOES DO BRASIL LTDA
+130.185.85.106/32 # Portugal | Santarém | ALMOUROLTEC SERVICOS DE INFORMATICA ...
 135.135.19.75/32 # United States | Illinois | TDS TELECOM
 136.243.22.91/32 # Germany | Saxony | Hetzner Online GmbH
 137.103.153.17/32 # United States | West Virginia | Breezeline
@@ -482,9 +507,11 @@
 147.78.180.51/32 # United States | New York | Purevoltage Hosting Inc.
 147.78.180.121/32 # United States | New York | Purevoltage Hosting Inc.
 147.78.183.97/32 # United States | New York | Purevoltage Hosting Inc.
+147.135.112.230/32 # United States | Oregon | OVH SAS
 149.40.50.121/32 # United States | Massachusetts | Datacamp Limited
 150.158.79.156/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
 154.38.170.203/32 # United States | New York | Nubes, LLC
+154.57.3.32/32 # Greece | Attica | Cogent Communications
 154.83.31.34/32 # Japan | Tokyo | Cloudflare London, LLC
 154.213.186.177/32 # Netherlands | North Holland | Pfcloud UG
 159.223.167.28/32 # United States | New Jersey | Digitalocean, LLC
@@ -500,6 +527,7 @@
 172.112.10.92/32 # United States | California | Charter Communications INC
 172.112.19.70/32 # United States | California | Charter Communications INC
 172.233.92.118/32 # Japan | Osaka Prefecture | Akamai Technologies, Inc.
+172.245.13.114/32 # United States | New York | HostPapa
 173.3.48.197/32 # United States | New Jersey | Cablevision Systems Corp.
 173.56.29.202/32 # United States | New York | Verizon Business
 173.68.244.169/32 # United States | New York | Verizon Business
@@ -522,12 +550,16 @@
 178.212.51.138/32 # Poland | Lubusz Voivodeship | Lubuskie Sieci Swiatlowodowe...
 178.236.247.116/32 # United States | California | AEZA INTERNATIONAL LTD
 178.250.92.210/32 # Turkey | İstanbul | Ramtek Telekomunikasyon Hizmetleri San...
+178.255.222.146/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
+178.255.222.194/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
+179.43.156.76/32 # Switzerland | Zurich | Private Layer INC
 179.43.183.154/32 # Switzerland | Zurich | Private Layer INC
 179.60.146.51/32 # Sweden | Stockholm County | W1n LTD
 179.60.150.15/32 # Germany | Hesse | Layer Networks GmbH
 179.60.150.150/32 # Germany | Hesse | Layer Networks GmbH
 184.105.139.7/32 # United States | California | Hurricane Electric LLC
 184.105.139.78/32 # United States | California | Hurricane Electric LLC
+185.31.200.161/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
 185.61.216.63/32 # Brazil | State of São Paulo | Btt Group Finance LTD
 185.61.218.87/32 # United States | New York | Purevoltage Hosting Inc.
 185.61.220.23/32 # Brazil | State of São Paulo | Btt Group Finance LTD
@@ -542,6 +574,7 @@
 185.70.221.36/32 # Germany | Hesse | Vodafone GmbH
 185.70.221.87/32 # Germany | Hesse | Vodafone GmbH
 185.70.221.174/32 # Germany | Hesse | Vodafone GmbH
+185.72.199.129/32 # Poland | Kuyavian-Pomeranian Voivodeship | DATA SPACE SP Z...
 185.73.124.49/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 185.73.125.78/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 185.88.36.244/32 # Netherlands | North Holland | Hosting Solution Ltd.
@@ -550,8 +583,9 @@
 185.89.42.74/32 # United States | New York | Hosting Solution Ltd.
 185.92.73.115/32 # Netherlands | North Holland | FOXCLOUD LLP
 185.92.73.116/32 # Netherlands | North Holland | FOXCLOUD LLP
+185.92.180.89/32 # United States | Missouri | CGI GLOBAL LIMITED
+185.92.180.100/32 # United States | Missouri | CGI GLOBAL LIMITED
 185.92.180.185/32 # United States | Missouri | CGI GLOBAL LIMITED
-185.92.182.220/32 # United States | Missouri | CGI GLOBAL LIMITED
 185.156.46.174/32 # United States | Virginia | Datacamp Limited
 185.156.46.179/32 # United States | Virginia | Datacamp Limited
 185.156.46.180/32 # United States | Virginia | Datacamp Limited
@@ -560,10 +594,12 @@
 185.166.197.9/32 # Poland | Masovian Voivodeship | Timeweb Ltd.
 188.3.198.195/32 # Turkey | Antalya | Vodafone Net Iletisim Hizmetler AS
 188.92.79.117/32 # Latvia | Vidzeme | Sia Nano IT
+188.116.40.24/32 # Poland | Pomeranian Voivodeship | Artnet Sp. Z O.O.
 188.136.60.137/32 # Germany | North Rhine-Westphalia | Heli Net Telekommunikat...
 188.136.63.230/32 # Germany | North Rhine-Westphalia | Heli Net Telekommunikat...
 190.92.169.75/32 # United States | New York | Whg Hosting Services LTD
 192.109.77.10/32 # Germany | Hesse | Ggew Net GmbH
+192.210.199.34/32 # United States | New York | HostPapa
 192.230.140.16/32 # United States | Iowa | Aureon Network Services
 192.230.140.169/32 # United States | Iowa | Aureon Network Services
 193.32.126.218/32 # France | Île-de-France | 11 Services Ab
@@ -575,6 +611,10 @@
 193.148.48.224/32 # Germany | North Rhine-Westphalia | LYCATEL DISTRIBUTION UK...
 193.160.64.77/32 # United States | North Carolina | Hostinger International L...
 193.163.7.53/32 # Netherlands | Gelderland | Zomro B.V.
+193.176.153.32/32 # France | Île-de-France | CGI GLOBAL LIMITED
+193.176.190.183/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
+193.187.88.197/32 # Sweden | Stockholm County | Obehosting Ab
+193.187.91.20/32 # Sweden | Stockholm County | Obehosting Ab
 193.202.80.81/32 # United States | New York | Purevoltage Hosting Inc.
 193.202.80.175/32 # United States | New York | Purevoltage Hosting Inc.
 193.202.80.212/32 # United States | New York | Purevoltage Hosting Inc.
@@ -588,7 +628,10 @@
 194.99.25.157/32 # United States | California | Hosting Solution Ltd.
 194.104.11.88/32 # United States | New York | Purevoltage Hosting Inc.
 194.104.11.199/32 # United States | New York | Purevoltage Hosting Inc.
-194.113.37.214/32 # United States | Missouri | CGI GLOBAL LIMITED
+194.116.214.34/32 # France | Île-de-France | CGI GLOBAL LIMITED
+194.116.214.46/32 # France | Île-de-France | CGI GLOBAL LIMITED
+194.116.214.145/32 # France | Île-de-France | CGI GLOBAL LIMITED
+194.116.214.150/32 # France | Île-de-France | CGI GLOBAL LIMITED
 194.116.215.44/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
 195.36.24.5/32 # Italy | Lombardy | Hal Service SPA
 195.52.176.104/32 # Germany | North Rhine-Westphalia | Ecotel Communication AG
@@ -610,6 +653,7 @@
 207.144.39.164/32 # United States | South Carolina | Spirit Communications
 207.144.123.158/32 # United States | South Carolina | Truvista Communications
 207.183.183.86/32 # United States | Idaho | Silver Star Communications
+207.204.248.123/32 # United States | Texas | NETWORK TRANSIT HOLDINGS LLC
 208.175.136.183/32 # United States | Nebraska | Great Plains Communications LLC
 209.152.89.96/32 # United States | Iowa | Aureon Network Services
 209.198.73.138/32 # United States | Vermont | Firstlight Fiber, Inc.
@@ -622,14 +666,22 @@
 213.108.0.154/32 # Canada | Ontario | Hosting Solution Ltd.
 213.108.2.134/32 # United States | New York | Purevoltage Hosting Inc.
 213.152.161.181/32 # Netherlands | North Holland | Global Layer B.V.
+213.152.187.195/32 # Netherlands | North Holland | Global Layer B.V.
 213.182.104.197/32 # Germany | Lower Saxony | Ewe Tel GmbH
 213.232.123.11/32 # United States | New York | Btt Group Finance LTD
 213.232.123.110/32 # United States | New York | Btt Group Finance LTD
 213.232.123.253/32 # United States | New York | Btt Group Finance LTD
+213.248.112.35/32 # United Kingdom | England | Arelion Sweden Ab
+213.248.112.37/32 # United Kingdom | England | Arelion Sweden Ab
 216.16.216.245/32 # United States | South Carolina | Hargray Communications Gr...
 216.93.214.81/32 # United States | California | Consolidated Communications, ...
 216.128.225.213/32 # United States | Idaho | Silver Star Communications
+216.131.107.10/32 # United States | Louisiana | Cogent Communications
+216.151.184.185/32 # United Kingdom | England | Strong Technology, Llc.
 216.152.240.21/32 # United States | Iowa | Fibercomm Lc
+216.169.133.86/32 # United Kingdom | England | Clouvider Limited
+216.169.133.116/32 # United Kingdom | England | Clouvider Limited
+216.169.133.121/32 # United Kingdom | England | Clouvider Limited
 216.186.193.149/32 # United States | Ohio | Breezeline
 216.218.206.85/32 # United States | California | Hurricane Electric LLC
 216.218.206.125/32 # United States | California | Hurricane Electric LLC
@@ -639,6 +691,10 @@
 217.145.226.35/32 # United States | New York | Purevoltage Hosting Inc.
 217.145.226.180/32 # United States | New York | Purevoltage Hosting Inc.
 217.147.190.10/32 # United States | Idaho | Silver Star Communications
+217.212.240.67/32 # Italy | Lombardy | Arelion Sweden Ab
+217.212.244.66/32 # Spain | Madrid | Arelion Sweden Ab
+217.212.244.67/32 # Spain | Madrid | Arelion Sweden Ab
+217.212.245.67/32 # Switzerland | Zurich | Arelion Sweden Ab
 217.226.80.46/32 # Germany | North Rhine-Westphalia | Deutsche Telekom AG
 217.244.101.177/32 # Germany | Hesse | Deutsche Telekom AG
 217.247.0.25/32 # Germany | Bavaria | Deutsche Telekom AG
