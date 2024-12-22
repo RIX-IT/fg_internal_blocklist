@@ -1,5 +1,6 @@
 23.188.88.0/24 # United States | Kentucky | Synapse Tech LLC
 31.15.17.0/24 # Netherlands | North Holland | CGI GLOBAL LIMITED
+45.140.174.0/24 # United States | Kentucky | Shock Hosting LLC
 46.8.227.0/24 # United States | California | CGI GLOBAL LIMITED
 46.232.40.0/24 # United States | New York | Clouvider Limited
 46.232.46.0/24 # United States | New York | Clouvider Limited
@@ -21,6 +22,7 @@
 192.144.16.0/24 # United States | California | Clouvider Limited
 194.113.37.0/24 # United States | Missouri | CGI GLOBAL LIMITED
 194.116.214.0/24 # France | Île-de-France | CGI GLOBAL LIMITED
+194.190.112.0/24 # United States | New York | Clouvider Limited
 194.190.190.0/24 # United States | New York | Clouvider Limited
 2.56.139.151/32 # United States | Kentucky | Shock Hosting LLC
 2.56.139.211/32 # United States | California | Shock Hosting LLC
@@ -218,10 +220,6 @@
 45.137.155.73/32 # Ukraine | Kyiv city | STARK INDUSTRIES SOLUTIONS LTD
 45.137.155.165/32 # Ukraine | Kyiv city | STARK INDUSTRIES SOLUTIONS LTD
 45.137.194.55/32 # United States | Washington | Nubes, LLC
-45.140.174.95/32 # United States | Kentucky | Shock Hosting LLC
-45.140.174.114/32 # United States | Kentucky | Shock Hosting LLC
-45.140.174.131/32 # United States | Kentucky | Shock Hosting LLC
-45.140.174.233/32 # United States | Kentucky | Shock Hosting LLC
 45.141.87.11/32 # Russia | Saint Petersburg | Media Land LLC
 45.142.214.152/32 # Republic of Moldova | Chisinau | STARK INDUSTRIES SOLUTION...
 45.142.214.192/32 # Republic of Moldova | Chisinau | STARK INDUSTRIES SOLUTION...
@@ -231,6 +229,7 @@
 45.147.244.37/32 # United States | California | Clouvider Limited
 45.147.244.223/32 # United States | California | Clouvider Limited
 45.147.245.102/32 # United States | California | Clouvider Limited
+45.147.245.103/32 # United States | California | Clouvider Limited
 45.147.247.86/32 # United States | California | Clouvider Limited
 45.147.247.204/32 # United States | California | Clouvider Limited
 45.148.7.5/32 # Canada | Ontario | Pvdatanet Ab
@@ -273,6 +272,7 @@
 45.159.127.23/32 # United States | Pennsylvania | Clouvider Limited
 45.159.127.199/32 # United States | Pennsylvania | Clouvider Limited
 45.164.177.149/32 # Brazil | State of São Paulo | FUTURE DIGITAL TECHNOLOGY E ...
+45.192.32.128/32 # United States | New York | Clouvider Limited
 45.192.32.144/32 # United States | New York | Clouvider Limited
 45.192.33.155/32 # United States | New York | Clouvider Limited
 45.192.34.94/32 # United States | New York | Clouvider Limited
@@ -287,6 +287,7 @@
 45.192.38.163/32 # United States | New York | Clouvider Limited
 45.192.39.70/32 # United States | New York | Clouvider Limited
 45.192.41.6/32 # United States | New York | Clouvider Limited
+45.192.41.67/32 # United States | New York | Clouvider Limited
 45.192.42.138/32 # United States | New York | Clouvider Limited
 45.192.43.114/32 # United States | New York | Clouvider Limited
 45.192.46.97/32 # United States | New York | Clouvider Limited
@@ -349,6 +350,7 @@
 46.232.32.121/32 # United States | New York | Clouvider Limited
 46.232.33.51/32 # United States | New York | Clouvider Limited
 46.232.33.55/32 # United States | New York | Clouvider Limited
+46.232.33.122/32 # United States | New York | Clouvider Limited
 46.232.33.173/32 # United States | New York | Clouvider Limited
 46.232.34.22/32 # United States | New York | Clouvider Limited
 46.232.34.40/32 # United States | New York | Clouvider Limited
@@ -382,7 +384,6 @@
 47.236.50.100/32 # Singapore | Southeast | Alibaba us Technology Co., Ltd.
 47.236.135.111/32 # Singapore | Southeast | Alibaba us Technology Co., Ltd.
 47.237.126.189/32 # Singapore | Southeast | Alibaba us Technology Co., Ltd.
-47.237.132.148/32 # Singapore | Southeast | Alibaba us Technology Co., Ltd.
 47.238.190.64/32 # Hong Kong | Hong Kong | Alibaba us Technology Co., Ltd.
 48.218.138.60/32 # Japan | Tokyo | Microsoft Corporation
 50.118.198.18/32 # United States | New York | GREEN FLOID LLC
@@ -403,18 +404,18 @@
 60.19.216.13/32 # China | Liaoning | China Unicom China1 Backbone
 60.204.201.75/32 # China | Shanghai | Huawei Cloud Service Data Center
 61.3.96.138/32 # India | Kerala | Bharat Sanchar Nigam LTD
-61.52.57.95/32 # China | Henan | China Unicom China1 Backbone
 61.52.81.73/32 # China | Henan | China Unicom China1 Backbone
 61.53.125.202/32 # China | Henan | China Unicom China1 Backbone
-61.176.210.220/32 # China | Liaoning | China Unicom China1 Backbone
 61.216.174.139/32 # Taiwan | Taipei City | Chunghwa Telecom Co., Ltd.
 62.30.0.1/32 # United Kingdom | England | Virgin Media Limited
+62.76.146.127/32 # United States | New York | Clouvider Limited
 62.76.146.220/32 # United States | New York | Clouvider Limited
 62.76.147.8/32 # United States | New York | Clouvider Limited
 62.76.147.153/32 # United States | New York | Clouvider Limited
 62.76.147.154/32 # United States | New York | Clouvider Limited
 62.76.147.227/32 # United States | New York | Clouvider Limited
 62.76.153.20/32 # United States | New York | Clouvider Limited
+62.76.153.38/32 # United States | New York | Clouvider Limited
 62.76.153.83/32 # United States | New York | Clouvider Limited
 62.102.148.162/32 # Sweden | Stockholm County | Globalconnect Ab
 62.106.69.50/32 # United States | California | Clouvider Limited
@@ -539,6 +540,7 @@
 88.151.115.46/32 # United States | California | Clouvider Limited
 88.151.115.109/32 # United States | New York | Clouvider Limited
 88.151.115.138/32 # United States | New York | Clouvider Limited
+88.151.115.185/32 # United States | New York | Clouvider Limited
 88.218.80.14/32 # United States | New York | Clouvider Limited
 88.218.80.52/32 # United States | Maryland | Clouvider Limited
 88.218.80.105/32 # United States | Maryland | Clouvider Limited
@@ -644,7 +646,6 @@
 94.232.44.221/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 94.232.249.36/32 # Netherlands | North Holland | PSB HOSTING LTD
 95.32.7.187/32 # Russia | Voronezh Oblast | Pjsc Rostelecom
-95.91.233.128/32 # Germany | Bavaria | Vodafone GmbH
 95.164.2.167/32 # Netherlands | Drenthe | STARK INDUSTRIES SOLUTIONS LTD
 95.164.4.206/32 # Brazil | State of São Paulo | STARK INDUSTRIES SOLUTIONS LTD
 95.164.4.224/32 # Brazil | State of São Paulo | STARK INDUSTRIES SOLUTIONS LTD
@@ -711,7 +712,6 @@
 103.199.180.73/32 # India | Jharkhand | Railtel Corporation of India Ltd.
 103.199.200.110/32 # India | Jharkhand | Railtel Corporation of India Ltd.
 103.199.205.21/32 # India | Delhi | Railtel Corporation of India Ltd.
-103.200.84.56/32 # India | Rajasthan | Railtel Corporation of India Ltd.
 103.200.86.155/32 # India | Uttarakhand | Railtel Corporation of India Ltd.
 103.200.86.240/32 # India | Delhi | Railtel Corporation of India Ltd.
 103.203.72.233/32 # India | Kerala | Railtel Corporation of India Ltd.
@@ -787,6 +787,7 @@
 117.209.94.39/32 # India | West Bengal | Bharat Sanchar Nigam LTD
 117.209.241.171/32 # India | Telangana | Bharat Sanchar Nigam LTD
 117.210.182.191/32 # India | Kerala | Bharat Sanchar Nigam LTD
+117.210.184.29/32 # India | Delhi | Bharat Sanchar Nigam LTD
 117.210.190.229/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.211.36.171/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.213.124.186/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
@@ -795,7 +796,6 @@
 117.217.91.68/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.219.115.173/32 # India | Chandigarh | Bharat Sanchar Nigam LTD
 117.221.172.186/32 # India | Odisha | Bharat Sanchar Nigam LTD
-117.223.6.8/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.231.159.53/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
 117.235.61.26/32 # India | Punjab | Bharat Sanchar Nigam LTD
 117.244.201.236/32 # India | Delhi | Bharat Sanchar Nigam LTD
@@ -812,10 +812,10 @@
 118.182.100.137/32 # China | Gansu | China Telecom
 119.147.213.48/32 # China | Guangdong Province | No. 1,jin rong Street
 119.186.209.205/32 # China | Shandong | China Unicom China1 Backbone
-120.85.94.20/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.112.163/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.113.198/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.113.246/32 # China | Guangdong Province | China Unicom Guangzhou Network
+120.85.114.236/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
 120.85.116.4/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.118.44/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
 120.85.119.24/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
@@ -832,7 +832,7 @@
 123.14.209.89/32 # China | Henan | China Unicom China1 Backbone
 123.60.38.120/32 # China | Shanghai | Huawei Cloud Service Data Center
 123.125.21.149/32 # China | Beijing | China Unicom Beijing Province Network
-124.95.14.227/32 # China | Liaoning | China Unicom China1 Backbone
+123.189.203.87/32 # China | Liaoning | China Unicom China1 Backbone
 124.131.134.29/32 # China | Shandong | China Unicom China1 Backbone
 124.156.48.83/32 # India | Maharashtra | Shenzhen Tencent Computer Systems Co...
 124.234.246.127/32 # China | Jilin | No. 1,jin rong Street
@@ -889,6 +889,7 @@
 142.111.193.48/32 # United States | Florida | GREEN FLOID LLC
 142.111.193.72/32 # United States | New York | GREEN FLOID LLC
 142.111.193.211/32 # United States | Florida | GREEN FLOID LLC
+142.111.193.251/32 # United States | New York | GREEN FLOID LLC
 142.111.213.27/32 # United States | California | Clouvider Limited
 142.111.213.87/32 # United States | California | Clouvider Limited
 142.111.213.105/32 # United States | California | Clouvider Limited
@@ -901,6 +902,7 @@
 142.111.229.12/32 # United States | New York | GREEN FLOID LLC
 142.111.229.155/32 # United States | New York | GREEN FLOID LLC
 142.111.229.221/32 # United States | New York | GREEN FLOID LLC
+142.111.231.102/32 # United States | California | Clouvider Limited
 142.111.231.129/32 # United States | California | Clouvider Limited
 142.111.231.173/32 # United States | California | Clouvider Limited
 142.111.233.7/32 # United States | Florida | GREEN FLOID LLC
@@ -912,6 +914,7 @@
 142.111.253.26/32 # United States | California | Clouvider Limited
 142.111.253.39/32 # United States | California | Clouvider Limited
 142.111.253.161/32 # United States | California | Clouvider Limited
+142.111.253.215/32 # United States | California | Clouvider Limited
 142.111.254.18/32 # United States | Florida | GREEN FLOID LLC
 142.111.254.95/32 # United States | Florida | GREEN FLOID LLC
 142.252.4.148/32 # United States | California | GREEN FLOID LLC
@@ -968,6 +971,7 @@
 142.252.133.29/32 # United States | California | GREEN FLOID LLC
 142.252.133.250/32 # United States | California | GREEN FLOID LLC
 142.252.133.251/32 # United States | California | GREEN FLOID LLC
+142.252.140.128/32 # United States | California | GREEN FLOID LLC
 142.252.140.179/32 # United States | California | GREEN FLOID LLC
 142.252.140.253/32 # United States | California | GREEN FLOID LLC
 142.252.170.174/32 # United States | California | GREEN FLOID LLC
@@ -983,6 +987,7 @@
 142.252.242.145/32 # United States | California | Clouvider Limited
 142.252.242.247/32 # United States | California | Clouvider Limited
 142.252.244.119/32 # United States | California | Clouvider Limited
+142.252.244.141/32 # United States | California | Clouvider Limited
 142.252.246.117/32 # United States | California | Clouvider Limited
 142.252.246.135/32 # United States | California | Clouvider Limited
 142.252.246.173/32 # United States | California | Clouvider Limited
@@ -1032,6 +1037,7 @@
 154.82.21.5/32 # United States | New York | Clouvider Limited
 154.82.22.96/32 # United States | New York | Clouvider Limited
 154.82.23.66/32 # United States | New York | Clouvider Limited
+154.82.23.200/32 # United States | Illinois | Clouvider Limited
 154.82.23.221/32 # United States | Illinois | Clouvider Limited
 154.82.25.35/32 # United States | Kansas | Clouvider Limited
 154.82.25.41/32 # United States | California | Clouvider Limited
@@ -1060,7 +1066,6 @@
 158.46.179.57/32 # United States | New York | Clouvider Limited
 158.247.222.165/32 # Republic of Korea |  | The Constant Company, LLC
 159.65.70.228/32 # United States | California | Digitalocean, LLC
-159.89.171.164/32 # India | Karnataka | Digitalocean, LLC
 162.19.135.182/32 # Germany | Schleswig-Holstein | OVH SAS
 162.243.25.177/32 # United States | New York | Digitalocean, LLC
 163.116.128.80/32 # United States | California | Netskope INC
@@ -1172,6 +1177,7 @@
 172.120.21.240/32 # United States | Florida | GREEN FLOID LLC
 172.120.40.40/32 # United States | California | GREEN FLOID LLC
 172.120.40.204/32 # United States | California | GREEN FLOID LLC
+172.120.40.235/32 # United States | California | GREEN FLOID LLC
 172.120.41.72/32 # United States | Nevada | Clouvider Limited
 172.120.41.182/32 # United States | New York | Clouvider Limited
 172.120.41.212/32 # United States | New York | Clouvider Limited
@@ -1235,6 +1241,7 @@
 172.120.189.38/32 # United States | Florida | GREEN FLOID LLC
 172.120.190.130/32 # United States | Illinois | GREEN FLOID LLC
 172.120.196.146/32 # United States | Illinois | GREEN FLOID LLC
+172.120.196.215/32 # United States | Illinois | GREEN FLOID LLC
 172.120.196.246/32 # United States | California | GREEN FLOID LLC
 172.120.198.6/32 # United States | Pennsylvania | GREEN FLOID LLC
 172.120.198.121/32 # United States | Florida | GREEN FLOID LLC
@@ -1259,16 +1266,19 @@
 172.120.218.170/32 # United States | Texas | GREEN FLOID LLC
 172.120.218.217/32 # United States | Texas | GREEN FLOID LLC
 172.120.238.237/32 # United States | Texas | GREEN FLOID LLC
+172.120.238.248/32 # United States | Texas | GREEN FLOID LLC
 172.120.239.28/32 # United States | Florida | GREEN FLOID LLC
 172.120.239.48/32 # United States | Texas | GREEN FLOID LLC
 172.120.239.53/32 # United States | Texas | GREEN FLOID LLC
 172.120.248.25/32 # United States | Florida | GREEN FLOID LLC
+172.120.248.169/32 # United States | Florida | GREEN FLOID LLC
 172.120.248.199/32 # United States | California | GREEN FLOID LLC
 172.120.254.151/32 # United States | Florida | GREEN FLOID LLC
 172.121.42.89/32 # United States | California | GREEN FLOID LLC
 172.121.42.113/32 # United States | California | GREEN FLOID LLC
 172.121.48.200/32 # United States | California | GREEN FLOID LLC
 172.121.48.211/32 # United States | Nevada | GREEN FLOID LLC
+172.121.52.2/32 # United States | Nevada | GREEN FLOID LLC
 172.121.52.188/32 # United States | California | GREEN FLOID LLC
 172.121.58.44/32 # United States | Nevada | GREEN FLOID LLC
 172.121.59.189/32 # United States | Nevada | GREEN FLOID LLC
@@ -1282,6 +1292,7 @@
 172.121.83.167/32 # United States | Florida | GREEN FLOID LLC
 172.121.241.36/32 # United States | Nevada | Clouvider Limited
 172.121.241.119/32 # United States | Nevada | Clouvider Limited
+172.121.241.193/32 # United States | Nevada | Clouvider Limited
 172.121.241.235/32 # United States | Nevada | Clouvider Limited
 172.245.13.114/32 # United States | New York | HostPapa
 173.239.232.20/32 # United States | Colorado | Performive LLC
@@ -1589,10 +1600,6 @@
 194.190.90.231/32 # United States | New York | Clouvider Limited
 194.190.91.43/32 # United States | New York | Clouvider Limited
 194.190.91.153/32 # United States | New York | Clouvider Limited
-194.190.112.5/32 # United States | New York | Clouvider Limited
-194.190.112.102/32 # United States | New York | Clouvider Limited
-194.190.112.173/32 # United States | New York | Clouvider Limited
-194.190.112.202/32 # United States | New York | Clouvider Limited
 194.190.152.108/32 # Russia | Moscow | Baykov Ilya Sergeevich
 194.190.170.141/32 # United States | New York | Clouvider Limited
 194.190.170.187/32 # United States | New York | Clouvider Limited
@@ -1686,6 +1693,7 @@
 212.193.143.79/32 # United Kingdom | England | Clouvider Limited
 212.193.143.87/32 # United Kingdom | England | Clouvider Limited
 212.193.143.137/32 # United Kingdom | England | Clouvider Limited
+212.193.143.141/32 # United Kingdom | England | Clouvider Limited
 213.108.3.253/32 # Canada | Ontario | Purevoltage Hosting Inc.
 213.139.192.43/32 # United States | New York | Clouvider Limited
 213.139.192.98/32 # United States | New York | Clouvider Limited
@@ -1742,7 +1750,6 @@
 217.212.240.67/32 # Italy | Lombardy | Arelion Sweden Ab
 217.212.240.68/32 # Italy | Lombardy | Arelion Sweden Ab
 217.212.244.66/32 # Spain | Madrid | Arelion Sweden Ab
-219.78.38.101/32 # Hong Kong | Hong Kong | Pccw Ims Limited
 220.158.158.163/32 # India | Tamil Nadu | Railtel Corporation of India Ltd.
 220.158.159.180/32 # India | Karnataka | Railtel Corporation of India Ltd.
 221.15.140.68/32 # China | Henan | China Unicom China1 Backbone
