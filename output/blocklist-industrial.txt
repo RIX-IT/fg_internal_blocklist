@@ -25,6 +25,7 @@
 194.116.214.0/24 # France | Île-de-France | CGI GLOBAL LIMITED
 194.190.112.0/24 # United States | New York | Clouvider Limited
 194.190.190.0/24 # United States | New York | Clouvider Limited
+1.1.1.1/32 # Australia | New South Wales | Cloudflare, Inc.
 2.56.139.151/32 # United States | Kentucky | Shock Hosting LLC
 2.56.139.211/32 # United States | California | Shock Hosting LLC
 2.57.148.79/32 # United States | California | Clouvider Limited
@@ -45,6 +46,7 @@
 5.57.210.16/32 # United States | New York | Clouvider Limited
 5.57.210.42/32 # United States | New York | Clouvider Limited
 5.57.210.62/32 # United States | New York | Clouvider Limited
+5.61.59.201/32 # Netherlands | North Holland | Scalaxy B.V.
 5.62.56.13/32 # United States | California | Avast Software S.R.O.
 5.146.251.33/32 # Germany | Hesse | Vodafone GmbH
 5.180.55.27/32 # Slovak Republic | Bratislava | STARK INDUSTRIES SOLUTIONS LTD
@@ -69,7 +71,6 @@
 5.253.188.170/32 # Germany | Hesse | Mtk Global LTD
 8.215.81.217/32 # Indonesia | Special Capital Region of Jakarta | Alibaba us...
 8.222.140.84/32 # Singapore | Southeast | Alibaba us Technology Co., Ltd.
-8.222.225.103/32 # Singapore | Southeast | Alibaba us Technology Co., Ltd.
 8.222.226.153/32 # Singapore | Southeast | Alibaba us Technology Co., Ltd.
 12.202.180.114/32 # United States | New York | AT T Services, Inc.
 12.204.162.242/32 # United States | Texas | AT T Services, Inc.
@@ -124,6 +125,7 @@
 35.148.220.218/32 # United States | North Carolina | Charter Communications
 36.49.26.124/32 # China | Jilin | No. 1,jin rong Street
 36.212.137.134/32 # China | Shanghai | China Mobile
+36.234.65.147/32 # Taiwan | Taichung City | Chunghwa Telecom Co., Ltd.
 37.1.192.67/32 # Germany | Hesse | Leaseweb Deutschland GmbH
 37.1.208.113/32 # United States | Illinois | Hivelocity, Inc.
 37.19.197.182/32 # United States | New York | Datacamp Limited
@@ -201,6 +203,7 @@
 45.87.127.210/32 # United States | California | Clouvider Limited
 45.88.97.225/32 # Germany | Hesse | Cogent Communications
 45.88.102.87/32 # United States | New York | Clouvider Limited
+45.89.53.235/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
 45.89.244.95/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
 45.89.244.133/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
 45.115.89.11/32 # India | Kerala | Railtel Corporation of India Ltd.
@@ -233,6 +236,7 @@
 45.137.155.73/32 # Ukraine | Kyiv city | STARK INDUSTRIES SOLUTIONS LTD
 45.137.155.165/32 # Ukraine | Kyiv city | STARK INDUSTRIES SOLUTIONS LTD
 45.137.194.55/32 # United States | Washington | Nubes, LLC
+45.141.84.45/32 # Russia | Moscow | Media Land LLC
 45.141.87.11/32 # Russia | Saint Petersburg | Media Land LLC
 45.142.214.152/32 # Republic of Moldova | Chisinau | STARK INDUSTRIES SOLUTION...
 45.142.214.192/32 # Republic of Moldova | Chisinau | STARK INDUSTRIES SOLUTION...
@@ -400,7 +404,6 @@
 46.243.93.132/32 # Germany | North Rhine-Westphalia | Dogado GmbH
 46.246.122.185/32 # Norway | Oslo | Glesys Ab
 47.76.72.62/32 # Hong Kong | Hong Kong | Alibaba us Technology Co., Ltd.
-47.101.213.90/32 # China | Shanghai | Hangzhou Alibaba Advertising CO.,LTD.
 47.109.204.63/32 # China | Sichuan | Hangzhou Alibaba Advertising CO.,LTD.
 47.236.135.111/32 # Singapore | Southeast | Alibaba us Technology Co., Ltd.
 47.238.190.64/32 # Hong Kong | Hong Kong | Alibaba us Technology Co., Ltd.
@@ -553,6 +556,7 @@
 87.27.115.70/32 # Italy | Veneto | Telecom Italia S.P.A.
 87.101.92.130/32 # Canada | Québec | M Europe SRL
 87.101.92.171/32 # Canada | Québec | M Europe SRL
+87.120.125.55/32 # Netherlands | North Holland | EKABI
 87.188.44.104/32 # Germany | Rhineland-Palatinate | Deutsche Telekom AG
 87.251.67.58/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 87.251.67.179/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
@@ -666,7 +670,6 @@
 94.156.69.6/32 # Netherlands | North Holland | Limenet
 94.156.69.111/32 # Netherlands | North Holland | Limenet
 94.159.97.237/32 # Germany | Hesse | H NEXUS LTD
-94.232.41.50/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 94.232.44.221/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 94.232.249.36/32 # Netherlands | North Holland | PSB HOSTING LTD
 95.32.7.187/32 # Russia | Voronezh Oblast | Pjsc Rostelecom
@@ -783,6 +786,7 @@
 109.205.62.241/32 # United States | Arizona | Clouvider Limited
 109.236.80.191/32 # Netherlands | South Holland | Worldstream B.V.
 110.155.55.168/32 # China | Changji Hui Autonomous Prefecture | CHINANET BACKBONE
+111.77.114.245/32 # China | Jiangxi | No. 1,jin rong Street
 112.51.253.153/32 # China | Guangdong Province | China Mobile
 112.94.98.201/32 # China | Guangdong Province | China Unicom CHINA1 Guangdong...
 112.132.218.45/32 # China | Anhui | China Unicom China1 Backbone
@@ -802,7 +806,6 @@
 117.83.196.187/32 # China | Jiangsu | China Telecom
 117.196.129.41/32 # India | Puducherry | Bharat Sanchar Nigam LTD
 117.197.31.37/32 # India | Haryana | Bharat Sanchar Nigam LTD
-117.199.31.68/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.200.88.233/32 # India | Odisha | Bharat Sanchar Nigam LTD
 117.200.159.105/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.206.23.220/32 # India | Kerala | Bharat Sanchar Nigam LTD
@@ -821,10 +824,10 @@
 117.215.254.194/32 # India | Himachal Pradesh | Bharat Sanchar Nigam LTD
 117.217.91.67/32 # India | Madhya Pradesh | Bharat Sanchar Nigam LTD
 117.217.91.68/32 # India | Karnataka | Bharat Sanchar Nigam LTD
-117.219.115.173/32 # India | Chandigarh | Bharat Sanchar Nigam LTD
 117.221.172.186/32 # India | Odisha | Bharat Sanchar Nigam LTD
 117.231.159.53/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
 117.235.61.26/32 # India | Punjab | Bharat Sanchar Nigam LTD
+117.235.63.180/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
 117.244.201.236/32 # India | Delhi | Bharat Sanchar Nigam LTD
 117.252.164.83/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
 117.254.32.96/32 # India | Kerala | Bharat Sanchar Nigam LTD
@@ -848,6 +851,7 @@
 120.85.119.245/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
 120.85.143.96/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.182.153/32 # China | Guangdong Province | China Unicom Guangzhou Network
+120.86.252.203/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
 121.201.109.98/32 # China | Guangdong Province | Guangdong
 121.228.46.170/32 # China | Jiangsu | Chinanet
 122.96.31.146/32 # China | Jiangsu | China Unicom China1 Backbone
@@ -1187,8 +1191,10 @@
 172.58.132.197/32 # United States | Florida | T mobile Usa, Inc.
 172.58.135.118/32 # United States | Florida | T mobile Usa, Inc.
 172.59.50.183/32 # United States | California | T mobile Usa, Inc.
+172.86.96.58/32 # United States | New York | Routerhosting LLC
 172.86.96.245/32 # United States | New York | Routerhosting LLC
 172.86.105.129/32 # United States | New York | Routerhosting LLC
+172.86.107.129/32 # United States | New York | Routerhosting LLC
 172.86.109.169/32 # United States | New York | Routerhosting LLC
 172.86.123.127/32 # United States | Texas | Routerhosting LLC
 172.93.165.10/32 # Hong Kong | Hong Kong | Gigabit Hosting Sdn Bhd
@@ -1445,6 +1451,7 @@
 185.68.83.68/32 # United States | District of Columbia | Clouvider Limited
 185.68.83.164/32 # United States | District of Columbia | Clouvider Limited
 185.68.83.219/32 # United States | New York | Clouvider Limited
+185.68.185.218/32 # United States | New York | Purevoltage Hosting Inc.
 185.72.199.129/32 # Poland | Kuyavian-Pomeranian Voivodeship | DATA SPACE SP Z...
 185.73.124.164/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 185.73.125.102/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
@@ -1455,6 +1462,7 @@
 185.81.71.52/32 # United States | New York | Clouvider Limited
 185.81.71.106/32 # United States | New York | Clouvider Limited
 185.81.71.230/32 # United States | Arizona | Clouvider Limited
+185.81.144.94/32 # United States | New York | Btt Group Finance LTD
 185.87.149.179/32 # Czech Republic | Prague | M Europe SRL
 185.87.150.109/32 # France | Île-de-France | M Europe SRL
 185.92.181.226/32 # United States | Missouri | CGI GLOBAL LIMITED
@@ -1465,6 +1473,7 @@
 185.98.42.117/32 # United States | New York | Clouvider Limited
 185.98.42.147/32 # United States | Texas | Clouvider Limited
 185.98.42.158/32 # United States | Texas | Clouvider Limited
+185.102.112.159/32 # United States | New York | Btt Group Finance LTD
 185.104.186.210/32 # Belgium | Brussels-Capital | M Europe SRL
 185.104.187.66/32 # Hungary | Central Hungary | M Europe SRL
 185.105.1.243/32 # India | Maharashtra | G core Labs S.A.
@@ -1492,6 +1501,7 @@
 185.189.112.19/32 # Germany | Hesse | M Europe SRL
 185.196.8.158/32 # Seychelles | Mahe | Global data System IT Corporation
 185.196.9.26/32 # Seychelles | Mahe | Global data System IT Corporation
+185.196.9.31/32 # Seychelles | Mahe | Global data System IT Corporation
 185.201.136.26/32 # Germany | Berlin | NETLABS LLC
 185.201.137.16/32 # Germany | Berlin | NETLABS LLC
 185.201.137.105/32 # Germany | Berlin | NETLABS LLC
@@ -1705,6 +1715,7 @@
 200.150.194.109/32 # Brazil | State of São Paulo | Saveincloud Hospedagem Na In...
 201.217.220.26/32 # Colombia | Cundinamarca | Ifx Corporation
 202.43.239.13/32 # Singapore | Southeast | Better Cloud Limited
+202.107.3.139/32 # China | Liaoning | China Unicom China1 Backbone
 202.186.4.116/32 # Malaysia | Federal Territory of Kuala Lumpur | TT DOTCOM S...
 203.83.9.60/32 # China | Jiangsu | Hong Kong San Ai Net Int l Limited
 203.83.9.62/32 # China | Jiangsu | Hong Kong San Ai Net Int l Limited
@@ -1715,6 +1726,7 @@
 205.204.87.47/32 # Canada | Québec | Estruxture Data Centers Inc.
 206.71.148.78/32 # United Kingdom | England | Bl Networks
 206.188.196.28/32 # Netherlands | North Holland | Bl Networks
+206.206.77.33/32 # Singapore | Southeast | Regxa Company for Information Tech...
 207.204.248.123/32 # United States | Texas | NETWORK TRANSIT HOLDINGS LLC
 210.209.72.180/32 # Hong Kong | Hong Kong | Hong Kong Broadband Network LTD
 211.105.140.2/32 # Republic of Korea | Daegu | Korea Telecom
@@ -1801,8 +1813,8 @@
 217.212.240.67/32 # Italy | Lombardy | Arelion Sweden Ab
 217.212.240.68/32 # Italy | Lombardy | Arelion Sweden Ab
 217.212.244.66/32 # Spain | Madrid | Arelion Sweden Ab
+220.132.100.93/32 # Taiwan | Keelung City | Chunghwa Telecom Co., Ltd.
 220.158.158.108/32 # India | Karnataka | Railtel Corporation of India Ltd.
-220.158.158.163/32 # India | Tamil Nadu | Railtel Corporation of India Ltd.
 220.158.159.180/32 # India | Karnataka | Railtel Corporation of India Ltd.
 221.15.140.68/32 # China | Henan | China Unicom China1 Backbone
 222.137.106.167/32 # China | Henan | China Unicom China1 Backbone
