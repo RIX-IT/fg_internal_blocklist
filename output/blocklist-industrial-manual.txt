@@ -6,6 +6,7 @@
 5.181.171.0/24 # United States | New York | Btt Group Finance LTD
 5.183.254.0/24 # United States | California | Btt Group Finance LTD
 5.183.255.0/24 # Netherlands | North Holland | Hosting Solution Ltd.
+5.253.188.0/24 # Germany | Hesse | Mtk Global LTD
 23.162.40.0/24 # United States | California | Cyber Data LLC
 31.15.17.0/24 # Netherlands | North Holland | CGI GLOBAL LIMITED
 37.19.200.0/24 # United States | Texas | Datacamp Limited
@@ -141,7 +142,9 @@
 216.218.206.0/24 # United States | California | Hurricane Electric LLC
 217.145.227.0/24 # United States | New York | Purevoltage Hosting Inc.
 2.203.70.170/32 # Germany | North Rhine-Westphalia | Vodafone GmbH
+2.207.67.19/32 # Germany | North Rhine-Westphalia | Vodafone GmbH
 2.213.61.216/32 # Germany | Hesse | Telefonica Germany GmbH Co.ohg
+2.242.74.158/32 # Germany | Bavaria | Telefonica Germany GmbH Co.ohg
 4.36.10.34/32 # United States | Utah | Level
 5.45.94.109/32 # Netherlands | Drenthe | Scalaxy B.V.
 5.146.192.217/32 # Germany | Baden-Württemberg | Vodafone GmbH
@@ -154,14 +157,11 @@
 5.188.217.84/32 # United States | New York | Btt Group Finance LTD
 5.188.217.178/32 # United States | New York | Btt Group Finance LTD
 5.231.145.33/32 # Germany | Rhineland-Palatinate | Kevag Telekom GmbH
-5.253.188.149/32 # Germany | Hesse | Mtk Global LTD
-5.253.188.165/32 # Germany | Hesse | Mtk Global LTD
-5.253.188.234/32 # Germany | Hesse | Mtk Global LTD
-5.253.188.240/32 # Germany | Hesse | Mtk Global LTD
 12.131.182.244/32 # United States | California | AT T Services, Inc.
 12.154.158.230/32 # United States | Michigan | AT T Services, Inc.
 12.171.247.87/32 # United States | Kentucky | City of Bardstown, Kentucky
 14.22.114.198/32 # China | Guangdong Province | China Telecom
+14.102.238.145/32 # Germany | Hesse | Hosteons Pte. Ltd.
 23.162.40.75/32 # United States | California | Cyber Data LLC
 23.166.88.198/32 # Switzerland | Zurich | GTHost
 23.245.220.153/32 # United States | Ohio | Breezeline
@@ -181,21 +181,27 @@
 31.15.16.165/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
 31.15.16.244/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
 31.16.75.129/32 # Germany | Schleswig-Holstein | Vodafone GmbH
+31.18.249.219/32 # Germany | Saxony-Anhalt | Vodafone GmbH
+31.57.241.28/32 # Germany | Hesse | DASABO OU
 31.59.185.9/32 # United States | California | LEAPSWITCH NETWORKS PRIVATE L...
 31.59.185.28/32 # United States | California | LEAPSWITCH NETWORKS PRIVATE L...
 31.59.185.128/32 # United States | California | LEAPSWITCH NETWORKS PRIVATE L...
 31.150.20.162/32 # Germany | Lower Saxony | Ewe Tel GmbH
 31.184.236.84/32 # Czech Republic | Prague | Bralu Jurjanu Biedriba
+31.204.3.217/32 # Germany | Berlin | Sia Singularity Telecom
 34.244.213.37/32 # Ireland | Leinster | Amazon.com, Inc.
 37.1.192.67/32 # Germany | Hesse | Leaseweb Deutschland GmbH
 37.1.200.68/32 # Netherlands | North Holland | Scalaxy B.V.
 37.1.208.113/32 # United States | Illinois | Hivelocity, Inc.
 37.4.250.159/32 # Germany | Saxony | Vodafone GmbH
 37.24.53.181/32 # Germany | North Rhine-Westphalia | Vodafone GmbH
+37.24.189.105/32 # Germany | North Rhine-Westphalia | Vodafone GmbH
 37.82.31.91/32 # Germany | Saxony-Anhalt | Deutsche Telekom AG
 37.114.34.17/32 # Germany | Hesse | Oliver Horscht Is Trading AS Synlinq
 37.138.5.50/32 # Germany | Lower Saxony | Ewe Tel GmbH
 37.138.30.86/32 # Germany | Lower Saxony | Ewe Tel GmbH
+37.201.118.61/32 # Germany | North Rhine-Westphalia | Vodafone GmbH
+37.201.194.6/32 # Germany | North Rhine-Westphalia | Vodafone GmbH
 37.201.196.215/32 # Germany | North Rhine-Westphalia | Vodafone GmbH
 37.201.228.132/32 # Germany | North Rhine-Westphalia | Vodafone GmbH
 37.201.241.53/32 # Germany | Hesse | Vodafone GmbH
@@ -208,6 +214,7 @@
 43.225.189.146/32 # United States | Massachusetts | Hostroyale Technologies Pv...
 43.225.189.152/32 # United States | Massachusetts | Hostroyale Technologies Pv...
 43.240.149.41/32 # Germany | Bavaria | DASABO OU
+43.240.149.182/32 # Germany | Bavaria | DASABO OU
 44.218.64.234/32 # United States | Virginia | Amazon.com, Inc.
 45.3.46.220/32 # Germany | Hesse | xk Tech GmbH
 45.3.46.246/32 # Germany | Hesse | xk Tech GmbH
@@ -338,18 +345,23 @@
 77.11.179.135/32 # Germany | Berlin | Telefonica Germany GmbH Co.ohg
 77.13.51.109/32 # Germany | Berlin | Telefonica Germany GmbH Co.ohg
 77.22.88.223/32 # Germany | Lower Saxony | Vodafone GmbH
+77.25.42.247/32 # Germany | Lower Saxony | Vodafone GmbH
 77.83.195.71/32 # United States | Illinois | Hivelocity LLC
 77.87.235.122/32 # Czech Republic | Northwest | O Czech Republic, A.S.
 77.90.12.142/32 # Germany | North Rhine-Westphalia | Felix Gassan
 77.90.22.118/32 # Germany | North Rhine-Westphalia | Felix Gassan
 77.90.28.131/32 # Germany | Hesse | Oliver Horscht Is Trading AS Synlinq
 77.90.52.159/32 # Germany | Hesse | Dataforest GmbH
+77.91.66.127/32 # Germany | Hesse | Andrii Hrosh
 77.179.167.38/32 # Germany | Saxony | Telefonica Germany GmbH Co.ohg
 77.181.154.176/32 # Germany | Baden-Württemberg | Telefonica Germany GmbH Co.ohg
 77.183.94.113/32 # Germany | Saxony | Telefonica Germany GmbH Co.ohg
 77.200.192.198/32 # France | Île-de-France | Societe Francaise Du Radiotelepho...
 77.221.134.5/32 # Netherlands | North Holland | Ml Cloud LTD
+78.43.97.209/32 # Germany | Baden-Württemberg | Vodafone GmbH
+78.48.122.199/32 # Germany | North Rhine-Westphalia | Telefonica Germany GmbH...
 78.54.118.241/32 # Germany | Berlin | Telefonica Germany GmbH Co.ohg
+78.94.171.10/32 # Germany | North Rhine-Westphalia | Vodafone GmbH
 78.128.112.62/32 # Bulgaria | Sofia-city | media Ltd.
 78.147.28.235/32 # United Kingdom | England | Talktalk Communications Limited
 78.153.81.138/32 # Germany | North Rhine-Westphalia | Stephan Fuss Trading AS...
@@ -358,7 +370,9 @@
 79.127.222.215/32 # United States | Texas | Datacamp Limited
 79.137.203.184/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
 79.140.115.55/32 # Germany | Berlin | Dns net Internet Service GmbH
+79.196.29.33/32 # Germany | Bavaria | Deutsche Telekom AG
 79.198.73.113/32 # Germany | Hesse | Deutsche Telekom AG
+79.201.110.218/32 # Germany | Lower Saxony | Deutsche Telekom AG
 79.207.56.157/32 # Germany | Bavaria | Deutsche Telekom AG
 79.209.53.11/32 # Germany | North Rhine-Westphalia | Deutsche Telekom AG
 79.211.81.96/32 # Germany | North Rhine-Westphalia | Deutsche Telekom AG
@@ -375,6 +389,7 @@
 80.66.88.33/32 # Netherlands | Drenthe | XHOST INTERNET SOLUTIONS LP
 80.66.88.34/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 80.132.56.128/32 # Germany | Hesse | Deutsche Telekom AG
+80.139.128.132/32 # Germany | Bavaria | Deutsche Telekom AG
 80.140.192.243/32 # Germany | Lower Saxony | Deutsche Telekom AG
 80.187.124.74/32 # Germany | Lower Saxony | Deutsche Telekom AG
 80.239.140.67/32 # Germany | Hesse | Arelion Sweden Ab
@@ -385,6 +400,7 @@
 83.135.10.194/32 # Germany | Thuringia | 1 1 Versatel Deutschland GmbH
 83.135.113.65/32 # Germany | Schleswig-Holstein | 1 1 Versatel Deutschland GmbH
 83.135.144.222/32 # Germany | North Rhine-Westphalia | 1 1 Versatel Deutschlan...
+83.135.167.230/32 # Germany | Bavaria | 1 1 Versatel Deutschland GmbH
 83.135.167.248/32 # Germany | Bavaria | 1 1 Versatel Deutschland GmbH
 83.135.167.249/32 # Germany | Bavaria | 1 1 Versatel Deutschland GmbH
 83.135.185.18/32 # Germany | North Rhine-Westphalia | 1 1 Versatel Deutschlan...
@@ -395,7 +411,9 @@
 84.62.65.140/32 # Germany | Hesse | Vodafone GmbH
 84.132.131.232/32 # Germany | Hesse | Deutsche Telekom AG
 84.136.30.204/32 # Germany | Bavaria | Deutsche Telekom AG
+84.138.206.201/32 # Germany | Rhineland-Palatinate | Deutsche Telekom AG
 84.139.149.228/32 # Germany | Berlin | Deutsche Telekom AG
+84.144.195.61/32 # Germany | Saxony-Anhalt | Deutsche Telekom AG
 84.153.61.94/32 # Germany | Saxony | Deutsche Telekom AG
 84.154.20.188/32 # Germany | Schleswig-Holstein | Deutsche Telekom AG
 84.154.49.107/32 # Germany | Hesse | Deutsche Telekom AG
@@ -436,9 +454,11 @@
 88.99.216.183/32 # Germany | Saxony | Hetzner Online GmbH
 88.130.77.227/32 # Germany | Baden-Württemberg | 1 1 Versatel Deutschland GmbH
 88.130.110.226/32 # Germany | Hesse | 1 1 Versatel Deutschland GmbH
+88.152.101.89/32 # Germany | Hesse | Vodafone GmbH
 88.208.139.251/32 # Germany | North Rhine-Westphalia | Heli Net Telekommunikat...
 89.1.148.225/32 # Germany | North Rhine-Westphalia | Netcologne Gesellschaft...
 89.14.102.45/32 # Germany | Saxony-Anhalt | Telefonica Germany GmbH Co.ohg
+89.58.64.198/32 # Germany | Lower Saxony | provide GmbH
 89.182.201.115/32 # Germany | Lower Saxony | Htp GmbH
 89.183.47.7/32 # Germany | Lower Saxony | Htp GmbH
 89.209.243.85/32 # Ukraine | Kyiv city | Prjsc Vf Ukraine
@@ -449,6 +469,7 @@
 89.244.241.231/32 # Germany | Baden-Württemberg | 1 1 Versatel Deutschland GmbH
 89.247.2.40/32 # Germany | North Rhine-Westphalia | 1 1 Versatel Deutschlan...
 90.206.237.147/32 # United Kingdom | England | Sky UK Limited
+91.22.33.182/32 # Germany | Rhineland-Palatinate | Deutsche Telekom AG
 91.38.81.93/32 # Germany | North Rhine-Westphalia | Deutsche Telekom AG
 91.41.228.63/32 # Germany | Berlin | Deutsche Telekom AG
 91.51.214.143/32 # Germany | Rhineland-Palatinate | Deutsche Telekom AG
@@ -501,15 +522,21 @@
 93.237.36.29/32 # Germany | Hesse | Deutsche Telekom AG
 93.237.40.21/32 # Germany | Hesse | Deutsche Telekom AG
 94.31.72.2/32 # Germany | North Rhine-Westphalia | Deutsche Glasfaser Whol...
+94.31.109.226/32 # Germany | North Rhine-Westphalia | Deutsche Glasfaser Whol...
 94.102.49.127/32 # Netherlands | North Holland | Ip Volume INC
 94.103.9.27/32 # Netherlands | Flevoland | FOXCLOUD LLP
+94.139.28.215/32 # Germany | Mecklenburg-Vorpommern | Tele Columbus AG
 94.139.29.42/32 # Germany | Mecklenburg-Vorpommern | Tele Columbus AG
 94.154.1.77/32 # Germany | Bavaria | MATTEO FILIBERTO SCIACCA trading as Lo...
 94.159.97.237/32 # Germany | Hesse | H NEXUS LTD
 94.217.220.85/32 # Germany | North Rhine-Westphalia | Vodafone GmbH
 94.232.40.234/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 94.232.41.50/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
+95.90.209.131/32 # Germany | Saxony | Vodafone GmbH
+95.90.240.167/32 # Germany | Brandenburg | Vodafone GmbH
+95.90.240.168/32 # Germany | Brandenburg | Vodafone GmbH
 95.91.217.209/32 # Germany | Saarland | Vodafone GmbH
+95.91.235.189/32 # Germany | Bavaria | Vodafone GmbH
 95.111.245.214/32 # Germany | Bavaria | Contabo GmbH
 95.116.54.223/32 # Germany | Hamburg | Telefonica Germany GmbH Co.ohg
 95.173.222.18/32 # France | Île-de-France | Datacamp Limited
@@ -518,6 +545,10 @@
 95.182.98.96/32 # France | Île-de-France | CGI GLOBAL LIMITED
 95.182.98.112/32 # France | Île-de-France | CGI GLOBAL LIMITED
 95.214.27.8/32 # Netherlands | North Holland | Perfecto Consultoria E Apoio...
+95.223.70.243/32 # Germany | North Rhine-Westphalia | Vodafone GmbH
+95.223.72.188/32 # Germany | Hesse | Vodafone GmbH
+95.223.75.182/32 # Germany | Hesse | Vodafone GmbH
+95.223.79.165/32 # Germany | North Rhine-Westphalia | Vodafone GmbH
 96.44.189.110/32 # United States | Texas | Quadranet Enterprises LLC
 96.44.191.132/32 # United States | Texas | Quadranet Enterprises LLC
 96.70.212.134/32 # United States | Connecticut | Comcast Cable Communications...
@@ -576,6 +607,7 @@
 146.70.185.181/32 # United States | New Jersey | M Europe SRL
 146.70.187.199/32 # United States | Florida | M Europe SRL
 146.70.187.243/32 # United States | Florida | M Europe SRL
+146.103.40.20/32 # Germany | Hesse | Regxa Company for Information Technology...
 146.185.202.178/32 # Russia | Moscow | Purevoltage Hosting Inc.
 146.185.202.221/32 # Russia | Moscow | Purevoltage Hosting Inc.
 146.185.203.190/32 # Russia | Moscow | Purevoltage Hosting Inc.
@@ -586,15 +618,26 @@
 147.78.183.97/32 # United States | New York | Purevoltage Hosting Inc.
 147.135.112.230/32 # United States | Oregon | OVH SAS
 149.40.50.121/32 # United States | Massachusetts | Datacamp Limited
+149.172.35.127/32 # Germany | North Rhine-Westphalia | Vodafone GmbH
 150.158.79.156/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
 154.38.170.203/32 # United States | New York | Nubes, LLC
 154.57.3.32/32 # Greece | Attica | Cogent Communications
 154.83.31.34/32 # Japan | Tokyo | Cloudflare London, LLC
 154.213.186.177/32 # Netherlands | North Holland | Pfcloud UG
 156.228.171.180/32 # Germany | Hesse | xk Tech GmbH
+156.228.176.227/32 # Germany | Hesse | xk Tech GmbH
 156.228.177.193/32 # Germany | Hesse | xk Tech GmbH
+156.228.179.161/32 # Germany | Hesse | xk Tech GmbH
+156.228.182.28/32 # Germany | Hesse | xk Tech GmbH
 156.228.182.58/32 # Germany | Hesse | xk Tech GmbH
+156.228.182.207/32 # Germany | Hesse | xk Tech GmbH
+156.228.184.115/32 # Germany | Hesse | xk Tech GmbH
+156.228.184.212/32 # Germany | Hesse | xk Tech GmbH
+156.228.185.5/32 # Germany | Hesse | xk Tech GmbH
+156.228.185.253/32 # Germany | Hesse | xk Tech GmbH
+156.228.190.158/32 # Germany | Hesse | xk Tech GmbH
 159.223.167.28/32 # United States | New Jersey | Digitalocean, LLC
+160.22.142.89/32 # Germany | Hesse | BAGE CLOUD LLC
 160.124.38.93/32 # South Africa | Gauteng | POWER LINE HK CO., LIMITED
 162.0.201.15/32 # United States | Illinois | HOLSTON ELECTRIC COOPERATIVE
 162.0.202.17/32 # United States | Illinois | HOLSTON ELECTRIC COOPERATIVE
@@ -622,11 +665,13 @@
 174.169.15.212/32 # United States | Vermont | Comcast Cable Communications, LLC
 174.176.194.13/32 # United States | Florida | Comcast Cable Communications, LLC
 176.2.78.9/32 # Germany | Baden-Württemberg | Telefonica Germany GmbH Co.ohg
+176.3.3.122/32 # Germany | Hesse | Telefonica Germany GmbH Co.ohg
 176.3.133.75/32 # Germany | Baden-Württemberg | Telefonica Germany GmbH Co.ohg
 176.88.34.162/32 # Turkey | İstanbul | Superonline Iletisim Hizmetleri A.S.
 176.102.130.20/32 # Czech Republic | Central Moravia | Nordic Telecom Regional...
 176.111.113.28/32 # Poland | Masovian Voivodeship | Digi Com ISP Radoslaw Sikora
 176.199.253.56/32 # Germany | Hesse | Vodafone GmbH
+176.199.255.40/32 # Germany | North Rhine-Westphalia | Vodafone GmbH
 178.20.212.45/32 # United States | New Jersey | Hosting Solution Ltd.
 178.142.249.230/32 # Germany | Lower Saxony | Ewe Tel GmbH
 178.142.253.2/32 # Germany | Hesse | Ewe Tel GmbH
@@ -690,6 +735,8 @@
 188.116.40.24/32 # Poland | Pomeranian Voivodeship | Artnet Sp. Z O.O.
 188.136.60.137/32 # Germany | North Rhine-Westphalia | Heli Net Telekommunikat...
 188.136.63.230/32 # Germany | North Rhine-Westphalia | Heli Net Telekommunikat...
+188.191.106.97/32 # United States | Kentucky | Aurologic GmbH
+188.191.106.214/32 # United States | Kentucky | Aurologic GmbH
 190.92.169.75/32 # United States | New York | Whg Hosting Services LTD
 192.109.77.10/32 # Germany | Hesse | Ggew Net GmbH
 192.210.199.34/32 # United States | New York | HostPapa
@@ -757,6 +804,7 @@
 205.220.247.19/32 # United States | Alabama | Tombigbee Communications, LLC
 206.180.145.6/32 # United States | Georgia | Progressive Rural Telephone Coop...
 207.5.8.30/32 # United States | South Carolina | Hargray Communications Gr...
+207.89.76.94/32 # Germany | North Rhine-Westphalia | TELE AG
 207.144.39.164/32 # United States | South Carolina | Spirit Communications
 207.144.123.158/32 # United States | South Carolina | Truvista Communications
 207.177.225.105/32 # Germany | Hesse | Hotwire Communications
