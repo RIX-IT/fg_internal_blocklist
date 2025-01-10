@@ -62,6 +62,7 @@
 5.146.248.77/32 # Germany | North Rhine-Westphalia | Vodafone GmbH
 5.146.251.33/32 # Germany | Hesse | Vodafone GmbH
 5.178.98.214/32 # India | Delhi | YOTTA NETWORK SERVICES PRIVATE LIMITED
+5.180.24.76/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
 5.180.24.123/32 # United States | Florida | STARK INDUSTRIES SOLUTIONS LTD
 5.180.55.27/32 # Slovak Republic | Bratislava | STARK INDUSTRIES SOLUTIONS LTD
 5.180.55.106/32 # Slovak Republic | Bratislava | STARK INDUSTRIES SOLUTIONS LTD
@@ -114,7 +115,6 @@
 27.124.37.30/32 # Japan | Tokyo | Ctg Server Limited
 27.124.37.59/32 # Japan | Tokyo | Ctg Server Limited
 27.124.37.64/32 # Japan | Tokyo | Ctg Server Limited
-27.124.237.170/32 # Republic of Korea |  | Sk Broadband Co LTD
 27.184.205.174/32 # China | Hebei | No. 1,jin rong Street
 31.15.16.23/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
 31.15.16.95/32 # Netherlands | North Holland | CGI GLOBAL LIMITED
@@ -499,7 +499,6 @@
 59.127.155.250/32 # Taiwan | Taichung City | Chunghwa Telecom Co., Ltd.
 59.183.134.70/32 # India | Punjab | Bharat Sanchar Nigam LTD
 59.184.254.245/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
-60.19.216.13/32 # China | Liaoning | China Unicom China1 Backbone
 60.204.201.75/32 # China | Shanghai | Huawei Cloud Service Data Center
 61.0.210.59/32 # India | Punjab | Bharat Sanchar Nigam LTD
 61.3.96.138/32 # India | Kerala | Bharat Sanchar Nigam LTD
@@ -546,7 +545,6 @@
 76.157.166.164/32 # United States | Illinois | Comcast Cable Communications, LLC
 77.21.108.227/32 # Germany | Lower Saxony | Vodafone GmbH
 77.21.255.230/32 # Germany | Rhineland-Palatinate | Vodafone GmbH
-77.55.210.100/32 # Poland | Lesser Poland Voivodeship | Nazwa.pl SP.Z.O.O.
 77.72.84.66/32 # United States | District of Columbia | Clouvider Limited
 77.72.84.142/32 # United States | District of Columbia | Clouvider Limited
 77.83.4.45/32 # United States | California | Clouvider Limited
@@ -812,10 +810,8 @@
 103.159.133.251/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
 103.167.204.46/32 # India | Haryana | Fibre Air Services Private Limited
 103.197.115.128/32 # India | Karnataka | Railtel Corporation of India Ltd.
-103.197.115.134/32 # India | Karnataka | Railtel Corporation of India Ltd.
 103.199.180.73/32 # India | Jharkhand | Railtel Corporation of India Ltd.
 103.199.200.110/32 # India | Jharkhand | Railtel Corporation of India Ltd.
-103.199.205.21/32 # India | Delhi | Railtel Corporation of India Ltd.
 103.200.84.41/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
 103.210.101.214/32 # India | Delhi | Railtel Corporation of India Ltd.
 103.231.88.202/32 # Australia | Victoria | G NETWORK OPERATIONS PTY LTD
@@ -833,8 +829,6 @@
 104.183.100.189/32 # United States | Florida | AT T Services, Inc.
 104.194.153.65/32 # Singapore | Southeast | Routerhosting LLC
 104.195.154.26/32 # Canada | Ontario | Teksavvy Solutions, Inc.
-104.219.238.219/32 # United States | New York | Datawagon LLC
-104.236.3.45/32 # United States | New Jersey | Digitalocean, LLC
 104.252.153.168/32 # United States | New York | GREEN FLOID LLC
 104.252.153.180/32 # United States | New York | GREEN FLOID LLC
 104.252.183.20/32 # United States | New York | GREEN FLOID LLC
@@ -869,7 +863,6 @@
 113.24.150.247/32 # China | Shanxi | No. 1,jin rong Street
 113.116.146.180/32 # China | Guangdong Province | No. 1,jin rong Street
 113.215.223.249/32 # China | Zhejiang | Huashu Media network Limited
-114.35.18.111/32 # Taiwan | Keelung City | Chunghwa Telecom Co., Ltd.
 114.46.118.34/32 # Taiwan | Taichung City | Chunghwa Telecom Co., Ltd.
 115.49.79.50/32 # China | Henan | China Unicom China1 Backbone
 115.52.4.209/32 # China | Henan | China Unicom China1 Backbone
@@ -900,18 +893,15 @@
 117.235.63.180/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
 117.235.106.57/32 # India | Delhi | Bharat Sanchar Nigam LTD
 117.243.246.36/32 # India | Jammu and Kashmir | Bharat Sanchar Nigam LTD
-117.252.164.83/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
 117.254.60.166/32 # India | Punjab | Bharat Sanchar Nigam LTD
 117.254.102.23/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.255.179.63/32 # India | Telangana | Bharat Sanchar Nigam LTD
 118.174.96.51/32 # Thailand | Chiang Rai Province | Tot Public Company Limited
 119.147.213.48/32 # China | Guangdong Province | No. 1,jin rong Street
-120.85.112.163/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.114.236/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
 120.85.116.4/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.117.126/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.119.18/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
-120.85.119.24/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
 120.85.119.245/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
 120.85.143.96/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.182.153/32 # China | Guangdong Province | China Unicom Guangzhou Network
@@ -929,7 +919,6 @@
 124.131.134.29/32 # China | Shandong | China Unicom China1 Backbone
 124.149.227.81/32 # Australia | New South Wales | Tpg Internet Pty LTD
 124.156.48.83/32 # India | Maharashtra | Shenzhen Tencent Computer Systems Co...
-124.234.246.127/32 # China | Jilin | No. 1,jin rong Street
 125.40.52.223/32 # China | Henan | China Unicom China1 Backbone
 125.229.237.151/32 # Taiwan | New Taipei City | Chunghwa Telecom Co., Ltd.
 128.127.104.80/32 # Sweden | Stockholm County | Altushost B.V.
@@ -958,7 +947,6 @@
 139.59.141.43/32 # Germany | Hesse | Digitalocean, LLC
 139.59.236.31/32 # Singapore | Southeast | Digitalocean, LLC
 139.99.114.108/32 # Singapore | Southeast | OVH SAS
-139.198.161.46/32 # China | Beijing | Chinanet Guangdong Province Network
 141.98.9.3/32 # Netherlands | North Holland | Flyservers S.A.
 141.98.102.227/32 # Germany | Schleswig-Holstein | M Europe SRL
 141.98.102.243/32 # Germany | Schleswig-Holstein | M Europe SRL
@@ -1101,6 +1089,7 @@
 147.78.183.233/32 # United States | New York | Purevoltage Hosting Inc.
 147.135.112.230/32 # United States | Oregon | OVH SAS
 149.40.50.45/32 # United States | Massachusetts | Datacamp Limited
+149.62.45.7/32 # Japan | Tokyo | Owl Limited
 149.62.45.22/32 # Japan | Tokyo | Owl Limited
 151.236.17.180/32 # Germany | Hesse | M Europe SRL
 154.6.13.139/32 # United States | New Hampshire | Logicweb Inc.
@@ -1152,6 +1141,7 @@
 156.242.73.49/32 # United States | California | OCTOPUS WEB SOLUTION INC
 156.242.75.106/32 # United States | California | OCTOPUS WEB SOLUTION INC
 156.242.83.144/32 # United States | California | OCTOPUS WEB SOLUTION INC
+156.242.96.45/32 # United States | California | OCTOPUS WEB SOLUTION INC
 156.242.107.57/32 # United States | California | OCTOPUS WEB SOLUTION INC
 157.173.104.153/32 # Germany | North Rhine-Westphalia | Contabo GmbH
 157.231.51.20/32 # United Kingdom | England | Gamma Telecom Holdings LTD
@@ -1254,6 +1244,8 @@
 172.58.135.118/32 # United States | Florida | T mobile Usa, Inc.
 172.59.50.183/32 # United States | California | T mobile Usa, Inc.
 172.59.194.188/32 # United States | Texas | T mobile Usa, Inc.
+172.86.73.238/32 # United States | Texas | Routerhosting LLC
+172.86.84.55/32 # United States | Texas | Routerhosting LLC
 172.86.96.58/32 # United States | New York | Routerhosting LLC
 172.86.96.245/32 # United States | New York | Routerhosting LLC
 172.86.105.129/32 # United States | New York | Routerhosting LLC
@@ -1449,7 +1441,6 @@
 176.106.141.242/32 # United States | Arizona | Clouvider Limited
 176.106.142.111/32 # United States | Arizona | Clouvider Limited
 176.106.142.166/32 # United States | Arizona | Clouvider Limited
-176.120.67.97/32 # Latvia | Vidzeme | STARK INDUSTRIES SOLUTIONS LTD
 176.120.67.102/32 # Latvia | Vidzeme | STARK INDUSTRIES SOLUTIONS LTD
 176.120.72.184/32 # Kazakhstan | Almaty Province | STARK INDUSTRIES SOLUTIONS LTD
 176.120.75.145/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
@@ -1487,10 +1478,12 @@
 182.112.30.63/32 # China | Henan | China Unicom China1 Backbone
 182.116.12.196/32 # China | Henan | China Unicom China1 Backbone
 182.121.137.126/32 # China | Henan | China Unicom China1 Backbone
+182.121.242.12/32 # China | Henan | China Unicom China1 Backbone
 182.123.182.155/32 # China | Henan | China Unicom China1 Backbone
 182.127.71.140/32 # China | Henan | China Unicom China1 Backbone
 182.127.165.205/32 # China | Henan | China Unicom China1 Backbone
 182.247.185.43/32 # China | Yunnan | Chinanet
+183.149.24.57/32 # China | Zhejiang | Chinanet
 183.154.92.74/32 # China | Zhejiang | Chinanet
 183.240.139.21/32 # China | Guangdong Province | China Mobile Communications C...
 184.75.214.163/32 # Canada | Ontario | Amanah Tech Inc.
@@ -1607,6 +1600,7 @@
 188.130.207.231/32 # France | Île-de-France | CGI GLOBAL LIMITED
 188.191.106.97/32 # United States | Kentucky | Aurologic GmbH
 188.214.122.118/32 # Egypt | Cairo | M Europe SRL
+190.109.227.93/32 # Bolivia | La Paz | Cotel Ltda.
 191.96.106.33/32 # United States | California | Cogent Communications
 191.96.150.14/32 # United States | New York | Cogent Communications
 191.96.150.21/32 # United States | New York | Cogent Communications
@@ -1618,6 +1612,7 @@
 191.96.227.159/32 # United States | New York | Cogent Communications
 191.101.217.10/32 # France | Île-de-France | Cogent Communications
 191.243.196.114/32 # Brazil | State of São Paulo | Saveincloud Hospedagem Na In...
+192.18.135.180/32 # United States | California | Oracle Corporation
 192.30.89.59/32 # Canada | British Columbia | Tech Futures Interactive Inc.
 192.30.89.67/32 # Canada | British Columbia | Tech Futures Interactive Inc.
 192.144.16.75/32 # United States | California | Clouvider Limited
@@ -1632,7 +1627,6 @@
 192.177.45.110/32 # United States | Pennsylvania | Clouvider Limited
 192.177.45.132/32 # United States | Pennsylvania | Clouvider Limited
 192.210.199.34/32 # United States | New York | HostPapa
-192.241.157.62/32 # United States | New Jersey | Digitalocean, LLC
 192.243.79.152/32 # Canada | Nova Scotia | Seaside Communications, Inc.
 193.8.75.83/32 # United States | New York | GREEN FLOID LLC
 193.8.75.104/32 # United States | New York | GREEN FLOID LLC
