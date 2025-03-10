@@ -16,7 +16,6 @@
 185.198.240.0/24 # United States | Pennsylvania | Clouvider Limited
 192.253.209.0/24 # United States | New Jersey | Gsl Networks Pty LTD
 193.19.109.0/24 # United States | Washington | Internet Utilities Europe And...
-2.55.98.253/32 # Israel | Center District | Partner Communications Ltd.
 3.15.42.102/32 # United States | Ohio | Amazon.com, Inc.
 3.17.153.24/32 # United States | Ohio | Amazon.com, Inc.
 3.140.201.51/32 # United States | Ohio | Amazon.com, Inc.
@@ -164,6 +163,7 @@
 84.247.187.231/32 # Germany | North Rhine-Westphalia | Contabo GmbH
 85.8.130.22/32 # United States | Washington | Internet Utilities Europe And...
 85.8.130.23/32 # United States | Washington | Internet Utilities Europe And...
+85.8.130.35/32 # United States | Washington | Internet Utilities Europe And...
 85.209.11.155/32 # Russia | Moscow | Chang Way Technologies Co. Limited
 86.104.72.95/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
 86.104.72.137/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
@@ -265,13 +265,8 @@
 104.160.6.2/32 # United Kingdom | England | Orion Network Limited
 104.183.100.189/32 # United States | Florida | AT T Services, Inc.
 104.194.153.65/32 # Singapore | Southeast | Routerhosting LLC
-104.207.32.156/32 # United States | Virginia | xk Tech GmbH
-104.207.34.46/32 # United States | Virginia | xk Tech GmbH
 104.207.36.232/32 # United States | Virginia | xk Tech GmbH
-104.207.42.62/32 # United States | Virginia | xk Tech GmbH
-104.207.42.143/32 # United States | Virginia | xk Tech GmbH
 104.207.58.86/32 # United States | Virginia | xk Tech GmbH
-104.207.61.23/32 # United States | Virginia | xk Tech GmbH
 107.172.43.186/32 # United States | New York | HostPapa
 109.236.80.191/32 # Netherlands | South Holland | Worldstream B.V.
 112.51.253.153/32 # China | Guangdong Province | China Mobile
@@ -299,6 +294,7 @@
 138.68.171.120/32 # United Kingdom | England | Digitalocean, LLC
 138.124.184.119/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
 138.124.184.247/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
+138.197.185.55/32 # Germany | Hesse | Digitalocean, LLC
 139.5.1.209/32 # India | Uttarakhand | Railtel Corporation of India Ltd.
 139.59.108.43/32 # Singapore | Southeast | Digitalocean, LLC
 139.59.236.31/32 # Singapore | Southeast | Digitalocean, LLC
@@ -341,10 +337,8 @@
 154.216.16.111/32 # Republic of Lithuania | Kaunas County | Silent Connection ...
 156.146.60.74/32 # Austria | Vienna | Datacamp Limited
 156.228.81.29/32 # United States | Virginia | xk Tech GmbH
-156.228.84.127/32 # United States | Virginia | xk Tech GmbH
 156.228.88.193/32 # United States | Virginia | xk Tech GmbH
 156.228.107.107/32 # United States | Virginia | xk Tech GmbH
-156.228.115.100/32 # United States | Virginia | xk Tech GmbH
 157.173.104.153/32 # Germany | North Rhine-Westphalia | Contabo GmbH
 157.231.51.20/32 # United Kingdom | England | Gamma Telecom Holdings LTD
 158.247.208.174/32 # Republic of Korea |  | The Constant Company, LLC
@@ -373,6 +367,7 @@
 172.98.71.191/32 # Canada | Nova Scotia | Performive LLC
 172.245.102.85/32 # United States | California | Datacamp Limited
 173.44.141.226/32 # United States | Florida | Eonix Corporation
+173.239.214.14/32 # United States | New Jersey | Clouvider Limited
 173.239.232.20/32 # United States | Colorado | Performive LLC
 173.239.254.2/32 # United States | Washington | Internet Utilities Europe And...
 173.239.254.4/32 # United States | Washington | Internet Utilities Europe And...
@@ -396,7 +391,6 @@
 181.214.166.132/32 # United States | Illinois | Cogent Communications
 185.49.69.41/32 # Germany | Hamburg | Leaseweb Deutschland GmbH
 185.73.124.73/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
-185.73.124.80/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 185.73.124.164/32 # Netherlands | North Holland | XHOST INTERNET SOLUTIONS LP
 185.93.89.120/32 # United Kingdom | England | Limited Network LTD
 185.105.1.243/32 # India | Maharashtra | G core Labs S.A.
@@ -442,7 +436,6 @@
 194.26.29.251/32 # Russia | Saint Petersburg | Media Land LLC
 194.71.107.215/32 # Bulgaria | Sofia-city | Edis GmbH
 194.87.252.22/32 # Russia | Moscow | Baykov Ilya Sergeevich
-194.106.206.193/32 # Romania | Argeș | Internet Resources Management SRL
 194.116.217.148/32 # France | Île-de-France | CGI GLOBAL LIMITED
 194.190.152.108/32 # Russia | Moscow | Baykov Ilya Sergeevich
 195.26.87.209/32 # Netherlands | North Holland | Sollutium Eu Sp Z.O.O.
