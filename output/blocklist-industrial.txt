@@ -1,4 +1,5 @@
 23.94.155.0/24 # United States | Florida | Latitude.sh LTDA
+37.19.210.0/24 # United States | Colorado | Datacamp Limited
 37.19.221.0/24 # United States | Texas | Datacamp Limited
 37.140.223.0/24 # United States | California | Internet Utilities Europe And...
 45.131.193.0/24 # United States | Florida | Latitude.sh LTDA
@@ -23,12 +24,14 @@
 104.234.227.0/24 # United States | California | Gsl Networks Pty LTD
 104.245.240.0/24 # Romania | Bucharest | M Europe SRL
 136.144.33.0/24 # United States | California | Internet Utilities Europe And...
+138.199.43.0/24 # United States | Washington | Datacamp Limited
 142.111.152.0/24 # United States | Texas | Datacamp Limited
 143.244.47.0/24 # United States | New York | Datacamp Limited
 146.19.125.0/24 # Turkey | Bursa | HOSTYPE LLC
 147.45.50.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 149.40.50.0/24 # United States | Massachusetts | Datacamp Limited
 149.57.16.0/24 # United States | Maryland | LogicWeb Inc
+155.2.190.0/24 # Germany | Hesse | Datacamp Limited
 172.98.33.0/24 # United States | Texas | Latitude.sh
 172.245.102.0/24 # United States | California | Datacamp Limited
 173.239.214.0/24 # United States | New Jersey | Clouvider Limited
@@ -113,11 +116,8 @@
 36.255.18.147/32 # India | Telangana | Railtel Corporation of India Ltd.
 37.19.197.182/32 # United States | New York | Datacamp Limited
 37.19.200.136/32 # United States | Texas | Datacamp Limited
+37.19.200.160/32 # United States | Texas | Datacamp Limited
 37.19.200.168/32 # United States | Texas | Datacamp Limited
-37.19.210.7/32 # United States | Colorado | Datacamp Limited
-37.19.210.20/32 # United States | Colorado | Datacamp Limited
-37.19.210.26/32 # United States | Colorado | Datacamp Limited
-37.19.210.31/32 # United States | Colorado | Datacamp Limited
 37.46.113.206/32 # Luxembourg | Canton Capellen | Altushost B.V.
 38.54.30.117/32 # Vietnam | Hanoi | Kaopu Cloud Hk Limited
 38.54.56.88/32 # Japan | Tokyo | Kaopu Cloud Hk Limited
@@ -134,6 +134,7 @@
 42.225.63.197/32 # China | Henan | China Unicom China1 Backbone
 42.235.164.98/32 # China | Henan | China Unicom China1 Backbone
 43.225.189.142/32 # United States | Massachusetts | Hostroyale Technologies Pv...
+43.225.189.149/32 # United States | Massachusetts | Hostroyale Technologies Pv...
 43.225.189.187/32 # United States | Massachusetts | Hostroyale Technologies Pv...
 43.226.126.164/32 # Hong Kong | Hong Kong | Ctg Server Limited
 43.226.126.165/32 # Hong Kong | Hong Kong | Ctg Server Limited
@@ -210,6 +211,7 @@
 78.153.139.202/32 # Finland | Mainland Finland | GLOBAL CONNECTIVITY SOLUTIONS...
 79.124.8.66/32 # Netherlands | North Holland | Colocationx Ltd.
 79.127.217.53/32 # United States | California | Datacamp Limited
+79.127.222.209/32 # United States | Texas | Datacamp Limited
 79.127.222.213/32 # United States | Texas | Datacamp Limited
 79.137.197.159/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 79.137.202.22/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
@@ -392,10 +394,6 @@
 138.68.171.120/32 # United Kingdom | England | Digitalocean, LLC
 138.124.184.218/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
 138.197.185.55/32 # Germany | Hesse | Digitalocean, LLC
-138.199.43.67/32 # United States | Washington | Datacamp Limited
-138.199.43.82/32 # United States | Washington | Datacamp Limited
-138.199.43.84/32 # United States | Washington | Datacamp Limited
-138.199.43.95/32 # United States | Washington | Datacamp Limited
 139.5.1.209/32 # India | Uttarakhand | Railtel Corporation of India Ltd.
 139.59.108.43/32 # Singapore | Southeast | Digitalocean, LLC
 139.59.236.31/32 # Singapore | Southeast | Digitalocean, LLC
@@ -412,8 +410,12 @@
 146.70.102.3/32 # United Arab Emirates | Dubai | M Europe SRL
 146.70.165.254/32 # United States | Oregon | M Europe SRL
 146.70.166.184/32 # United States | Minnesota | M Europe SRL
+146.70.172.106/32 # United States | California | M Europe SRL
 146.70.187.61/32 # United States | Florida | M Europe SRL
 146.70.187.176/32 # United States | Florida | M Europe SRL
+146.70.187.185/32 # United States | Florida | M Europe SRL
+146.70.211.5/32 # United States | Texas | M Europe SRL
+146.70.211.61/32 # United States | Texas | M Europe SRL
 146.190.26.118/32 # Netherlands | North Holland | Digitalocean, LLC
 147.45.43.136/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 147.45.43.197/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
@@ -439,9 +441,6 @@
 154.91.196.185/32 # Hong Kong | Hong Kong | Vh Global Limited
 154.201.68.57/32 # Hong Kong | Hong Kong | High Family Technology Co., Limited
 154.216.16.111/32 # Republic of Lithuania | Kaunas County | Silent Connection ...
-155.2.190.27/32 # Germany | Hesse | Datacamp Limited
-155.2.190.50/32 # Germany | Hesse | Datacamp Limited
-155.2.190.78/32 # Germany | Hesse | Datacamp Limited
 156.146.60.74/32 # Austria | Vienna | Datacamp Limited
 156.228.102.80/32 # United States | Virginia | xk Tech GmbH
 156.228.106.192/32 # United States | Virginia | xk Tech GmbH
