@@ -39,10 +39,12 @@
 173.239.254.0/24 # United States | Washington | Internet Utilities Europe And...
 185.7.214.0/24 # Russia | Moscow | Chang Way Technologies Co. Limited
 185.42.12.0/24 # Russia | Moscow | Chang Way Technologies Co. Limited
+185.156.46.0/24 # United States | Virginia | Datacamp Limited
 185.198.240.0/24 # United States | Pennsylvania | Clouvider Limited
 192.253.209.0/24 # United States | New Jersey | Gsl Networks Pty LTD
 193.19.109.0/24 # United States | Washington | Internet Utilities Europe And...
 198.44.136.0/24 # United States | New York | Tzulo, Inc.
+198.54.131.0/24 # United States | Washington | Tzulo, Inc.
 3.15.42.102/32 # United States | Ohio | Amazon.com, Inc.
 3.17.153.24/32 # United States | Ohio | Amazon.com, Inc.
 3.140.201.51/32 # United States | Ohio | Amazon.com, Inc.
@@ -81,8 +83,11 @@
 20.222.194.41/32 # Japan | Tokyo | Microsoft Corporation
 23.81.41.166/32 # Japan | Tokyo | Leaseweb Japan K.K.
 23.101.200.179/32 # United States | California | Microsoft Corporation
+23.162.8.124/32 # United States | Oregon | Jone Broadband LLC
+23.234.77.42/32 # United States | Virginia | Tzulo, Inc.
 23.234.78.22/32 # United States | North Carolina | Tzulo, Inc.
 23.234.80.216/32 # United States | Oregon | Tzulo, Inc.
+23.234.81.105/32 # United States | Washington | Tzulo, Inc.
 23.234.82.116/32 # United States | Oregon | Tzulo, Inc.
 23.234.83.22/32 # United States | Illinois | Tzulo, Inc.
 27.43.205.192/32 # China | Guangdong Province | China Unicom Guangdong Provin...
@@ -93,6 +98,7 @@
 27.215.123.67/32 # China | Shandong | China Unicom China1 Backbone
 31.41.244.10/32 # Russia | Saint Petersburg | Cat Technologies Co. Limited
 31.41.244.11/32 # Russia | Saint Petersburg | Cat Technologies Co. Limited
+31.170.22.205/32 # Latvia | Vidzeme | Sia Nano IT
 34.27.95.58/32 # United States | Iowa | Google LLC
 34.27.239.250/32 # United States | Iowa | Google LLC
 34.28.49.30/32 # United States | Iowa | Google LLC
@@ -117,6 +123,7 @@
 36.255.18.147/32 # India | Telangana | Railtel Corporation of India Ltd.
 37.19.197.182/32 # United States | New York | Datacamp Limited
 37.19.200.136/32 # United States | Texas | Datacamp Limited
+37.19.200.158/32 # United States | Texas | Datacamp Limited
 37.19.200.160/32 # United States | Texas | Datacamp Limited
 37.19.200.168/32 # United States | Texas | Datacamp Limited
 37.46.113.206/32 # Luxembourg | Canton Capellen | Altushost B.V.
@@ -212,7 +219,9 @@
 78.141.238.182/32 # United Kingdom | England | The Constant Company, LLC
 78.153.139.202/32 # Finland | Mainland Finland | GLOBAL CONNECTIVITY SOLUTIONS...
 79.124.8.66/32 # Netherlands | North Holland | Colocationx Ltd.
+79.127.217.38/32 # United States | California | Datacamp Limited
 79.127.217.53/32 # United States | California | Datacamp Limited
+79.127.222.200/32 # United States | Texas | Datacamp Limited
 79.127.222.209/32 # United States | Texas | Datacamp Limited
 79.127.222.213/32 # United States | Texas | Datacamp Limited
 79.137.197.159/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
@@ -301,6 +310,7 @@
 96.44.189.107/32 # United States | Texas | Quadranet Enterprises LLC
 96.44.191.136/32 # United States | Texas | Quadranet Enterprises LLC
 96.44.191.148/32 # United States | Texas | Quadranet Enterprises LLC
+96.44.191.152/32 # United States | Texas | Quadranet Enterprises LLC
 98.159.33.39/32 # United States | Missouri | Datacamp Limited
 102.129.152.60/32 # United States | Florida | Cogent Communications
 102.129.153.182/32 # United States | Florida | Cogent Communications
@@ -389,6 +399,7 @@
 134.209.30.220/32 # United Kingdom | England | Digitalocean, LLC
 135.125.165.178/32 # Germany | Hesse | OVH SAS
 136.144.43.64/32 # United States | Texas | Latitude.sh
+136.144.43.74/32 # United States | Texas | Latitude.sh
 136.144.43.76/32 # United States | Texas | Latitude.sh
 136.144.43.82/32 # United States | Texas | Latitude.sh
 138.68.90.19/32 # Germany | Hesse | Digitalocean, LLC
@@ -414,12 +425,14 @@
 146.70.165.254/32 # United States | Oregon | M Europe SRL
 146.70.166.184/32 # United States | Minnesota | M Europe SRL
 146.70.168.249/32 # United States | Massachusetts | M Europe SRL
+146.70.172.82/32 # United States | California | M Europe SRL
 146.70.172.106/32 # United States | California | M Europe SRL
 146.70.187.61/32 # United States | Florida | M Europe SRL
 146.70.187.69/32 # United States | Florida | M Europe SRL
 146.70.187.176/32 # United States | Florida | M Europe SRL
 146.70.187.185/32 # United States | Florida | M Europe SRL
 146.70.211.5/32 # United States | Texas | M Europe SRL
+146.70.211.26/32 # United States | Texas | M Europe SRL
 146.70.211.61/32 # United States | Texas | M Europe SRL
 146.190.26.118/32 # Netherlands | North Holland | Digitalocean, LLC
 147.45.43.136/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
@@ -508,9 +521,6 @@
 185.143.223.188/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 185.147.124.97/32 # Russia | Moscow | JSC Selectel
 185.147.124.124/32 # Russia | Moscow | JSC Selectel
-185.156.46.136/32 # United States | Virginia | Datacamp Limited
-185.156.46.149/32 # United States | Virginia | Datacamp Limited
-185.156.46.155/32 # United States | Virginia | Datacamp Limited
 185.174.136.204/32 # Russia | Moscow | Aeza Group Ltd.
 185.190.251.16/32 # United States | New York | GREEN FLOID LLC
 185.196.8.158/32 # Seychelles | Mahe | Global data System IT Corporation
@@ -568,9 +578,6 @@
 195.123.241.24/32 # United States | California | GREEN FLOID LLC
 195.123.242.120/32 # United States | California | GREEN FLOID LLC
 195.211.96.135/32 # United States | Washington | GREEN FLOID LLC
-198.54.131.111/32 # United States | Washington | Tzulo, Inc.
-198.54.131.117/32 # United States | Washington | Tzulo, Inc.
-198.54.131.156/32 # United States | Washington | Tzulo, Inc.
 200.150.194.109/32 # Brazil | State of São Paulo | Saveincloud Hospedagem Na In...
 202.43.239.13/32 # Singapore | Southeast | Better Cloud Limited
 202.66.166.119/32 # India | Haryana | R Net Solutions Pvt LTD
