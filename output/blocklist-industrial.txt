@@ -15,6 +15,7 @@
 68.235.46.0/24 # United States | Illinois | Tzulo, Inc.
 77.90.153.0/24 # Netherlands | Limburg | Railnet LLC
 79.127.217.0/24 # United States | California | Datacamp Limited
+79.127.222.0/24 # United States | Texas | Datacamp Limited
 80.64.30.0/24 # Russia | Moscow | Chang Way Technologies Co. Limited
 85.8.130.0/24 # United States | Washington | Internet Utilities Europe And...
 87.249.134.0/24 # United States | Illinois | Datacamp Limited
@@ -32,6 +33,7 @@
 142.111.152.0/24 # United States | Texas | Datacamp Limited
 143.244.47.0/24 # United States | New York | Datacamp Limited
 146.19.125.0/24 # Turkey | Bursa | HOSTYPE LLC
+146.70.165.0/24 # United States | Oregon | M Europe SRL
 147.45.50.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 149.40.50.0/24 # United States | Massachusetts | Datacamp Limited
 149.57.16.0/24 # United States | Maryland | LogicWeb Inc
@@ -87,15 +89,23 @@
 23.81.41.166/32 # Japan | Tokyo | Leaseweb Japan K.K.
 23.101.200.179/32 # United States | California | Microsoft Corporation
 23.162.8.124/32 # United States | Oregon | Jone Broadband LLC
+23.162.8.139/32 # United States | New York | Jone Broadband LLC
 23.234.68.22/32 # United States | Colorado | Tzulo, Inc.
+23.234.69.22/32 # United States | Colorado | Tzulo, Inc.
 23.234.76.22/32 # United States | Virginia | Tzulo, Inc.
 23.234.77.42/32 # United States | Virginia | Tzulo, Inc.
+23.234.77.147/32 # United States | North Carolina | Tzulo, Inc.
+23.234.77.168/32 # United States | North Carolina | Tzulo, Inc.
 23.234.78.22/32 # United States | North Carolina | Tzulo, Inc.
+23.234.78.124/32 # United States | Virginia | Tzulo, Inc.
+23.234.79.89/32 # United States | North Carolina | Tzulo, Inc.
 23.234.80.216/32 # United States | Oregon | Tzulo, Inc.
 23.234.81.105/32 # United States | Washington | Tzulo, Inc.
 23.234.82.22/32 # United States | Illinois | Tzulo, Inc.
 23.234.82.116/32 # United States | Oregon | Tzulo, Inc.
+23.234.82.147/32 # United States | Washington | Tzulo, Inc.
 23.234.83.22/32 # United States | Illinois | Tzulo, Inc.
+23.234.83.147/32 # United States | Illinois | Tzulo, Inc.
 23.234.83.168/32 # United States | Illinois | Tzulo, Inc.
 27.43.205.192/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.102.113.240/32 # Republic of Korea | Gyeonggi | DAOU TECHNOLOGY
@@ -164,6 +174,7 @@
 45.61.166.209/32 # United States | Texas | Routerhosting LLC
 45.76.65.42/32 # United States | California | The Constant Company, LLC
 45.88.97.225/32 # Germany | Hesse | Cogent Communications
+45.95.233.103/32 # France | Île-de-France | GLOBAL CONNECTIVITY SOLUTIONS LLP
 45.120.177.8/32 # Netherlands | Drenthe | STARK INDUSTRIES SOLUTIONS LTD
 45.125.67.144/32 # Hong Kong | Hong Kong | Tele Asia Limited
 45.128.149.32/32 # United States | California | GREEN FLOID LLC
@@ -223,10 +234,6 @@
 78.141.238.182/32 # United Kingdom | England | The Constant Company, LLC
 78.153.139.202/32 # Finland | Mainland Finland | GLOBAL CONNECTIVITY SOLUTIONS...
 79.124.8.66/32 # Netherlands | North Holland | Colocationx Ltd.
-79.127.222.196/32 # United States | Texas | Datacamp Limited
-79.127.222.200/32 # United States | Texas | Datacamp Limited
-79.127.222.209/32 # United States | Texas | Datacamp Limited
-79.127.222.213/32 # United States | Texas | Datacamp Limited
 79.137.197.159/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 79.137.202.22/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
 79.137.203.158/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
@@ -358,6 +365,7 @@
 104.207.42.46/32 # United States | Virginia | xk Tech GmbH
 104.207.42.121/32 # United States | Virginia | xk Tech GmbH
 104.207.42.217/32 # United States | Virginia | xk Tech GmbH
+104.223.118.60/32 # United States | New Jersey | Quadranet Enterprises LLC
 104.248.56.89/32 # United States | New Jersey | Digitalocean, LLC
 105.159.245.66/32 # Morocco | Casablanca-Settat | Office National Des Postes E...
 107.170.22.72/32 # United States | New York | Digitalocean, LLC
@@ -426,10 +434,6 @@
 146.70.79.18/32 # Hong Kong | Hong Kong | M Europe SRL
 146.70.79.105/32 # Hong Kong | Hong Kong | M Europe SRL
 146.70.102.3/32 # United Arab Emirates | Dubai | M Europe SRL
-146.70.165.57/32 # United States | Oregon | M Europe SRL
-146.70.165.234/32 # United States | Oregon | M Europe SRL
-146.70.165.253/32 # United States | Oregon | M Europe SRL
-146.70.165.254/32 # United States | Oregon | M Europe SRL
 146.70.166.133/32 # United States | New York | M Europe SRL
 146.70.166.184/32 # United States | Minnesota | M Europe SRL
 146.70.166.208/32 # United States | New York | M Europe SRL
@@ -448,6 +452,7 @@
 146.70.211.5/32 # United States | Texas | M Europe SRL
 146.70.211.26/32 # United States | Texas | M Europe SRL
 146.70.211.61/32 # United States | Texas | M Europe SRL
+146.70.211.133/32 # United States | Texas | M Europe SRL
 146.190.26.118/32 # Netherlands | North Holland | Digitalocean, LLC
 147.45.43.136/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 147.45.43.197/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
@@ -457,6 +462,7 @@
 149.115.250.19/32 # United States | California | BINARY NETWORKS SOLUTIONS LLC
 151.236.16.167/32 # United States | California | M Europe SRL
 151.236.17.180/32 # Germany | Hesse | M Europe SRL
+152.42.170.77/32 # Singapore | Southeast | Digitalocean, LLC
 154.6.13.139/32 # United States | New Hampshire | Logicweb Inc.
 154.6.13.144/32 # United States | New Hampshire | Logicweb Inc.
 154.6.13.151/32 # United States | New Hampshire | Logicweb Inc.
