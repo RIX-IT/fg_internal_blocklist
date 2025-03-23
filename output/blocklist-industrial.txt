@@ -14,6 +14,7 @@
 64.64.116.0/24 # United States | Illinois | Latitude.sh LTDA
 68.235.46.0/24 # United States | Illinois | Tzulo, Inc.
 77.90.153.0/24 # Netherlands | Limburg | Railnet LLC
+79.127.217.0/24 # United States | California | Datacamp Limited
 80.64.30.0/24 # Russia | Moscow | Chang Way Technologies Co. Limited
 85.8.130.0/24 # United States | Washington | Internet Utilities Europe And...
 87.249.134.0/24 # United States | Illinois | Datacamp Limited
@@ -95,6 +96,7 @@
 23.234.82.22/32 # United States | Illinois | Tzulo, Inc.
 23.234.82.116/32 # United States | Oregon | Tzulo, Inc.
 23.234.83.22/32 # United States | Illinois | Tzulo, Inc.
+23.234.83.168/32 # United States | Illinois | Tzulo, Inc.
 27.43.205.192/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.102.113.240/32 # Republic of Korea | Gyeonggi | DAOU TECHNOLOGY
 27.124.37.30/32 # Japan | Tokyo | Ctg Server Limited
@@ -213,6 +215,7 @@
 64.227.64.125/32 # Netherlands | North Holland | Digitalocean, LLC
 67.205.191.12/32 # United States | New Jersey | Digitalocean, LLC
 70.39.90.26/32 # United States | Nevada | Sharktech
+70.39.90.215/32 # United States | Colorado | Sharktech
 72.5.43.29/32 # Romania | Bucharest | Bl Networks
 77.221.151.54/32 # Russia | Moscow | Aeza Group Ltd.
 77.221.157.170/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
@@ -220,9 +223,6 @@
 78.141.238.182/32 # United Kingdom | England | The Constant Company, LLC
 78.153.139.202/32 # Finland | Mainland Finland | GLOBAL CONNECTIVITY SOLUTIONS...
 79.124.8.66/32 # Netherlands | North Holland | Colocationx Ltd.
-79.127.217.38/32 # United States | California | Datacamp Limited
-79.127.217.40/32 # United States | California | Datacamp Limited
-79.127.217.53/32 # United States | California | Datacamp Limited
 79.127.222.196/32 # United States | Texas | Datacamp Limited
 79.127.222.200/32 # United States | Texas | Datacamp Limited
 79.127.222.209/32 # United States | Texas | Datacamp Limited
@@ -346,6 +346,7 @@
 103.207.124.28/32 # India | Delhi | Railtel Corporation of India Ltd.
 103.207.125.240/32 # India | Madhya Pradesh | Railtel Corporation of India Ltd.
 103.208.104.207/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
+104.129.57.88/32 # United States | California | Quadranet Enterprises LLC
 104.131.7.207/32 # United States | New Jersey | Digitalocean, LLC
 104.143.46.143/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 104.143.47.226/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
@@ -425,11 +426,14 @@
 146.70.79.18/32 # Hong Kong | Hong Kong | M Europe SRL
 146.70.79.105/32 # Hong Kong | Hong Kong | M Europe SRL
 146.70.102.3/32 # United Arab Emirates | Dubai | M Europe SRL
+146.70.165.57/32 # United States | Oregon | M Europe SRL
 146.70.165.234/32 # United States | Oregon | M Europe SRL
+146.70.165.253/32 # United States | Oregon | M Europe SRL
 146.70.165.254/32 # United States | Oregon | M Europe SRL
 146.70.166.133/32 # United States | New York | M Europe SRL
 146.70.166.184/32 # United States | Minnesota | M Europe SRL
 146.70.166.208/32 # United States | New York | M Europe SRL
+146.70.168.185/32 # United States | New York | M Europe SRL
 146.70.168.243/32 # United States | Massachusetts | M Europe SRL
 146.70.168.249/32 # United States | Massachusetts | M Europe SRL
 146.70.171.179/32 # United States | New York | M Europe SRL
