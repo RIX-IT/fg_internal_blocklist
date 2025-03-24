@@ -24,6 +24,7 @@
 89.116.182.0/24 # United States | Utah | Uk Limited
 92.255.85.0/24 # Russia | Moscow | Chang Way Technologies Co. Limited
 94.26.90.0/24 # Yemen | Amanat Al Asimah | Euro Crypt Eood
+96.44.191.0/24 # United States | Texas | Quadranet Enterprises LLC
 104.234.225.0/24 # United States | California | Clouvider Limited
 104.234.227.0/24 # United States | California | Gsl Networks Pty LTD
 104.245.240.0/24 # Romania | Bucharest | M Europe SRL
@@ -34,6 +35,7 @@
 143.244.47.0/24 # United States | New York | Datacamp Limited
 146.19.125.0/24 # Turkey | Bursa | HOSTYPE LLC
 146.70.165.0/24 # United States | Oregon | M Europe SRL
+146.70.171.0/24 # United States | Oregon | M Europe SRL
 146.70.172.0/24 # United States | California | M Europe SRL
 146.70.187.0/24 # United States | Florida | M Europe SRL
 146.70.211.0/24 # United States | Texas | M Europe SRL
@@ -95,8 +97,10 @@
 23.162.8.124/32 # United States | Oregon | Jone Broadband LLC
 23.162.8.139/32 # United States | New York | Jone Broadband LLC
 23.234.68.22/32 # United States | Colorado | Tzulo, Inc.
+23.234.68.243/32 # United States | Colorado | Tzulo, Inc.
 23.234.69.22/32 # United States | Colorado | Tzulo, Inc.
 23.234.70.22/32 # United States | California | Tzulo, Inc.
+23.234.70.64/32 # United States | Colorado | Tzulo, Inc.
 23.234.70.124/32 # United States | Colorado | Tzulo, Inc.
 23.234.70.243/32 # United States | Colorado | Tzulo, Inc.
 23.234.71.22/32 # United States | Colorado | Tzulo, Inc.
@@ -109,15 +113,21 @@
 23.234.77.168/32 # United States | North Carolina | Tzulo, Inc.
 23.234.78.22/32 # United States | North Carolina | Tzulo, Inc.
 23.234.78.124/32 # United States | Virginia | Tzulo, Inc.
+23.234.78.147/32 # United States | Virginia | Tzulo, Inc.
+23.234.78.252/32 # United States | Virginia | Tzulo, Inc.
 23.234.79.89/32 # United States | North Carolina | Tzulo, Inc.
 23.234.79.147/32 # United States | Virginia | Tzulo, Inc.
 23.234.79.216/32 # United States | North Carolina | Tzulo, Inc.
 23.234.80.168/32 # United States | Washington | Tzulo, Inc.
 23.234.80.216/32 # United States | Oregon | Tzulo, Inc.
+23.234.80.232/32 # United States | Illinois | Tzulo, Inc.
+23.234.81.89/32 # United States | Illinois | Tzulo, Inc.
 23.234.81.105/32 # United States | Washington | Tzulo, Inc.
+23.234.81.147/32 # United States | Washington | Tzulo, Inc.
 23.234.82.22/32 # United States | Illinois | Tzulo, Inc.
 23.234.82.116/32 # United States | Oregon | Tzulo, Inc.
 23.234.82.147/32 # United States | Washington | Tzulo, Inc.
+23.234.82.186/32 # United States | Washington | Tzulo, Inc.
 23.234.83.22/32 # United States | Illinois | Tzulo, Inc.
 23.234.83.147/32 # United States | Illinois | Tzulo, Inc.
 23.234.83.168/32 # United States | Illinois | Tzulo, Inc.
@@ -335,10 +345,6 @@
 95.216.196.85/32 # Finland | Mainland Finland | Hetzner Online GmbH
 96.9.211.27/32 # Singapore | Southeast | Datacamp Limited
 96.44.189.107/32 # United States | Texas | Quadranet Enterprises LLC
-96.44.191.136/32 # United States | Texas | Quadranet Enterprises LLC
-96.44.191.140/32 # United States | Texas | Quadranet Enterprises LLC
-96.44.191.148/32 # United States | Texas | Quadranet Enterprises LLC
-96.44.191.152/32 # United States | Texas | Quadranet Enterprises LLC
 98.159.33.39/32 # United States | Missouri | Datacamp Limited
 102.129.152.60/32 # United States | Florida | Cogent Communications
 102.129.153.182/32 # United States | Florida | Cogent Communications
@@ -453,12 +459,10 @@
 146.70.166.133/32 # United States | New York | M Europe SRL
 146.70.166.184/32 # United States | Minnesota | M Europe SRL
 146.70.166.208/32 # United States | New York | M Europe SRL
+146.70.168.154/32 # United States | New York | M Europe SRL
 146.70.168.185/32 # United States | New York | M Europe SRL
 146.70.168.243/32 # United States | Massachusetts | M Europe SRL
 146.70.168.249/32 # United States | Massachusetts | M Europe SRL
-146.70.171.69/32 # United States | Oregon | M Europe SRL
-146.70.171.93/32 # United States | Oregon | M Europe SRL
-146.70.171.179/32 # United States | New York | M Europe SRL
 146.190.26.118/32 # Netherlands | North Holland | Digitalocean, LLC
 147.45.43.136/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 147.45.43.197/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
@@ -553,6 +557,7 @@
 185.196.8.158/32 # Seychelles | Mahe | Global data System IT Corporation
 185.196.9.26/32 # Seychelles | Mahe | Global data System IT Corporation
 185.196.9.31/32 # Seychelles | Mahe | Global data System IT Corporation
+185.213.193.124/32 # United States | District of Columbia | Zenlayer INC
 185.213.193.149/32 # United States | District of Columbia | Zenlayer INC
 185.213.193.233/32 # United States | District of Columbia | Zenlayer INC
 185.215.113.103/32 # Seychelles | Mahe | 1 TEAM LIMITED
