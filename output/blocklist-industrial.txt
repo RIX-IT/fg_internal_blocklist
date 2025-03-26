@@ -42,7 +42,6 @@
 96.44.191.0/24 # United States | Texas | Quadranet Enterprises LLC
 104.234.225.0/24 # United States | California | Clouvider Limited
 104.234.227.0/24 # United States | California | Gsl Networks Pty LTD
-104.245.240.0/24 # Romania | Bucharest | M Europe SRL
 136.144.33.0/24 # United States | California | Internet Utilities Europe And...
 136.144.43.0/24 # United States | Texas | Latitude.sh
 138.199.43.0/24 # United States | Washington | Datacamp Limited
@@ -50,6 +49,7 @@
 143.244.47.0/24 # United States | New York | Datacamp Limited
 146.19.125.0/24 # Turkey | Bursa | HOSTYPE LLC
 146.70.165.0/24 # United States | Oregon | M Europe SRL
+146.70.166.0/24 # United States | New York | M Europe SRL
 146.70.168.0/24 # United States | New York | M Europe SRL
 146.70.171.0/24 # United States | Oregon | M Europe SRL
 146.70.172.0/24 # United States | California | M Europe SRL
@@ -120,7 +120,6 @@
 31.41.244.10/32 # Russia | Saint Petersburg | Cat Technologies Co. Limited
 31.41.244.11/32 # Russia | Saint Petersburg | Cat Technologies Co. Limited
 31.170.22.205/32 # Latvia | Vidzeme | Sia Nano IT
-34.27.95.58/32 # United States | Iowa | Google LLC
 34.27.239.250/32 # United States | Iowa | Google LLC
 34.28.49.30/32 # United States | Iowa | Google LLC
 34.30.85.7/32 # United States | Iowa | Google LLC
@@ -169,7 +168,6 @@
 45.8.157.158/32 # United States | Georgia | Nktelecom INC
 45.8.157.162/32 # United States | Georgia | Nktelecom INC
 45.8.157.199/32 # United States | Georgia | Nktelecom INC
-45.61.128.209/32 # United States | Nevada | Routerhosting LLC
 45.61.135.113/32 # United States | Nevada | Routerhosting LLC
 45.61.135.173/32 # United States | Nevada | Routerhosting LLC
 45.61.166.209/32 # United States | Texas | Routerhosting LLC
@@ -356,13 +354,13 @@
 103.207.124.28/32 # India | Delhi | Railtel Corporation of India Ltd.
 103.207.125.240/32 # India | Madhya Pradesh | Railtel Corporation of India Ltd.
 103.208.104.207/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
+104.129.41.197/32 # United States | Florida | Quadranet Enterprises LLC
 104.129.57.69/32 # United States | California | Quadranet Enterprises LLC
 104.129.57.88/32 # United States | California | Quadranet Enterprises LLC
 104.131.7.207/32 # United States | New Jersey | Digitalocean, LLC
 104.143.46.143/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 104.143.47.226/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 104.154.90.174/32 # United States | Iowa | Google LLC
-104.154.214.105/32 # United States | Iowa | Google LLC
 104.160.6.2/32 # United Kingdom | England | Orion Network Limited
 104.183.100.189/32 # United States | Florida | AT T Services, Inc.
 104.194.153.65/32 # Singapore | Southeast | Routerhosting LLC
@@ -372,6 +370,7 @@
 104.223.118.36/32 # United States | New Jersey | Quadranet Enterprises LLC
 104.223.118.60/32 # United States | New Jersey | Quadranet Enterprises LLC
 104.223.118.62/32 # United States | New Jersey | Quadranet Enterprises LLC
+104.245.240.240/32 # United States | South Carolina | Railnet LLC
 104.248.56.89/32 # United States | New Jersey | Digitalocean, LLC
 105.159.245.66/32 # Morocco | Casablanca-Settat | Office National Des Postes E...
 107.170.22.72/32 # United States | New York | Digitalocean, LLC
@@ -403,7 +402,6 @@
 117.245.9.234/32 # India | Delhi | Bharat Sanchar Nigam LTD
 118.107.44.219/32 # Hong Kong | Hong Kong | Ctg Server Limited
 119.147.213.48/32 # China | Guangdong Province | No. 1,jin rong Street
-119.200.13.201/32 # Republic of Korea | Gyeonggi | Korea Telecom
 120.85.92.220/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.112.250/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.119.149/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
@@ -432,7 +430,6 @@
 139.59.236.31/32 # Singapore | Southeast | Digitalocean, LLC
 139.99.114.108/32 # Singapore | Southeast | OVH SAS
 139.162.7.59/32 # Singapore | Southeast | Akamai Technologies, Inc.
-141.94.16.57/32 # France | Hauts-de-France | OVH SAS
 141.98.234.166/32 # Hong Kong | Hong Kong | GLOBAL CONNECTIVITY SOLUTIONS LLP
 141.255.164.98/32 # Switzerland | Zurich | Private Layer INC
 142.147.89.224/32 # United States | California | xTom
@@ -442,10 +439,6 @@
 146.70.79.18/32 # Hong Kong | Hong Kong | M Europe SRL
 146.70.79.105/32 # Hong Kong | Hong Kong | M Europe SRL
 146.70.102.3/32 # United Arab Emirates | Dubai | M Europe SRL
-146.70.166.133/32 # United States | New York | M Europe SRL
-146.70.166.184/32 # United States | Minnesota | M Europe SRL
-146.70.166.208/32 # United States | New York | M Europe SRL
-146.70.166.253/32 # United States | New York | M Europe SRL
 146.190.26.118/32 # Netherlands | North Holland | Digitalocean, LLC
 147.45.43.136/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 147.45.43.197/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
@@ -508,6 +501,7 @@
 172.93.165.14/32 # Hong Kong | Hong Kong | Gigabit Hosting Sdn Bhd
 172.96.137.224/32 # United States | Texas | Shock Hosting LLC
 172.98.71.191/32 # Canada | Nova Scotia | Performive LLC
+173.44.63.69/32 # United States | Florida | Quadranet Enterprises LLC
 173.44.141.226/32 # United States | Florida | Eonix Corporation
 173.205.85.36/32 # United States | New Jersey | Quadranet Enterprises LLC
 173.205.85.45/32 # United States | New Jersey | Quadranet Enterprises LLC
@@ -518,7 +512,6 @@
 175.107.0.143/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.1.126/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.37.202/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
-176.120.75.58/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
 178.128.255.52/32 # Netherlands | North Holland | Digitalocean, LLC
 178.141.177.110/32 # Russia | Kirov Oblast | MTS PJSC
 178.209.51.222/32 # Switzerland | Zurich | Nine Internet Solutions AG
