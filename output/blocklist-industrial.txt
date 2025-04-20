@@ -39,7 +39,6 @@
 96.44.189.0/24 # United States | Texas | Quadranet Enterprises LLC
 96.44.191.0/24 # United States | Texas | Quadranet Enterprises LLC
 104.129.41.0/24 # United States | Florida | Quadranet Enterprises LLC
-136.144.43.0/24 # United States | Texas | Latitude.sh
 138.199.43.0/24 # United States | Washington | Datacamp Limited
 142.147.89.0/24 # United States | California | xTom
 143.244.47.0/24 # United States | New York | Datacamp Limited
@@ -87,7 +86,6 @@
 23.81.41.166/32 # Japan | Tokyo | Leaseweb Japan K.K.
 23.133.88.96/32 # United States | Georgia | IPFB LLC
 23.146.184.221/32 # United States | Illinois | Atomic Networks LLC
-27.43.205.192/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.102.113.240/32 # Republic of Korea | Gyeonggi | DAOU TECHNOLOGY
 27.122.61.189/32 # India | West Bengal | Railtel Corporation of India Ltd.
 27.122.61.249/32 # India | Odisha | Railtel Corporation of India Ltd.
@@ -101,7 +99,6 @@
 37.46.113.206/32 # Luxembourg | Canton Capellen | Altushost B.V.
 37.114.46.25/32 # Germany | Bavaria | Florian Kolb
 37.140.223.23/32 # United States | California | Internet Utilities Europe And...
-37.140.223.189/32 # United States | California | Internet Utilities Europe And...
 38.54.30.117/32 # Vietnam | Hanoi | Kaopu Cloud Hk Limited
 38.54.56.88/32 # Japan | Tokyo | Kaopu Cloud Hk Limited
 38.55.97.178/32 # Hong Kong | Hong Kong | Vh Global Limited
@@ -145,7 +142,6 @@
 45.131.179.24/32 # Hong Kong | Hong Kong | XNNET LLC
 45.141.84.45/32 # Russia | Moscow | Media Land LLC
 45.141.87.11/32 # Russia | Saint Petersburg | Media Land LLC
-45.146.55.36/32 # United States | Georgia | Clouvider Limited
 45.150.65.206/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
 45.151.62.238/32 # Russia | Moscow | GLOBAL INTERNET SOLUTIONS LLC
 45.155.220.79/32 # Japan | Osaka Prefecture | Starry Network Limited
@@ -187,8 +183,8 @@
 67.205.191.12/32 # United States | New Jersey | Digitalocean, LLC
 68.183.14.33/32 # Netherlands | North Holland | Digitalocean, LLC
 68.183.23.157/32 # United States | New Jersey | Digitalocean, LLC
+68.183.66.192/32 # Germany | Hesse | Digitalocean, LLC
 68.235.35.124/32 # United States | Illinois | Tzulo, Inc.
-70.39.90.26/32 # United States | Nevada | Sharktech
 70.39.90.215/32 # United States | Colorado | Sharktech
 72.5.43.29/32 # Romania | Bucharest | Bl Networks
 74.119.194.18/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
@@ -304,7 +300,6 @@
 95.182.97.58/32 # France | Île-de-France | CGI GLOBAL LIMITED
 95.216.196.85/32 # Finland | Mainland Finland | Hetzner Online GmbH
 96.9.211.27/32 # Singapore | Southeast | Xtom Pty LTD
-98.159.33.39/32 # United States | Missouri | Datacamp Limited
 102.129.152.60/32 # United States | Florida | Cogent Communications
 102.129.153.182/32 # United States | Florida | Cogent Communications
 102.129.153.205/32 # United States | Florida | Cogent Communications
@@ -341,7 +336,6 @@
 103.203.72.186/32 # India | Kerala | Railtel Corporation of India Ltd.
 103.203.72.202/32 # India | Kerala | Railtel Corporation of India Ltd.
 103.207.124.41/32 # India | Haryana | Railtel Corporation of India Ltd.
-104.129.57.69/32 # United States | California | Quadranet Enterprises LLC
 104.131.7.207/32 # United States | New Jersey | Digitalocean, LLC
 104.143.46.143/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 104.143.47.226/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
@@ -379,7 +373,6 @@
 113.121.74.59/32 # China | Shandong | No. 1,jin rong Street
 113.228.91.100/32 # China | Liaoning | China Unicom China1 Backbone
 115.55.54.48/32 # China | Henan | China Unicom China1 Backbone
-117.82.149.247/32 # China | Jiangsu | Chinanet
 117.86.170.233/32 # China | Jiangsu | Chinanet
 117.190.148.124/32 # China | Beijing | China Mobile
 117.196.189.240/32 # India | Karnataka | Bharat Sanchar Nigam LTD
@@ -390,7 +383,6 @@
 117.206.220.90/32 # India | Haryana | Bharat Sanchar Nigam LTD
 117.209.28.78/32 # India | Meghalaya | Bharat Sanchar Nigam LTD
 117.209.44.175/32 # India | Karnataka | Bharat Sanchar Nigam LTD
-117.209.84.49/32 # India | Tripura | Bharat Sanchar Nigam LTD
 117.209.93.195/32 # India | Mizoram | Bharat Sanchar Nigam LTD
 117.209.95.145/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.209.124.245/32 # India | Karnataka | Bharat Sanchar Nigam LTD
@@ -404,7 +396,6 @@
 119.180.105.211/32 # China | Shandong | China Unicom China1 Backbone
 119.200.13.201/32 # Republic of Korea | Gwangju | Korea Telecom
 120.60.231.174/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
-120.85.92.220/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.119.149/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
 120.85.186.183/32 # China | Guangdong Province | China Unicom Guangzhou Network
 121.201.109.98/32 # China | Guangdong Province | Guangdong
@@ -425,6 +416,7 @@
 134.199.169.163/32 # Australia | New South Wales | Digitalocean, LLC
 134.209.30.220/32 # United Kingdom | Wales | Digitalocean, LLC
 135.125.165.178/32 # Germany | Hesse | OVH SAS
+136.144.43.64/32 # United States | Texas | Latitude.sh
 137.184.161.148/32 # Canada | Ontario | Digitalocean, LLC
 138.68.90.19/32 # Germany | Hesse | Digitalocean, LLC
 138.124.183.193/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
@@ -435,7 +427,6 @@
 139.59.236.31/32 # Singapore | Southeast | Digitalocean, LLC
 139.59.252.134/32 # Singapore | Southeast | Digitalocean, LLC
 139.99.114.108/32 # Singapore | Southeast | OVH SAS
-139.162.7.59/32 # Singapore | Southeast | Akamai Technologies, Inc.
 141.98.234.166/32 # Hong Kong | Hong Kong | GLOBAL CONNECTIVITY SOLUTIONS LLP
 141.255.164.98/32 # Switzerland | Zurich | Private Layer INC
 142.93.172.66/32 # Germany | Bavaria | Digitalocean, LLC
@@ -518,12 +509,10 @@
 172.96.15.104/32 # United States | Missouri | Unreal Servers, LLC
 172.96.137.224/32 # United States | Texas | Shock Hosting LLC
 172.98.71.191/32 # Canada | Québec | Performive LLC
-173.44.63.68/32 # United States | California | Quadranet Enterprises LLC
 173.44.63.69/32 # United States | Florida | Quadranet Enterprises LLC
 173.44.63.125/32 # United States | California | Quadranet Enterprises LLC
 173.44.141.226/32 # United States | Florida | Eonix Corporation
 173.239.232.20/32 # United States | Colorado | Performive LLC
-175.107.0.143/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.1.17/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.9.164/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 178.209.51.222/32 # Switzerland | Zurich | Nine Internet Solutions AG
@@ -569,7 +558,6 @@
 185.198.240.41/32 # United States | New Jersey | Clouvider Limited
 185.215.113.103/32 # Seychelles | Mahe | 1 TEAM LIMITED
 185.219.220.175/32 # Germany | Hesse | Servinga GmbH
-185.221.64.165/32 # Turkey | Van | SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TIC...
 185.244.182.87/32 # Russia | Moscow | Cloud Assets LLC
 185.245.85.251/32 # Slovak Republic | Bratislava | M Europe SRL
 186.2.163.10/32 # Belize | Cayo | Iqweb Fz llc
@@ -595,7 +583,6 @@
 193.3.19.41/32 # Russia | Moscow | JSC Selectel
 193.24.211.19/32 # Hong Kong | Hong Kong | Data Campus Limited
 193.36.225.71/32 # United States | California | Internet Utilities Europe And...
-193.46.255.227/32 # Romania | Bucharest | UNMANAGED LTD
 193.124.24.117/32 # United States | Delaware | Baxet Group Inc.
 193.124.33.71/32 # Russia | Moscow | Baykov Ilya Sergeevich
 193.149.187.41/32 # United Kingdom | England | Bl Networks
@@ -657,7 +644,6 @@
 207.90.238.52/32 # United States | New York | Baxet Group Inc.
 207.174.31.92/32 # United States | Georgia | Baxet Group Inc.
 207.174.31.215/32 # United States | Georgia | Baxet Group Inc.
-209.38.208.19/32 # Germany | Hesse | Digitalocean, LLC
 209.38.239.106/32 # Germany | Hesse | Digitalocean, LLC
 209.38.250.32/32 # Germany | Bavaria | Digitalocean, LLC
 210.209.72.180/32 # Hong Kong | Hong Kong | Hong Kong Broadband Network Limited
