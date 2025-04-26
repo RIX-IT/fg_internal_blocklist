@@ -20,8 +20,12 @@
 92.119.197.0/24 # Bulgaria | Sofia-city | Internet Assigned Numbers Authority
 92.255.85.0/24 # Russia | Moscow | Chang Way Technologies Co. Limited
 94.156.167.0/24 # Bulgaria | Sofia-city | Internet Assigned Numbers Authority
+138.124.183.0/24 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
 138.199.43.0/24 # United States | Washington | Datacamp Limited
 143.244.47.0/24 # United States | New York | Datacamp Limited
+144.172.98.0/24 # United States | Utah | Routerhosting LLC
+144.172.102.0/24 # United States | Nevada | Routerhosting LLC
+144.172.103.0/24 # United States | Nevada | Routerhosting LLC
 147.45.50.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 149.40.50.0/24 # United States | Massachusetts | Datacamp Limited
 149.57.16.0/24 # Netherlands | North Holland | Ipv Superhub Limited
@@ -104,6 +108,11 @@
 45.8.157.158/32 # United States | Virginia | Nktelecom INC
 45.8.157.162/32 # United States | Virginia | Nktelecom INC
 45.8.157.199/32 # United States | Virginia | Nktelecom INC
+45.61.149.115/32 # United States | Nevada | Routerhosting LLC
+45.61.151.71/32 # United States | Nevada | Routerhosting LLC
+45.61.157.78/32 # United States | Nevada | Routerhosting LLC
+45.61.157.138/32 # United States | Nevada | Routerhosting LLC
+45.61.157.143/32 # United States | Nevada | Routerhosting LLC
 45.61.166.209/32 # United States | Texas | Routerhosting LLC
 45.76.65.42/32 # United States | California | The Constant Company, LLC
 45.88.97.225/32 # Germany | Hesse | Cogent Communications
@@ -117,6 +126,8 @@
 45.131.179.24/32 # Hong Kong | Hong Kong | XNNET LLC
 45.141.84.45/32 # Russia | Moscow | Media Land LLC
 45.141.87.11/32 # Russia | Saint Petersburg | Media Land LLC
+45.150.65.69/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
+45.150.65.94/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
 45.150.65.206/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
 45.151.62.238/32 # Russia | Moscow | GLOBAL INTERNET SOLUTIONS LLC
 45.155.220.79/32 # Japan | Osaka Prefecture | Starry Network Limited
@@ -177,6 +188,10 @@
 79.137.203.158/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
 80.66.88.146/32 # Netherlands | North Holland | Gening Nikita Dmitrievich
 80.82.65.127/32 # Netherlands | North Holland | Ip Volume INC
+80.92.205.56/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
+80.92.205.131/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
+80.92.205.163/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
+80.92.205.169/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
 81.19.131.153/32 # United Kingdom | England | GTHost
 82.115.223.182/32 # Netherlands | North Holland | PSB HOSTING LTD
 82.115.223.234/32 # Netherlands | North Holland | PSB HOSTING LTD
@@ -287,8 +302,13 @@
 103.27.109.217/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.27.110.159/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.35.188.48/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
+103.35.188.73/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
+103.35.188.77/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
 103.35.188.93/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
+103.35.189.157/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
+103.35.189.158/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
 103.35.189.222/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
+103.35.190.65/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
 103.43.17.99/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.43.18.22/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.43.18.95/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
@@ -400,6 +420,7 @@
 139.99.114.108/32 # Singapore | Southeast | OVH SAS
 140.206.194.238/32 # China | Shanghai | China Unicom Shanghai Network
 141.98.168.11/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
+141.98.168.14/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
 141.98.168.16/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
 141.98.234.166/32 # Hong Kong | Hong Kong | GLOBAL CONNECTIVITY SOLUTIONS LLP
 141.255.164.98/32 # Switzerland | Zurich | Private Layer INC
@@ -407,9 +428,48 @@
 143.110.168.25/32 # United Kingdom | England | Digitalocean, LLC
 143.198.92.175/32 # Singapore | Southeast | Digitalocean, LLC
 144.48.241.166/32 # Hong Kong | Hong Kong | Cloudie Limited
+144.172.74.107/32 # United States | California | Routerhosting LLC
+144.172.76.123/32 # United States | Florida | Routerhosting LLC
+144.172.79.113/32 # United States | Florida | Routerhosting LLC
+144.172.84.106/32 # United States | Florida | Routerhosting LLC
+144.172.85.87/32 # United States | Florida | Routerhosting LLC
+144.172.85.92/32 # United States | Florida | Routerhosting LLC
+144.172.86.82/32 # United States | Florida | Routerhosting LLC
+144.172.86.83/32 # United States | Florida | Routerhosting LLC
+144.172.86.84/32 # United States | Florida | Routerhosting LLC
+144.172.86.85/32 # United States | Florida | Routerhosting LLC
+144.172.89.72/32 # United States | Wyoming | Routerhosting LLC
+144.172.89.116/32 # United States | Wyoming | Routerhosting LLC
+144.172.89.140/32 # United States | Wyoming | Routerhosting LLC
+144.172.89.141/32 # United States | Wyoming | Routerhosting LLC
+144.172.92.11/32 # United States | Utah | Routerhosting LLC
+144.172.92.36/32 # United States | Utah | Routerhosting LLC
+144.172.92.49/32 # United States | Utah | Routerhosting LLC
+144.172.93.4/32 # United States | Utah | Routerhosting LLC
+144.172.93.192/32 # United States | Utah | Routerhosting LLC
+144.172.94.60/32 # United States | Utah | Routerhosting LLC
 144.172.95.64/32 # United States | Utah | Routerhosting LLC
+144.172.96.112/32 # United States | Utah | Routerhosting LLC
+144.172.96.117/32 # United States | Utah | Routerhosting LLC
 144.172.96.125/32 # United States | Utah | Routerhosting LLC
+144.172.97.183/32 # United States | Utah | Routerhosting LLC
+144.172.100.18/32 # United States | Nevada | Routerhosting LLC
+144.172.100.19/32 # United States | Nevada | Routerhosting LLC
+144.172.100.70/32 # United States | Nevada | Routerhosting LLC
+144.172.100.79/32 # United States | Nevada | Routerhosting LLC
+144.172.101.63/32 # United States | Nevada | Routerhosting LLC
+144.172.101.138/32 # United States | Nevada | Routerhosting LLC
+144.172.104.10/32 # United States | Nevada | Routerhosting LLC
+144.172.104.11/32 # United States | Nevada | Routerhosting LLC
+144.172.104.120/32 # United States | Nevada | Routerhosting LLC
+144.172.104.141/32 # United States | Nevada | Routerhosting LLC
+144.172.111.100/32 # United States | Florida | Routerhosting LLC
+144.172.111.106/32 # United States | Florida | Routerhosting LLC
+144.172.111.108/32 # United States | Florida | Routerhosting LLC
 144.172.111.134/32 # United States | Florida | Routerhosting LLC
+144.172.122.35/32 # United States | Nevada | Routerhosting LLC
+144.172.122.130/32 # United States | Nevada | Routerhosting LLC
+144.172.122.137/32 # United States | Nevada | Routerhosting LLC
 146.70.79.18/32 # Hong Kong | Hong Kong | M Europe SRL
 146.70.79.105/32 # Hong Kong | Hong Kong | M Europe SRL
 146.70.102.3/32 # United Arab Emirates | Dubai | M Europe SRL
@@ -487,8 +547,19 @@
 167.99.202.130/32 # United Kingdom | England | Digitalocean, LLC
 168.100.9.199/32 # Netherlands | North Holland | Bl Networks
 168.119.96.41/32 # Germany | Saxony | Hetzner Online GmbH
+172.86.96.140/32 # United States | New York | Routerhosting LLC
+172.86.96.166/32 # United States | New York | Routerhosting LLC
 172.86.96.245/32 # United States | New York | Routerhosting LLC
+172.86.104.167/32 # United States | New York | Routerhosting LLC
+172.86.104.170/32 # United States | New York | Routerhosting LLC
+172.86.105.63/32 # United States | New York | Routerhosting LLC
 172.86.105.129/32 # United States | New York | Routerhosting LLC
+172.86.106.107/32 # United States | New York | Routerhosting LLC
+172.86.107.97/32 # United States | New York | Routerhosting LLC
+172.86.108.105/32 # United States | New York | Routerhosting LLC
+172.86.108.112/32 # United States | New York | Routerhosting LLC
+172.86.108.117/32 # United States | New York | Routerhosting LLC
+172.86.110.172/32 # United States | New York | Routerhosting LLC
 172.86.123.127/32 # United States | Texas | Routerhosting LLC
 172.93.165.10/32 # Hong Kong | Hong Kong | Gigabit Hosting Sdn Bhd
 172.93.165.14/32 # Hong Kong | Hong Kong | Gigabit Hosting Sdn Bhd
@@ -538,6 +609,7 @@
 185.141.119.133/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
 185.141.119.155/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
 185.141.119.160/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
+185.141.119.163/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
 185.143.223.188/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 185.147.124.97/32 # Russia | Moscow | JSC Selectel
 185.147.124.124/32 # Russia | Moscow | JSC Selectel
