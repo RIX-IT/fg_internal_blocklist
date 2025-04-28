@@ -6,10 +6,8 @@
 46.246.8.0/24 # Sweden | Stockholm County | Glesys Ab
 62.133.61.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 68.235.46.0/24 # United States | Illinois | Tzulo, Inc.
-79.127.222.0/24 # United States | Texas | Datacamp Limited
 87.120.126.0/24 # Bulgaria | Sofia-city | Internet Assigned Numbers Authority
 87.120.127.0/24 # United States | District of Columbia | Internet Assigned N...
-87.249.134.0/24 # United States | Illinois | Datacamp Limited
 88.214.48.0/24 # United States | New York | Sia Singularity Telecom
 89.23.103.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 89.23.107.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
@@ -19,20 +17,15 @@
 92.255.85.0/24 # Russia | Moscow | Chang Way Technologies Co. Limited
 94.156.167.0/24 # Bulgaria | Sofia-city | Internet Assigned Numbers Authority
 138.124.183.0/24 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
-138.199.43.0/24 # United States | Washington | Datacamp Limited
-143.244.47.0/24 # United States | New York | Datacamp Limited
 144.172.98.0/24 # United States | Utah | Routerhosting LLC
 144.172.102.0/24 # United States | Nevada | Routerhosting LLC
 144.172.103.0/24 # United States | Nevada | Routerhosting LLC
 147.45.50.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 149.40.50.0/24 # United States | Massachusetts | Datacamp Limited
 149.57.16.0/24 # Netherlands | North Holland | Ipv Superhub Limited
-155.2.190.0/24 # Germany | Hesse | Datacamp Limited
 185.42.12.0/24 # Russia | Moscow | Chang Way Technologies Co. Limited
 185.156.46.0/24 # United States | Virginia | Datacamp Limited
 196.251.66.0/24 # Netherlands | North Holland | Nybula LLC
-198.44.136.0/24 # United States | New York | Tzulo, Inc.
-198.54.131.0/24 # United States | Washington | Tzulo, Inc.
 1.84.116.140/32 # China | Shaanxi | Chinanet
 5.34.176.46/32 # Singapore | Southeast | GREEN FLOID LLC
 5.61.59.201/32 # Netherlands | North Holland | Scalaxy B.V.
@@ -93,7 +86,6 @@
 42.228.127.42/32 # China | Henan | China Unicom China1 Backbone
 42.229.157.1/32 # China | Henan | China Unicom China1 Backbone
 43.225.189.137/32 # United States | Massachusetts | Hostroyale Technologies Pv...
-43.225.189.165/32 # United States | Massachusetts | Hostroyale Technologies Pv...
 43.226.126.164/32 # Hong Kong | Hong Kong | Ctg Server Limited
 43.226.126.165/32 # Hong Kong | Hong Kong | Ctg Server Limited
 43.247.135.106/32 # Hong Kong | Hong Kong | XNNET LLC
@@ -146,7 +138,6 @@
 59.88.154.111/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.94.119.177/32 # India | Punjab | Bharat Sanchar Nigam LTD
 59.95.86.60/32 # India | Karnataka | Bharat Sanchar Nigam LTD
-59.96.137.226/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.96.138.90/32 # India | Haryana | Bharat Sanchar Nigam LTD
 59.99.201.10/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.182.90.178/32 # India | Kerala | Bharat Sanchar Nigam LTD
@@ -155,7 +146,6 @@
 60.171.137.216/32 # China | Anhui | Chinanet
 60.204.201.75/32 # China | Shanghai | Huawei Cloud Service Data Center
 61.0.102.108/32 # India | Rajasthan | Bharat Sanchar Nigam LTD
-61.3.21.52/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 61.53.107.136/32 # China | Henan | China Unicom China1 Backbone
 61.53.201.107/32 # China | Henan | China Unicom China1 Backbone
 61.54.239.249/32 # China | Henan | China Unicom China1 Backbone
@@ -180,10 +170,11 @@
 78.153.140.151/32 # United Kingdom | England | HOSTGLOBAL.PLUS LTD
 79.76.113.184/32 # Germany | Hesse | Oracle Corporation
 79.124.8.66/32 # Netherlands | North Holland | Colocationx Ltd.
-79.127.217.36/32 # United States | California | Datacamp Limited
 79.127.217.44/32 # United States | California | Datacamp Limited
 79.127.217.49/32 # United States | California | Datacamp Limited
-79.127.217.57/32 # United States | California | Datacamp Limited
+79.127.222.196/32 # United States | Texas | Datacamp Limited
+79.127.222.204/32 # United States | Texas | Datacamp Limited
+79.127.222.218/32 # United States | Texas | Datacamp Limited
 79.137.197.159/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 79.137.202.22/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
 79.137.203.158/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
@@ -217,6 +208,9 @@
 86.54.42.120/32 # Switzerland | Bern | Global data System IT Corporation
 87.120.125.55/32 # Bulgaria | Sofia-city | Internet Assigned Numbers Authority
 87.121.84.209/32 # Netherlands | North Holland | VPSVAULT.HOST LTD
+87.249.134.25/32 # United States | Illinois | Datacamp Limited
+87.249.134.29/32 # United States | Illinois | Datacamp Limited
+87.249.134.37/32 # United States | Illinois | Datacamp Limited
 87.251.67.58/32 # Russia | Moscow | Kontel LLC
 87.251.67.179/32 # Russia | Moscow | Kontel LLC
 88.119.175.65/32 # United States | Illinois | Informacines Sistemos Ir Techno...
@@ -296,7 +290,6 @@
 96.9.211.27/32 # Singapore | Southeast | Xtom Pty LTD
 102.129.152.60/32 # United States | Florida | Cogent Communications
 102.129.153.182/32 # United States | Florida | Cogent Communications
-102.129.153.205/32 # United States | Florida | Cogent Communications
 102.129.235.127/32 # United States | District of Columbia | Cogent Communications
 102.129.235.186/32 # United States | District of Columbia | Cogent Communications
 102.165.16.127/32 # United States | New Jersey | Cogent Communications
@@ -328,7 +321,6 @@
 103.159.133.251/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
 103.181.64.247/32 # India | Delhi | Nextgen Broadband Private Limited
 103.183.3.10/32 # Hong Kong | Hong Kong | GNET INC.
-103.197.113.208/32 # India | Tamil Nadu | Railtel Corporation of India Ltd.
 103.199.205.14/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
 103.201.129.130/32 # Japan | Osaka Prefecture | Xtom Limited
 103.203.72.186/32 # India | Kerala | Railtel Corporation of India Ltd.
@@ -340,10 +332,8 @@
 104.160.6.2/32 # United Kingdom | England | Orion Network Limited
 104.183.100.189/32 # United States | Florida | AT T Enterprises, LLC
 104.194.153.65/32 # Singapore | Southeast | Routerhosting LLC
-104.223.118.56/32 # United States | California | Quadranet Enterprises LLC
 104.238.61.144/32 # United States | California | GWY IT PTY LTD
 104.254.90.251/32 # Canada | Ontario | Amanah Tech Inc.
-107.170.76.23/32 # United States | New York | Digitalocean, LLC
 107.172.43.186/32 # United States | New York | HostPapa
 109.120.136.107/32 # Latvia | Vidzeme | Media Land LLC
 109.120.136.109/32 # Latvia | Vidzeme | Media Land LLC
@@ -382,7 +372,6 @@
 119.166.101.97/32 # China | Shandong | China Unicom China1 Backbone
 119.180.105.211/32 # China | Shandong | China Unicom China1 Backbone
 119.200.13.201/32 # Republic of Korea | Gwangju | Korea Telecom
-120.60.231.174/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
 120.85.118.202/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
 120.85.186.183/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.86.255.156/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
@@ -412,12 +401,16 @@
 134.199.216.69/32 # United States | California | Digitalocean, LLC
 134.209.30.220/32 # United Kingdom | Wales | Digitalocean, LLC
 137.184.41.14/32 # United States | California | Digitalocean, LLC
+137.184.71.1/32 # United States | New Jersey | Digitalocean, LLC
 137.184.95.72/32 # United States | California | Digitalocean, LLC
 137.184.225.99/32 # United States | California | Digitalocean, LLC
 138.68.90.19/32 # Germany | Hesse | Digitalocean, LLC
 138.124.180.215/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
 138.197.148.32/32 # Canada | Ontario | Digitalocean, LLC
-138.199.59.39/32 # Poland | Masovian Voivodeship | Datacamp Limited
+138.199.43.75/32 # United States | Washington | Datacamp Limited
+138.199.43.80/32 # United States | Washington | Datacamp Limited
+138.199.43.93/32 # United States | Washington | Datacamp Limited
+138.199.43.101/32 # United States | Washington | Datacamp Limited
 139.5.1.17/32 # India | Uttarakhand | Railtel Corporation of India Ltd.
 139.59.19.255/32 # India | Karnataka | Digitalocean, LLC
 139.59.108.43/32 # Singapore | Southeast | Digitalocean, LLC
@@ -432,6 +425,9 @@
 141.255.164.98/32 # Switzerland | Zurich | Private Layer INC
 143.110.168.25/32 # United Kingdom | England | Digitalocean, LLC
 143.198.92.175/32 # Singapore | Southeast | Digitalocean, LLC
+143.244.47.69/32 # United States | New York | Datacamp Limited
+143.244.47.80/32 # United States | New York | Datacamp Limited
+143.244.47.89/32 # United States | New York | Datacamp Limited
 144.48.241.166/32 # Hong Kong | Hong Kong | Cloudie Limited
 144.172.74.107/32 # United States | California | Routerhosting LLC
 144.172.76.123/32 # United States | Florida | Routerhosting LLC
@@ -481,7 +477,6 @@
 146.70.116.104/32 # Austria | Vienna | M Europe SRL
 146.70.116.136/32 # Austria | Vienna | M Europe SRL
 146.70.116.168/32 # Austria | Vienna | M Europe SRL
-146.70.165.68/32 # United States | Oregon | M Europe SRL
 146.70.166.241/32 # United States | New York | M Europe SRL
 146.70.168.177/32 # United States | New York | M Europe SRL
 146.70.171.113/32 # United States | New York | M Europe SRL
@@ -490,6 +485,7 @@
 146.70.187.68/32 # United States | Florida | M Europe SRL
 146.70.211.49/32 # United States | Texas | M Europe SRL
 146.70.211.113/32 # United States | Texas | M Europe SRL
+146.70.211.181/32 # United States | Texas | M Europe SRL
 146.190.22.36/32 # Netherlands | North Holland | Digitalocean, LLC
 147.45.43.136/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 147.45.43.197/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
@@ -520,6 +516,9 @@
 154.91.196.185/32 # Hong Kong | Hong Kong | Vh Global Limited
 154.201.68.57/32 # Hong Kong | Hong Kong | High Family Technology Co., Limited
 154.216.16.111/32 # Republic of Lithuania | Vilnius County | Larus Limited
+155.2.190.56/32 # United States | Georgia | Uk Limited
+155.2.190.148/32 # United States | Georgia | Uk Limited
+155.2.190.174/32 # United States | Georgia | Uk Limited
 156.146.60.74/32 # Austria | Vienna | Datacamp Limited
 156.146.60.82/32 # Austria | Vienna | Datacamp Limited
 156.146.63.136/32 # France | Île-de-France | Datacamp Limited
@@ -546,6 +545,7 @@
 165.154.227.192/32 # Taiwan | Keelung City | Scloud Pte LTD
 165.227.154.220/32 # Germany | Hesse | Digitalocean, LLC
 165.227.177.153/32 # United States | New Jersey | Digitalocean, LLC
+165.232.59.124/32 # United States | California | Digitalocean, LLC
 166.1.173.65/32 # United States | Illinois | Atomic Networks LLC
 166.88.182.65/32 # United States | Illinois | Baxet Group Inc.
 166.88.182.126/32 # United States | Illinois | Baxet Group Inc.
@@ -613,7 +613,6 @@
 185.93.89.81/32 # United Kingdom | England | Limited Network LTD
 185.93.89.133/32 # United Kingdom | England | Limited Network LTD
 185.105.1.243/32 # India | Maharashtra | G core Labs S.A.
-185.141.119.168/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
 185.143.223.188/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 185.147.124.97/32 # Russia | Moscow | JSC Selectel
 185.147.124.124/32 # Russia | Moscow | JSC Selectel
@@ -695,7 +694,12 @@
 196.251.115.23/32 # Netherlands | North Holland | Nybula LLC
 196.251.115.97/32 # Netherlands | North Holland | Nybula LLC
 196.251.115.112/32 # Netherlands | North Holland | Nybula LLC
+198.44.136.120/32 # United States | New York | Tzulo, Inc.
+198.44.136.134/32 # United States | New York | Tzulo, Inc.
+198.44.136.153/32 # United States | New York | Tzulo, Inc.
+198.44.136.166/32 # United States | New York | Tzulo, Inc.
 198.54.129.44/32 # United States | Washington | Tzulo, Inc.
+198.54.131.100/32 # United States | Washington | Tzulo, Inc.
 198.54.134.252/32 # United States | California | Tzulo, Inc.
 200.150.194.109/32 # Brazil | State of São Paulo | Saveincloud Hospedagem Na In...
 202.43.239.13/32 # Singapore | Southeast | Better Cloud Limited
@@ -706,7 +710,6 @@
 205.189.160.3/32 # Hong Kong | Hong Kong | LEASEWEB HONG KONG LIMITED
 206.71.148.78/32 # United Kingdom | England | Bl Networks
 206.188.196.28/32 # Netherlands | North Holland | Bl Networks
-206.189.209.151/32 # United States | California | Digitalocean, LLC
 206.189.225.181/32 # United States | New Jersey | Digitalocean, LLC
 206.206.77.33/32 # Singapore | Southeast | Regxa Company for Information Tech...
 206.237.0.49/32 # Hong Kong | Hong Kong | XNNET LLC
@@ -716,6 +719,7 @@
 207.154.227.64/32 # Germany | Hesse | Digitalocean, LLC
 207.174.31.92/32 # United States | Georgia | Baxet Group Inc.
 207.174.31.215/32 # United States | Georgia | Baxet Group Inc.
+209.38.46.202/32 # Netherlands | North Holland | Digitalocean, LLC
 209.38.159.210/32 # United States | California | Digitalocean, LLC
 209.38.239.106/32 # Germany | Hesse | Digitalocean, LLC
 209.38.250.32/32 # Germany | Bavaria | Digitalocean, LLC
