@@ -81,6 +81,7 @@
 38.181.34.219/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 38.181.35.71/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 38.181.35.129/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
+39.106.141.68/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
 39.162.118.4/32 # China | Henan | China Mobile
 42.58.146.230/32 # China | Liaoning | China Unicom China1 Backbone
 42.228.127.42/32 # China | Henan | China Unicom China1 Backbone
@@ -129,8 +130,10 @@
 46.101.242.222/32 # Germany | Hesse | Digitalocean, LLC
 46.246.122.185/32 # Norway | Oslo | Glesys Ab
 47.83.8.198/32 # Hong Kong | Hong Kong | Alibaba us Technology Co., Ltd.
+47.117.165.166/32 # China | Shanghai | Hangzhou Alibaba Advertising CO.,LTD.
 47.239.0.216/32 # Hong Kong | Hong Kong | Alibaba us Technology Co., Ltd.
 48.218.138.60/32 # Japan | Tokyo | Microsoft Corporation
+51.81.42.234/32 # United States | Virginia | OVH SAS
 51.195.37.155/32 # Germany | Hesse | OVH SAS
 52.253.107.167/32 # Japan | Tokyo | Microsoft Corporation
 58.47.18.52/32 # China | Hunan | No. 1,jin rong Street
@@ -153,6 +156,7 @@
 62.233.57.94/32 # Czech Republic | Prague | GREEN FLOID LLC
 64.12.10.32/32 # United States | California | Edgecast Inc.
 64.23.129.142/32 # United States | California | Digitalocean, LLC
+64.52.80.252/32 # United States | California | Bl Networks
 64.227.142.175/32 # India | Karnataka | Digitalocean, LLC
 68.183.14.33/32 # Netherlands | North Holland | Digitalocean, LLC
 68.183.66.192/32 # Germany | Hesse | Digitalocean, LLC
@@ -160,6 +164,7 @@
 70.39.75.148/32 # United States | Illinois | Sharktech
 72.5.43.29/32 # Romania | Bucharest | Bl Networks
 74.119.194.18/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
+75.127.0.235/32 # United States | California | HostPapa
 77.81.142.55/32 # United States | Florida | M Europe SRL
 77.90.153.247/32 # Germany | Bavaria | Railnet LLC
 77.221.151.54/32 # Russia | Moscow | Aeza Group LLC
@@ -321,6 +326,7 @@
 103.159.133.251/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
 103.181.64.247/32 # India | Delhi | Nextgen Broadband Private Limited
 103.183.3.10/32 # Hong Kong | Hong Kong | GNET INC.
+103.199.16.92/32 # Vietnam | Hanoi | Online Technology Joint Stock Company
 103.199.205.14/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
 103.201.129.130/32 # Japan | Osaka Prefecture | Xtom Limited
 103.203.72.186/32 # India | Kerala | Railtel Corporation of India Ltd.
@@ -498,6 +504,7 @@
 147.185.221.24/32 # United States | Nevada | Developed Methods LLC
 148.113.214.176/32 # Canada | Québec | OVH SAS
 149.88.102.51/32 # Germany | Hesse | Datacamp Limited
+149.102.243.100/32 # United States | California | Datacamp Limited
 149.115.250.19/32 # United States | California | Cogent Communications
 150.147.240.230/32 # Japan | Tokyo | Sony Network Communications Inc.
 151.236.16.167/32 # United States | California | M Europe SRL
@@ -530,6 +537,7 @@
 157.230.33.221/32 # Singapore | Southeast | Digitalocean, LLC
 158.180.31.119/32 # Germany | Hesse | Oracle Corporation
 158.247.208.174/32 # Republic of Korea |  | The Constant Company, LLC
+158.247.211.51/32 # Republic of Korea |  | The Constant Company, LLC
 158.247.222.165/32 # Republic of Korea |  | The Constant Company, LLC
 158.255.46.141/32 # United Kingdom | England | Node Limited
 159.89.171.151/32 # India | Karnataka | Digitalocean, LLC
@@ -538,6 +546,8 @@
 161.35.72.2/32 # Germany | Hesse | Digitalocean, LLC
 161.35.104.178/32 # United States | New Jersey | Digitalocean, LLC
 162.19.135.182/32 # Germany | Schleswig-Holstein | OVH SAS
+162.33.177.56/32 # United States | Illinois | Bl Networks
+162.33.178.196/32 # United States | Illinois | Bl Networks
 162.219.176.3/32 # Canada | Ontario | Amanah Tech Inc.
 162.243.127.17/32 # United States | New Jersey | Digitalocean, LLC
 162.243.202.108/32 # United States | New York | Digitalocean, LLC
@@ -581,6 +591,7 @@
 173.239.232.20/32 # United States | Colorado | Performive LLC
 175.107.1.17/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.9.164/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
+178.175.134.52/32 # Republic of Moldova | Chisinau | Trabia SRL
 178.209.51.222/32 # Switzerland | Zurich | Nine Internet Solutions AG
 178.236.247.173/32 # United States | California | AEZA INTERNATIONAL LTD
 179.43.133.202/32 # Switzerland | Zurich | Private Layer INC
@@ -594,6 +605,7 @@
 179.60.146.242/32 # Peru | Lima | Alviva Holding Limited
 181.214.166.59/32 # United States | Illinois | Cogent Communications
 181.214.166.132/32 # United States | Illinois | Cogent Communications
+182.46.101.131/32 # China | Shandong | Chinanet
 182.46.113.242/32 # China | Shandong | Chinanet
 182.121.191.77/32 # China | Henan | China Unicom China1 Backbone
 182.126.80.187/32 # China | Henan | China Unicom China1 Backbone
@@ -676,11 +688,13 @@
 194.116.217.148/32 # France | Île-de-France | CGI GLOBAL LIMITED
 194.135.104.175/32 # United States | Texas | Baxet Group Inc.
 194.135.104.251/32 # United States | Texas | Baxet Group Inc.
+194.156.98.155/32 # Hong Kong | Hong Kong | STARK INDUSTRIES SOLUTIONS LTD
 194.165.17.20/32 # Republic of Lithuania | Kaunas County | Flyservers S.A.
 194.190.152.108/32 # Russia | Moscow | Baykov Ilya Sergeevich
 195.26.87.209/32 # Netherlands | North Holland | Sollutium Eu Sp Z.O.O.
 195.123.233.19/32 # United States | New Jersey | GREEN FLOID LLC
 195.123.233.148/32 # United States | New Jersey | GREEN FLOID LLC
+195.123.240.2/32 # United States | California | GREEN FLOID LLC
 195.123.241.24/32 # United States | California | GREEN FLOID LLC
 195.123.242.120/32 # United States | California | GREEN FLOID LLC
 195.211.96.135/32 # United States | Washington | GREEN FLOID LLC
@@ -712,6 +726,7 @@
 204.8.98.15/32 # United States | Texas | Quintex Alliance Consulting
 205.189.160.3/32 # Hong Kong | Hong Kong | LEASEWEB HONG KONG LIMITED
 206.71.148.78/32 # United Kingdom | England | Bl Networks
+206.188.196.20/32 # Netherlands | North Holland | Bl Networks
 206.188.196.28/32 # Netherlands | North Holland | Bl Networks
 206.189.225.181/32 # United States | New Jersey | Digitalocean, LLC
 206.206.77.33/32 # Singapore | Southeast | Regxa Company for Information Tech...
@@ -726,6 +741,7 @@
 209.38.159.210/32 # United States | California | Digitalocean, LLC
 209.38.239.106/32 # Germany | Hesse | Digitalocean, LLC
 209.38.250.32/32 # Germany | Bavaria | Digitalocean, LLC
+209.141.43.37/32 # United States | Nevada | Frantech Solutions
 210.209.72.180/32 # Hong Kong | Hong Kong | Hong Kong Broadband Network Limited
 211.234.111.116/32 # Republic of Korea |  | Lg Dacom Corporation
 212.18.104.111/32 # United States | Arizona | GLOBAL CONNECTIVITY SOLUTIONS LLP
