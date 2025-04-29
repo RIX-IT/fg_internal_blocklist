@@ -1,4 +1,3 @@
-37.19.200.0/24 # United States | Texas | Datacamp Limited
 37.19.210.0/24 # United States | Colorado | Datacamp Limited
 37.19.221.0/24 # United States | Texas | Datacamp Limited
 45.134.142.0/24 # United States | Florida | Datacamp Limited
@@ -8,7 +7,6 @@
 68.235.46.0/24 # United States | Illinois | Tzulo, Inc.
 87.120.126.0/24 # Bulgaria | Sofia-city | Internet Assigned Numbers Authority
 87.120.127.0/24 # United States | District of Columbia | Internet Assigned N...
-87.249.134.0/24 # United States | Illinois | Datacamp Limited
 88.214.48.0/24 # United States | New York | Sia Singularity Telecom
 89.23.103.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 89.23.107.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
@@ -24,7 +22,6 @@
 147.45.50.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 149.40.50.0/24 # United States | Massachusetts | Datacamp Limited
 149.57.16.0/24 # Netherlands | North Holland | Ipv Superhub Limited
-155.2.190.0/24 # United States | Georgia | Uk Limited
 185.42.12.0/24 # Russia | Moscow | Chang Way Technologies Co. Limited
 185.156.46.0/24 # United States | Virginia | Datacamp Limited
 196.251.66.0/24 # Netherlands | North Holland | Nybula LLC
@@ -35,6 +32,7 @@
 5.181.3.20/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 5.181.3.164/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 5.181.159.48/32 # United States | New York | Mivocloud SRL
+5.188.206.102/32 # Bulgaria | Sofia-city | KREZ EOOD
 5.226.139.66/32 # United Kingdom | England | Hydra Communications LTD
 5.252.176.55/32 # Russia | Moscow | Mivocloud SRL
 7.6.38.122/32 # United States | Ohio | Dod Network Information Center
@@ -72,6 +70,10 @@
 31.43.185.4/32 # Ukraine | Kyiv city | Fop Dmytro Nedilskyi
 31.43.185.67/32 # Ukraine | Kyiv city | Fop Dmytro Nedilskyi
 37.19.197.182/32 # United States | New York | Datacamp Limited
+37.19.200.153/32 # United States | Texas | Datacamp Limited
+37.19.200.154/32 # United States | Texas | Datacamp Limited
+37.19.200.164/32 # United States | Texas | Datacamp Limited
+37.19.200.166/32 # United States | Texas | Datacamp Limited
 37.46.113.206/32 # Luxembourg | Canton Capellen | Altushost B.V.
 37.114.46.25/32 # Germany | Bavaria | Florian Kolb
 38.54.30.117/32 # Vietnam | Hanoi | Kaopu Cloud Hk Limited
@@ -93,6 +95,7 @@
 42.58.146.230/32 # China | Liaoning | China Unicom China1 Backbone
 42.228.127.42/32 # China | Henan | China Unicom China1 Backbone
 42.229.157.1/32 # China | Henan | China Unicom China1 Backbone
+42.233.143.71/32 # China | Henan | China Unicom China1 Backbone
 43.225.189.137/32 # United States | Massachusetts | Hostroyale Technologies Pv...
 43.226.126.164/32 # Hong Kong | Hong Kong | Ctg Server Limited
 43.226.126.165/32 # Hong Kong | Hong Kong | Ctg Server Limited
@@ -186,7 +189,6 @@
 79.127.217.49/32 # United States | California | Datacamp Limited
 79.127.222.196/32 # United States | Texas | Datacamp Limited
 79.127.222.204/32 # United States | Texas | Datacamp Limited
-79.127.222.209/32 # United States | Texas | Datacamp Limited
 79.127.222.218/32 # United States | Texas | Datacamp Limited
 79.137.197.159/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 79.137.202.22/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
@@ -221,6 +223,10 @@
 86.54.42.120/32 # Switzerland | Bern | Global data System IT Corporation
 87.120.125.55/32 # Bulgaria | Sofia-city | Internet Assigned Numbers Authority
 87.121.84.209/32 # Netherlands | North Holland | VPSVAULT.HOST LTD
+87.249.134.25/32 # United States | Illinois | Datacamp Limited
+87.249.134.29/32 # United States | Illinois | Datacamp Limited
+87.249.134.37/32 # United States | Illinois | Datacamp Limited
+87.249.134.38/32 # United States | Illinois | Datacamp Limited
 87.251.67.58/32 # Russia | Moscow | Kontel LLC
 87.251.67.179/32 # Russia | Moscow | Kontel LLC
 88.119.175.65/32 # United States | Illinois | Informacines Sistemos Ir Techno...
@@ -322,7 +328,6 @@
 103.43.18.95/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.43.19.64/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.43.19.245/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
-103.48.66.146/32 # India | Delhi | GEOCITY NETWORK SOLUTIONS PVT LTD
 103.75.190.73/32 # Malaysia | Federal Territory of Kuala Lumpur | Gigabit Hos...
 103.77.42.202/32 # India | Delhi | ANJANI BROADBAND SOLUTIONS PVT.LTD.
 103.85.25.166/32 # Hong Kong | Hong Kong | Starry Network Limited
@@ -349,7 +354,6 @@
 109.120.136.107/32 # Latvia | Vidzeme | Media Land LLC
 109.120.136.109/32 # Latvia | Vidzeme | Media Land LLC
 109.120.136.124/32 # Latvia | Vidzeme | Media Land LLC
-109.120.136.128/32 # Latvia | Vidzeme | Media Land LLC
 109.236.80.191/32 # Netherlands | South Holland | Worldstream B.V.
 112.51.253.153/32 # China | Fujian | China Mobile
 112.94.97.18/32 # China | Guangdong Province | China Unicom Guangzhou Network
@@ -357,19 +361,16 @@
 112.94.98.143/32 # China | Guangdong Province | China Unicom CHINA1 Guangdong...
 112.132.218.45/32 # China | Anhui | China Unicom China1 Backbone
 112.146.1.222/32 # Republic of Korea | Daejeon | LG POWERCOMM
-113.121.74.59/32 # China | Shandong | No. 1,jin rong Street
 113.228.91.100/32 # China | Liaoning | China Unicom China1 Backbone
 115.50.1.108/32 # China | Henan | China Unicom China1 Backbone
 115.50.25.49/32 # China | Henan | China Unicom China1 Backbone
 115.55.54.48/32 # China | Henan | China Unicom China1 Backbone
 115.55.251.210/32 # China | Henan | China Unicom China1 Backbone
 117.86.170.233/32 # China | Jiangsu | Chinanet
-117.196.189.240/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.205.173.3/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.206.15.102/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.206.23.254/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.206.220.90/32 # India | Haryana | Bharat Sanchar Nigam LTD
-117.209.28.78/32 # India | Meghalaya | Bharat Sanchar Nigam LTD
 117.209.44.175/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.209.83.165/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.209.93.195/32 # India | Mizoram | Bharat Sanchar Nigam LTD
@@ -420,7 +421,6 @@
 138.124.180.215/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
 138.197.148.32/32 # Canada | Ontario | Digitalocean, LLC
 138.199.43.75/32 # United States | Washington | Datacamp Limited
-138.199.43.80/32 # United States | Washington | Datacamp Limited
 138.199.43.93/32 # United States | Washington | Datacamp Limited
 138.199.43.101/32 # United States | Washington | Datacamp Limited
 139.5.1.17/32 # India | Uttarakhand | Railtel Corporation of India Ltd.
@@ -437,7 +437,6 @@
 141.255.164.98/32 # Switzerland | Zurich | Private Layer INC
 143.110.168.25/32 # United Kingdom | England | Digitalocean, LLC
 143.198.92.175/32 # Singapore | Southeast | Digitalocean, LLC
-143.244.47.69/32 # United States | New York | Datacamp Limited
 143.244.47.75/32 # United States | New York | Datacamp Limited
 143.244.47.80/32 # United States | New York | Datacamp Limited
 143.244.47.89/32 # United States | New York | Datacamp Limited
@@ -490,12 +489,14 @@
 146.70.116.104/32 # Austria | Vienna | M Europe SRL
 146.70.116.136/32 # Austria | Vienna | M Europe SRL
 146.70.116.168/32 # Austria | Vienna | M Europe SRL
+146.70.165.241/32 # United States | New York | M Europe SRL
 146.70.166.241/32 # United States | New York | M Europe SRL
 146.70.168.177/32 # United States | New York | M Europe SRL
 146.70.171.113/32 # United States | New York | M Europe SRL
 146.70.171.177/32 # United States | New York | M Europe SRL
 146.70.172.113/32 # United States | California | M Europe SRL
 146.70.172.177/32 # United States | California | M Europe SRL
+146.70.172.241/32 # United States | California | M Europe SRL
 146.70.187.68/32 # United States | Florida | M Europe SRL
 146.70.187.177/32 # United States | Florida | M Europe SRL
 146.70.211.49/32 # United States | Texas | M Europe SRL
@@ -533,6 +534,9 @@
 154.91.196.185/32 # Hong Kong | Hong Kong | Vh Global Limited
 154.201.68.57/32 # Hong Kong | Hong Kong | High Family Technology Co., Limited
 154.216.16.111/32 # Republic of Lithuania | Vilnius County | Larus Limited
+155.2.190.56/32 # United States | Georgia | Uk Limited
+155.2.190.148/32 # United States | Georgia | Uk Limited
+155.2.190.174/32 # United States | Georgia | Uk Limited
 156.146.60.74/32 # Austria | Vienna | Datacamp Limited
 156.146.60.82/32 # Austria | Vienna | Datacamp Limited
 156.146.63.136/32 # France | Île-de-France | Datacamp Limited
@@ -546,6 +550,7 @@
 158.255.46.141/32 # United Kingdom | England | Node Limited
 159.89.171.151/32 # India | Karnataka | Digitalocean, LLC
 159.203.39.73/32 # Canada | Ontario | Digitalocean, LLC
+159.223.209.62/32 # Netherlands | South Holland | Digitalocean, LLC
 160.250.137.160/32 # Vietnam | Đà Nẵng | VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
 161.35.72.2/32 # Germany | Hesse | Digitalocean, LLC
 161.35.104.178/32 # United States | New Jersey | Digitalocean, LLC
@@ -629,7 +634,6 @@
 185.49.69.41/32 # Germany | Hamburg | Leaseweb Deutschland GmbH
 185.72.8.129/32 # United States | Georgia | Baxet Group Inc.
 185.73.124.164/32 # Netherlands | North Holland | aliev
-185.93.89.81/32 # United Kingdom | England | Limited Network LTD
 185.93.89.133/32 # United Kingdom | England | Limited Network LTD
 185.105.1.243/32 # India | Maharashtra | G core Labs S.A.
 185.143.223.188/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
@@ -715,13 +719,9 @@
 196.251.115.23/32 # Netherlands | North Holland | Nybula LLC
 196.251.115.97/32 # Netherlands | North Holland | Nybula LLC
 196.251.115.112/32 # Netherlands | North Holland | Nybula LLC
-198.44.136.120/32 # United States | New York | Tzulo, Inc.
-198.44.136.134/32 # United States | New York | Tzulo, Inc.
+198.44.136.73/32 # United States | New York | Tzulo, Inc.
 198.44.136.153/32 # United States | New York | Tzulo, Inc.
-198.44.136.166/32 # United States | New York | Tzulo, Inc.
 198.54.129.44/32 # United States | Washington | Tzulo, Inc.
-198.54.131.100/32 # United States | Washington | Tzulo, Inc.
-198.54.131.164/32 # United States | Washington | Tzulo, Inc.
 198.54.134.252/32 # United States | California | Tzulo, Inc.
 200.150.194.109/32 # Brazil | State of São Paulo | Saveincloud Hospedagem Na In...
 202.43.239.13/32 # Singapore | Southeast | Better Cloud Limited
