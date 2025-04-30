@@ -17,6 +17,7 @@
 92.255.85.0/24 # Russia | Moscow | Chang Way Technologies Co. Limited
 94.156.167.0/24 # Bulgaria | Sofia-city | Internet Assigned Numbers Authority
 138.124.183.0/24 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
+138.199.43.0/24 # United States | Washington | Datacamp Limited
 144.172.98.0/24 # United States | Utah | Routerhosting LLC
 144.172.102.0/24 # United States | Nevada | Routerhosting LLC
 144.172.103.0/24 # United States | Nevada | Routerhosting LLC
@@ -24,7 +25,6 @@
 149.40.50.0/24 # United States | Massachusetts | Datacamp Limited
 149.57.16.0/24 # Netherlands | North Holland | Ipv Superhub Limited
 185.42.12.0/24 # Russia | Moscow | Chang Way Technologies Co. Limited
-185.156.46.0/24 # United States | Virginia | Datacamp Limited
 196.251.66.0/24 # Netherlands | North Holland | Nybula LLC
 1.84.116.140/32 # China | Shaanxi | Chinanet
 5.34.176.46/32 # Singapore | Southeast | GREEN FLOID LLC
@@ -55,7 +55,6 @@
 23.146.184.221/32 # United States | Illinois | Atomic Networks LLC
 23.162.8.75/32 # United States | Kentucky | Jone Broadband LLC
 23.162.8.117/32 # United States | Kentucky | Jone Broadband LLC
-23.234.69.27/32 # United States | Colorado | Tzulo, Inc.
 23.234.69.115/32 # United States | Illinois | Tzulo, Inc.
 23.234.70.39/32 # United States | Colorado | Tzulo, Inc.
 23.234.70.242/32 # United States | Colorado | Tzulo, Inc.
@@ -115,7 +114,6 @@
 45.61.166.209/32 # United States | Texas | Routerhosting LLC
 45.76.65.42/32 # United States | California | The Constant Company, LLC
 45.88.97.225/32 # Germany | Hesse | Cogent Communications
-45.95.233.103/32 # France | Île-de-France | GLOBAL CONNECTIVITY SOLUTIONS LLP
 45.115.176.24/32 # India | Haryana | Nas Internet Services Private Limited
 45.120.177.8/32 # Netherlands | Drenthe | STARK INDUSTRIES SOLUTIONS LTD
 45.125.67.144/32 # Hong Kong | Hong Kong | Tele Asia Limited
@@ -145,7 +143,6 @@
 51.81.42.234/32 # United States | Virginia | OVH SAS
 51.195.37.155/32 # Germany | Hesse | OVH SAS
 52.253.107.167/32 # Japan | Tokyo | Microsoft Corporation
-58.47.18.52/32 # China | Hunan | No. 1,jin rong Street
 58.221.58.240/32 # China | Jiangsu | Chinanet
 59.88.154.111/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.94.119.177/32 # India | Punjab | Bharat Sanchar Nigam LTD
@@ -153,7 +150,6 @@
 59.95.87.167/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.96.138.90/32 # India | Haryana | Bharat Sanchar Nigam LTD
 59.99.201.10/32 # India | Karnataka | Bharat Sanchar Nigam LTD
-59.182.90.178/32 # India | Kerala | Bharat Sanchar Nigam LTD
 60.22.19.105/32 # China | Liaoning | China Unicom China1 Backbone
 60.23.238.123/32 # China | Liaoning | China Unicom China1 Backbone
 60.171.137.216/32 # China | Anhui | Chinanet
@@ -165,7 +161,6 @@
 62.173.140.223/32 # Russia | Moscow | Internet cosmos LLC
 62.233.57.94/32 # Czech Republic | Prague | GREEN FLOID LLC
 64.12.10.32/32 # United States | California | Edgecast Inc.
-64.23.129.142/32 # United States | California | Digitalocean, LLC
 64.52.80.252/32 # United States | California | Bl Networks
 64.227.142.175/32 # India | Karnataka | Digitalocean, LLC
 68.183.14.33/32 # Netherlands | North Holland | Digitalocean, LLC
@@ -189,6 +184,7 @@
 79.127.217.49/32 # United States | California | Datacamp Limited
 79.127.222.196/32 # United States | Texas | Datacamp Limited
 79.127.222.204/32 # United States | Texas | Datacamp Limited
+79.127.222.217/32 # United States | Texas | Datacamp Limited
 79.127.222.218/32 # United States | Texas | Datacamp Limited
 79.137.197.159/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 79.137.202.22/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
@@ -354,7 +350,6 @@
 104.254.90.251/32 # Canada | Ontario | Amanah Tech Inc.
 107.172.43.186/32 # United States | New York | HostPapa
 109.120.136.107/32 # Latvia | Vidzeme | Media Land LLC
-109.120.136.109/32 # Latvia | Vidzeme | Media Land LLC
 109.120.136.124/32 # Latvia | Vidzeme | Media Land LLC
 109.236.80.191/32 # Netherlands | South Holland | Worldstream B.V.
 112.51.253.153/32 # China | Fujian | China Mobile
@@ -366,9 +361,7 @@
 113.228.91.100/32 # China | Liaoning | China Unicom China1 Backbone
 115.50.1.108/32 # China | Henan | China Unicom China1 Backbone
 115.50.25.49/32 # China | Henan | China Unicom China1 Backbone
-115.55.54.48/32 # China | Henan | China Unicom China1 Backbone
 115.55.251.210/32 # China | Henan | China Unicom China1 Backbone
-117.86.170.233/32 # China | Jiangsu | Chinanet
 117.205.173.3/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.206.15.102/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.206.23.254/32 # India | Karnataka | Bharat Sanchar Nigam LTD
@@ -422,15 +415,9 @@
 138.68.90.19/32 # Germany | Hesse | Digitalocean, LLC
 138.124.180.215/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
 138.197.148.32/32 # Canada | Ontario | Digitalocean, LLC
-138.199.43.75/32 # United States | Washington | Datacamp Limited
-138.199.43.93/32 # United States | Washington | Datacamp Limited
-138.199.43.101/32 # United States | Washington | Datacamp Limited
-138.199.43.102/32 # United States | Washington | Datacamp Limited
 139.5.1.17/32 # India | Uttarakhand | Railtel Corporation of India Ltd.
-139.59.19.255/32 # India | Karnataka | Digitalocean, LLC
 139.59.108.43/32 # Singapore | Southeast | Digitalocean, LLC
 139.59.236.31/32 # Singapore | Southeast | Digitalocean, LLC
-139.59.252.134/32 # Singapore | Southeast | Digitalocean, LLC
 139.99.114.108/32 # Singapore | Southeast | OVH SAS
 140.206.194.238/32 # China | Shanghai | China Unicom Shanghai Network
 141.98.168.11/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
@@ -642,12 +629,16 @@
 185.49.69.41/32 # Germany | Hamburg | Leaseweb Deutschland GmbH
 185.72.8.129/32 # United States | Georgia | Baxet Group Inc.
 185.73.124.164/32 # Netherlands | North Holland | aliev
-185.93.89.133/32 # United Kingdom | England | Limited Network LTD
 185.105.1.243/32 # India | Maharashtra | G core Labs S.A.
+185.141.119.154/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
 185.143.223.188/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 185.147.124.97/32 # Russia | Moscow | JSC Selectel
 185.147.124.124/32 # Russia | Moscow | JSC Selectel
 185.147.125.147/32 # Russia | Moscow | JSC Selectel
+185.156.46.140/32 # United States | Virginia | Datacamp Limited
+185.156.46.145/32 # United States | Virginia | Datacamp Limited
+185.156.46.153/32 # United States | Virginia | Datacamp Limited
+185.156.46.158/32 # United States | Virginia | Datacamp Limited
 185.174.136.204/32 # Russia | Moscow | Aeza Group LLC
 185.190.251.16/32 # United States | New York | GREEN FLOID LLC
 185.193.88.178/32 # Belgium | Brussels-Capital | Telkom Internet LTD
