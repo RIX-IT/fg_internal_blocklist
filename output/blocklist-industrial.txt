@@ -1,5 +1,4 @@
 5.181.3.0/24 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
-37.19.200.0/24 # United States | Texas | Datacamp Limited
 37.19.210.0/24 # United States | Colorado | Datacamp Limited
 37.19.221.0/24 # United States | Texas | Datacamp Limited
 45.134.142.0/24 # United States | Florida | Datacamp Limited
@@ -59,7 +58,6 @@
 23.133.88.96/32 # United States | Georgia | IPFB LLC
 23.146.184.221/32 # United States | Illinois | Atomic Networks LLC
 23.162.8.117/32 # United States | Kentucky | Jone Broadband LLC
-23.234.83.84/32 # United States | Washington | Tzulo, Inc.
 23.234.83.146/32 # United States | Oregon | Tzulo, Inc.
 23.234.83.242/32 # United States | Illinois | Tzulo, Inc.
 27.47.3.159/32 # China | Guangdong Province | China Unicom Guangzhou Network
@@ -73,6 +71,10 @@
 31.43.185.4/32 # Ukraine | Kyiv city | Fop Dmytro Nedilskyi
 31.192.107.157/32 # Russia | Moscow | HOSTKEY B.V.
 37.19.197.182/32 # United States | New York | Datacamp Limited
+37.19.200.141/32 # United States | Texas | Datacamp Limited
+37.19.200.153/32 # United States | Texas | Datacamp Limited
+37.19.200.154/32 # United States | Texas | Datacamp Limited
+37.19.200.166/32 # United States | Texas | Datacamp Limited
 37.46.113.206/32 # Luxembourg | Canton Capellen | Altushost B.V.
 37.48.253.88/32 # Russia | Moscow | JSC Selectel
 37.48.253.93/32 # Russia | Moscow | JSC Selectel
@@ -183,7 +185,6 @@
 64.227.142.175/32 # India | Karnataka | Digitalocean, LLC
 65.49.235.210/32 # Canada | British Columbia | It Networks INC
 68.183.147.229/32 # United States | New Jersey | Digitalocean, LLC
-68.235.35.124/32 # United States | Illinois | Tzulo, Inc.
 69.55.62.10/32 # United States | New Jersey | Digitalocean, LLC
 70.39.75.148/32 # United States | Illinois | Sharktech
 72.5.43.29/32 # Romania | Bucharest | Bl Networks
@@ -204,7 +205,6 @@
 79.127.217.49/32 # United States | California | Datacamp Limited
 79.127.222.196/32 # United States | Texas | Datacamp Limited
 79.127.222.204/32 # United States | Texas | Datacamp Limited
-79.127.222.218/32 # United States | Texas | Datacamp Limited
 79.137.197.159/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 79.137.202.22/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
 79.137.203.158/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
@@ -240,7 +240,6 @@
 86.60.129.89/32 # Finland | Mainland Finland | Lounea Palvelut Oy
 87.120.125.55/32 # Bulgaria | Sofia-city | Internet Assigned Numbers Authority
 87.249.134.25/32 # United States | Illinois | Datacamp Limited
-87.249.134.29/32 # United States | Illinois | Datacamp Limited
 87.249.134.37/32 # United States | Illinois | Datacamp Limited
 87.249.134.38/32 # United States | Illinois | Datacamp Limited
 87.251.67.58/32 # Russia | Moscow | Kontel LLC
@@ -286,7 +285,6 @@
 91.202.233.252/32 # Russia | Saint Petersburg | PROSPERO OOO
 91.206.14.202/32 # Russia | Moscow | JSC Selectel
 91.217.249.104/32 # Germany | Hesse | Internet Utilities Europe And Asia Limited
-91.219.214.131/32 # United States | Florida | M Europe SRL
 91.219.214.135/32 # United States | Florida | M Europe SRL
 91.222.174.87/32 # United States | Washington | Sollutium Eu Sp Z.O.O.
 91.227.62.253/32 # United States | New York | FEMBOY PROXY SOLUTIONS HOLDINGS...
@@ -451,7 +449,6 @@
 138.197.148.32/32 # Canada | Ontario | Digitalocean, LLC
 138.199.43.93/32 # United States | Washington | Datacamp Limited
 138.199.43.101/32 # United States | Washington | Datacamp Limited
-138.199.43.102/32 # United States | Washington | Datacamp Limited
 139.59.9.100/32 # India | Karnataka | Digitalocean, LLC
 139.59.108.43/32 # Singapore | Southeast | Digitalocean, LLC
 139.59.161.25/32 # United Kingdom | England | Digitalocean, LLC
@@ -520,8 +517,6 @@
 146.70.116.168/32 # Austria | Vienna | M Europe SRL
 146.70.166.241/32 # United States | New York | M Europe SRL
 146.70.168.113/32 # United States | New York | M Europe SRL
-146.70.171.177/32 # United States | New York | M Europe SRL
-146.70.171.184/32 # United States | New York | M Europe SRL
 146.70.172.177/32 # United States | California | M Europe SRL
 146.70.187.177/32 # United States | Florida | M Europe SRL
 146.70.211.49/32 # United States | Texas | M Europe SRL
@@ -562,7 +557,6 @@
 154.91.196.185/32 # Hong Kong | Hong Kong | Vh Global Limited
 154.201.68.57/32 # Hong Kong | Hong Kong | High Family Technology Co., Limited
 154.216.16.111/32 # Republic of Lithuania | Vilnius County | Larus Limited
-155.2.190.56/32 # United States | Georgia | Uk Limited
 155.2.190.148/32 # United States | Georgia | Uk Limited
 155.2.190.174/32 # United States | Georgia | Uk Limited
 156.146.60.74/32 # Austria | Vienna | Datacamp Limited
@@ -794,9 +788,7 @@
 198.44.130.67/32 # United States | North Carolina | Tzulo, Inc.
 198.44.134.19/32 # United States | California | Tzulo, Inc.
 198.44.136.73/32 # United States | New York | Tzulo, Inc.
-198.54.129.44/32 # United States | Washington | Tzulo, Inc.
 198.54.131.122/32 # United States | Washington | Tzulo, Inc.
-198.54.134.252/32 # United States | California | Tzulo, Inc.
 200.150.194.109/32 # Brazil | State of São Paulo | Saveincloud Hospedagem Na In...
 202.43.239.13/32 # Singapore | Southeast | Better Cloud Limited
 202.50.55.16/32 # Norway | Oslo | Gigahost AS
@@ -804,7 +796,6 @@
 202.146.222.208/32 # Hong Kong | Hong Kong | Ctg Server Limited
 203.83.9.60/32 # China | Jiangsu | Hong Kong San Ai Net Int l Limited
 203.83.9.62/32 # China | Jiangsu | Hong Kong San Ai Net Int l Limited
-204.8.98.15/32 # United States | Texas | Quintex Alliance Consulting
 204.8.98.26/32 # United States | Texas | Quintex Alliance Consulting
 204.8.98.36/32 # United States | Texas | Quintex Alliance Consulting
 204.188.228.16/32 # United States | Illinois | Sharktech
