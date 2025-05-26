@@ -3,6 +3,7 @@
 23.160.24.0/24 # United States | Colorado | Data Bridge Limited
 23.162.40.0/24 # United States | Kentucky | Cyber Data LLC
 23.168.216.0/24 # United States | Colorado | Hayashimo LLC
+23.234.88.0/24 # United States | Illinois | Tzulo, Inc.
 23.234.89.0/24 # United States | Illinois | Tzulo, Inc.
 23.234.90.0/24 # United States | Arizona | Tzulo, Inc.
 23.234.91.0/24 # United States | California | Tzulo, Inc.
@@ -11,9 +12,14 @@
 23.234.94.0/24 # United States | Georgia | Tzulo, Inc.
 23.234.95.0/24 # United States | Georgia | Tzulo, Inc.
 23.234.100.0/24 # United States | New York | Tzulo, Inc.
+23.234.101.0/24 # United States | New York | Tzulo, Inc.
 23.234.102.0/24 # United States | New York | Tzulo, Inc.
 23.234.103.0/24 # United States | Florida | Tzulo, Inc.
 23.234.108.0/24 # United States | Illinois | Tzulo, Inc.
+23.234.109.0/24 # United States | Illinois | Tzulo, Inc.
+23.234.110.0/24 # United States | Illinois | Tzulo, Inc.
+23.234.111.0/24 # United States | Illinois | Tzulo, Inc.
+23.234.112.0/24 # United States | Utah | Tzulo, Inc.
 23.234.113.0/24 # United States | Illinois | Tzulo, Inc.
 23.234.114.0/24 # United States | Illinois | Tzulo, Inc.
 23.234.115.0/24 # United States | Illinois | Tzulo, Inc.
@@ -42,7 +48,6 @@
 5.181.159.48/32 # United States | New York | Mivocloud SRL
 5.182.5.119/32 # Russia | Saint Petersburg | JSC Selectel
 5.188.159.11/32 # Russia | Saint Petersburg | JSC Selectel
-5.188.206.102/32 # Bulgaria | Sofia-city | KREZ EOOD
 5.226.139.66/32 # United Kingdom | England | Hydra Communications LTD
 5.252.176.55/32 # Russia | Moscow | Mivocloud SRL
 7.6.38.122/32 # United States | Ohio | Dod Network Information Center
@@ -55,7 +60,6 @@
 13.232.191.219/32 # India | Maharashtra | Amazon.com, Inc.
 14.141.135.254/32 # India | Delhi | Tata Communications Limited
 20.37.116.136/32 # Japan | Tokyo | Microsoft Corporation
-20.66.36.128/32 # United States | California | Microsoft Corporation
 20.89.43.151/32 # Japan | Tokyo | Microsoft Corporation
 20.188.26.190/32 # Japan | Tokyo | Microsoft Corporation
 20.222.138.18/32 # Japan | Tokyo | Microsoft Corporation
@@ -63,30 +67,6 @@
 23.81.41.166/32 # Japan | Tokyo | Leaseweb Japan K.K.
 23.133.88.96/32 # United States | Georgia | IPFB LLC
 23.146.184.221/32 # United States | Illinois | Atomic Networks LLC
-23.234.88.21/32 # United States | Illinois | Tzulo, Inc.
-23.234.88.108/32 # United States | Illinois | Tzulo, Inc.
-23.234.88.149/32 # United States | Washington | Tzulo, Inc.
-23.234.88.203/32 # United States | Illinois | Tzulo, Inc.
-23.234.101.21/32 # United States | New York | Tzulo, Inc.
-23.234.101.24/32 # United States | New York | Tzulo, Inc.
-23.234.101.108/32 # United States | New York | Tzulo, Inc.
-23.234.101.164/32 # United States | New York | Tzulo, Inc.
-23.234.109.24/32 # United States | Illinois | Tzulo, Inc.
-23.234.109.149/32 # United States | Illinois | Tzulo, Inc.
-23.234.109.150/32 # United States | Illinois | Tzulo, Inc.
-23.234.109.253/32 # United States | Illinois | Tzulo, Inc.
-23.234.110.149/32 # United States | Illinois | Tzulo, Inc.
-23.234.110.183/32 # United States | Illinois | Tzulo, Inc.
-23.234.110.203/32 # United States | Illinois | Tzulo, Inc.
-23.234.110.235/32 # United States | Illinois | Tzulo, Inc.
-23.234.111.23/32 # United States | Illinois | Tzulo, Inc.
-23.234.111.125/32 # United States | Illinois | Tzulo, Inc.
-23.234.111.203/32 # United States | Illinois | Tzulo, Inc.
-23.234.111.253/32 # United States | Illinois | Tzulo, Inc.
-23.234.112.21/32 # United States | Utah | Tzulo, Inc.
-23.234.112.23/32 # United States | Utah | Tzulo, Inc.
-23.234.112.183/32 # United States | Illinois | Tzulo, Inc.
-23.234.112.253/32 # United States | Illinois | Tzulo, Inc.
 27.47.3.159/32 # China | Guangdong Province | China Unicom Guangzhou Network
 27.102.113.240/32 # Republic of Korea | Gyeonggi | DAOU TECHNOLOGY
 27.124.37.30/32 # Japan | Tokyo | Ctg Server Limited
@@ -118,6 +98,7 @@
 38.181.35.71/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 38.181.35.129/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 39.106.141.68/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
+39.129.197.6/32 # China | Guangdong Province | China Mobile
 42.227.128.244/32 # China | Henan | China Unicom China1 Backbone
 42.228.224.159/32 # China | Henan | China Unicom China1 Backbone
 42.233.143.71/32 # China | Henan | China Unicom China1 Backbone
@@ -220,7 +201,6 @@
 79.137.197.159/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 79.137.202.22/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
 79.137.203.158/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
-80.11.70.48/32 # France | Provence-Alpes-Côte d'Azur | Orange S.A.
 80.64.30.36/32 # Russia | Moscow | Chang Way Technologies Co. Limited
 80.64.30.218/32 # Russia | Moscow | Chang Way Technologies Co. Limited
 80.64.30.249/32 # Russia | Moscow | Chang Way Technologies Co. Limited
@@ -352,7 +332,6 @@
 103.43.19.245/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.48.64.199/32 # India | Delhi | GEOCITY NETWORK SOLUTIONS PVT LTD
 103.75.190.73/32 # Malaysia | Federal Territory of Kuala Lumpur | Gigabit Hos...
-103.77.42.202/32 # India | Delhi | ANJANI BROADBAND SOLUTIONS PVT.LTD.
 103.85.25.166/32 # Hong Kong | Hong Kong | Starry Network Limited
 103.91.64.214/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
 103.93.93.162/32 # Indonesia | East Java | Pt Jinde Grup Indonesia
@@ -394,6 +373,7 @@
 117.206.28.108/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.209.2.80/32 # India | Haryana | Bharat Sanchar Nigam LTD
 117.209.13.142/32 # India | Meghalaya | Bharat Sanchar Nigam LTD
+117.209.83.99/32 # India | Mizoram | Bharat Sanchar Nigam LTD
 117.209.94.15/32 # India | Mizoram | Bharat Sanchar Nigam LTD
 117.216.177.129/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.216.184.186/32 # India | Telangana | Bharat Sanchar Nigam LTD
@@ -410,7 +390,6 @@
 120.85.119.145/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
 120.86.236.130/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
 121.201.109.98/32 # China | Guangdong Province | Guangdong
-122.96.31.141/32 # China | Jiangsu | China Unicom China1 Backbone
 122.96.48.194/32 # China | Shanghai | China Unicom China1 Backbone
 122.97.209.180/32 # China | Jiangsu | China Unicom China1 Backbone
 122.97.212.82/32 # China | Jiangsu | CNC Group CHINA1 Jiangsu Province Network
@@ -439,7 +418,6 @@
 138.68.90.19/32 # Germany | Hesse | Digitalocean, LLC
 138.68.172.103/32 # United Kingdom | England | Digitalocean, LLC
 138.68.241.187/32 # United States | California | Digitalocean, LLC
-138.124.180.215/32 # United States | New Jersey | STARK INDUSTRIES SOLUTIONS LTD
 138.197.47.67/32 # United States | New Jersey | Digitalocean, LLC
 139.5.1.123/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
 139.59.0.160/32 # India | Karnataka | Digitalocean, LLC
@@ -460,9 +438,7 @@
 143.198.48.156/32 # United States | California | Digitalocean, LLC
 143.198.92.175/32 # Singapore | Southeast | Digitalocean, LLC
 143.244.131.236/32 # India | Karnataka | Digitalocean, LLC
-144.172.89.142/32 # United States | Virginia | Routerhosting LLC
 144.172.91.41/32 # United States | Utah | Routerhosting LLC
-144.172.91.109/32 # United States | Utah | Routerhosting LLC
 144.172.94.154/32 # United States | Utah | Routerhosting LLC
 144.172.94.156/32 # United States | Utah | Routerhosting LLC
 144.172.94.248/32 # United States | Utah | Routerhosting LLC
@@ -475,8 +451,6 @@
 144.172.100.31/32 # United States | Nevada | Routerhosting LLC
 144.172.100.177/32 # United States | Nevada | Routerhosting LLC
 144.172.101.113/32 # United States | Nevada | Routerhosting LLC
-144.172.102.143/32 # United States | Nevada | Routerhosting LLC
-144.172.104.10/32 # United States | Nevada | Routerhosting LLC
 144.172.104.123/32 # United States | Nevada | Routerhosting LLC
 144.172.105.54/32 # United States | Nevada | Frantech Solutions
 144.172.106.44/32 # United States | Wyoming | Frantech Solutions
@@ -530,9 +504,7 @@
 154.216.16.111/32 # Republic of Lithuania | Vilnius County | Larus Limited
 156.146.60.74/32 # Austria | Vienna | Datacamp Limited
 157.173.104.153/32 # Germany | North Rhine-Westphalia | Contabo GmbH
-157.230.33.221/32 # Singapore | Southeast | Digitalocean, LLC
 157.230.98.166/32 # Germany | Hesse | Digitalocean, LLC
-158.180.31.119/32 # Germany | Hesse | Oracle Corporation
 158.247.208.174/32 # Republic of Korea |  | The Constant Company, LLC
 158.247.211.51/32 # Republic of Korea |  | The Constant Company, LLC
 158.247.222.165/32 # Republic of Korea |  | The Constant Company, LLC
@@ -560,7 +532,6 @@
 165.22.76.197/32 # Germany | Hesse | Digitalocean, LLC
 165.22.97.48/32 # Singapore | Southeast | Digitalocean, LLC
 165.22.130.239/32 # United States | California | Digitalocean, LLC
-165.22.162.52/32 # United States | California | Digitalocean, LLC
 165.140.202.172/32 # United States | Illinois | Bytefilter LLC
 165.154.174.108/32 # United Kingdom | England | UCLOUD INFORMATION TECHNOLOGY H...
 165.154.227.192/32 # Taiwan | Keelung City | Scloud Pte LTD
@@ -587,10 +558,7 @@
 172.86.105.10/32 # United States | New York | Routerhosting LLC
 172.86.105.129/32 # United States | New York | Routerhosting LLC
 172.86.106.104/32 # United States | New York | Routerhosting LLC
-172.86.106.114/32 # United States | New York | Routerhosting LLC
-172.86.107.80/32 # United States | New York | Routerhosting LLC
 172.86.107.104/32 # United States | New York | Routerhosting LLC
-172.86.108.105/32 # United States | New York | Routerhosting LLC
 172.86.108.116/32 # United States | New York | Routerhosting LLC
 172.86.110.165/32 # United States | New York | Routerhosting LLC
 172.86.114.185/32 # United States | Texas | Routerhosting LLC
