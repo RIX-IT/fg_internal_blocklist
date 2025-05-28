@@ -30,7 +30,6 @@
 46.246.3.0/24 # Sweden | Stockholm County | Glesys Ab
 46.246.8.0/24 # Sweden | Stockholm County | Glesys Ab
 62.133.61.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
-68.235.46.0/24 # United States | Illinois | Tzulo, Inc.
 85.208.84.0/24 # Russia | Moscow | Petersburg Internet Network Ltd.
 88.214.48.0/24 # United States | New York | Sia Singularity Telecom
 89.23.103.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
@@ -361,6 +360,7 @@
 104.236.37.26/32 # United States | New Jersey | Digitalocean, LLC
 104.238.61.144/32 # United States | California | GWY IT PTY LTD
 104.248.1.208/32 # United States | New Jersey | Digitalocean, LLC
+104.248.188.56/32 # United States | California | Digitalocean, LLC
 107.170.54.19/32 # United States | New Jersey | Digitalocean, LLC
 107.172.43.186/32 # United States | New York | HostPapa
 107.173.135.116/32 # United States | New York | HostPapa
@@ -412,7 +412,6 @@
 128.199.134.3/32 # Singapore | Southeast | Digitalocean, LLC
 128.254.146.183/32 # United States | Texas | Baxet Group Inc.
 134.122.39.130/32 # Canada | Ontario | Digitalocean, LLC
-134.122.73.211/32 # Germany | Hesse | Digitalocean, LLC
 134.199.146.172/32 # Australia | New South Wales | Digitalocean, LLC
 134.199.150.89/32 # Australia | New South Wales | Digitalocean, LLC
 134.199.153.122/32 # Australia | New South Wales | Digitalocean, LLC
@@ -421,7 +420,6 @@
 134.209.191.202/32 # United Kingdom | England | Digitalocean, LLC
 134.209.242.186/32 # Germany | Saarland | Digitalocean, LLC
 135.181.154.161/32 # Finland | Mainland Finland | Hetzner Online GmbH
-137.184.71.1/32 # United States | New Jersey | Digitalocean, LLC
 137.184.93.79/32 # United States | California | Digitalocean, LLC
 137.184.148.251/32 # United States | New Jersey | Digitalocean, LLC
 137.184.150.251/32 # United States | New Jersey | Digitalocean, LLC
@@ -435,7 +433,9 @@
 139.5.1.123/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
 139.59.0.160/32 # India | Karnataka | Digitalocean, LLC
 139.59.9.100/32 # India | Karnataka | Digitalocean, LLC
+139.59.27.49/32 # India | Karnataka | Digitalocean, LLC
 139.59.108.43/32 # Singapore | Southeast | Digitalocean, LLC
+139.59.155.1/32 # Germany | Hesse | Digitalocean, LLC
 139.59.161.25/32 # United Kingdom | England | Digitalocean, LLC
 139.59.187.1/32 # United Kingdom | England | Digitalocean, LLC
 139.59.236.31/32 # Singapore | Southeast | Digitalocean, LLC
@@ -471,10 +471,12 @@
 144.172.106.45/32 # United States | Wyoming | Frantech Solutions
 144.172.107.42/32 # United States | Wyoming | Frantech Solutions
 144.172.107.98/32 # United States | Wyoming | Frantech Solutions
+144.172.107.246/32 # United States | Wyoming | Frantech Solutions
 144.172.108.44/32 # United States | Nevada | Frantech Solutions
 144.172.108.56/32 # United States | Nevada | Frantech Solutions
 144.172.109.55/32 # United States | Nevada | Frantech Solutions
 144.172.109.58/32 # United States | Nevada | Frantech Solutions
+144.172.109.239/32 # United States | Nevada | Frantech Solutions
 144.172.110.48/32 # United States | Nevada | Frantech Solutions
 146.70.79.18/32 # Hong Kong | Hong Kong | M Europe SRL
 146.70.79.105/32 # Hong Kong | Hong Kong | M Europe SRL
@@ -556,7 +558,6 @@
 165.140.202.172/32 # United States | Illinois | Bytefilter LLC
 165.154.174.108/32 # United Kingdom | England | UCLOUD INFORMATION TECHNOLOGY H...
 165.154.227.192/32 # Taiwan | Keelung City | Scloud Pte LTD
-165.232.59.124/32 # United States | California | Digitalocean, LLC
 165.232.164.247/32 # Singapore | Southeast | Digitalocean, LLC
 166.1.173.65/32 # United States | Illinois | Atomic Networks LLC
 166.88.182.65/32 # United States | Illinois | Baxet Group Inc.
@@ -573,6 +574,7 @@
 168.167.139.114/32 # Botswana | South-East District | Botswana Telecommunicatio...
 170.64.162.2/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.163.177/32 # Australia | New South Wales | Digitalocean, LLC
+170.64.205.1/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.217.148/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.229.34/32 # Australia | New South Wales | Digitalocean, LLC
 170.187.203.52/32 # United States | Georgia | Akamai Technologies, Inc.
@@ -622,7 +624,6 @@
 181.214.166.59/32 # United States | Illinois | Cogent Communications
 181.214.166.132/32 # United States | Illinois | Cogent Communications
 181.215.246.155/32 # Malaysia | Federal Territory of Kuala Lumpur | Gigabit Hos...
-182.46.101.131/32 # China | Shandong | Chinanet
 182.114.210.125/32 # China | Henan | China Unicom China1 Backbone
 185.7.214.18/32 # Russia | Moscow | Chang Way Technologies Co. Limited
 185.7.214.124/32 # Russia | Moscow | Chang Way Technologies Co. Limited
@@ -757,7 +758,6 @@
 207.174.31.215/32 # United States | Georgia | Baxet Group Inc.
 208.109.231.95/32 # United States | Arizona | Godaddy.com, LLC
 209.38.23.251/32 # Australia | New South Wales | Digitalocean, LLC
-209.38.46.202/32 # Netherlands | North Holland | Digitalocean, LLC
 209.38.71.30/32 # United States | California | Digitalocean, LLC
 209.38.207.44/32 # Germany | Hesse | Digitalocean, LLC
 209.97.170.81/32 # Singapore | Southeast | Digitalocean, LLC
