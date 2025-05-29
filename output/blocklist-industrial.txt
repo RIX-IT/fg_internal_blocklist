@@ -104,7 +104,6 @@
 39.129.197.6/32 # China | Guangdong Province | China Mobile
 42.227.128.244/32 # China | Henan | China Unicom China1 Backbone
 42.228.224.159/32 # China | Henan | China Unicom China1 Backbone
-42.233.143.71/32 # China | Henan | China Unicom China1 Backbone
 42.235.177.65/32 # China | Henan | China Unicom China1 Backbone
 42.235.230.24/32 # China | Henan | China Unicom China1 Backbone
 43.226.126.164/32 # Hong Kong | Hong Kong | Ctg Server Limited
@@ -171,7 +170,6 @@
 59.90.191.103/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.94.97.221/32 # India | Odisha | Bharat Sanchar Nigam LTD
 59.94.119.9/32 # India | Kerala | Bharat Sanchar Nigam LTD
-59.95.87.167/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.97.176.161/32 # India | Odisha | Bharat Sanchar Nigam LTD
 59.178.152.157/32 # India | Haryana | Bharat Sanchar Nigam LTD
 59.184.223.15/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
@@ -186,6 +184,7 @@
 64.12.10.32/32 # United States | California | Edgecast Inc.
 64.52.80.252/32 # United States | California | Bl Networks
 64.225.5.151/32 # United States | New Jersey | Digitalocean, LLC
+64.226.64.212/32 # Germany | Hesse | Digitalocean, LLC
 64.226.87.219/32 # Germany | Hesse | Digitalocean, LLC
 65.49.235.210/32 # Canada | British Columbia | It Networks INC
 68.183.44.64/32 # United Kingdom | England | Digitalocean, LLC
@@ -218,19 +217,16 @@
 82.115.223.234/32 # Netherlands | North Holland | PSB HOSTING LTD
 82.118.21.230/32 # Poland | Pomeranian Voivodeship | GREEN FLOID LLC
 82.153.134.38/32 # United States | Illinois | Atomic Networks LLC
-84.36.50.202/32 # Egypt | Cairo | EgyNet Network
 84.239.25.13/32 # United States | Minnesota | Datacamp Limited
 84.239.45.17/32 # United States | Rhode Island | Datacamp Limited
 84.247.187.231/32 # Germany | North Rhine-Westphalia | Contabo GmbH
 85.93.127.131/32 # Czech Republic | Prague | Quantcom, A.S.
 85.106.113.168/32 # Turkey | Balıkesir | Ttnet A.S.
-85.131.244.183/32 # Japan | Hyogo Prefecture | Xserver Inc.
 85.209.11.155/32 # Russia | Moscow | KSB CB CJSC
 85.209.85.199/32 # United States | Missouri | Unreal Servers, LLC
 85.209.85.206/32 # United States | Missouri | Unreal Servers, LLC
 85.209.87.207/32 # United States | Missouri | Unreal Servers, LLC
 86.54.42.120/32 # Switzerland | Bern | Global data System IT Corporation
-86.60.129.89/32 # Finland | Mainland Finland | Lounea Palvelut Oy
 87.120.125.55/32 # Bulgaria | Sofia-city | Internet Assigned Numbers Authority
 87.251.67.58/32 # Russia | Moscow | Kontel LLC
 87.251.67.179/32 # Russia | Moscow | Kontel LLC
@@ -436,6 +432,8 @@
 138.68.172.103/32 # United Kingdom | England | Digitalocean, LLC
 138.68.241.187/32 # United States | California | Digitalocean, LLC
 138.197.47.67/32 # United States | New Jersey | Digitalocean, LLC
+138.197.163.174/32 # Canada | Ontario | Digitalocean, LLC
+138.197.204.113/32 # United States | California | Digitalocean, LLC
 139.5.1.123/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
 139.59.0.160/32 # India | Karnataka | Digitalocean, LLC
 139.59.9.100/32 # India | Karnataka | Digitalocean, LLC
@@ -523,7 +521,6 @@
 154.23.181.219/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 154.23.185.59/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 154.23.185.60/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
-154.47.27.38/32 # Belgium | Brussels-Capital | Datacamp Limited
 154.82.85.79/32 # Hong Kong | Hong Kong | Tcloudnet
 154.91.196.185/32 # Hong Kong | Hong Kong | Vh Global Limited
 154.201.68.57/32 # Hong Kong | Hong Kong | High Family Technology Co., Limited
@@ -541,7 +538,6 @@
 159.89.205.31/32 # Singapore | Southeast | Digitalocean, LLC
 159.203.21.132/32 # Canada | Ontario | Digitalocean, LLC
 159.203.35.213/32 # Canada | Ontario | Digitalocean, LLC
-159.223.209.62/32 # Netherlands | South Holland | Digitalocean, LLC
 160.25.232.62/32 # Vietnam | Ho Chi Minh | VIET DIGITAL TECHNOLOGY LIABILITY ...
 160.30.51.102/32 # Vietnam | Bình Định Province | EZ TECHNOLOGY COMPANY LIMITED
 161.35.129.76/32 # United States | New Jersey | Digitalocean, LLC
@@ -549,10 +545,11 @@
 162.19.135.182/32 # Germany | Schleswig-Holstein | OVH SAS
 162.33.177.56/32 # United States | Illinois | Bl Networks
 162.33.178.196/32 # United States | Illinois | Bl Networks
-162.55.168.4/32 # Germany | Saxony | Hetzner Online GmbH
+162.243.6.151/32 # United States | New Jersey | Digitalocean, LLC
 162.243.57.147/32 # United States | New Jersey | Digitalocean, LLC
 162.243.58.15/32 # United States | New Jersey | Digitalocean, LLC
 162.243.94.22/32 # United States | New Jersey | Digitalocean, LLC
+162.243.245.75/32 # United States | New Jersey | Digitalocean, LLC
 163.116.128.80/32 # United States | California | Netskope INC
 164.90.133.73/32 # United States | New Jersey | Digitalocean, LLC
 164.90.148.137/32 # United States | California | Digitalocean, LLC
@@ -678,7 +675,6 @@
 188.166.87.88/32 # Netherlands | North Holland | Digitalocean, LLC
 188.166.90.135/32 # Netherlands | North Holland | Digitalocean, LLC
 188.166.118.121/32 # Netherlands | North Holland | Digitalocean, LLC
-188.166.147.216/32 # United Kingdom | England | Digitalocean, LLC
 188.246.224.72/32 # Russia | Moscow | JSC Selectel
 191.96.106.33/32 # United States | California | Cogent Communications
 191.96.150.14/32 # United States | New York | Cogent Communications
@@ -696,7 +692,6 @@
 192.241.255.183/32 # United States | New Jersey | Digitalocean, LLC
 193.3.19.41/32 # Russia | Moscow | JSC Selectel
 193.3.19.43/32 # Russia | Moscow | JSC Selectel
-193.24.211.19/32 # Hong Kong | Hong Kong | Data Campus Limited
 193.124.24.117/32 # United States | Delaware | Baxet Group Inc.
 193.124.33.71/32 # Russia | Moscow | Baykov Ilya Sergeevich
 193.149.187.41/32 # United Kingdom | England | Bl Networks
