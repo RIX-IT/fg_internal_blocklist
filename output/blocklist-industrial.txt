@@ -31,7 +31,6 @@
 46.246.8.0/24 # Sweden | Stockholm County | Glesys Ab
 62.133.61.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 85.208.84.0/24 # Russia | Moscow | Petersburg Internet Network Ltd.
-88.214.48.0/24 # United States | New York | Sia Singularity Telecom
 89.23.103.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 89.23.107.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 92.118.112.0/24 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
@@ -40,6 +39,7 @@
 147.45.50.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 149.57.16.0/24 # Netherlands | North Holland | Ipv Superhub Limited
 185.42.12.0/24 # Russia | Moscow | Chang Way Technologies Co. Limited
+1.70.141.84/32 # China | Shanxi | No. 1,jin rong Street
 1.220.228.82/32 # Republic of Korea |  | Lg Dacom Corporation
 5.34.176.46/32 # Singapore | Southeast | GREEN FLOID LLC
 5.61.59.201/32 # Netherlands | North Holland | Scalaxy B.V.
@@ -175,7 +175,6 @@
 59.184.223.15/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
 60.204.145.54/32 # China | Shanghai | Huawei Cloud Service Data Center
 60.204.201.75/32 # China | Shanghai | Huawei Cloud Service Data Center
-61.1.194.92/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 61.1.239.45/32 # India | Kerala | Bharat Sanchar Nigam LTD
 61.52.157.112/32 # China | Henan | China Unicom China1 Backbone
 61.53.88.52/32 # China | Henan | China Unicom China1 Backbone
@@ -183,7 +182,6 @@
 62.233.57.94/32 # Czech Republic | Prague | GREEN FLOID LLC
 64.12.10.32/32 # United States | California | Edgecast Inc.
 64.52.80.252/32 # United States | California | Bl Networks
-64.225.5.151/32 # United States | New Jersey | Digitalocean, LLC
 64.225.102.90/32 # Germany | Hesse | Digitalocean, LLC
 64.226.64.212/32 # Germany | Hesse | Digitalocean, LLC
 64.226.87.219/32 # Germany | Hesse | Digitalocean, LLC
@@ -353,6 +351,7 @@
 104.131.175.120/32 # United States | New Jersey | Digitalocean, LLC
 104.143.46.143/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 104.143.47.226/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
+104.156.155.35/32 # United States | Hawaii | Academy for Internet Research Lim...
 104.160.6.2/32 # United Kingdom | England | Orion Network Limited
 104.183.100.189/32 # United States | Florida | AT T Enterprises, LLC
 104.194.153.65/32 # Singapore | Southeast | Routerhosting LLC
@@ -421,9 +420,8 @@
 134.199.153.122/32 # Australia | New South Wales | Digitalocean, LLC
 134.209.30.220/32 # United Kingdom | Wales | Digitalocean, LLC
 134.209.61.57/32 # United States | California | Digitalocean, LLC
+134.209.113.159/32 # United States | New Jersey | Digitalocean, LLC
 134.209.191.202/32 # United Kingdom | England | Digitalocean, LLC
-134.209.242.186/32 # Germany | Saarland | Digitalocean, LLC
-135.181.154.161/32 # Finland | Mainland Finland | Hetzner Online GmbH
 137.184.93.79/32 # United States | California | Digitalocean, LLC
 137.184.148.251/32 # United States | New Jersey | Digitalocean, LLC
 137.184.150.251/32 # United States | New Jersey | Digitalocean, LLC
@@ -459,6 +457,7 @@
 142.93.218.182/32 # India | Karnataka | Digitalocean, LLC
 143.198.39.74/32 # Canada | Ontario | Digitalocean, LLC
 143.198.48.156/32 # United States | California | Digitalocean, LLC
+143.198.68.182/32 # United States | California | Digitalocean, LLC
 143.198.92.175/32 # Singapore | Southeast | Digitalocean, LLC
 143.244.131.236/32 # India | Karnataka | Digitalocean, LLC
 144.172.91.41/32 # United States | Utah | Routerhosting LLC
@@ -492,6 +491,7 @@
 146.70.79.105/32 # Hong Kong | Hong Kong | M Europe SRL
 146.70.102.3/32 # United Arab Emirates | Dubai | M Europe SRL
 146.190.65.169/32 # United States | New Jersey | Digitalocean, LLC
+146.190.69.208/32 # United States | New Jersey | Digitalocean, LLC
 146.190.94.100/32 # Singapore | Southeast | Digitalocean, LLC
 146.190.141.97/32 # United States | California | Digitalocean, LLC
 146.190.144.242/32 # United States | California | Digitalocean, LLC
@@ -499,7 +499,6 @@
 147.45.43.197/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 147.45.44.83/32 # Switzerland | Bern | Karina Rashkovska
 147.45.79.82/32 # United States | California | AEZA INTERNATIONAL LTD
-147.45.177.143/32 # Canada | Ontario | GLOBAL CONNECTIVITY SOLUTIONS LLP
 147.45.178.54/32 # Germany | Hesse | GLOBAL CONNECTIVITY SOLUTIONS LLP
 147.135.244.43/32 # France | Hauts-de-France | OVH SAS
 147.182.146.26/32 # Canada | Ontario | Digitalocean, LLC
@@ -540,6 +539,7 @@
 158.247.222.165/32 # Republic of Korea |  | The Constant Company, LLC
 158.247.224.100/32 # Republic of Korea |  | The Constant Company, LLC
 159.65.194.210/32 # Netherlands | North Holland | Digitalocean, LLC
+159.89.107.33/32 # Germany | Bavaria | Digitalocean, LLC
 159.89.205.31/32 # Singapore | Southeast | Digitalocean, LLC
 159.203.21.132/32 # Canada | Ontario | Digitalocean, LLC
 159.203.35.213/32 # Canada | Ontario | Digitalocean, LLC
@@ -581,6 +581,7 @@
 167.99.89.209/32 # United Kingdom | England | Digitalocean, LLC
 167.99.111.86/32 # United States | California | Digitalocean, LLC
 167.99.202.130/32 # United Kingdom | England | Digitalocean, LLC
+167.172.178.85/32 # Germany | Hesse | Digitalocean, LLC
 168.10.199.186/32 # United States | Georgia | Board of Regents of The Universi...
 168.100.9.199/32 # Netherlands | North Holland | Bl Networks
 168.119.96.41/32 # Germany | Saxony | Hetzner Online GmbH
