@@ -150,6 +150,7 @@
 45.156.27.45/32 # France | Île-de-France | CGI GLOBAL LIMITED
 45.156.27.196/32 # France | Île-de-France | CGI GLOBAL LIMITED
 45.156.128.122/32 # Netherlands | North Holland | Nsec Sistemas Informaticos, ...
+45.230.66.33/32 # Argentina | Santa Fe | MEGALINK S.R.L.
 45.230.66.43/32 # Argentina | Santa Fe | MEGALINK S.R.L.
 45.230.66.48/32 # Argentina | Santa Fe | MEGALINK S.R.L.
 46.29.234.129/32 # Republic of Lithuania | Vilnius County | GLOBAL CONNECTIVI...
@@ -168,7 +169,6 @@
 52.253.107.167/32 # Japan | Tokyo | Microsoft Corporation
 58.221.58.240/32 # China | Jiangsu | Chinanet
 59.88.3.203/32 # India | Kerala | Bharat Sanchar Nigam LTD
-59.88.20.141/32 # India | Kerala | Bharat Sanchar Nigam LTD
 59.88.144.7/32 # India | Gujarat | Bharat Sanchar Nigam LTD
 59.89.0.37/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.90.191.103/32 # India | Karnataka | Bharat Sanchar Nigam LTD
@@ -222,7 +222,6 @@
 79.137.197.159/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 79.137.202.22/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
 79.137.203.158/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
-80.64.30.36/32 # Russia | Moscow | Chang Way Technologies Co. Limited
 80.66.88.146/32 # Netherlands | North Holland | Gening Nikita Dmitrievich
 80.82.65.72/32 # Netherlands | North Holland | Ip Volume INC
 81.19.131.153/32 # United Kingdom | England | GTHost
@@ -282,7 +281,6 @@
 91.202.233.252/32 # Russia | Saint Petersburg | PROSPERO OOO
 91.206.14.202/32 # Russia | Moscow | JSC Selectel
 91.217.249.104/32 # Germany | Hesse | Internet Utilities Europe And Asia Limited
-91.222.174.87/32 # United States | Washington | Sollutium Eu Sp Z.O.O.
 91.227.62.253/32 # United States | New York | FEMBOY PROXY SOLUTIONS HOLDINGS...
 91.245.253.27/32 # Singapore | Southeast | M Europe SRL
 92.42.15.193/32 # Russia | Moscow | JSC Selectel
@@ -295,10 +293,6 @@
 92.63.197.79/32 # Netherlands | North Holland | Telkom Internet LTD
 92.63.197.80/32 # Netherlands | North Holland | Telkom Internet LTD
 92.119.159.30/32 # Russia | Moscow | IP SERVER LLC
-92.255.57.49/32 # Russia | Saint Petersburg | Chang Way Technologies Co. Lim...
-92.255.85.42/32 # Russia | Moscow | Chang Way Technologies Co. Limited
-92.255.85.45/32 # Russia | Moscow | Chang Way Technologies Co. Limited
-92.255.85.46/32 # Russia | Moscow | Chang Way Technologies Co. Limited
 94.26.90.38/32 # Bulgaria | Sofia-city | Railnet LLC
 94.26.248.196/32 # Russia | Saint Petersburg | JSC Selectel
 94.131.108.78/32 # Turkey | İzmir | STARK INDUSTRIES SOLUTIONS LTD
@@ -324,6 +318,7 @@
 95.216.196.85/32 # Finland | Mainland Finland | Hetzner Online GmbH
 96.9.211.27/32 # Singapore | Southeast | Xtom Pty LTD
 98.177.107.142/32 # United States | Arizona | Cox Communications Inc.
+98.229.95.0/32 # United States | Massachusetts | Comcast Cable Communicatio...
 101.32.26.15/32 # Hong Kong | Hong Kong | Shenzhen Tencent Computer Systems ...
 101.32.26.154/32 # Hong Kong | Hong Kong | Shenzhen Tencent Computer Systems ...
 101.91.116.193/32 # China | Shanghai | China Telecom group
@@ -380,6 +375,7 @@
 104.238.61.144/32 # United States | California | GWY IT PTY LTD
 104.248.1.208/32 # United States | New Jersey | Digitalocean, LLC
 104.248.188.56/32 # United States | California | Digitalocean, LLC
+107.170.15.32/32 # United States | New Jersey | Digitalocean, LLC
 107.170.54.19/32 # United States | New Jersey | Digitalocean, LLC
 107.170.169.57/32 # United States | New Jersey | Digitalocean, LLC
 107.172.43.186/32 # United States | New York | HostPapa
@@ -420,6 +416,7 @@
 119.178.141.62/32 # China | Shandong | China Unicom China1 Backbone
 119.200.13.201/32 # Republic of Korea | Gwangju | Korea Telecom
 120.57.212.188/32 # India | Delhi | Mahanagar Telephone Nigam Limited
+120.79.21.82/32 # China | Guangdong Province | Hangzhou Alibaba Advertising ...
 120.85.91.220/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.112.199/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.116.142/32 # China | Guangdong Province | China Unicom Guangzhou Network
@@ -575,6 +572,7 @@
 159.223.203.94/32 # United States | California | Digitalocean, LLC
 160.25.232.62/32 # Vietnam | Ho Chi Minh | VIET DIGITAL TECHNOLOGY LIABILITY ...
 160.30.51.102/32 # Vietnam | Bình Định Province | EZ TECHNOLOGY COMPANY LIMITED
+161.35.101.72/32 # United States | New Jersey | Digitalocean, LLC
 161.35.158.76/32 # Netherlands | North Holland | Digitalocean, LLC
 161.248.239.200/32 # Vietnam | Bình Định Province | EZ TECHNOLOGY COMPANY LIMITED
 162.19.135.182/32 # Germany | Schleswig-Holstein | OVH SAS
@@ -582,7 +580,6 @@
 162.33.178.196/32 # United States | Illinois | Bl Networks
 162.243.3.239/32 # United States | New Jersey | Digitalocean, LLC
 162.243.6.151/32 # United States | New Jersey | Digitalocean, LLC
-162.243.57.147/32 # United States | New Jersey | Digitalocean, LLC
 162.243.58.15/32 # United States | New Jersey | Digitalocean, LLC
 162.243.94.22/32 # United States | New Jersey | Digitalocean, LLC
 162.243.245.75/32 # United States | New Jersey | Digitalocean, LLC
@@ -604,6 +601,7 @@
 165.22.153.216/32 # United States | California | Digitalocean, LLC
 165.22.208.7/32 # India | Karnataka | Digitalocean, LLC
 165.22.236.207/32 # Canada | Ontario | Digitalocean, LLC
+165.22.238.131/32 # Canada | Ontario | Digitalocean, LLC
 165.22.250.106/32 # Singapore | Southeast | Digitalocean, LLC
 165.140.202.172/32 # United States | Illinois | Bytefilter LLC
 165.154.174.108/32 # United Kingdom | England | UCLOUD INFORMATION TECHNOLOGY H...
@@ -618,11 +616,11 @@
 167.71.212.219/32 # Singapore | Southeast | Digitalocean, LLC
 167.88.168.11/32 # United States | Texas | Routerhosting LLC
 167.99.111.86/32 # United States | California | Digitalocean, LLC
+167.99.162.7/32 # United States | California | Digitalocean, LLC
 167.99.202.130/32 # United Kingdom | England | Digitalocean, LLC
 167.172.65.128/32 # Singapore | Southeast | Digitalocean, LLC
 167.172.178.85/32 # Germany | Hesse | Digitalocean, LLC
 167.172.206.219/32 # United States | California | Digitalocean, LLC
-168.10.199.186/32 # United States | Georgia | Board of Regents of The Universi...
 168.100.9.199/32 # Netherlands | North Holland | Bl Networks
 168.119.96.41/32 # Germany | Saxony | Hetzner Online GmbH
 168.167.139.114/32 # Botswana | South-East District | Botswana Telecommunicatio...
@@ -679,13 +677,7 @@
 181.215.246.155/32 # Malaysia | Federal Territory of Kuala Lumpur | Gigabit Hos...
 182.114.210.125/32 # China | Henan | China Unicom China1 Backbone
 182.119.183.187/32 # China | Henan | China Unicom China1 Backbone
-185.7.214.125/32 # Russia | Moscow | Chang Way Technologies Co. Limited
-185.7.214.126/32 # Russia | Moscow | Chang Way Technologies Co. Limited
 185.29.84.98/32 # Poland | Województwo podkarpackie | Transmitel Sp. Z O.O.
-185.42.12.31/32 # Russia | Moscow | Chang Way Technologies Co. Limited
-185.42.12.32/32 # Russia | Moscow | Chang Way Technologies Co. Limited
-185.42.12.33/32 # Russia | Moscow | Chang Way Technologies Co. Limited
-185.42.12.34/32 # Russia | Moscow | Chang Way Technologies Co. Limited
 185.49.69.41/32 # Germany | Hamburg | Leaseweb Deutschland GmbH
 185.68.80.153/32 # United States | Virginia | Clouvider Limited
 185.68.81.158/32 # United States | Virginia | Clouvider Limited
@@ -698,7 +690,6 @@
 185.128.42.149/32 # United States | New York | Clouvider Limited
 185.137.233.87/32 # Russia | Saint Petersburg | JSC Selectel
 185.137.233.142/32 # Russia | Saint Petersburg | JSC Selectel
-185.137.234.62/32 # Russia | Saint Petersburg | JSC Selectel
 185.143.223.188/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 185.147.125.147/32 # Russia | Moscow | JSC Selectel
 185.149.232.197/32 # United States | Missouri | Heymman Servers Corporation
@@ -748,7 +739,6 @@
 192.241.187.55/32 # United States | New Jersey | Digitalocean, LLC
 192.241.243.250/32 # United States | New Jersey | Digitalocean, LLC
 192.241.246.45/32 # United States | New Jersey | Digitalocean, LLC
-193.3.19.43/32 # Russia | Moscow | JSC Selectel
 193.8.75.35/32 # United States | New York | GREEN FLOID LLC
 193.124.24.117/32 # United States | Delaware | Baxet Group Inc.
 193.124.33.71/32 # Russia | Moscow | Baykov Ilya Sergeevich
@@ -833,8 +823,8 @@
 212.237.217.182/32 # Finland | Mainland Finland | HOSTKEY B.V.
 213.165.244.188/32 # Netherlands | North Holland | Inmotion Hosting, Inc.
 216.245.184.181/32 # United States | Illinois | Bl Networks
-221.15.24.125/32 # China | Henan | China Unicom China1 Backbone
 221.214.146.127/32 # China | Shandong | China Unicom China1 Backbone
+222.141.182.204/32 # China | Henan | China Unicom China1 Backbone
 222.142.196.180/32 # China | Henan | China Unicom China1 Backbone
 222.219.183.84/32 # China | Yunnan | No. 1,jin rong Street
 223.184.254.150/32 # India | Rajasthan | Bharti Airtel Limited
