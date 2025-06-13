@@ -32,6 +32,7 @@
 70.39.90.0/24 # United States | Nevada | Sharktech
 89.23.103.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 89.23.107.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
+103.251.27.0/24 # United States | California | Hostroyale Technologies Pvt LTD
 104.36.50.0/24 # United States | District of Columbia | Hostroyale Technolo...
 144.172.105.0/24 # United States | Nevada | Frantech Solutions
 144.172.106.0/24 # United States | Nevada | Frantech Solutions
@@ -130,6 +131,7 @@
 45.8.157.158/32 # United States | Virginia | Nktelecom INC
 45.8.157.162/32 # United States | Virginia | Nktelecom INC
 45.8.157.199/32 # United States | Virginia | Nktelecom INC
+45.55.202.3/32 # United States | New Jersey | Digitalocean, LLC
 45.55.220.24/32 # United States | New Jersey | Digitalocean, LLC
 45.58.159.31/32 # Netherlands | North Holland | Sharktech
 45.58.159.144/32 # Netherlands | North Holland | Sharktech
@@ -174,7 +176,6 @@
 45.227.254.94/32 # Republic of Lithuania | Vilnius County | Flyservers S.A.
 45.230.66.33/32 # Argentina | Santa Fe | MEGALINK S.R.L.
 45.230.66.43/32 # Argentina | Santa Fe | MEGALINK S.R.L.
-45.230.66.48/32 # Argentina | Santa Fe | MEGALINK S.R.L.
 46.29.234.129/32 # Republic of Lithuania | Vilnius County | GLOBAL CONNECTIVI...
 46.101.120.64/32 # Germany | Hesse | Digitalocean, LLC
 46.101.139.173/32 # Germany | Hesse | Digitalocean, LLC
@@ -200,7 +201,6 @@
 59.90.191.103/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.94.97.221/32 # India | Odisha | Bharat Sanchar Nigam LTD
 59.94.109.190/32 # India | Punjab | Bharat Sanchar Nigam LTD
-59.94.119.9/32 # India | Kerala | Bharat Sanchar Nigam LTD
 59.97.176.161/32 # India | Odisha | Bharat Sanchar Nigam LTD
 59.97.255.136/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.178.51.70/32 # India | Delhi | Bharat Sanchar Nigam LTD
@@ -234,6 +234,7 @@
 68.183.175.157/32 # United States | California | Digitalocean, LLC
 68.183.190.166/32 # Singapore | Southeast | Digitalocean, LLC
 68.183.198.193/32 # Canada | Ontario | Digitalocean, LLC
+68.235.46.93/32 # United States | Illinois | Tzulo, Inc.
 68.235.46.124/32 # United States | Illinois | Tzulo, Inc.
 68.235.46.192/32 # United States | Illinois | Tzulo, Inc.
 68.235.46.208/32 # United States | Illinois | Tzulo, Inc.
@@ -388,6 +389,7 @@
 103.91.64.214/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
 103.102.247.57/32 # Japan | Tokyo | Hostroyale Technologies Pvt LTD
 103.102.247.148/32 # Japan | Tokyo | Hostroyale Technologies Pvt LTD
+103.102.247.149/32 # Japan | Tokyo | Hostroyale Technologies Pvt LTD
 103.139.45.163/32 # Vietnam | Hanoi | VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 103.152.17.76/32 # United States | California | Clouvider Limited
 103.155.31.130/32 # India | Andhra Pradesh | SDN TELECOM PVT LTD
@@ -407,8 +409,6 @@
 103.208.105.178/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
 103.208.231.48/32 # India | Tamil Nadu | Railtel Corporation of India Ltd.
 103.232.54.13/32 # Vietnam | Hanoi | VIETSERVER SERVICES TECHNOLOGY COMPANY L...
-103.251.27.126/32 # United States | California | Hostroyale Technologies Pvt LTD
-103.251.27.235/32 # United States | California | Hostroyale Technologies Pvt LTD
 104.131.7.207/32 # United States | New Jersey | Digitalocean, LLC
 104.131.175.120/32 # United States | New Jersey | Digitalocean, LLC
 104.143.46.143/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
@@ -457,6 +457,7 @@
 117.209.13.142/32 # India | Meghalaya | Bharat Sanchar Nigam LTD
 117.209.81.176/32 # India | West Bengal | Bharat Sanchar Nigam LTD
 117.209.83.99/32 # India | Mizoram | Bharat Sanchar Nigam LTD
+117.209.95.76/32 # India | Mizoram | Bharat Sanchar Nigam LTD
 117.212.58.220/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
 117.216.177.129/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.216.186.165/32 # India | Kerala | Bharat Sanchar Nigam LTD
@@ -534,6 +535,7 @@
 139.59.11.110/32 # India | Karnataka | Digitalocean, LLC
 139.59.27.49/32 # India | Karnataka | Digitalocean, LLC
 139.59.32.141/32 # India | Karnataka | Digitalocean, LLC
+139.59.36.73/32 # India | Karnataka | Digitalocean, LLC
 139.59.44.57/32 # India | Karnataka | Digitalocean, LLC
 139.59.71.188/32 # India | Karnataka | Digitalocean, LLC
 139.59.87.50/32 # India | Karnataka | Digitalocean, LLC
@@ -585,6 +587,7 @@
 144.172.100.31/32 # United States | Nevada | Routerhosting LLC
 144.172.100.177/32 # United States | Nevada | Routerhosting LLC
 144.172.101.75/32 # United States | Wyoming | Routerhosting LLC
+144.172.101.110/32 # United States | Utah | Routerhosting LLC
 144.172.101.223/32 # United States | Wyoming | Routerhosting LLC
 146.70.79.18/32 # Hong Kong | Hong Kong | M Europe SRL
 146.70.79.105/32 # Hong Kong | Hong Kong | M Europe SRL
@@ -615,6 +618,7 @@
 151.236.16.167/32 # United States | California | M Europe SRL
 151.236.17.180/32 # Germany | Hesse | M Europe SRL
 152.42.225.255/32 # Singapore | Southeast | Digitalocean, LLC
+152.211.21.2/32 # United States | Illinois | Verizon Business
 152.252.104.24/32 # Brazil | State of São Paulo | TELEF NICA BRASIL S.A
 154.6.13.139/32 # Germany | Hesse | Securelink Networks Ou
 154.6.13.144/32 # Germany | Hesse | Securelink Networks Ou
@@ -681,12 +685,10 @@
 162.243.245.75/32 # United States | New Jersey | Digitalocean, LLC
 163.116.128.80/32 # United States | California | Netskope INC
 164.90.133.73/32 # United States | New Jersey | Digitalocean, LLC
-164.90.148.137/32 # United States | California | Digitalocean, LLC
 164.90.159.80/32 # United States | California | Digitalocean, LLC
 164.90.179.210/32 # Germany | Hesse | Digitalocean, LLC
 164.92.91.167/32 # United States | California | Digitalocean, LLC
 164.92.93.146/32 # United States | California | Digitalocean, LLC
-164.92.147.64/32 # Netherlands | North Holland | Digitalocean, LLC
 164.92.160.26/32 # Germany | Hesse | Digitalocean, LLC
 164.92.235.20/32 # Germany | Hesse | Digitalocean, LLC
 165.22.74.136/32 # Germany | Hesse | Digitalocean, LLC
