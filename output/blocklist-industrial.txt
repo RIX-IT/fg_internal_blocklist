@@ -29,12 +29,15 @@
 46.246.3.0/24 # Sweden | Stockholm County | Glesys Ab
 46.246.8.0/24 # Sweden | Stockholm County | Glesys Ab
 62.133.61.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
+68.235.46.0/24 # United States | Illinois | Tzulo, Inc.
 70.39.90.0/24 # United States | Nevada | Sharktech
 89.23.103.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 89.23.107.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
+103.102.247.0/24 # Japan | Tokyo | Hostroyale Technologies Pvt LTD
 103.251.27.0/24 # United States | California | Hostroyale Technologies Pvt LTD
 104.36.50.0/24 # United States | District of Columbia | Hostroyale Technolo...
 144.172.93.0/24 # United States | Utah | Routerhosting LLC
+144.172.94.0/24 # United States | Utah | Routerhosting LLC
 144.172.105.0/24 # United States | Nevada | Frantech Solutions
 144.172.106.0/24 # United States | Nevada | Frantech Solutions
 144.172.107.0/24 # United States | Nevada | Frantech Solutions
@@ -48,6 +51,7 @@
 144.172.117.0/24 # United States | Wyoming | Frantech Solutions
 147.45.50.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 149.57.16.0/24 # Netherlands | North Holland | Ipv Superhub Limited
+204.188.197.0/24 # United States | Texas | Sharktech
 212.18.104.0/24 # United States | Arizona | GLOBAL CONNECTIVITY SOLUTIONS LLP
 1.70.141.84/32 # China | Shanxi | No. 1,jin rong Street
 1.220.228.82/32 # Republic of Korea |  | Lg Dacom Corporation
@@ -211,7 +215,6 @@
 60.204.145.54/32 # China | Shanghai | Huawei Cloud Service Data Center
 60.204.201.75/32 # China | Shanghai | Huawei Cloud Service Data Center
 61.1.239.45/32 # India | Kerala | Bharat Sanchar Nigam LTD
-61.53.88.52/32 # China | Henan | China Unicom China1 Backbone
 62.173.140.223/32 # Russia | Moscow | Internet cosmos LLC
 62.233.57.94/32 # Czech Republic | Prague | GREEN FLOID LLC
 64.12.10.32/32 # United States | California | Edgecast Inc.
@@ -232,14 +235,9 @@
 68.183.11.79/32 # Netherlands | North Holland | Digitalocean, LLC
 68.183.44.64/32 # United Kingdom | England | Digitalocean, LLC
 68.183.45.168/32 # United Kingdom | England | Digitalocean, LLC
-68.183.147.229/32 # United States | New Jersey | Digitalocean, LLC
 68.183.175.157/32 # United States | California | Digitalocean, LLC
 68.183.190.166/32 # Singapore | Southeast | Digitalocean, LLC
 68.183.198.193/32 # Canada | Ontario | Digitalocean, LLC
-68.235.46.93/32 # United States | Illinois | Tzulo, Inc.
-68.235.46.124/32 # United States | Illinois | Tzulo, Inc.
-68.235.46.192/32 # United States | Illinois | Tzulo, Inc.
-68.235.46.208/32 # United States | Illinois | Tzulo, Inc.
 69.55.62.10/32 # United States | New Jersey | Digitalocean, LLC
 69.57.172.226/32 # India | Maharashtra | Whg Hosting Services LTD
 72.5.43.29/32 # Romania | Bucharest | Bl Networks
@@ -389,9 +387,8 @@
 103.76.111.188/32 # Pakistan | Khyber Pakhtunkhwa | Enigma Fiber Pvt LTD
 103.85.25.166/32 # Hong Kong | Hong Kong | Starry Network Limited
 103.91.64.214/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
-103.102.247.57/32 # Japan | Tokyo | Hostroyale Technologies Pvt LTD
-103.102.247.148/32 # Japan | Tokyo | Hostroyale Technologies Pvt LTD
-103.102.247.149/32 # Japan | Tokyo | Hostroyale Technologies Pvt LTD
+103.102.246.206/32 # Japan | Tokyo | Hostroyale Technologies Pvt LTD
+103.102.246.253/32 # Japan | Tokyo | Hostroyale Technologies Pvt LTD
 103.139.45.163/32 # Vietnam | Hanoi | VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 103.152.17.76/32 # United States | California | Clouvider Limited
 103.155.31.130/32 # India | Andhra Pradesh | SDN TELECOM PVT LTD
@@ -411,6 +408,7 @@
 103.208.105.178/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
 103.208.231.48/32 # India | Tamil Nadu | Railtel Corporation of India Ltd.
 103.232.54.13/32 # Vietnam | Hanoi | VIETSERVER SERVICES TECHNOLOGY COMPANY L...
+103.251.26.109/32 # United States | California | Hostroyale Technologies Pvt LTD
 104.131.7.207/32 # United States | New Jersey | Digitalocean, LLC
 104.131.175.120/32 # United States | New Jersey | Digitalocean, LLC
 104.143.46.143/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
@@ -513,6 +511,7 @@
 134.209.185.244/32 # United Kingdom | England | Digitalocean, LLC
 136.144.35.6/32 # United States | New Jersey | Latitude.sh
 136.243.132.112/32 # Germany | Saxony | Hetzner Online GmbH
+137.184.81.4/32 # United States | California | Digitalocean, LLC
 137.184.148.251/32 # United States | New Jersey | Digitalocean, LLC
 137.184.166.227/32 # Canada | Ontario | Digitalocean, LLC
 137.184.168.33/32 # Canada | Ontario | Digitalocean, LLC
@@ -552,7 +551,6 @@
 139.59.236.31/32 # Singapore | Southeast | Digitalocean, LLC
 139.99.114.108/32 # Singapore | Southeast | OVH SAS
 139.99.188.124/32 # Australia | New South Wales | OVH SAS
-141.98.83.44/32 # Panama | Panama | Flyservers S.A.
 141.98.234.166/32 # Hong Kong | Hong Kong | GLOBAL CONNECTIVITY SOLUTIONS LLP
 141.255.164.98/32 # Switzerland | Zurich | Private Layer INC
 142.93.30.174/32 # United States | California | Digitalocean, LLC
@@ -579,11 +577,6 @@
 143.198.68.182/32 # United States | California | Digitalocean, LLC
 143.198.92.175/32 # Singapore | Southeast | Digitalocean, LLC
 143.198.146.213/32 # United States | California | Digitalocean, LLC
-143.244.131.236/32 # India | Karnataka | Digitalocean, LLC
-144.172.94.22/32 # United States | Utah | Routerhosting LLC
-144.172.94.154/32 # United States | Utah | Routerhosting LLC
-144.172.94.156/32 # United States | Utah | Routerhosting LLC
-144.172.94.234/32 # United States | Utah | Routerhosting LLC
 144.172.95.134/32 # United States | Utah | Routerhosting LLC
 144.172.95.206/32 # United States | Utah | Routerhosting LLC
 144.172.96.38/32 # United States | Utah | Routerhosting LLC
@@ -692,7 +685,6 @@
 163.116.128.80/32 # United States | California | Netskope INC
 164.90.133.73/32 # United States | New Jersey | Digitalocean, LLC
 164.90.159.80/32 # United States | California | Digitalocean, LLC
-164.90.179.210/32 # Germany | Hesse | Digitalocean, LLC
 164.92.91.167/32 # United States | California | Digitalocean, LLC
 164.92.93.146/32 # United States | California | Digitalocean, LLC
 164.92.160.26/32 # Germany | Hesse | Digitalocean, LLC
@@ -939,10 +931,6 @@
 203.83.9.60/32 # China | Jiangsu | Hong Kong San Ai Net Int l Limited
 203.83.9.62/32 # China | Jiangsu | Hong Kong San Ai Net Int l Limited
 203.152.216.16/32 # Japan | Shizuoka Prefecture | NTT Pc Communications, Inc.
-204.188.197.94/32 # United States | Illinois | Sharktech
-204.188.197.130/32 # United States | Texas | Sharktech
-204.188.197.198/32 # United States | Texas | Sharktech
-204.188.197.206/32 # United States | Texas | Sharktech
 205.189.160.3/32 # Hong Kong | Hong Kong | LEASEWEB HONG KONG LIMITED
 206.71.148.78/32 # United Kingdom | England | Bl Networks
 206.188.196.20/32 # Netherlands | North Holland | Bl Networks
@@ -969,11 +957,13 @@
 209.38.21.94/32 # Australia | New South Wales | Digitalocean, LLC
 209.38.23.115/32 # Australia | New South Wales | Digitalocean, LLC
 209.38.23.251/32 # Australia | New South Wales | Digitalocean, LLC
+209.38.28.174/32 # Australia | New South Wales | Digitalocean, LLC
 209.38.29.39/32 # Australia | New South Wales | Digitalocean, LLC
 209.38.78.15/32 # United States | California | Digitalocean, LLC
 209.38.80.157/32 # Australia | New South Wales | Digitalocean, LLC
 209.38.80.177/32 # Australia | New South Wales | Digitalocean, LLC
 209.38.95.233/32 # Australia | New South Wales | Digitalocean, LLC
+209.97.190.109/32 # United Kingdom | England | Digitalocean, LLC
 209.141.43.37/32 # United States | Nevada | Frantech Solutions
 210.209.72.180/32 # Hong Kong | Hong Kong | Hong Kong Broadband Network Limited
 211.234.111.116/32 # Republic of Korea |  | Lg Dacom Corporation
