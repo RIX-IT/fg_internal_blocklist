@@ -1,31 +1,6 @@
-23.159.216.0/24 # United States | Colorado | Byte Node LLC
-23.160.24.0/24 # United States | Colorado | Data Bridge Limited
-23.162.40.0/24 # United States | Kentucky | Cyber Data LLC
-23.168.216.0/24 # United States | Colorado | Hayashimo LLC
-23.234.88.0/24 # United States | Illinois | Tzulo, Inc.
-23.234.89.0/24 # United States | Illinois | Tzulo, Inc.
-23.234.90.0/24 # United States | Arizona | Tzulo, Inc.
-23.234.91.0/24 # United States | California | Tzulo, Inc.
-23.234.92.0/24 # United States | Illinois | Tzulo, Inc.
-23.234.93.0/24 # United States | Illinois | Tzulo, Inc.
-23.234.94.0/24 # United States | Georgia | Tzulo, Inc.
-23.234.95.0/24 # United States | Georgia | Tzulo, Inc.
-23.234.100.0/24 # United States | New York | Tzulo, Inc.
-23.234.101.0/24 # United States | New York | Tzulo, Inc.
 23.234.102.0/24 # United States | New York | Tzulo, Inc.
-23.234.103.0/24 # United States | Florida | Tzulo, Inc.
-23.234.108.0/24 # United States | Illinois | Tzulo, Inc.
-23.234.109.0/24 # United States | Illinois | Tzulo, Inc.
-23.234.110.0/24 # United States | Illinois | Tzulo, Inc.
 23.234.111.0/24 # United States | Illinois | Tzulo, Inc.
-23.234.112.0/24 # United States | Utah | Tzulo, Inc.
-23.234.113.0/24 # United States | Illinois | Tzulo, Inc.
 23.234.114.0/24 # United States | Illinois | Tzulo, Inc.
-23.234.115.0/24 # United States | Illinois | Tzulo, Inc.
-23.234.116.0/24 # India | Tamil Nadu | FDCservers.net
-23.234.117.0/24 # United States | Illinois | FDCservers.net
-23.234.118.0/24 # India | Tamil Nadu | FDCservers.net
-23.234.119.0/24 # United States | Illinois | tzulo
 46.246.3.0/24 # Sweden | Stockholm County | Glesys Ab
 46.246.8.0/24 # Sweden | Stockholm County | Glesys Ab
 62.133.61.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
@@ -35,7 +10,6 @@
 89.23.107.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 103.102.247.0/24 # Japan | Tokyo | Hostroyale Technologies Pvt LTD
 103.251.27.0/24 # United States | California | Hostroyale Technologies Pvt LTD
-104.36.50.0/24 # United States | District of Columbia | Hostroyale Technolo...
 144.172.93.0/24 # United States | Utah | Routerhosting LLC
 144.172.94.0/24 # United States | Utah | Routerhosting LLC
 144.172.101.0/24 # United States | Utah | Routerhosting LLC
@@ -84,6 +58,67 @@
 23.81.41.166/32 # Japan | Tokyo | Leaseweb Japan K.K.
 23.133.88.96/32 # United States | Georgia | IPFB LLC
 23.146.184.221/32 # United States | Illinois | Atomic Networks LLC
+23.159.216.24/32 # United States | Colorado | Byte Node LLC
+23.159.216.148/32 # United States | Colorado | Byte Node LLC
+23.159.216.149/32 # United States | Colorado | Byte Node LLC
+23.160.24.150/32 # United States | Colorado | Data Bridge Limited
+23.162.40.24/32 # United States | California | Cyber Data LLC
+23.162.40.164/32 # United States | California | Cyber Data LLC
+23.162.40.253/32 # United States | California | Cyber Data LLC
+23.168.216.38/32 # United States | Colorado | Hayashimo LLC
+23.168.216.150/32 # United States | Colorado | Hayashimo LLC
+23.168.216.235/32 # United States | Colorado | Hayashimo LLC
+23.234.88.21/32 # United States | Arizona | Tzulo, Inc.
+23.234.88.108/32 # United States | Arizona | Tzulo, Inc.
+23.234.89.148/32 # United States | Arizona | Tzulo, Inc.
+23.234.90.76/32 # United States | Arizona | Tzulo, Inc.
+23.234.90.125/32 # United States | Arizona | Tzulo, Inc.
+23.234.90.183/32 # United States | Arizona | Tzulo, Inc.
+23.234.91.21/32 # United States | Arizona | Tzulo, Inc.
+23.234.91.108/32 # United States | Texas | Tzulo, Inc.
+23.234.92.56/32 # United States | California | Tzulo, Inc.
+23.234.92.76/32 # United States | California | Tzulo, Inc.
+23.234.93.23/32 # United States | California | Tzulo, Inc.
+23.234.93.108/32 # United States | California | Tzulo, Inc.
+23.234.93.150/32 # United States | Illinois | Tzulo, Inc.
+23.234.93.235/32 # United States | California | Tzulo, Inc.
+23.234.95.23/32 # United States | California | Tzulo, Inc.
+23.234.95.76/32 # United States | California | Tzulo, Inc.
+23.234.95.108/32 # United States | California | Tzulo, Inc.
+23.234.100.23/32 # United States | New York | Tzulo, Inc.
+23.234.100.24/32 # United States | New York | Tzulo, Inc.
+23.234.101.21/32 # United States | New York | Tzulo, Inc.
+23.234.101.125/32 # United States | New York | Tzulo, Inc.
+23.234.101.150/32 # United States | New York | Tzulo, Inc.
+23.234.101.235/32 # United States | New York | Tzulo, Inc.
+23.234.103.23/32 # United States | Pennsylvania | Tzulo, Inc.
+23.234.108.24/32 # United States | Georgia | Tzulo, Inc.
+23.234.108.148/32 # United States | Georgia | Tzulo, Inc.
+23.234.108.149/32 # United States | Georgia | Tzulo, Inc.
+23.234.108.164/32 # United States | Georgia | Tzulo, Inc.
+23.234.109.21/32 # United States | Georgia | Tzulo, Inc.
+23.234.109.125/32 # United States | Georgia | Tzulo, Inc.
+23.234.109.149/32 # United States | Georgia | Tzulo, Inc.
+23.234.110.125/32 # United States | Georgia | Tzulo, Inc.
+23.234.110.150/32 # United States | Georgia | Tzulo, Inc.
+23.234.110.203/32 # United States | Georgia | Tzulo, Inc.
+23.234.112.23/32 # United States | Utah | Tzulo, Inc.
+23.234.112.125/32 # United States | Utah | Tzulo, Inc.
+23.234.113.38/32 # United States | Utah | Tzulo, Inc.
+23.234.113.164/32 # United States | Utah | Tzulo, Inc.
+23.234.113.235/32 # United States | Utah | Tzulo, Inc.
+23.234.115.164/32 # United States | Utah | Tzulo, Inc.
+23.234.115.203/32 # United States | Utah | Tzulo, Inc.
+23.234.116.21/32 # United States | Missouri | Tzulo, Inc.
+23.234.116.149/32 # United States | Missouri | Tzulo, Inc.
+23.234.116.150/32 # United States | Missouri | Tzulo, Inc.
+23.234.116.235/32 # United States | Missouri | Tzulo, Inc.
+23.234.117.38/32 # United States | Missouri | Tzulo, Inc.
+23.234.117.125/32 # United States | Missouri | Tzulo, Inc.
+23.234.117.253/32 # United States | Missouri | Tzulo, Inc.
+23.234.118.24/32 # United States | Missouri | Tzulo, Inc.
+23.234.118.149/32 # United States | Missouri | Tzulo, Inc.
+23.234.119.150/32 # United States | Illinois | Tzulo, Inc.
 24.199.93.60/32 # United States | New Jersey | Digitalocean, LLC
 27.43.206.244/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.47.0.225/32 # China | Guangdong Province | China Unicom Guangzhou Network
@@ -167,7 +202,6 @@
 45.144.53.145/32 # Finland | Mainland Finland | H NEXUS LTD
 45.145.43.244/32 # Germany | Hesse | Dataforest GmbH
 45.146.26.51/32 # United States | California | Clouvider Limited
-45.146.130.12/32 # Brazil | Federal District | Limited Network LTD
 45.147.244.178/32 # United States | Indiana | Clouvider Limited
 45.147.245.84/32 # United States | Indiana | Clouvider Limited
 45.149.81.34/32 # United States | New York | Clouvider Limited
@@ -245,6 +279,7 @@
 68.183.11.79/32 # Netherlands | North Holland | Digitalocean, LLC
 68.183.44.64/32 # United Kingdom | England | Digitalocean, LLC
 68.183.45.168/32 # United Kingdom | England | Digitalocean, LLC
+68.183.82.5/32 # India | Karnataka | Digitalocean, LLC
 68.183.175.157/32 # United States | California | Digitalocean, LLC
 68.183.190.166/32 # Singapore | Southeast | Digitalocean, LLC
 68.183.198.193/32 # Canada | Ontario | Digitalocean, LLC
@@ -333,7 +368,6 @@
 91.92.254.225/32 # Germany | Hesse | NTT America, Inc.
 91.149.239.242/32 # United States | California | Baxet Group Inc.
 91.193.19.109/32 # United States | Washington | Hz Hosting LTD
-91.199.163.102/32 # United Kingdom | England | Alviva Holding Limited
 91.202.233.136/32 # Russia | Saint Petersburg | PROSPERO OOO
 91.202.233.252/32 # Russia | Saint Petersburg | PROSPERO OOO
 91.245.253.27/32 # Singapore | Southeast | M Europe SRL
@@ -394,7 +428,6 @@
 103.43.18.95/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.43.19.64/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.43.19.245/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
-103.48.64.199/32 # India | Delhi | GEOCITY NETWORK SOLUTIONS PVT LTD
 103.75.190.73/32 # Malaysia | Federal Territory of Kuala Lumpur | Gigabit Hos...
 103.76.111.188/32 # Pakistan | Khyber Pakhtunkhwa | Enigma Fiber Pvt LTD
 103.85.25.166/32 # Hong Kong | Hong Kong | Starry Network Limited
@@ -461,7 +494,6 @@
 114.222.169.149/32 # China | Jiangsu | Chinanet
 114.249.40.70/32 # China | Beijing | China Unicom Beijing Province Network
 115.48.147.180/32 # China | Henan | China Unicom China1 Backbone
-115.52.82.75/32 # China | Henan | China Unicom China1 Backbone
 115.53.20.73/32 # China | Henan | China Unicom China1 Backbone
 115.56.56.157/32 # China | Henan | China Unicom China1 Backbone
 115.56.155.154/32 # China | Henan | China Unicom China1 Backbone
@@ -493,7 +525,6 @@
 119.200.13.201/32 # Republic of Korea | Gwangju | Korea Telecom
 120.28.169.1/32 # Philippines | Antique | Globe Telecom Inc.
 120.46.66.68/32 # China | Beijing | Huawei Cloud Service Data Center
-120.57.212.188/32 # India | Delhi | Mahanagar Telephone Nigam Limited
 120.79.21.82/32 # China | Guangdong Province | Hangzhou Alibaba Advertising ...
 120.85.112.199/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.116.142/32 # China | Guangdong Province | China Unicom Guangzhou Network
@@ -531,7 +562,6 @@
 136.144.35.6/32 # United States | New Jersey | Latitude.sh
 136.243.132.112/32 # Germany | Saxony | Hetzner Online GmbH
 137.184.81.4/32 # United States | California | Digitalocean, LLC
-137.184.148.251/32 # United States | New Jersey | Digitalocean, LLC
 137.184.166.227/32 # Canada | Ontario | Digitalocean, LLC
 137.184.168.33/32 # Canada | Ontario | Digitalocean, LLC
 138.68.49.219/32 # United States | California | Digitalocean, LLC
@@ -539,6 +569,7 @@
 138.68.67.143/32 # Germany | Hesse | Digitalocean, LLC
 138.68.90.19/32 # Germany | Hesse | Digitalocean, LLC
 138.68.98.50/32 # Germany | Hesse | Digitalocean, LLC
+138.68.104.166/32 # Germany | Hesse | Digitalocean, LLC
 138.68.154.109/32 # United Kingdom | England | Digitalocean, LLC
 138.197.47.67/32 # United States | New Jersey | Digitalocean, LLC
 138.197.105.174/32 # United States | New Jersey | Digitalocean, LLC
@@ -566,7 +597,6 @@
 139.59.155.1/32 # Germany | Hesse | Digitalocean, LLC
 139.59.166.229/32 # United Kingdom | England | Digitalocean, LLC
 139.59.170.7/32 # United Kingdom | England | Digitalocean, LLC
-139.59.187.1/32 # United Kingdom | England | Digitalocean, LLC
 139.59.236.31/32 # Singapore | Southeast | Digitalocean, LLC
 139.99.114.108/32 # Singapore | Southeast | OVH SAS
 139.99.188.124/32 # Australia | New South Wales | OVH SAS
@@ -593,12 +623,12 @@
 143.110.161.255/32 # United Kingdom | England | Digitalocean, LLC
 143.110.245.142/32 # India | Karnataka | Digitalocean, LLC
 143.110.249.55/32 # India | Karnataka | Digitalocean, LLC
-143.198.39.74/32 # Canada | Ontario | Digitalocean, LLC
 143.198.48.156/32 # United States | California | Digitalocean, LLC
 143.198.68.182/32 # United States | California | Digitalocean, LLC
 143.198.92.175/32 # Singapore | Southeast | Digitalocean, LLC
 143.198.146.213/32 # United States | California | Digitalocean, LLC
 144.126.200.77/32 # United Kingdom | England | Digitalocean, LLC
+144.172.91.16/32 # United States | Utah | Routerhosting LLC
 144.172.95.134/32 # United States | Utah | Routerhosting LLC
 144.172.95.149/32 # United States | Utah | Routerhosting LLC
 144.172.95.206/32 # United States | Utah | Routerhosting LLC
@@ -748,7 +778,6 @@
 167.71.212.219/32 # Singapore | Southeast | Digitalocean, LLC
 167.88.168.11/32 # United States | Texas | Routerhosting LLC
 167.99.100.208/32 # United States | California | Digitalocean, LLC
-167.99.111.86/32 # United States | California | Digitalocean, LLC
 167.99.162.7/32 # United States | California | Digitalocean, LLC
 167.99.162.190/32 # United States | California | Digitalocean, LLC
 167.99.202.130/32 # United Kingdom | England | Digitalocean, LLC
@@ -765,6 +794,7 @@
 170.64.163.177/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.205.1/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.213.198/32 # Australia | New South Wales | Digitalocean, LLC
+170.64.220.56/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.229.34/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.232.155/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.236.244/32 # Australia | New South Wales | Digitalocean, LLC
@@ -801,6 +831,7 @@
 176.106.141.3/32 # United States | District of Columbia | Clouvider Limited
 176.125.229.19/32 # Montenegro | Podgorica Capital City | M Europe SRL
 176.125.230.33/32 # Malta | Northern Region | M Europe SRL
+178.62.196.213/32 # Netherlands | North Holland | Digitalocean, LLC
 178.128.91.102/32 # Singapore | Southeast | Digitalocean, LLC
 178.128.156.45/32 # United States | New Jersey | Digitalocean, LLC
 178.128.177.49/32 # United States | California | Digitalocean, LLC
@@ -819,7 +850,6 @@
 179.43.187.47/32 # Switzerland | Zurich | Private Layer INC
 179.43.189.218/32 # Switzerland | Zurich | Private Layer INC
 179.60.146.100/32 # Netherlands | North Holland | Alviva Holding Limited
-179.60.146.101/32 # Netherlands | North Holland | Alviva Holding Limited
 181.214.166.59/32 # United States | Illinois | Cogent Communications
 181.214.166.132/32 # United States | Illinois | Cogent Communications
 181.215.246.155/32 # Malaysia | Federal Territory of Kuala Lumpur | Gigabit Hos...
@@ -869,7 +899,6 @@
 188.132.204.241/32 # Turkey | İstanbul | Premierdc Veri Merkezi Anonim Sirketi
 188.166.18.74/32 # Netherlands | North Holland | Digitalocean, LLC
 188.166.87.88/32 # Netherlands | North Holland | Digitalocean, LLC
-188.166.90.135/32 # Netherlands | North Holland | Digitalocean, LLC
 188.166.169.76/32 # United Kingdom | England | Digitalocean, LLC
 191.96.106.33/32 # United States | California | Cogent Communications
 191.96.150.14/32 # United States | New York | Cogent Communications
@@ -944,11 +973,6 @@
 195.123.242.120/32 # United States | California | GREEN FLOID LLC
 195.211.96.135/32 # United States | Washington | GREEN FLOID LLC
 195.211.190.61/32 # Netherlands | Limburg | Railnet LLC
-196.251.81.119/32 # Netherlands | North Holland | EKABI
-196.251.81.129/32 # Netherlands | North Holland | EKABI
-196.251.84.35/32 # Netherlands | North Holland | EKABI
-196.251.89.62/32 # Netherlands | North Holland | Cheapy.host LLC
-196.251.89.168/32 # Netherlands | North Holland | Cheapy.host LLC
 196.251.118.41/32 # Netherlands | North Holland | Nybula LLC
 198.199.73.128/32 # United States | New Jersey | Digitalocean, LLC
 200.150.194.109/32 # Brazil | State of São Paulo | Saveincloud Hospedagem Na In...
