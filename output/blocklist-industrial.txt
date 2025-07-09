@@ -16,10 +16,7 @@
 88.210.63.0/24 # Netherlands | North Holland | Fop Dmytro Nedilskyi
 89.23.103.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 89.23.107.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
-103.102.246.0/24 # Japan | Tokyo | Hostroyale Technologies Pvt LTD
-103.102.247.0/24 # Japan | Tokyo | Hostroyale Technologies Pvt LTD
 103.251.26.0/24 # United States | California | Hostroyale Technologies Pvt LTD
-103.251.27.0/24 # United States | California | Hostroyale Technologies Pvt LTD
 144.172.114.0/24 # United States | Ohio | Frantech Solutions
 144.172.117.0/24 # United States | Wyoming | Frantech Solutions
 144.172.122.0/24 # United States | Nevada | Routerhosting LLC
@@ -145,13 +142,12 @@
 45.76.65.42/32 # United States | California | The Constant Company, LLC
 45.76.93.60/32 # Germany | Hesse | The Constant Company, LLC
 45.87.125.45/32 # United States | California | Clouvider Limited
-45.87.127.52/32 # United States | New York | Clouvider Limited
 45.88.97.225/32 # Germany | Hesse | Cogent Communications
-45.88.103.131/32 # United States | New York | Clouvider Limited
 45.94.47.102/32 # Finland | Mainland Finland | HOSTKEY B.V.
 45.94.47.103/32 # Finland | Mainland Finland | HOSTKEY B.V.
 45.94.47.136/32 # Finland | Mainland Finland | HOSTKEY B.V.
 45.115.89.138/32 # India | Kerala | Railtel Corporation of India Ltd.
+45.115.176.159/32 # India | Haryana | Nas Internet Services Private Limited
 45.120.177.8/32 # Netherlands | Drenthe | STARK INDUSTRIES SOLUTIONS LTD
 45.125.67.144/32 # Hong Kong | Hong Kong | Tele Asia Limited
 45.128.149.32/32 # United States | California | GREEN FLOID LLC
@@ -163,19 +159,16 @@
 45.141.87.11/32 # Russia | Saint Petersburg | Media Land LLC
 45.144.53.145/32 # Finland | Mainland Finland | H NEXUS LTD
 45.145.43.244/32 # Germany | Hesse | Dataforest GmbH
-45.149.81.34/32 # United States | New York | Clouvider Limited
 45.151.62.238/32 # Russia | Moscow | GLOBAL INTERNET SOLUTIONS LLC
 45.155.220.79/32 # Japan | Osaka Prefecture | Starry Network Limited
 45.155.220.194/32 # Japan | Osaka Prefecture | Starry Network Limited
 45.156.27.45/32 # France | Île-de-France | CGI GLOBAL LIMITED
 45.156.27.196/32 # France | Île-de-France | CGI GLOBAL LIMITED
 45.156.87.142/32 # Netherlands | North Holland | Skylink Data Center BV
-45.159.124.100/32 # United States | Pennsylvania | Clouvider Limited
 45.192.32.135/32 # United States | New York | Clouvider Limited
 45.194.66.8/32 # Brazil | State of São Paulo | Larus Limited
 46.29.234.129/32 # Republic of Lithuania | Vilnius County | GLOBAL CONNECTIVI...
 46.101.44.225/32 # United Kingdom | England | Digitalocean, LLC
-46.101.120.64/32 # Germany | Hesse | Digitalocean, LLC
 46.101.133.38/32 # Germany | Hesse | Digitalocean, LLC
 46.101.139.173/32 # Germany | Hesse | Digitalocean, LLC
 46.101.242.222/32 # Germany | Hesse | Digitalocean, LLC
@@ -210,7 +203,6 @@
 59.88.155.14/32 # India | Gujarat | Bharat Sanchar Nigam LTD
 59.98.115.218/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.182.149.84/32 # India | Kerala | Bharat Sanchar Nigam LTD
-59.182.255.33/32 # India | Delhi | Bharat Sanchar Nigam LTD
 59.183.114.14/32 # India | Punjab | Bharat Sanchar Nigam LTD
 60.204.201.75/32 # China | Shanghai | Huawei Cloud Service Data Center
 61.155.138.150/32 # China | Beijing | China Telecom
@@ -255,13 +247,11 @@
 74.113.97.82/32 # United States | District of Columbia | Nixlabs Networks
 75.127.0.235/32 # United States | California | HostPapa
 76.77.78.79/32 # Canada | Ontario | Terago Networks Inc.
-77.72.84.216/32 # United States | District of Columbia | Clouvider Limited
 77.89.8.253/32 # Italy | Emilia-Romagna | Herabit S.P.A.
 77.90.22.29/32 # Germany | Hesse | Dataforest GmbH
 77.110.125.70/32 # United States | North Carolina | AEZA INTERNATIONAL LTD
 77.221.151.54/32 # Russia | Moscow | Aeza Group LLC
 77.221.157.170/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
-77.246.244.44/32 # United States | District of Columbia | Clouvider Limited
 78.47.18.110/32 # Germany | Saxony | Hetzner Online GmbH
 78.141.238.182/32 # United Kingdom | England | The Constant Company, LLC
 78.153.139.202/32 # Finland | Mainland Finland | GLOBAL CONNECTIVITY SOLUTIONS...
@@ -400,6 +390,13 @@
 103.98.37.49/32 # India | Delhi | NETMAX COMPUTERS
 103.98.37.187/32 # India | Delhi | NETMAX COMPUTERS
 103.98.37.239/32 # India | Delhi | NETMAX COMPUTERS
+103.102.246.70/32 # United States | Texas | Hostroyale Technologies Pvt LTD
+103.102.246.81/32 # United States | Texas | Hostroyale Technologies Pvt LTD
+103.102.246.206/32 # United States | Texas | Hostroyale Technologies Pvt LTD
+103.102.246.232/32 # United States | Texas | Hostroyale Technologies Pvt LTD
+103.102.247.149/32 # United States | Texas | Hostroyale Technologies Pvt LTD
+103.102.247.235/32 # United States | Texas | Hostroyale Technologies Pvt LTD
+103.106.105.251/32 # Vietnam | Ho Chi Minh | INTERDIGI JOINT STOCK COMPANY
 103.152.159.88/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.158.170.20/32 # India | Delhi | ONEOTT INTERTAINMENT LIMITED
 103.159.133.205/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
@@ -417,6 +414,8 @@
 103.207.224.121/32 # India | Delhi | Railtel Corporation of India Ltd.
 103.210.101.231/32 # India | Delhi | Railtel Corporation of India Ltd.
 103.232.54.13/32 # Vietnam | Hanoi | VIETSERVER SERVICES TECHNOLOGY COMPANY L...
+103.251.27.23/32 # United States | California | Hostroyale Technologies Pvt LTD
+103.251.27.109/32 # United States | California | Hostroyale Technologies Pvt LTD
 104.131.7.207/32 # United States | New Jersey | Digitalocean, LLC
 104.131.97.15/32 # United States | New Jersey | Digitalocean, LLC
 104.131.118.62/32 # United States | New Jersey | Digitalocean, LLC
@@ -434,7 +433,6 @@
 104.248.40.70/32 # Germany | Hesse | Digitalocean, LLC
 104.248.144.225/32 # Singapore | Southeast | Digitalocean, LLC
 104.248.146.146/32 # Singapore | Southeast | Digitalocean, LLC
-104.248.248.71/32 # Germany | Hesse | Digitalocean, LLC
 106.254.141.148/32 # Republic of Korea |  | Lg Dacom Corporation
 107.13.233.172/32 # United States | North Carolina | Charter Communications INC
 107.170.1.63/32 # United States | New Jersey | Digitalocean, LLC
@@ -446,12 +444,10 @@
 107.189.21.5/32 # Netherlands | North Holland | Routerhosting LLC
 108.171.195.163/32 # United States | Utah | Webnx, Inc.
 109.122.198.105/32 # Netherlands | North Holland | Waicore LTD
-109.205.62.199/32 # United States | New York | Clouvider Limited
 109.236.80.191/32 # Netherlands | South Holland | Worldstream B.V.
 110.45.186.8/32 # Republic of Korea | Gyeonggi | Lg Dacom Corporation
 111.229.66.89/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
 112.51.253.153/32 # China | Fujian | China Mobile
-112.94.96.97/32 # China | Guangdong Province | China Unicom Guangzhou Network
 112.132.218.45/32 # China | Anhui | China Unicom China1 Backbone
 113.242.16.31/32 # China | Hunan | Chinanet
 115.48.147.180/32 # China | Henan | China Unicom China1 Backbone
@@ -465,7 +461,6 @@
 117.209.29.230/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.209.95.76/32 # India | Mizoram | Bharat Sanchar Nigam LTD
 117.209.119.29/32 # India | Manipur | Bharat Sanchar Nigam LTD
-117.212.58.220/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
 117.216.27.149/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.219.150.81/32 # India | Himachal Pradesh | Bharat Sanchar Nigam LTD
 117.231.146.16/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
@@ -489,6 +484,7 @@
 122.97.214.152/32 # China | Jiangsu | CNC Group CHINA1 Jiangsu Province Network
 123.12.40.174/32 # China | Henan | China Unicom China1 Backbone
 124.156.48.83/32 # India | Maharashtra | Shenzhen Tencent Computer Systems Co...
+124.204.132.8/32 # China | Beijing | China Unicom Beijing Province Network
 124.223.37.211/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
 125.44.218.205/32 # China | Henan | China Unicom China1 Backbone
 125.45.66.235/32 # China | Henan | China Unicom China1 Backbone
@@ -543,7 +539,6 @@
 139.59.36.73/32 # India | Karnataka | Digitalocean, LLC
 139.59.60.211/32 # India | Karnataka | Digitalocean, LLC
 139.59.87.104/32 # India | Karnataka | Digitalocean, LLC
-139.59.90.224/32 # India | Karnataka | Digitalocean, LLC
 139.59.108.43/32 # Singapore | Southeast | Digitalocean, LLC
 139.59.147.103/32 # Germany | Hesse | Digitalocean, LLC
 139.59.170.7/32 # United Kingdom | England | Digitalocean, LLC
@@ -640,7 +635,6 @@
 146.190.233.236/32 # Netherlands | North Holland | Digitalocean, LLC
 146.190.241.228/32 # Canada | Ontario | Digitalocean, LLC
 146.190.249.13/32 # Canada | Ontario | Digitalocean, LLC
-146.190.255.65/32 # Canada | Ontario | Digitalocean, LLC
 147.45.43.136/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 147.45.43.197/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 147.45.44.83/32 # Switzerland | Bern | Karina Rashkovska
@@ -649,7 +643,6 @@
 147.135.244.43/32 # France | Hauts-de-France | OVH SAS
 147.182.132.252/32 # United States | New Jersey | Digitalocean, LLC
 147.182.190.53/32 # United States | New Jersey | Digitalocean, LLC
-147.182.192.164/32 # United States | California | Digitalocean, LLC
 147.182.201.160/32 # United States | California | Digitalocean, LLC
 147.185.221.24/32 # United States | Nevada | Developed Methods LLC
 148.111.1.36/32 # Saudi Arabia | Riyadh Region | Saudi Telecom Company JSC
@@ -700,7 +693,6 @@
 158.247.224.100/32 # Republic of Korea |  | The Constant Company, LLC
 159.65.75.16/32 # United States | California | Digitalocean, LLC
 159.65.76.31/32 # United States | California | Digitalocean, LLC
-159.65.103.92/32 # United States | California | Digitalocean, LLC
 159.65.109.150/32 # United States | California | Digitalocean, LLC
 159.65.112.126/32 # Germany | Hesse | Digitalocean, LLC
 159.65.175.115/32 # United States | New Jersey | Digitalocean, LLC
@@ -727,7 +719,6 @@
 160.25.232.62/32 # Vietnam | Ho Chi Minh | VIET DIGITAL TECHNOLOGY LIABILITY ...
 160.191.77.89/32 # Singapore | Southeast | Webhorizon Internet Services
 161.35.46.55/32 # United Kingdom | England | Digitalocean, LLC
-161.35.47.221/32 # United Kingdom | England | Digitalocean, LLC
 161.35.75.109/32 # Germany | Hesse | Digitalocean, LLC
 161.35.108.200/32 # United States | New Jersey | Digitalocean, LLC
 161.35.140.75/32 # United States | New Jersey | Digitalocean, LLC
@@ -745,7 +736,6 @@
 162.243.65.249/32 # United States | New Jersey | Digitalocean, LLC
 162.243.88.170/32 # United States | New Jersey | Digitalocean, LLC
 162.243.93.47/32 # United States | New Jersey | Digitalocean, LLC
-162.243.114.182/32 # United States | New Jersey | Digitalocean, LLC
 162.243.120.192/32 # United States | New Jersey | Digitalocean, LLC
 162.243.122.217/32 # United States | New Jersey | Digitalocean, LLC
 162.243.125.44/32 # United States | New Jersey | Digitalocean, LLC
@@ -760,6 +750,7 @@
 165.22.26.57/32 # Germany | Hesse | Digitalocean, LLC
 165.22.97.48/32 # Singapore | Southeast | Digitalocean, LLC
 165.22.142.253/32 # United States | California | Digitalocean, LLC
+165.22.208.200/32 # India | Karnataka | Digitalocean, LLC
 165.22.240.102/32 # Singapore | Southeast | Digitalocean, LLC
 165.154.227.192/32 # Taiwan | Keelung City | Scloud Pte LTD
 165.227.13.110/32 # United States | California | Digitalocean, LLC
@@ -786,7 +777,6 @@
 166.88.76.167/32 # United States | New Jersey | HOST TELECOM LTD
 166.88.143.160/32 # United States | New Jersey | HOST TELECOM LTD
 166.88.156.113/32 # United States | New York | Clouvider Limited
-166.88.158.58/32 # United States | New York | Clouvider Limited
 166.88.158.228/32 # United States | New York | Clouvider Limited
 166.88.182.65/32 # United States | Illinois | Baxet Group Inc.
 166.88.182.126/32 # United States | Illinois | Baxet Group Inc.
@@ -837,11 +827,11 @@
 170.64.164.127/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.165.248/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.175.36/32 # Australia | New South Wales | Digitalocean, LLC
+170.64.182.215/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.184.98/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.207.11/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.213.198/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.220.56/32 # Australia | New South Wales | Digitalocean, LLC
-170.64.236.244/32 # Australia | New South Wales | Digitalocean, LLC
 172.86.64.14/32 # United States | Texas | Routerhosting LLC
 172.86.64.182/32 # United States | Texas | Routerhosting LLC
 172.86.64.216/32 # United States | Texas | Routerhosting LLC
@@ -875,7 +865,6 @@
 172.96.15.104/32 # United States | Missouri | Unreal Servers, LLC
 172.96.137.224/32 # United States | Texas | Shock Hosting LLC
 172.98.71.191/32 # Canada | Québec | Performive LLC
-172.120.41.10/32 # United States | New York | Clouvider Limited
 172.120.45.75/32 # United States | Nevada | Clouvider Limited
 172.120.48.29/32 # United States | Nevada | Clouvider Limited
 172.120.61.35/32 # United States | California | HOST TELECOM LTD
@@ -887,7 +876,6 @@
 172.120.176.91/32 # United States | New Jersey | HOST TELECOM LTD
 172.120.190.232/32 # United States | Illinois | HOST TELECOM LTD
 172.120.196.103/32 # United States | Pennsylvania | HOST TELECOM LTD
-172.120.196.110/32 # United States | Pennsylvania | HOST TELECOM LTD
 172.120.199.11/32 # United States | Pennsylvania | HOST TELECOM LTD
 172.121.42.5/32 # United States | California | HOST TELECOM LTD
 172.121.241.103/32 # United States | New York | Clouvider Limited
@@ -907,10 +895,8 @@
 175.146.6.47/32 # China | Liaoning | China Unicom China1 Backbone
 175.165.157.50/32 # China | Liaoning | China Unicom China1 Backbone
 175.218.20.74/32 # Republic of Korea | Gyeonggi | Korea Telecom
-176.53.133.240/32 # United States | New York | Clouvider Limited
 176.65.137.44/32 # Germany | Lower Saxony | Noel Nayasha Materke
 176.100.130.16/32 # United States | New York | Clouvider Limited
-176.100.130.199/32 # United States | New York | Clouvider Limited
 176.100.131.8/32 # United States | New York | Clouvider Limited
 176.100.146.75/32 # United States | New York | GREEN FLOID LLC
 176.100.148.218/32 # United States | New York | GREEN FLOID LLC
@@ -992,6 +978,7 @@
 188.166.109.180/32 # Netherlands | North Holland | Digitalocean, LLC
 188.166.156.97/32 # United Kingdom | England | Digitalocean, LLC
 188.166.170.32/32 # United Kingdom | England | Digitalocean, LLC
+190.123.195.139/32 # Brazil | Santa Catarina | C A DE SOUZA EPP
 191.96.106.33/32 # United States | California | Cogent Communications
 191.96.106.55/32 # United States | California | Cogent Communications
 191.96.150.14/32 # United States | New York | Cogent Communications
@@ -1013,7 +1000,6 @@
 192.241.130.169/32 # United States | New Jersey | Digitalocean, LLC
 192.241.180.205/32 # United States | New Jersey | Digitalocean, LLC
 192.241.191.116/32 # United States | New Jersey | Digitalocean, LLC
-192.241.244.52/32 # United States | New Jersey | Digitalocean, LLC
 193.32.248.250/32 # Germany | Berlin | 11 Services Ab
 193.32.249.132/32 # Netherlands | North Holland | 11 Services Ab
 193.32.249.171/32 # Netherlands | North Holland | 11 Services Ab
@@ -1026,7 +1012,6 @@
 193.148.48.188/32 # Germany | Hesse | LYCATEL DISTRIBUTION UK LIMITED
 193.149.187.41/32 # United Kingdom | England | Bl Networks
 193.149.190.248/32 # United Kingdom | England | Bl Networks
-193.160.218.47/32 # United States | California | Clouvider Limited
 193.203.49.90/32 # United States | Florida | GREEN FLOID LLC
 193.233.75.13/32 # Germany | Hesse | Dpkgsoft International Limited
 193.233.132.137/32 # Malaysia | Johor | Cloudflare London, LLC
@@ -1051,7 +1036,6 @@
 194.190.152.108/32 # Russia | Moscow | Baykov Ilya Sergeevich
 195.26.87.209/32 # Netherlands | North Holland | Sollutium Eu Sp Z.O.O.
 195.26.224.89/32 # Netherlands | North Holland | SERVERS TECH FZCO
-195.69.161.91/32 # United States | New York | Clouvider Limited
 195.123.233.19/32 # United States | New Jersey | GREEN FLOID LLC
 195.123.233.148/32 # United States | New Jersey | GREEN FLOID LLC
 195.123.240.2/32 # United States | California | GREEN FLOID LLC
@@ -1124,7 +1108,6 @@
 212.102.57.29/32 # Germany | Hesse | Datacamp Limited
 212.192.251.142/32 # United States | New York | Clouvider Limited
 212.237.217.182/32 # Finland | Mainland Finland | HOSTKEY B.V.
-213.166.94.117/32 # United States | New York | Shock Hosting LLC
 216.245.184.181/32 # United States | Illinois | Bl Networks
 217.76.54.87/32 # Germany | North Rhine-Westphalia | Contabo GmbH
 217.243.139.54/32 # Germany | Hesse | Deutsche Telekom AG
