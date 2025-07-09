@@ -1,5 +1,7 @@
+45.61.128.0/24 # United States | Nevada | Routerhosting LLC
 45.61.132.0/24 # United States | Nevada | Routerhosting LLC
 45.61.133.0/24 # United States | Nevada | Routerhosting LLC
+45.61.134.0/24 # United States | Nevada | Routerhosting LLC
 45.61.135.0/24 # United States | Nevada | Routerhosting LLC
 45.61.140.0/24 # United States | Nevada | Routerhosting LLC
 45.61.141.0/24 # United States | Nevada | Routerhosting LLC
@@ -10,6 +12,7 @@
 45.61.157.0/24 # United States | Nevada | Routerhosting LLC
 45.61.158.0/24 # United States | Texas | Routerhosting LLC
 45.61.165.0/24 # United States | Texas | Routerhosting LLC
+45.61.166.0/24 # United States | Texas | Routerhosting LLC
 46.246.3.0/24 # Sweden | Stockholm County | Glesys Ab
 46.246.8.0/24 # Sweden | Stockholm County | Glesys Ab
 62.133.61.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
@@ -25,6 +28,7 @@
 172.86.72.0/24 # United States | Texas | Routerhosting LLC
 172.86.73.0/24 # United States | Texas | Routerhosting LLC
 172.86.88.0/24 # United States | Texas | Routerhosting LLC
+172.86.115.0/24 # United States | Texas | Routerhosting LLC
 172.86.121.0/24 # United States | Texas | Routerhosting LLC
 1.220.228.82/32 # Republic of Korea |  | Lg Dacom Corporation
 2.56.139.235/32 # United States | California | Shock Hosting LLC
@@ -119,23 +123,12 @@
 45.55.87.113/32 # United States | New Jersey | Digitalocean, LLC
 45.55.202.3/32 # United States | New Jersey | Digitalocean, LLC
 45.58.159.245/32 # Netherlands | North Holland | Sharktech
-45.61.128.61/32 # United States | Nevada | Routerhosting LLC
-45.61.128.79/32 # United States | Nevada | Routerhosting LLC
-45.61.128.84/32 # United States | Nevada | Routerhosting LLC
-45.61.128.110/32 # United States | Nevada | Routerhosting LLC
-45.61.134.6/32 # United States | Nevada | Routerhosting LLC
-45.61.134.31/32 # United States | Nevada | Routerhosting LLC
-45.61.134.66/32 # United States | Nevada | Routerhosting LLC
-45.61.134.73/32 # United States | Nevada | Routerhosting LLC
 45.61.160.95/32 # United States | Texas | Routerhosting LLC
 45.61.160.129/32 # United States | Texas | Routerhosting LLC
 45.61.160.159/32 # United States | Texas | Routerhosting LLC
 45.61.160.245/32 # United States | Texas | Routerhosting LLC
-45.61.166.56/32 # United States | Texas | Routerhosting LLC
-45.61.166.116/32 # United States | Texas | Routerhosting LLC
-45.61.166.126/32 # United States | Texas | Routerhosting LLC
-45.61.166.209/32 # United States | Texas | Routerhosting LLC
 45.61.169.4/32 # United States | Texas | Routerhosting LLC
+45.61.169.75/32 # United States | Texas | Routerhosting LLC
 45.61.169.130/32 # United States | Texas | Routerhosting LLC
 45.61.169.191/32 # United States | Texas | Routerhosting LLC
 45.74.10.54/32 # Singapore | Southeast | Nese Mala Trading AS Moon Dc
@@ -792,8 +785,10 @@
 167.71.47.238/32 # Germany | Hesse | Digitalocean, LLC
 167.71.52.12/32 # Germany | Hesse | Digitalocean, LLC
 167.71.178.179/32 # United States | New Jersey | Digitalocean, LLC
+167.88.160.164/32 # United States | Texas | Routerhosting LLC
 167.88.160.197/32 # United States | Texas | Routerhosting LLC
 167.88.160.199/32 # United States | Texas | Routerhosting LLC
+167.88.164.98/32 # United States | Texas | Routerhosting LLC
 167.88.164.102/32 # United States | Texas | Routerhosting LLC
 167.88.164.158/32 # United States | Texas | Routerhosting LLC
 167.88.164.197/32 # United States | Texas | Routerhosting LLC
@@ -802,6 +797,7 @@
 167.88.166.205/32 # United States | Texas | Routerhosting LLC
 167.88.168.11/32 # United States | Texas | Routerhosting LLC
 167.88.168.26/32 # United States | Texas | Routerhosting LLC
+167.88.168.101/32 # United States | Texas | Routerhosting LLC
 167.88.169.2/32 # United States | Texas | Routerhosting LLC
 167.88.169.7/32 # United States | Texas | Routerhosting LLC
 167.88.170.96/32 # United States | Texas | Routerhosting LLC
@@ -836,6 +832,7 @@
 170.64.213.198/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.220.56/32 # Australia | New South Wales | Digitalocean, LLC
 172.86.64.14/32 # United States | Texas | Routerhosting LLC
+172.86.64.39/32 # United States | Texas | Routerhosting LLC
 172.86.64.182/32 # United States | Texas | Routerhosting LLC
 172.86.64.216/32 # United States | Texas | Routerhosting LLC
 172.86.84.25/32 # United States | Texas | Routerhosting LLC
@@ -847,24 +844,27 @@
 172.86.112.8/32 # United States | Texas | Routerhosting LLC
 172.86.112.126/32 # United States | Texas | Routerhosting LLC
 172.86.112.168/32 # United States | Texas | Routerhosting LLC
+172.86.113.7/32 # United States | Texas | Routerhosting LLC
 172.86.113.115/32 # United States | Texas | Routerhosting LLC
 172.86.113.122/32 # United States | Texas | Routerhosting LLC
+172.86.114.78/32 # United States | Texas | Routerhosting LLC
 172.86.114.155/32 # United States | Texas | Routerhosting LLC
 172.86.114.191/32 # United States | Texas | Routerhosting LLC
 172.86.114.192/32 # United States | Texas | Routerhosting LLC
-172.86.115.48/32 # United States | Texas | Routerhosting LLC
-172.86.115.143/32 # United States | Texas | Routerhosting LLC
-172.86.115.149/32 # United States | Texas | Routerhosting LLC
 172.86.116.13/32 # United States | Texas | Routerhosting LLC
+172.86.116.38/32 # United States | Texas | Routerhosting LLC
 172.86.116.170/32 # United States | Texas | Routerhosting LLC
 172.86.116.196/32 # United States | Texas | Routerhosting LLC
 172.86.117.30/32 # United States | Texas | Routerhosting LLC
+172.86.117.48/32 # United States | Texas | Routerhosting LLC
 172.86.117.66/32 # United States | Texas | Routerhosting LLC
 172.86.122.73/32 # United States | Texas | Routerhosting LLC
 172.86.122.96/32 # United States | Texas | Routerhosting LLC
+172.86.122.106/32 # United States | Texas | Routerhosting LLC
 172.86.122.210/32 # United States | Texas | Routerhosting LLC
 172.86.123.23/32 # United States | Texas | Routerhosting LLC
 172.86.123.127/32 # United States | Texas | Routerhosting LLC
+172.86.123.130/32 # United States | Texas | Routerhosting LLC
 172.86.123.227/32 # United States | Texas | Routerhosting LLC
 172.93.165.10/32 # Hong Kong | Hong Kong | Gigabit Hosting Sdn Bhd
 172.93.165.14/32 # Hong Kong | Hong Kong | Gigabit Hosting Sdn Bhd
@@ -1116,6 +1116,7 @@
 212.192.251.142/32 # United States | New York | Clouvider Limited
 212.237.217.182/32 # Finland | Mainland Finland | HOSTKEY B.V.
 216.126.225.7/32 # United States | Wyoming | Routerhosting LLC
+216.126.236.16/32 # United States | Florida | Routerhosting LLC
 216.245.184.181/32 # United States | Illinois | Bl Networks
 217.76.54.87/32 # Germany | North Rhine-Westphalia | Contabo GmbH
 217.243.139.54/32 # Germany | Hesse | Deutsche Telekom AG
