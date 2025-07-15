@@ -125,7 +125,6 @@
 45.8.157.199/32 # United States | Virginia | Nktelecom INC
 45.32.126.94/32 # Singapore | Southeast | The Constant Company, LLC
 45.39.194.17/32 # United States | New York | HOST TELECOM LTD
-45.55.87.113/32 # United States | New Jersey | Digitalocean, LLC
 45.61.160.95/32 # United States | Texas | Routerhosting LLC
 45.61.160.129/32 # United States | Texas | Routerhosting LLC
 45.61.160.159/32 # United States | Texas | Routerhosting LLC
@@ -188,7 +187,6 @@
 54.36.182.231/32 # France | Hauts-de-France | OVH SAS
 54.39.132.83/32 # Canada | Québec | OVH SAS
 58.221.58.240/32 # China | Jiangsu | Chinanet
-59.88.51.148/32 # India | Rajasthan | Bharat Sanchar Nigam LTD
 59.88.155.14/32 # India | Gujarat | Bharat Sanchar Nigam LTD
 59.88.237.111/32 # India | Kerala | Bharat Sanchar Nigam LTD
 59.94.110.233/32 # India | Karnataka | Bharat Sanchar Nigam LTD
@@ -341,6 +339,7 @@
 94.158.247.100/32 # United States | Oregon | Mivocloud SRL
 94.232.249.36/32 # Netherlands | North Holland | PSB HOSTING LTD
 95.164.68.24/32 # Germany | Hesse | STARK INDUSTRIES SOLUTIONS LTD
+95.165.104.92/32 # Russia | Moscow | Pjsc Moscow City Telephone Network
 95.169.180.122/32 # United States | Illinois | Latitude.sh LTDA
 95.181.234.12/32 # Qatar | Doha | M Europe SRL
 95.181.234.15/32 # Qatar | Doha | M Europe SRL
@@ -393,6 +392,7 @@
 103.159.133.205/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
 103.159.133.251/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
 103.160.197.144/32 # India | Uttar Pradesh | Bharat Digital Network Private Lim...
+103.168.2.116/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.173.211.51/32 # India | Haryana | Fibre Air Services Private Limited
 103.183.3.10/32 # Hong Kong | Hong Kong | GNET INC.
 103.199.16.92/32 # Vietnam | Hanoi | Online Technology Joint Stock Company
@@ -443,7 +443,6 @@
 112.132.218.45/32 # China | Anhui | China Unicom China1 Backbone
 113.240.195.140/32 # China | Hunan | Chinanet
 113.242.16.31/32 # China | Hunan | Chinanet
-115.56.56.157/32 # China | Henan | China Unicom China1 Backbone
 115.57.117.71/32 # China | Henan | China Unicom China1 Backbone
 116.52.173.51/32 # China | Yunnan | No. 1,jin rong Street
 116.114.157.83/32 # China | Inner Mongolia | CNC Group CHINA1 Neimeng Province...
@@ -525,7 +524,6 @@
 139.59.87.104/32 # India | Karnataka | Digitalocean, LLC
 139.59.108.43/32 # Singapore | Southeast | Digitalocean, LLC
 139.59.147.103/32 # Germany | Hesse | Digitalocean, LLC
-139.59.170.7/32 # United Kingdom | England | Digitalocean, LLC
 139.59.170.12/32 # United Kingdom | England | Digitalocean, LLC
 139.59.180.173/32 # United Kingdom | England | Digitalocean, LLC
 139.59.236.31/32 # Singapore | Southeast | Digitalocean, LLC
@@ -541,7 +539,6 @@
 142.93.33.42/32 # United Kingdom | England | Digitalocean, LLC
 142.93.107.44/32 # Germany | Hesse | Digitalocean, LLC
 142.93.119.241/32 # United States | New Jersey | Digitalocean, LLC
-142.93.155.140/32 # Canada | Ontario | Digitalocean, LLC
 142.93.208.13/32 # India | Karnataka | Digitalocean, LLC
 142.93.217.88/32 # India | Karnataka | Digitalocean, LLC
 142.93.230.95/32 # Netherlands | North Holland | Digitalocean, LLC
@@ -568,12 +565,10 @@
 143.198.92.175/32 # Singapore | Southeast | Digitalocean, LLC
 143.198.140.82/32 # United States | California | Digitalocean, LLC
 143.198.145.58/32 # United States | California | Digitalocean, LLC
-144.126.200.77/32 # United Kingdom | England | Digitalocean, LLC
 144.172.91.16/32 # United States | Utah | Routerhosting LLC
 144.172.91.124/32 # United States | Utah | Routerhosting LLC
 144.172.91.230/32 # United States | Utah | Routerhosting LLC
 144.172.95.3/32 # United States | Utah | Routerhosting LLC
-144.172.95.149/32 # United States | Utah | Routerhosting LLC
 144.172.97.23/32 # United States | Utah | Routerhosting LLC
 144.172.97.96/32 # United States | Utah | Routerhosting LLC
 144.172.97.108/32 # United States | Utah | Routerhosting LLC
@@ -617,7 +612,6 @@
 151.236.17.180/32 # Germany | Hesse | M Europe SRL
 152.42.167.241/32 # Singapore | Southeast | Digitalocean, LLC
 152.42.171.6/32 # Singapore | Southeast | Digitalocean, LLC
-152.211.21.169/32 # United States | Illinois | Verizon Business
 154.6.13.139/32 # Germany | Hesse | Securelink Networks Ou
 154.6.13.144/32 # Germany | Hesse | Securelink Networks Ou
 154.6.13.151/32 # Germany | Hesse | Securelink Networks Ou
@@ -769,7 +763,6 @@
 167.172.54.132/32 # United Kingdom | England | Digitalocean, LLC
 167.172.87.138/32 # Singapore | Southeast | Digitalocean, LLC
 167.172.193.239/32 # United States | California | Digitalocean, LLC
-167.172.214.210/32 # United States | California | Digitalocean, LLC
 167.172.236.94/32 # United States | New Jersey | Digitalocean, LLC
 167.172.244.99/32 # United States | New Jersey | Digitalocean, LLC
 168.100.9.199/32 # Netherlands | North Holland | Bl Networks
@@ -988,7 +981,6 @@
 194.156.98.155/32 # Hong Kong | Hong Kong | STARK INDUSTRIES SOLUTIONS LTD
 194.190.152.108/32 # Russia | Moscow | Baykov Ilya Sergeevich
 195.26.87.209/32 # Netherlands | North Holland | Sollutium Eu Sp Z.O.O.
-195.26.224.89/32 # Netherlands | North Holland | SERVERS TECH FZCO
 195.123.233.19/32 # United States | New Jersey | GREEN FLOID LLC
 195.123.233.148/32 # United States | New Jersey | GREEN FLOID LLC
 195.123.240.2/32 # United States | California | GREEN FLOID LLC
@@ -997,6 +989,7 @@
 195.211.96.135/32 # United States | Washington | GREEN FLOID LLC
 195.211.190.61/32 # Netherlands | Limburg | Railnet LLC
 196.251.118.41/32 # Netherlands | North Holland | Nybula LLC
+198.54.117.242/32 # United States | Georgia | Namecheap, Inc.
 200.59.84.204/32 # Argentina | Buenos Aires | SION S.A
 200.150.194.109/32 # Brazil | State of São Paulo | Saveincloud Hospedagem Na In...
 202.43.239.13/32 # Singapore | Southeast | Better Cloud Limited
@@ -1031,13 +1024,13 @@
 207.174.31.215/32 # United States | Georgia | Baxet Group Inc.
 208.109.231.95/32 # United States | Arizona | Godaddy.com, LLC
 209.38.31.230/32 # Australia | New South Wales | Digitalocean, LLC
+209.38.43.105/32 # Netherlands | North Holland | Digitalocean, LLC
 209.38.81.138/32 # Australia | New South Wales | Digitalocean, LLC
 209.38.83.96/32 # Australia | New South Wales | Digitalocean, LLC
 209.38.91.66/32 # Australia | New South Wales | Digitalocean, LLC
 209.38.93.197/32 # Australia | New South Wales | Digitalocean, LLC
 209.38.95.60/32 # Australia | New South Wales | Digitalocean, LLC
 209.38.107.142/32 # Netherlands | South Holland | Digitalocean, LLC
-209.38.109.227/32 # Netherlands | North Holland | Digitalocean, LLC
 209.38.120.168/32 # India | Karnataka | Digitalocean, LLC
 209.97.167.243/32 # Singapore | Southeast | Digitalocean, LLC
 209.97.182.58/32 # United Kingdom | England | Digitalocean, LLC
