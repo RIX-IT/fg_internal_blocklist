@@ -45,15 +45,14 @@
 2a05:b0c6:300::/40 # Hostingbox Ltd.
 2a12:bec0:163::/48 # ByteVirt LLC
 # Datacamp Limited - AS60068
-2400:52e0:1e00::/48 # BUNNYWAY, informacijske storitve d.o.o
 2a02:6ea0:100::/40 # Datacamp Limited
-2a02:6ea0:200::/40 # Datacamp Limited
 2a02:6ea0:300::/40 # Datacamp Limited
 2a02:6ea0:400::/40 # Datacamp Limited
 2a02:6ea0:500::/40 # Datacamp Limited
 2a02:6ea0:600::/40 # Datacamp Limited
 2a02:6ea0:700::/40 # Datacamp Limited
-2a02:6ea0:babe::/48 # Datacamp Limited
+2a02:6ea0:900::/40 # Datacamp Limited
+2a02:6ea0:a00::/40 # Datacamp Limited
 2a02:6ea0:c000::/40 # Datacamp Limited
 2a02:6ea0:c100::/40 # Datacamp Limited
 2a02:6ea0:c200::/40 # Datacamp Limited
@@ -67,7 +66,6 @@
 2a02:6ea0:ca00::/40 # Datacamp Limited
 2a02:6ea0:cb00::/40 # Datacamp Limited
 2a02:6ea0:cc00::/40 # Datacamp Limited
-2a02:6ea0:cd77::/48 # Datacamp Limited
 2a02:6ea0:ce00::/40 # Datacamp Limited
 2a02:6ea0:cf00::/40 # Datacamp Limited
 2a02:6ea0:d000::/40 # Datacamp Limited
@@ -112,6 +110,10 @@
 2a02:6ea0:fd00::/40 # Datacamp Limited
 2a02:6ea0:fe00::/40 # Datacamp Limited
 2a02:6ea0:ff00::/40 # Datacamp Limited
+2400:52e0:1e00::/48 # BUNNYWAY, informacijske storitve d.o.o
+2a02:6ea0:babe::/48 # Datacamp Limited
+2a02:6ea0:cd00::/48 # Datacamp Limited
+2a02:6ea0:cd77::/48 # Datacamp Limited
 2a05:6200:74::/48 # QHoster Ltd.
 # STARK INDUSTRIES SOLUTIONS LTD - AS44477
 2a09:7c40::/32 # WEISS HOSTING GROUP S.R.L.
@@ -223,3 +225,44 @@
 2a0d:9ec2::/48 # Shock Hosting LLC
 2a0d:d8c0:1::/48 # Shock Hosting LLC
 2a0d:d8c0::/48 # Shock Hosting LLC
+# HostRoyale Technologies Pvt Ltd - AS207990
+2600:2900::/32 # HostRoyale LLC
+2600:2902::/32 # HostRoyale LLC
+2600:2903::/32 # HostRoyale LLC
+# Cyber Data LLC - AS400882
+2602:fa19::/48 # Cyber Data LLC
+# xTom - AS6233
+2a0d:c7c0::/32 # xTom
+2604:a840:10::/48 # xTom
+2604:a840:11::/48 # xTom
+2604:a840:12::/48 # xTom
+2604:a840:13::/48 # xTom
+2604:a840:14::/48 # xTom
+2604:a840:1::/48 # xTom
+2604:a840:15::/48 # xTom
+2604:a840:16::/48 # xTom
+2604:a840:17::/48 # xTom
+2604:a840:18::/48 # xTom
+2604:a840:19::/48 # xTom
+2604:a840:20::/48 # xTom
+2604:a840:21::/48 # xTom
+2604:a840:22::/48 # xTom
+2604:a840:23::/48 # xTom
+2604:a840:24::/48 # xTom
+2604:a840:2::/48 # xTom
+2604:a840:25::/48 # xTom
+2604:a840:3::/48 # xTom
+2604:a840:4::/48 # xTom
+2604:a840::/48 # xTom
+2604:a840:5::/48 # xTom
+2604:a840:6::/48 # xTom
+2604:a840:7::/48 # xTom
+2604:a840:8::/48 # xTom
+2604:e8c0::/48 # xTom.com, Inc.
+2604:e8c0:7::/48 # Mullvad VPN AB
+2604:e8c0:8::/48 # xTom.com, Inc.
+2604:eb40::/48 # SB Professional Services
+2604:eb40:6::/48 # SB Professional Services
+2605:3a40::/48 # xTom
+2605:3a40:c0c0::/48 # xTom
+2605:9c0::/48 # Riven
