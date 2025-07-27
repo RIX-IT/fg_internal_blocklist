@@ -6,7 +6,6 @@
 89.23.103.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 89.23.107.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 94.158.247.0/24 # United States | Oregon | Mivocloud SRL
-103.251.26.0/24 # United States | California | Hostroyale Technologies Pvt LTD
 104.168.80.0/24 # United States | New York | HostPapa
 107.174.46.0/24 # United States | California | HostPapa
 147.45.50.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
@@ -29,7 +28,6 @@
 5.230.226.29/32 # Germany | Hesse | Ghostnet GmbH
 5.244.252.251/32 # Saudi Arabia | Eastern Region | Etihad Etisalat, A Joint S...
 5.252.176.55/32 # Russia | Moscow | Mivocloud SRL
-5.252.188.251/32 # United States | Nevada | Clouvider Limited
 7.6.38.122/32 # United States | Ohio | Dod Network Information Center
 8.213.217.182/32 # Thailand | Bangkok | Alibaba us Technology Co., Ltd.
 8.217.60.40/32 # Hong Kong | Hong Kong | Alibaba us Technology Co., Ltd.
@@ -39,6 +37,7 @@
 13.78.94.29/32 # Japan | Tokyo | Microsoft Corporation
 13.78.113.103/32 # Japan | Tokyo | Microsoft Corporation
 13.232.191.219/32 # India | Maharashtra | Amazon.com, Inc.
+15.204.119.129/32 # United States | Oregon | OVH SAS
 18.236.95.210/32 # United States | Oregon | Amazon.com, Inc.
 20.37.116.136/32 # Japan | Tokyo | Microsoft Corporation
 20.89.43.151/32 # Japan | Tokyo | Microsoft Corporation
@@ -51,7 +50,6 @@
 23.146.184.221/32 # United States | Illinois | Atomic Networks LLC
 24.199.82.46/32 # United States | New Jersey | Digitalocean, LLC
 27.43.205.113/32 # China | Guangdong Province | China Unicom Guangdong Provin...
-27.43.207.240/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.207.252/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.47.1.58/32 # China | Guangdong Province | China Unicom Guangzhou Network
 27.102.113.240/32 # Republic of Korea | Gyeonggi | DAOU TECHNOLOGY
@@ -67,7 +65,6 @@
 34.61.200.116/32 # United States | Iowa | Google LLC
 34.71.183.239/32 # United States | Iowa | Google LLC
 34.154.30.129/32 # Italy | Lombardy | Google LLC
-36.70.233.89/32 # Indonesia | Special Capital Region of Jakarta | Telekomuni...
 36.255.4.5/32 # India | Haryana | Railtel Corporation of India Ltd.
 37.19.197.182/32 # United States | New York | Datacamp Limited
 37.46.113.179/32 # Luxembourg | Canton Luxembourg | Altushost B.V.
@@ -113,37 +110,12 @@
 45.8.157.158/32 # United States | Virginia | Nktelecom INC
 45.8.157.162/32 # United States | Virginia | Nktelecom INC
 45.8.157.199/32 # United States | Virginia | Nktelecom INC
-45.39.194.17/32 # United States | New York | HOST TELECOM LTD
-45.61.128.110/32 # United States | Nevada | Routerhosting LLC
 45.61.128.114/32 # United States | Nevada | Routerhosting LLC
-45.61.133.89/32 # United States | Nevada | Routerhosting LLC
-45.61.133.93/32 # United States | Nevada | Routerhosting LLC
-45.61.133.95/32 # United States | Nevada | Routerhosting LLC
 45.61.134.77/32 # United States | Nevada | Routerhosting LLC
 45.61.134.78/32 # United States | Nevada | Routerhosting LLC
 45.61.134.80/32 # United States | Nevada | Routerhosting LLC
-45.61.135.80/32 # United States | Nevada | Routerhosting LLC
-45.61.140.101/32 # United States | Nevada | Routerhosting LLC
-45.61.140.105/32 # United States | Nevada | Routerhosting LLC
-45.61.141.109/32 # United States | Nevada | Routerhosting LLC
-45.61.141.111/32 # United States | Nevada | Routerhosting LLC
-45.61.141.114/32 # United States | Nevada | Routerhosting LLC
-45.61.148.93/32 # United States | Nevada | Routerhosting LLC
-45.61.148.95/32 # United States | Nevada | Routerhosting LLC
-45.61.149.146/32 # United States | Nevada | Routerhosting LLC
-45.61.149.150/32 # United States | Nevada | Routerhosting LLC
-45.61.150.27/32 # United States | Nevada | Routerhosting LLC
-45.61.150.60/32 # United States | Nevada | Routerhosting LLC
-45.61.151.45/32 # United States | Nevada | Routerhosting LLC
-45.61.151.69/32 # United States | Nevada | Routerhosting LLC
-45.61.151.104/32 # United States | Nevada | Routerhosting LLC
-45.61.158.218/32 # United States | Texas | Routerhosting LLC
-45.61.158.228/32 # United States | Texas | Routerhosting LLC
-45.61.158.240/32 # United States | Texas | Routerhosting LLC
-45.61.158.245/32 # United States | Texas | Routerhosting LLC
 45.61.160.33/32 # United States | Texas | Routerhosting LLC
 45.61.160.38/32 # United States | Texas | Routerhosting LLC
-45.61.160.245/32 # United States | Texas | Routerhosting LLC
 45.61.166.44/32 # United States | Texas | Routerhosting LLC
 45.61.166.209/32 # United States | Texas | Routerhosting LLC
 45.61.169.75/32 # United States | Texas | Routerhosting LLC
@@ -166,6 +138,7 @@
 45.141.87.11/32 # Russia | Saint Petersburg | Media Land LLC
 45.144.53.145/32 # Finland | Mainland Finland | H NEXUS LTD
 45.145.43.244/32 # Germany | Hesse | Dataforest GmbH
+45.150.130.39/32 # Thailand | Nonthaburi Province | Siamdata Communication CO...
 45.151.62.238/32 # Russia | Moscow | GLOBAL INTERNET SOLUTIONS LLC
 45.155.220.79/32 # Japan | Osaka Prefecture | Starry Network Limited
 45.155.220.194/32 # Japan | Osaka Prefecture | Starry Network Limited
@@ -180,11 +153,6 @@
 46.101.139.173/32 # Germany | Hesse | Digitalocean, LLC
 46.101.242.222/32 # Germany | Hesse | Digitalocean, LLC
 46.229.55.63/32 # Ukraine | Kyiv Oblast | Zubritska Valeriia Nikolaevna
-46.232.27.229/32 # United States | Virginia | Clouvider Limited
-46.232.28.124/32 # United States | New York | Clouvider Limited
-46.232.35.24/32 # United States | New York | Clouvider Limited
-46.232.37.185/32 # United States | New York | Clouvider Limited
-46.232.47.158/32 # United States | New York | Clouvider Limited
 46.246.122.185/32 # Norway | Oslo | Glesys Ab
 47.83.8.198/32 # Hong Kong | Hong Kong | Alibaba us Technology Co., Ltd.
 47.97.42.177/32 # China | Zhejiang | Hangzhou Alibaba Advertising CO.,LTD.
@@ -223,9 +191,7 @@
 64.227.17.105/32 # United States | New Jersey | Digitalocean, LLC
 64.227.17.193/32 # United States | New Jersey | Digitalocean, LLC
 64.227.40.208/32 # United Kingdom | England | Digitalocean, LLC
-64.227.49.104/32 # United States | California | Digitalocean, LLC
 64.227.64.158/32 # Netherlands | North Holland | Digitalocean, LLC
-64.227.69.144/32 # Netherlands | North Holland | Digitalocean, LLC
 64.227.84.71/32 # United States | California | Digitalocean, LLC
 64.227.169.91/32 # India | Karnataka | Digitalocean, LLC
 64.227.173.129/32 # India | Karnataka | Digitalocean, LLC
@@ -331,7 +297,6 @@
 92.118.112.223/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 92.118.112.253/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 92.119.159.30/32 # Russia | Moscow | IP SERVER LLC
-93.183.123.159/32 # United States | Arizona | Clouvider Limited
 94.131.108.78/32 # Turkey | İzmir | STARK INDUSTRIES SOLUTIONS LTD
 94.131.112.206/32 # Netherlands | Drenthe | STARK INDUSTRIES SOLUTIONS LTD
 94.156.8.31/32 # Canada | Québec | Nexgen Cloud LTD
@@ -386,14 +351,12 @@
 103.75.76.78/32 # Vietnam | Ho Chi Minh | EZ TECHNOLOGY COMPANY LIMITED
 103.75.190.73/32 # Malaysia | Federal Territory of Kuala Lumpur | Gigabit Hos...
 103.77.42.212/32 # India | Delhi | Mynext Broadband Services Pvt LTD
-103.77.43.185/32 # India | Delhi | ANJANI BROADBAND SOLUTIONS PVT.LTD.
 103.85.25.166/32 # Hong Kong | Hong Kong | Starry Network Limited
 103.91.64.214/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
 103.98.37.27/32 # India | Delhi | NETMAX COMPUTERS
 103.98.37.49/32 # India | Delhi | NETMAX COMPUTERS
 103.98.37.187/32 # India | Delhi | NETMAX COMPUTERS
 103.98.37.239/32 # India | Delhi | NETMAX COMPUTERS
-103.102.246.70/32 # United States | Texas | Hostroyale Technologies Pvt LTD
 103.102.246.81/32 # United States | Texas | Hostroyale Technologies Pvt LTD
 103.102.246.105/32 # United States | Texas | Hostroyale Technologies Pvt LTD
 103.106.105.251/32 # Vietnam | Ho Chi Minh | INTERDIGI JOINT STOCK COMPANY
@@ -411,13 +374,17 @@
 103.208.104.62/32 # India | Bihar | Railtel Corporation of India Ltd.
 103.208.104.85/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
 103.232.54.13/32 # Vietnam | Hanoi | VIETSERVER SERVICES TECHNOLOGY COMPANY L...
+103.251.26.81/32 # United States | California | Hostroyale Technologies Pvt LTD
+103.251.26.120/32 # United States | California | Hostroyale Technologies Pvt LTD
+103.251.26.161/32 # United States | California | Hostroyale Technologies Pvt LTD
+103.251.26.185/32 # United States | California | Hostroyale Technologies Pvt LTD
 104.131.7.207/32 # United States | New Jersey | Digitalocean, LLC
-104.131.97.15/32 # United States | New Jersey | Digitalocean, LLC
 104.143.46.143/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 104.143.47.226/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 104.160.6.2/32 # United Kingdom | England | Orion Network Limited
 104.183.100.189/32 # United States | Florida | AT T Enterprises, LLC
 104.194.153.65/32 # Singapore | Southeast | Routerhosting LLC
+104.236.37.225/32 # United States | New Jersey | Digitalocean, LLC
 104.236.119.227/32 # United States | New Jersey | Digitalocean, LLC
 104.238.61.144/32 # United States | California | GWY IT PTY LTD
 104.248.40.70/32 # Germany | Hesse | Digitalocean, LLC
@@ -425,6 +392,7 @@
 104.248.144.225/32 # Singapore | Southeast | Digitalocean, LLC
 104.248.146.146/32 # Singapore | Southeast | Digitalocean, LLC
 104.248.220.39/32 # United States | California | Digitalocean, LLC
+106.0.38.27/32 # India | Andhra Pradesh | CtrlS
 106.254.141.148/32 # Republic of Korea |  | Lg Dacom Corporation
 107.170.23.186/32 # United States | New Jersey | Digitalocean, LLC
 107.170.33.177/32 # United States | New Jersey | Digitalocean, LLC
@@ -448,6 +416,7 @@
 115.56.123.97/32 # China | Henan | China Unicom China1 Backbone
 115.57.117.71/32 # China | Henan | China Unicom China1 Backbone
 116.52.173.51/32 # China | Yunnan | No. 1,jin rong Street
+117.205.166.165/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.206.64.81/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
 117.206.70.179/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.209.29.230/32 # India | Karnataka | Bharat Sanchar Nigam LTD
@@ -468,7 +437,6 @@
 120.28.214.232/32 # Philippines | Davao Region | Globe Telecom Inc.
 120.62.125.82/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
 120.85.119.121/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
-120.85.185.39/32 # China | Guangdong Province | China Unicom Guangzhou Network
 121.201.109.98/32 # China | Guangdong Province | Guangdong
 122.17.36.187/32 # Japan | Kanagawa Prefecture | NTT Communications Corporation
 122.57.36.187/32 # New Zealand | Auckland | Spark New Zealand Trading Limited
@@ -480,7 +448,6 @@
 125.45.66.235/32 # China | Henan | China Unicom China1 Backbone
 128.127.180.156/32 # Belgium | Walloon Brabant | VERIXI SA
 128.199.13.237/32 # United States | California | Digitalocean, LLC
-128.199.68.101/32 # Singapore | Southeast | Digitalocean, LLC
 128.199.97.5/32 # Singapore | Southeast | Digitalocean, LLC
 128.199.134.3/32 # Singapore | Southeast | Digitalocean, LLC
 128.254.146.183/32 # United States | Texas | Baxet Group Inc.
@@ -505,7 +472,6 @@
 138.68.187.245/32 # United Kingdom | England | Digitalocean, LLC
 138.197.106.149/32 # United States | New Jersey | Digitalocean, LLC
 138.197.121.97/32 # United States | New Jersey | Digitalocean, LLC
-138.197.143.185/32 # Canada | Ontario | Digitalocean, LLC
 138.197.171.168/32 # Canada | Ontario | Digitalocean, LLC
 139.5.1.176/32 # India | Chandigarh | Railtel Corporation of India Ltd.
 139.5.10.179/32 # India | Chhattisgarh | Railtel Corporation of India Ltd.
@@ -528,14 +494,6 @@
 142.93.208.13/32 # India | Karnataka | Digitalocean, LLC
 142.93.217.88/32 # India | Karnataka | Digitalocean, LLC
 142.93.230.95/32 # Netherlands | North Holland | Digitalocean, LLC
-142.111.177.209/32 # United States | New York | HOST TELECOM LTD
-142.111.229.54/32 # United States | New York | HOST TELECOM LTD
-142.111.232.114/32 # United States | New Jersey | HOST TELECOM LTD
-142.111.233.251/32 # United States | New Jersey | HOST TELECOM LTD
-142.111.247.142/32 # United States | New Jersey | HOST TELECOM LTD
-142.252.81.170/32 # United States | California | Clouvider Limited
-142.252.86.105/32 # United States | California | Clouvider Limited
-142.252.110.28/32 # United States | Texas | Clouvider Limited
 143.198.55.171/32 # United States | California | Digitalocean, LLC
 143.198.92.175/32 # Singapore | Southeast | Digitalocean, LLC
 143.198.140.82/32 # United States | California | Digitalocean, LLC
@@ -593,10 +551,14 @@
 154.91.196.185/32 # Hong Kong | Hong Kong | Vh Global Limited
 154.201.68.57/32 # Hong Kong | Hong Kong | High Family Technology Co., Limited
 154.211.89.5/32 # Hong Kong | Hong Kong | Tcloudnet
+154.213.161.36/32 # United States | Virginia | xk Tech GmbH
 154.213.161.210/32 # United States | Virginia | xk Tech GmbH
 154.213.161.216/32 # United States | Virginia | xk Tech GmbH
 154.213.161.240/32 # United States | Virginia | xk Tech GmbH
+154.213.162.22/32 # United States | Virginia | xk Tech GmbH
 154.213.162.144/32 # United States | Virginia | xk Tech GmbH
+154.213.162.186/32 # United States | Virginia | xk Tech GmbH
+154.213.162.205/32 # United States | Virginia | xk Tech GmbH
 154.213.163.167/32 # United States | Virginia | xk Tech GmbH
 154.213.164.212/32 # United States | Virginia | xk Tech GmbH
 154.213.165.136/32 # United States | Virginia | xk Tech GmbH
@@ -613,15 +575,19 @@
 156.228.77.241/32 # United States | Virginia | xk Tech GmbH
 156.228.78.144/32 # United States | Virginia | xk Tech GmbH
 156.228.78.213/32 # United States | Virginia | xk Tech GmbH
+156.228.78.252/32 # United States | Virginia | xk Tech GmbH
 156.228.79.113/32 # United States | Virginia | xk Tech GmbH
 156.228.79.129/32 # United States | Virginia | xk Tech GmbH
 156.228.79.169/32 # United States | Virginia | xk Tech GmbH
 156.228.80.62/32 # United States | Virginia | xk Tech GmbH
 156.228.80.102/32 # United States | Virginia | xk Tech GmbH
 156.228.81.58/32 # United States | Virginia | xk Tech GmbH
+156.228.81.64/32 # United States | Virginia | xk Tech GmbH
 156.228.84.70/32 # United States | Virginia | xk Tech GmbH
 156.228.84.81/32 # United States | Virginia | xk Tech GmbH
 156.228.84.109/32 # United States | Virginia | xk Tech GmbH
+156.228.85.91/32 # United States | Virginia | xk Tech GmbH
+156.228.85.193/32 # United States | Virginia | xk Tech GmbH
 156.228.85.221/32 # United States | Virginia | xk Tech GmbH
 156.228.85.249/32 # United States | Virginia | xk Tech GmbH
 156.228.86.117/32 # United States | Virginia | xk Tech GmbH
@@ -630,9 +596,11 @@
 156.228.87.55/32 # United States | Virginia | xk Tech GmbH
 156.228.87.125/32 # United States | Virginia | xk Tech GmbH
 156.228.87.206/32 # United States | Virginia | xk Tech GmbH
+156.228.89.37/32 # United States | Virginia | xk Tech GmbH
 156.228.89.64/32 # United States | Virginia | xk Tech GmbH
 156.228.91.14/32 # United States | Virginia | xk Tech GmbH
 156.228.91.54/32 # United States | Virginia | xk Tech GmbH
+156.228.91.124/32 # United States | Virginia | xk Tech GmbH
 156.228.92.219/32 # United States | Virginia | xk Tech GmbH
 156.228.93.145/32 # United States | Virginia | xk Tech GmbH
 156.228.93.222/32 # United States | Virginia | xk Tech GmbH
@@ -640,18 +608,25 @@
 156.228.94.13/32 # United States | Virginia | xk Tech GmbH
 156.228.94.87/32 # United States | Virginia | xk Tech GmbH
 156.228.94.171/32 # United States | Virginia | xk Tech GmbH
+156.228.95.246/32 # United States | Virginia | xk Tech GmbH
+156.228.96.86/32 # United States | Virginia | xk Tech GmbH
 156.228.99.25/32 # United States | Virginia | xk Tech GmbH
 156.228.99.86/32 # United States | Virginia | xk Tech GmbH
+156.228.100.46/32 # United States | Virginia | xk Tech GmbH
+156.228.101.106/32 # United States | Virginia | xk Tech GmbH
+156.228.102.95/32 # United States | Virginia | xk Tech GmbH
 156.228.102.207/32 # United States | Virginia | xk Tech GmbH
 156.228.103.156/32 # United States | Virginia | xk Tech GmbH
 156.228.104.236/32 # United States | Virginia | xk Tech GmbH
 156.228.105.8/32 # United States | Virginia | xk Tech GmbH
 156.228.106.35/32 # United States | Virginia | xk Tech GmbH
 156.228.106.132/32 # United States | Virginia | xk Tech GmbH
+156.228.106.175/32 # United States | Virginia | xk Tech GmbH
 156.228.108.113/32 # United States | Virginia | xk Tech GmbH
 156.228.108.153/32 # United States | Virginia | xk Tech GmbH
 156.228.108.160/32 # United States | Virginia | xk Tech GmbH
 156.228.109.151/32 # United States | Virginia | xk Tech GmbH
+156.228.110.202/32 # United States | Virginia | xk Tech GmbH
 156.228.112.50/32 # United States | Virginia | xk Tech GmbH
 156.228.112.157/32 # United States | Virginia | xk Tech GmbH
 156.228.113.58/32 # United States | Virginia | xk Tech GmbH
@@ -662,19 +637,25 @@
 156.228.118.113/32 # United States | Virginia | xk Tech GmbH
 156.228.118.222/32 # United States | Virginia | xk Tech GmbH
 156.228.119.52/32 # United States | Virginia | xk Tech GmbH
+156.242.33.42/32 # United States | Virginia | xk Tech GmbH
 156.242.33.125/32 # United States | Virginia | xk Tech GmbH
 156.242.35.232/32 # United States | Virginia | xk Tech GmbH
 156.242.37.51/32 # United States | Virginia | xk Tech GmbH
 156.242.37.230/32 # United States | Virginia | xk Tech GmbH
 156.242.38.34/32 # United States | Virginia | xk Tech GmbH
+156.242.38.69/32 # United States | Virginia | xk Tech GmbH
 156.242.38.102/32 # United States | Virginia | xk Tech GmbH
 156.242.39.76/32 # United States | District of Columbia | xk Tech GmbH
 156.242.41.231/32 # United States | Virginia | xk Tech GmbH
 156.242.42.15/32 # United States | Virginia | xk Tech GmbH
+156.242.42.38/32 # United States | Virginia | xk Tech GmbH
+156.242.42.158/32 # United States | Virginia | xk Tech GmbH
 156.242.42.242/32 # United States | Virginia | xk Tech GmbH
 156.242.43.95/32 # United States | Virginia | xk Tech GmbH
 156.242.43.157/32 # United States | Virginia | xk Tech GmbH
 156.242.44.60/32 # United States | Virginia | xk Tech GmbH
+156.242.45.115/32 # United States | Virginia | xk Tech GmbH
+156.242.45.132/32 # United States | Virginia | xk Tech GmbH
 156.242.45.184/32 # United States | Virginia | xk Tech GmbH
 156.242.45.244/32 # United States | Virginia | xk Tech GmbH
 156.242.46.39/32 # United States | Virginia | xk Tech GmbH
@@ -692,10 +673,8 @@
 156.248.84.224/32 # United States | District of Columbia | xk Tech GmbH
 156.248.85.132/32 # United States | District of Columbia | xk Tech GmbH
 157.173.104.153/32 # Germany | North Rhine-Westphalia | Contabo GmbH
-157.230.113.43/32 # Germany | Hesse | Digitalocean, LLC
 157.230.165.130/32 # United States | California | Digitalocean, LLC
 157.230.186.70/32 # United States | New Jersey | Digitalocean, LLC
-157.230.204.200/32 # United States | California | Digitalocean, LLC
 157.230.251.210/32 # Singapore | Southeast | Digitalocean, LLC
 157.245.34.155/32 # United Kingdom | England | Digitalocean, LLC
 157.245.60.6/32 # Singapore | Southeast | Digitalocean, LLC
@@ -707,11 +686,9 @@
 158.247.224.100/32 # Republic of Korea |  | The Constant Company, LLC
 159.65.27.60/32 # United Kingdom | England | Digitalocean, LLC
 159.65.76.31/32 # United States | California | Digitalocean, LLC
-159.65.109.150/32 # United States | California | Digitalocean, LLC
 159.65.112.126/32 # Germany | Hesse | Digitalocean, LLC
 159.65.131.142/32 # Singapore | Southeast | Digitalocean, LLC
 159.65.155.116/32 # India | Karnataka | Digitalocean, LLC
-159.89.115.34/32 # Canada | Ontario | Digitalocean, LLC
 159.89.119.200/32 # Canada | Saskatchewan | Digitalocean, LLC
 159.89.120.43/32 # Canada | Ontario | Digitalocean, LLC
 159.89.156.205/32 # United States | California | Digitalocean, LLC
@@ -765,14 +742,9 @@
 165.232.105.142/32 # United Kingdom | England | Digitalocean, LLC
 165.232.170.158/32 # Singapore | Southeast | Digitalocean, LLC
 165.232.182.55/32 # India | Karnataka | Digitalocean, LLC
-166.1.115.118/32 # United States | Virginia | Clouvider Limited
-166.1.149.155/32 # United States | New York | Clouvider Limited
 166.1.173.65/32 # United States | Illinois | Atomic Networks LLC
-166.88.143.160/32 # United States | New Jersey | HOST TELECOM LTD
-166.88.156.113/32 # United States | New York | Clouvider Limited
 166.88.182.65/32 # United States | Illinois | Baxet Group Inc.
 166.88.182.126/32 # United States | Illinois | Baxet Group Inc.
-166.88.215.62/32 # United States | California | HOST TELECOM LTD
 167.57.138.19/32 # Uruguay | Colonia | Administracion Nacional De Telecomunic...
 167.71.13.186/32 # Netherlands | North Holland | Digitalocean, LLC
 167.71.25.6/32 # United States | New Jersey | Digitalocean, LLC
@@ -781,16 +753,12 @@
 167.71.214.87/32 # Singapore | Southeast | Digitalocean, LLC
 167.88.160.55/32 # United States | Texas | Routerhosting LLC
 167.88.160.164/32 # United States | Texas | Routerhosting LLC
-167.88.160.197/32 # United States | Texas | Routerhosting LLC
 167.88.164.79/32 # United States | Texas | Routerhosting LLC
 167.88.164.98/32 # United States | Texas | Routerhosting LLC
-167.88.165.49/32 # United States | Texas | Routerhosting LLC
 167.88.166.12/32 # United States | Texas | Routerhosting LLC
 167.88.166.27/32 # United States | Texas | Routerhosting LLC
 167.88.166.35/32 # United States | Texas | Routerhosting LLC
 167.88.166.40/32 # United States | Texas | Routerhosting LLC
-167.88.169.2/32 # United States | Texas | Routerhosting LLC
-167.88.169.7/32 # United States | Texas | Routerhosting LLC
 167.88.170.231/32 # United States | Texas | Routerhosting LLC
 167.99.99.238/32 # United States | California | Digitalocean, LLC
 167.99.133.174/32 # Germany | Hesse | Digitalocean, LLC
@@ -811,28 +779,19 @@
 170.64.210.38/32 # Australia | New South Wales | Digitalocean, LLC
 172.86.64.3/32 # United States | Texas | Routerhosting LLC
 172.86.64.39/32 # United States | Texas | Routerhosting LLC
-172.86.64.182/32 # United States | Texas | Routerhosting LLC
-172.86.72.71/32 # United States | Texas | Routerhosting LLC
 172.86.84.17/32 # United States | Texas | Routerhosting LLC
 172.86.84.50/32 # United States | Texas | Routerhosting LLC
-172.86.88.168/32 # United States | Texas | Routerhosting LLC
-172.86.89.153/32 # United States | Texas | Routerhosting LLC
 172.86.96.245/32 # United States | New York | Routerhosting LLC
 172.86.105.129/32 # United States | New York | Routerhosting LLC
 172.86.112.33/32 # United States | Texas | Routerhosting LLC
 172.86.112.68/32 # United States | Texas | Routerhosting LLC
-172.86.112.168/32 # United States | Texas | Routerhosting LLC
 172.86.114.78/32 # United States | Texas | Routerhosting LLC
 172.86.114.87/32 # United States | Texas | Routerhosting LLC
 172.86.114.149/32 # United States | Texas | Routerhosting LLC
-172.86.114.155/32 # United States | Texas | Routerhosting LLC
-172.86.115.48/32 # United States | Texas | Routerhosting LLC
 172.86.115.114/32 # United States | Texas | Routerhosting LLC
 172.86.115.142/32 # United States | Texas | Routerhosting LLC
 172.86.116.38/32 # United States | Texas | Routerhosting LLC
 172.86.116.70/32 # United States | Texas | Routerhosting LLC
-172.86.116.170/32 # United States | Texas | Routerhosting LLC
-172.86.116.196/32 # United States | Texas | Routerhosting LLC
 172.86.123.23/32 # United States | Texas | Routerhosting LLC
 172.86.123.96/32 # United States | Texas | Routerhosting LLC
 172.86.123.127/32 # United States | Texas | Routerhosting LLC
@@ -844,9 +803,6 @@
 172.96.137.224/32 # United States | Texas | Shock Hosting LLC
 172.98.71.191/32 # Canada | Québec | Performive LLC
 172.104.68.157/32 # Japan | Tokyo | Akamai Technologies, Inc.
-172.120.48.29/32 # United States | Nevada | Clouvider Limited
-172.120.81.134/32 # United States | California | HOST TELECOM LTD
-172.120.190.232/32 # United States | Illinois | HOST TELECOM LTD
 173.44.141.226/32 # United States | Florida | Eonix Corporation
 173.239.232.20/32 # United States | Colorado | Performive LLC
 173.254.204.72/32 # United States | California | HostPapa
@@ -857,24 +813,15 @@
 175.165.157.50/32 # China | Liaoning | China Unicom China1 Backbone
 175.218.20.74/32 # Republic of Korea | Gyeonggi | Korea Telecom
 176.65.137.44/32 # Germany | Lower Saxony | Noel Nayasha Materke
-176.100.131.8/32 # United States | New York | Clouvider Limited
-176.100.146.75/32 # United States | New York | GREEN FLOID LLC
-176.106.136.35/32 # United States | District of Columbia | Clouvider Limited
-176.106.137.213/32 # United States | District of Columbia | Clouvider Limited
-176.106.139.60/32 # United States | District of Columbia | Clouvider Limited
-176.123.186.115/32 # United States | Arizona | Clouvider Limited
-176.123.187.229/32 # United States | Arizona | Clouvider Limited
 176.125.230.26/32 # Malta | Northern Region | M Europe SRL
 178.62.55.106/32 # United Kingdom | England | Digitalocean, LLC
 178.128.34.221/32 # United Kingdom | England | Digitalocean, LLC
-178.128.75.19/32 # United States | California | Digitalocean, LLC
 178.128.115.72/32 # Singapore | Southwest | Digitalocean, LLC
 178.128.156.79/32 # United States | New Jersey | Digitalocean, LLC
 178.128.187.105/32 # United States | California | Digitalocean, LLC
 178.128.221.110/32 # Singapore | Southeast | Digitalocean, LLC
 178.128.231.239/32 # Canada | Ontario | Digitalocean, LLC
 178.128.233.213/32 # Canada | Ontario | Digitalocean, LLC
-178.128.244.100/32 # Netherlands | North Holland | Digitalocean, LLC
 178.159.93.120/32 # Russia | Moscow | Clouvider Limited
 178.175.134.52/32 # Republic of Moldova | Chisinau | Trabia SRL
 178.209.51.222/32 # Switzerland | Zurich | Nine Internet Solutions AG
@@ -947,8 +894,6 @@
 192.3.153.18/32 # United States | New York | HostPapa
 192.81.131.228/32 # United States | California | Akamai Technologies, Inc.
 192.99.36.141/32 # Canada | Québec | OVH SAS
-192.177.18.207/32 # United States | Nevada | Clouvider Limited
-192.177.45.246/32 # United States | Pennsylvania | Clouvider Limited
 193.46.255.77/32 # Romania | Bucharest | UNMANAGED LTD
 193.124.24.117/32 # United States | Delaware | Baxet Group Inc.
 193.124.33.71/32 # Russia | Moscow | Baykov Ilya Sergeevich
@@ -1032,7 +977,6 @@
 212.56.35.232/32 # United States | New Jersey | Nubes, LLC
 212.102.39.212/32 # Czech Republic | Prague | Datacamp Limited
 212.102.57.29/32 # Germany | Hesse | Datacamp Limited
-212.192.251.142/32 # United States | New York | Clouvider Limited
 212.237.217.182/32 # Finland | Mainland Finland | HOSTKEY B.V.
 216.126.224.30/32 # United States | Wyoming | Routerhosting LLC
 216.126.224.36/32 # United States | Wyoming | Routerhosting LLC
@@ -1059,7 +1003,6 @@
 220.167.104.23/32 # China | Sichuan | Chinanet Sichuan Telecom Internet Data C...
 222.127.214.87/32 # Philippines | Metro Manila | Globe Telecom Inc.
 222.136.22.162/32 # China | Henan | China Unicom China1 Backbone
-222.137.202.159/32 # China | Henan | China Unicom China1 Backbone
 222.219.183.84/32 # China | Yunnan | No. 1,jin rong Street
 223.109.64.160/32 # China | Chongqing | China Mobile Communications Corporation
 223.152.110.90/32 # China | Hunan | No. 1,jin rong Street
