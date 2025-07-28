@@ -13,6 +13,7 @@
 154.213.161.0/24 # United States | Virginia | xk Tech GmbH
 154.213.162.0/24 # United States | Virginia | xk Tech GmbH
 154.213.165.0/24 # United States | Virginia | xk Tech GmbH
+154.214.1.0/24 # United States | Virginia | xk Tech GmbH
 156.228.77.0/24 # United States | Virginia | xk Tech GmbH
 156.228.78.0/24 # United States | Virginia | xk Tech GmbH
 156.228.79.0/24 # United States | Virginia | xk Tech GmbH
@@ -20,6 +21,8 @@
 156.228.87.0/24 # United States | Virginia | xk Tech GmbH
 156.228.91.0/24 # United States | Virginia | xk Tech GmbH
 156.228.92.0/24 # United States | Virginia | xk Tech GmbH
+156.228.99.0/24 # United States | Virginia | xk Tech GmbH
+156.228.107.0/24 # United States | Virginia | xk Tech GmbH
 156.228.118.0/24 # United States | Virginia | xk Tech GmbH
 156.242.42.0/24 # United States | Virginia | xk Tech GmbH
 156.242.45.0/24 # United States | Virginia | xk Tech GmbH
@@ -577,10 +580,7 @@
 154.213.167.14/32 # United States | Virginia | xk Tech GmbH
 154.213.167.32/32 # United States | Virginia | xk Tech GmbH
 154.213.167.210/32 # United States | Virginia | xk Tech GmbH
-154.214.1.71/32 # United States | Virginia | xk Tech GmbH
-154.214.1.93/32 # United States | Virginia | xk Tech GmbH
-154.214.1.170/32 # United States | Virginia | xk Tech GmbH
-154.214.1.200/32 # United States | Virginia | xk Tech GmbH
+154.213.167.211/32 # United States | Virginia | xk Tech GmbH
 154.216.16.111/32 # Republic of Lithuania | Vilnius County | Larus Limited
 156.146.60.74/32 # Austria | Vienna | Datacamp Limited
 156.228.76.181/32 # United States | Virginia | xk Tech GmbH
@@ -601,6 +601,7 @@
 156.228.86.117/32 # United States | Virginia | xk Tech GmbH
 156.228.86.138/32 # United States | Virginia | xk Tech GmbH
 156.228.86.149/32 # United States | Virginia | xk Tech GmbH
+156.228.88.201/32 # United States | Virginia | xk Tech GmbH
 156.228.89.37/32 # United States | Virginia | xk Tech GmbH
 156.228.89.50/32 # United States | Virginia | xk Tech GmbH
 156.228.89.64/32 # United States | Virginia | xk Tech GmbH
@@ -613,16 +614,16 @@
 156.228.94.87/32 # United States | Virginia | xk Tech GmbH
 156.228.94.171/32 # United States | Virginia | xk Tech GmbH
 156.228.95.153/32 # United States | Virginia | xk Tech GmbH
+156.228.95.177/32 # United States | Virginia | xk Tech GmbH
 156.228.95.246/32 # United States | Virginia | xk Tech GmbH
 156.228.96.86/32 # United States | Virginia | xk Tech GmbH
 156.228.97.45/32 # United States | Virginia | xk Tech GmbH
 156.228.97.202/32 # United States | Virginia | xk Tech GmbH
 156.228.98.0/32 # United States | Virginia | xk Tech GmbH
+156.228.98.107/32 # United States | Virginia | xk Tech GmbH
 156.228.98.115/32 # United States | Virginia | xk Tech GmbH
-156.228.99.25/32 # United States | Virginia | xk Tech GmbH
-156.228.99.46/32 # United States | Virginia | xk Tech GmbH
-156.228.99.86/32 # United States | Virginia | xk Tech GmbH
 156.228.100.46/32 # United States | Virginia | xk Tech GmbH
+156.228.100.126/32 # United States | Virginia | xk Tech GmbH
 156.228.100.145/32 # United States | Virginia | xk Tech GmbH
 156.228.100.186/32 # United States | Virginia | xk Tech GmbH
 156.228.101.106/32 # United States | Virginia | xk Tech GmbH
@@ -639,10 +640,6 @@
 156.228.106.132/32 # United States | Virginia | xk Tech GmbH
 156.228.106.161/32 # United States | Virginia | xk Tech GmbH
 156.228.106.175/32 # United States | Virginia | xk Tech GmbH
-156.228.107.48/32 # United States | Virginia | xk Tech GmbH
-156.228.107.102/32 # United States | Virginia | xk Tech GmbH
-156.228.107.176/32 # United States | Virginia | xk Tech GmbH
-156.228.107.211/32 # United States | Virginia | xk Tech GmbH
 156.228.108.93/32 # United States | Virginia | xk Tech GmbH
 156.228.108.113/32 # United States | Virginia | xk Tech GmbH
 156.228.108.153/32 # United States | Virginia | xk Tech GmbH
@@ -651,10 +648,12 @@
 156.228.110.8/32 # United States | Virginia | xk Tech GmbH
 156.228.110.136/32 # United States | Virginia | xk Tech GmbH
 156.228.110.202/32 # United States | Virginia | xk Tech GmbH
+156.228.110.205/32 # United States | Virginia | xk Tech GmbH
 156.228.111.29/32 # United States | Virginia | xk Tech GmbH
 156.228.111.203/32 # United States | Virginia | xk Tech GmbH
 156.228.112.50/32 # United States | Virginia | xk Tech GmbH
 156.228.112.157/32 # United States | Virginia | xk Tech GmbH
+156.228.112.218/32 # United States | Virginia | xk Tech GmbH
 156.228.113.58/32 # United States | Virginia | xk Tech GmbH
 156.228.113.129/32 # United States | Virginia | xk Tech GmbH
 156.228.113.180/32 # United States | Virginia | xk Tech GmbH
@@ -683,14 +682,18 @@
 156.242.35.232/32 # United States | Virginia | xk Tech GmbH
 156.242.36.44/32 # United States | Virginia | xk Tech GmbH
 156.242.36.236/32 # United States | Virginia | xk Tech GmbH
+156.242.37.19/32 # United States | Virginia | xk Tech GmbH
 156.242.37.51/32 # United States | Virginia | xk Tech GmbH
 156.242.37.230/32 # United States | Virginia | xk Tech GmbH
+156.242.37.232/32 # United States | Virginia | xk Tech GmbH
 156.242.38.34/32 # United States | Virginia | xk Tech GmbH
 156.242.38.69/32 # United States | Virginia | xk Tech GmbH
 156.242.38.102/32 # United States | Virginia | xk Tech GmbH
+156.242.38.171/32 # United States | Virginia | xk Tech GmbH
 156.242.39.76/32 # United States | District of Columbia | xk Tech GmbH
 156.242.39.130/32 # United States | District of Columbia | xk Tech GmbH
 156.242.39.186/32 # United States | District of Columbia | xk Tech GmbH
+156.242.39.193/32 # United States | District of Columbia | xk Tech GmbH
 156.242.40.42/32 # United States | Virginia | xk Tech GmbH
 156.242.40.103/32 # United States | Virginia | xk Tech GmbH
 156.242.41.143/32 # United States | Virginia | xk Tech GmbH
@@ -711,11 +714,14 @@
 156.248.82.130/32 # United States | Virginia | xk Tech GmbH
 156.248.82.166/32 # United States | Virginia | xk Tech GmbH
 156.248.83.15/32 # United States | Virginia | xk Tech GmbH
+156.248.83.47/32 # United States | Virginia | xk Tech GmbH
 156.248.83.180/32 # United States | Virginia | xk Tech GmbH
 156.248.83.190/32 # United States | Virginia | xk Tech GmbH
 156.248.84.72/32 # United States | District of Columbia | xk Tech GmbH
 156.248.84.161/32 # United States | District of Columbia | xk Tech GmbH
 156.248.84.224/32 # United States | District of Columbia | xk Tech GmbH
+156.248.85.1/32 # United States | District of Columbia | xk Tech GmbH
+156.248.85.4/32 # United States | District of Columbia | xk Tech GmbH
 156.248.85.122/32 # United States | District of Columbia | xk Tech GmbH
 156.248.85.132/32 # United States | District of Columbia | xk Tech GmbH
 156.248.86.84/32 # United States | District of Columbia | xk Tech GmbH
@@ -737,6 +743,7 @@
 159.65.112.126/32 # Germany | Hesse | Digitalocean, LLC
 159.65.131.142/32 # Singapore | Southeast | Digitalocean, LLC
 159.65.155.116/32 # India | Karnataka | Digitalocean, LLC
+159.89.13.116/32 # Germany | Hesse | Digitalocean, LLC
 159.89.119.200/32 # Canada | Saskatchewan | Digitalocean, LLC
 159.89.120.43/32 # Canada | Ontario | Digitalocean, LLC
 159.89.156.205/32 # United States | California | Digitalocean, LLC
