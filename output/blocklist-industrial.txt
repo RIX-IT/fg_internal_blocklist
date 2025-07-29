@@ -47,10 +47,13 @@
 156.242.40.0/24 # United States | Virginia | xk Tech GmbH
 156.242.41.0/24 # United States | Virginia | xk Tech GmbH
 156.242.42.0/24 # United States | Virginia | xk Tech GmbH
+156.242.44.0/24 # United States | Virginia | xk Tech GmbH
 156.242.45.0/24 # United States | Virginia | xk Tech GmbH
 156.242.46.0/24 # United States | Virginia | xk Tech GmbH
 156.248.81.0/24 # United States | Virginia | xk Tech GmbH
 156.248.83.0/24 # United States | Virginia | xk Tech GmbH
+156.248.84.0/24 # United States | District of Columbia | xk Tech GmbH
+156.248.85.0/24 # United States | District of Columbia | xk Tech GmbH
 167.88.168.0/24 # United States | Texas | Routerhosting LLC
 172.86.113.0/24 # United States | Texas | Routerhosting LLC
 172.86.117.0/24 # United States | Texas | Routerhosting LLC
@@ -231,7 +234,6 @@
 64.225.96.12/32 # Germany | Hesse | Digitalocean, LLC
 64.227.17.105/32 # United States | New Jersey | Digitalocean, LLC
 64.227.17.193/32 # United States | New Jersey | Digitalocean, LLC
-64.227.40.208/32 # United Kingdom | England | Digitalocean, LLC
 64.227.64.158/32 # Netherlands | North Holland | Digitalocean, LLC
 64.227.84.71/32 # United States | California | Digitalocean, LLC
 64.227.169.91/32 # India | Karnataka | Digitalocean, LLC
@@ -245,7 +247,6 @@
 67.205.185.247/32 # United States | New Jersey | Digitalocean, LLC
 68.183.151.154/32 # United States | New Jersey | Digitalocean, LLC
 68.183.168.223/32 # United States | California | Digitalocean, LLC
-68.183.195.43/32 # Canada | Ontario | Digitalocean, LLC
 68.183.195.202/32 # Canada | Ontario | Digitalocean, LLC
 68.183.197.203/32 # Canada | Ontario | Digitalocean, LLC
 69.55.62.10/32 # United States | New Jersey | Digitalocean, LLC
@@ -289,6 +290,7 @@
 85.209.87.207/32 # United States | Missouri | Unreal Servers, LLC
 86.54.42.120/32 # Switzerland | Bern | Global data System IT Corporation
 87.120.125.55/32 # Bulgaria | Sofia-city | Internet Assigned Numbers Authority
+87.121.84.75/32 # Netherlands | North Holland | VPSVAULT.HOST LTD
 87.251.67.58/32 # Russia | Moscow | Kontel LLC
 87.251.67.179/32 # Russia | Moscow | Kontel LLC
 88.119.175.65/32 # United States | Illinois | Informacines Sistemos Ir Techno...
@@ -472,7 +474,6 @@
 117.253.70.233/32 # India | Andaman and Nicobar Islands | Bharat Sanchar Nigam...
 118.107.44.219/32 # Hong Kong | Hong Kong | Ctg Server Limited
 119.45.133.112/32 # China | Jiangsu | Shenzhen Tencent Computer Systems Compan...
-119.115.67.72/32 # China | Liaoning | China Unicom China1 Backbone
 119.147.213.48/32 # China | Guangdong Province | No. 1,jin rong Street
 119.200.13.201/32 # Republic of Korea | Gwangju | Korea Telecom
 120.28.201.138/32 # Philippines | Maguindanao | Globe Telecom Inc.
@@ -484,6 +485,7 @@
 122.97.136.172/32 # China | Jiangsu | China Unicom China1 Backbone
 124.156.48.83/32 # India | Maharashtra | Shenzhen Tencent Computer Systems Co...
 124.204.132.8/32 # China | Beijing | China Unicom Beijing Province Network
+124.218.87.180/32 # Taiwan | Keelung City | Asia Pacific On line Service Inc.
 124.223.37.211/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
 125.44.177.137/32 # China | Henan | China Unicom China1 Backbone
 125.44.211.65/32 # China | Henan | China Unicom China1 Backbone
@@ -515,11 +517,9 @@
 138.197.106.149/32 # United States | New Jersey | Digitalocean, LLC
 138.197.121.97/32 # United States | New Jersey | Digitalocean, LLC
 138.197.171.168/32 # Canada | Ontario | Digitalocean, LLC
-139.5.1.176/32 # India | Chandigarh | Railtel Corporation of India Ltd.
 139.5.10.179/32 # India | Chhattisgarh | Railtel Corporation of India Ltd.
 139.9.176.173/32 # China | Guangdong Province | Huawei Cloud Service Data Center
 139.59.108.43/32 # Singapore | Southeast | Digitalocean, LLC
-139.59.147.103/32 # Germany | Hesse | Digitalocean, LLC
 139.59.170.12/32 # United Kingdom | England | Digitalocean, LLC
 139.59.180.173/32 # United Kingdom | England | Digitalocean, LLC
 139.59.236.31/32 # Singapore | Southeast | Digitalocean, LLC
@@ -573,7 +573,6 @@
 151.236.16.167/32 # United States | California | M Europe SRL
 151.236.17.180/32 # Germany | Hesse | M Europe SRL
 152.42.165.21/32 # Singapore | Southeast | Digitalocean, LLC
-152.42.171.6/32 # Singapore | Southeast | Digitalocean, LLC
 153.230.121.108/32 # Japan | Niigata Prefecture | NTT Communications Corporation
 154.6.13.139/32 # Germany | Hesse | Securelink Networks Ou
 154.6.13.144/32 # Germany | Hesse | Securelink Networks Ou
@@ -611,6 +610,7 @@
 156.228.76.213/32 # United States | Virginia | xk Tech GmbH
 156.228.76.236/32 # United States | Virginia | xk Tech GmbH
 156.228.80.62/32 # United States | Virginia | xk Tech GmbH
+156.228.80.82/32 # United States | Virginia | xk Tech GmbH
 156.228.80.102/32 # United States | Virginia | xk Tech GmbH
 156.228.80.108/32 # United States | Virginia | xk Tech GmbH
 156.228.82.27/32 # United States | Virginia | xk Tech GmbH
@@ -618,6 +618,7 @@
 156.228.82.223/32 # United States | Virginia | xk Tech GmbH
 156.228.83.65/32 # United States | Virginia | xk Tech GmbH
 156.228.83.110/32 # United States | Virginia | xk Tech GmbH
+156.228.83.196/32 # United States | Virginia | xk Tech GmbH
 156.228.83.225/32 # United States | Virginia | xk Tech GmbH
 156.228.84.70/32 # United States | Virginia | xk Tech GmbH
 156.228.84.81/32 # United States | Virginia | xk Tech GmbH
@@ -636,6 +637,7 @@
 156.228.97.250/32 # United States | Virginia | xk Tech GmbH
 156.228.101.85/32 # United States | Virginia | xk Tech GmbH
 156.228.101.106/32 # United States | Virginia | xk Tech GmbH
+156.228.101.255/32 # United States | Virginia | xk Tech GmbH
 156.228.102.95/32 # United States | Virginia | xk Tech GmbH
 156.228.102.107/32 # United States | Virginia | xk Tech GmbH
 156.228.102.111/32 # United States | Virginia | xk Tech GmbH
@@ -664,9 +666,11 @@
 156.228.114.224/32 # United States | Virginia | xk Tech GmbH
 156.228.114.244/32 # United States | Virginia | xk Tech GmbH
 156.228.115.37/32 # United States | Virginia | xk Tech GmbH
+156.228.115.42/32 # United States | Virginia | xk Tech GmbH
 156.228.117.85/32 # United States | Virginia | xk Tech GmbH
 156.228.117.98/32 # United States | Virginia | xk Tech GmbH
 156.228.117.153/32 # United States | Virginia | xk Tech GmbH
+156.228.117.236/32 # United States | Virginia | xk Tech GmbH
 156.228.124.22/32 # United States | Virginia | xk Tech GmbH
 156.228.124.68/32 # United States | Virginia | xk Tech GmbH
 156.228.124.156/32 # United States | Virginia | xk Tech GmbH
@@ -684,10 +688,6 @@
 156.242.43.95/32 # United States | Virginia | xk Tech GmbH
 156.242.43.103/32 # United States | Virginia | xk Tech GmbH
 156.242.43.157/32 # United States | Virginia | xk Tech GmbH
-156.242.44.8/32 # United States | Virginia | xk Tech GmbH
-156.242.44.60/32 # United States | Virginia | xk Tech GmbH
-156.242.44.106/32 # United States | Virginia | xk Tech GmbH
-156.242.44.161/32 # United States | Virginia | xk Tech GmbH
 156.242.47.87/32 # United States | Virginia | xk Tech GmbH
 156.242.47.92/32 # United States | Virginia | xk Tech GmbH
 156.242.47.147/32 # United States | Virginia | xk Tech GmbH
@@ -696,14 +696,6 @@
 156.248.82.85/32 # United States | Virginia | xk Tech GmbH
 156.248.82.130/32 # United States | Virginia | xk Tech GmbH
 156.248.82.166/32 # United States | Virginia | xk Tech GmbH
-156.248.84.22/32 # United States | District of Columbia | xk Tech GmbH
-156.248.84.72/32 # United States | District of Columbia | xk Tech GmbH
-156.248.84.161/32 # United States | District of Columbia | xk Tech GmbH
-156.248.84.224/32 # United States | District of Columbia | xk Tech GmbH
-156.248.85.1/32 # United States | District of Columbia | xk Tech GmbH
-156.248.85.4/32 # United States | District of Columbia | xk Tech GmbH
-156.248.85.122/32 # United States | District of Columbia | xk Tech GmbH
-156.248.85.132/32 # United States | District of Columbia | xk Tech GmbH
 156.248.86.66/32 # United States | District of Columbia | xk Tech GmbH
 156.248.86.84/32 # United States | District of Columbia | xk Tech GmbH
 156.248.86.130/32 # United States | District of Columbia | xk Tech GmbH
@@ -802,7 +794,6 @@
 167.99.99.238/32 # United States | California | Digitalocean, LLC
 167.99.133.174/32 # Germany | Hesse | Digitalocean, LLC
 167.99.169.172/32 # United States | California | Digitalocean, LLC
-167.99.186.88/32 # Canada | Ontario | Digitalocean, LLC
 167.99.187.242/32 # Canada | Ontario | Digitalocean, LLC
 167.99.188.160/32 # Canada | Ontario | Digitalocean, LLC
 167.99.202.130/32 # United Kingdom | England | Digitalocean, LLC
@@ -917,7 +908,6 @@
 188.150.21.103/32 # Sweden | Stockholm County | Tele Sverige Ab
 188.166.6.13/32 # Netherlands | North Holland | Digitalocean, LLC
 188.166.87.88/32 # Netherlands | North Holland | Digitalocean, LLC
-188.166.156.97/32 # United Kingdom | England | Digitalocean, LLC
 188.166.170.32/32 # United Kingdom | England | Digitalocean, LLC
 190.80.88.225/32 # Guyana | Demerara-Mahaica | Guyana Telephone Telegraph Co.
 190.123.195.139/32 # Brazil | Santa Catarina | C A DE SOUZA EPP
@@ -986,7 +976,6 @@
 206.188.196.20/32 # Netherlands | North Holland | Bl Networks
 206.188.196.28/32 # Netherlands | North Holland | Bl Networks
 206.188.197.52/32 # Netherlands | North Holland | Bl Networks
-206.189.36.205/32 # Singapore | Southeast | Digitalocean, LLC
 206.189.162.127/32 # United States | California | Digitalocean, LLC
 206.189.181.72/32 # United States | New Jersey | Digitalocean, LLC
 206.189.222.14/32 # United States | California | Digitalocean, LLC
@@ -1000,13 +989,11 @@
 207.90.236.231/32 # United States | Georgia | Baxet Group Inc.
 207.90.238.46/32 # United States | New York | Baxet Group Inc.
 207.90.238.52/32 # United States | New York | Baxet Group Inc.
-207.154.217.213/32 # Germany | Hesse | Digitalocean, LLC
 207.174.31.92/32 # United States | Georgia | Baxet Group Inc.
 207.174.31.215/32 # United States | Georgia | Baxet Group Inc.
 208.109.231.95/32 # United States | Arizona | Godaddy.com, LLC
 209.38.43.105/32 # Netherlands | North Holland | Digitalocean, LLC
 209.38.69.166/32 # United States | California | Digitalocean, LLC
-209.38.93.197/32 # Australia | New South Wales | Digitalocean, LLC
 209.38.107.142/32 # Netherlands | South Holland | Digitalocean, LLC
 209.38.194.116/32 # Germany | Hesse | Digitalocean, LLC
 209.97.167.243/32 # Singapore | Southeast | Digitalocean, LLC
@@ -1047,5 +1034,4 @@
 222.136.22.162/32 # China | Henan | China Unicom China1 Backbone
 222.219.183.84/32 # China | Yunnan | No. 1,jin rong Street
 223.109.64.160/32 # China | Chongqing | China Mobile Communications Corporation
-223.152.110.90/32 # China | Hunan | No. 1,jin rong Street
 223.184.254.150/32 # India | Rajasthan | Bharti Airtel Limited
