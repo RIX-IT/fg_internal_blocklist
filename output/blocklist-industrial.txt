@@ -112,7 +112,6 @@
 27.124.37.64/32 # Japan | Tokyo | Ctg Server Limited
 31.41.244.10/32 # Russia | Saint Petersburg | Cat Technologies Co. Limited
 31.41.244.11/32 # Russia | Saint Petersburg | Cat Technologies Co. Limited
-31.58.58.15/32 # Germany | Hesse | Alexandru Vlad Trading AS Freakhosting
 31.177.109.39/32 # Russia | Moscow | LLC Smart Ape
 31.192.107.157/32 # Russia | Moscow | HOSTKEY B.V.
 34.61.200.116/32 # United States | Iowa | Google LLC
@@ -175,6 +174,7 @@
 45.128.149.32/32 # United States | California | GREEN FLOID LLC
 45.129.185.24/32 # Armenia | Yerevan | GLOBAL CONNECTIVITY SOLUTIONS LLP
 45.131.179.24/32 # Hong Kong | Hong Kong | XNNET LLC
+45.133.172.68/32 # United Kingdom | England | Cogent Communications
 45.141.84.45/32 # Russia | Moscow | Media Land LLC
 45.141.87.11/32 # Russia | Saint Petersburg | Media Land LLC
 45.144.53.145/32 # Finland | Mainland Finland | H NEXUS LTD
@@ -239,7 +239,6 @@
 68.183.195.202/32 # Canada | Ontario | Digitalocean, LLC
 68.183.197.203/32 # Canada | Ontario | Digitalocean, LLC
 68.235.46.38/32 # United States | Illinois | Tzulo, Inc.
-68.235.46.89/32 # United States | Illinois | Tzulo, Inc.
 68.235.46.196/32 # United States | Illinois | Tzulo, Inc.
 69.5.13.32/32 # Indonesia | Special Region of Yogyakarta | Byteplus Pte. Ltd.
 69.5.15.194/32 # Indonesia | Special Region of Yogyakarta | Byteplus Pte. Ltd.
@@ -353,7 +352,6 @@
 94.156.152.65/32 # South Africa | Gauteng | Internet Magnate pty LTD
 94.232.249.36/32 # Netherlands | North Holland | PSB HOSTING LTD
 95.164.68.24/32 # Germany | Hesse | STARK INDUSTRIES SOLUTIONS LTD
-95.165.104.92/32 # Russia | Moscow | Pjsc Moscow City Telephone Network
 95.169.180.122/32 # United States | Illinois | Latitude.sh LTDA
 95.181.234.12/32 # Qatar | Doha | M Europe SRL
 95.181.234.15/32 # Qatar | Doha | M Europe SRL
@@ -400,6 +398,7 @@
 103.85.25.166/32 # Hong Kong | Hong Kong | Starry Network Limited
 103.91.64.214/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
 103.110.16.85/32 # India | Delhi | Mynext Broadband Services Pvt LTD
+103.141.138.121/32 # Vietnam | Hanoi | VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 103.151.122.207/32 # Vietnam | Hung Yen Province | VIETNAM POSTS AND TELECOMMUN...
 103.152.159.155/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.152.159.209/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
@@ -407,7 +406,7 @@
 103.157.52.207/32 # India | Delhi | Iforce Networks
 103.159.133.205/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
 103.159.133.251/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
-103.160.197.144/32 # India | Uttar Pradesh | Bharat Digital Network Private Lim...
+103.167.204.150/32 # India | Haryana | Fibre Air Services Private Limited
 103.168.2.116/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.168.2.136/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.180.213.200/32 # India | Delhi | WEBYNE DATA CENTRE PRIVATE LIMITED
@@ -439,7 +438,6 @@
 109.205.213.203/32 # United States | New Jersey | Interserver, INC
 109.236.80.191/32 # Netherlands | South Holland | Worldstream B.V.
 110.45.186.8/32 # Republic of Korea | Gyeonggi | Lg Dacom Corporation
-111.55.74.143/32 # China | Jiangsu | China Mobile Communications Corporation
 112.51.253.153/32 # China | Fujian | China Mobile
 112.94.98.167/32 # China | Guangdong Province | China Unicom CHINA1 Guangdong...
 112.132.218.45/32 # China | Anhui | China Unicom China1 Backbone
@@ -492,7 +490,6 @@
 128.127.180.156/32 # Belgium | Walloon Brabant | VERIXI SA
 128.199.41.94/32 # Netherlands | North Holland | Digitalocean, LLC
 128.199.44.237/32 # Netherlands | North Holland | Digitalocean, LLC
-128.199.97.5/32 # Singapore | Southeast | Digitalocean, LLC
 128.199.134.3/32 # Singapore | Southeast | Digitalocean, LLC
 128.254.146.183/32 # United States | Texas | Baxet Group Inc.
 134.199.146.176/32 # Australia | New South Wales | Digitalocean, LLC
@@ -549,7 +546,6 @@
 146.70.79.18/32 # Hong Kong | Hong Kong | M Europe SRL
 146.70.79.105/32 # Hong Kong | Hong Kong | M Europe SRL
 146.70.102.3/32 # United Arab Emirates | Dubai | M Europe SRL
-146.190.210.124/32 # United States | New Jersey | Digitalocean, LLC
 146.190.241.147/32 # Canada | Ontario | Digitalocean, LLC
 147.28.223.204/32 # Mexico | Querétaro | Equinix emea Acquisition Enterprises ...
 147.45.43.136/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
@@ -666,7 +662,6 @@
 159.65.14.88/32 # Singapore | Southeast | Digitalocean, LLC
 159.65.27.60/32 # United Kingdom | England | Digitalocean, LLC
 159.65.57.214/32 # United Kingdom | England | Digitalocean, LLC
-159.65.131.142/32 # Singapore | Southeast | Digitalocean, LLC
 159.65.155.116/32 # India | Karnataka | Digitalocean, LLC
 159.65.157.197/32 # India | Karnataka | Digitalocean, LLC
 159.89.13.116/32 # Germany | Hesse | Digitalocean, LLC
@@ -720,7 +715,6 @@
 168.100.9.199/32 # Netherlands | North Holland | Bl Networks
 168.119.96.41/32 # Germany | Saxony | Hetzner Online GmbH
 170.64.187.113/32 # Australia | New South Wales | Digitalocean, LLC
-170.64.210.38/32 # Australia | New South Wales | Digitalocean, LLC
 170.187.203.58/32 # United States | Georgia | Akamai Technologies, Inc.
 171.100.10.23/32 # Thailand | Bangkok | TRUE INTERNET CORPORATION CO. LTD.
 172.86.64.3/32 # United States | Texas | Routerhosting LLC
@@ -866,7 +860,6 @@
 195.211.96.135/32 # United States | Washington | GREEN FLOID LLC
 195.211.190.61/32 # Netherlands | Limburg | Railnet LLC
 196.251.118.41/32 # Netherlands | North Holland | Nybula LLC
-198.54.117.242/32 # United States | Georgia | Namecheap, Inc.
 200.59.83.66/32 # Argentina | Buenos Aires | SION S.A
 200.150.194.109/32 # Brazil | State of São Paulo | Saveincloud Hospedagem Na In...
 202.43.239.13/32 # Singapore | Southeast | Better Cloud Limited
@@ -895,7 +888,6 @@
 207.174.31.92/32 # United States | Georgia | Baxet Group Inc.
 207.174.31.215/32 # United States | Georgia | Baxet Group Inc.
 208.109.231.95/32 # United States | Arizona | Godaddy.com, LLC
-209.38.43.105/32 # Netherlands | North Holland | Digitalocean, LLC
 209.38.69.166/32 # United States | California | Digitalocean, LLC
 209.38.100.90/32 # Netherlands | North Holland | Digitalocean, LLC
 209.38.194.116/32 # Germany | Hesse | Digitalocean, LLC
