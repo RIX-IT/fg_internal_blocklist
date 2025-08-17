@@ -94,7 +94,7 @@
 15.204.119.129/32 # United States | Oregon | OVH SAS
 20.37.116.136/32 # Japan | Tokyo | Microsoft Corporation
 20.89.43.151/32 # Japan | Tokyo | Microsoft Corporation
-20.121.52.213/32 # United States | Virginia | Microsoft Corporation
+20.99.240.128/32 # United States | Washington | Microsoft Corporation
 20.188.26.190/32 # Japan | Tokyo | Microsoft Corporation
 20.222.138.18/32 # Japan | Tokyo | Microsoft Corporation
 20.222.194.41/32 # Japan | Tokyo | Microsoft Corporation
@@ -106,7 +106,6 @@
 27.43.205.113/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.102.113.240/32 # Republic of Korea | Gyeonggi | DAOU TECHNOLOGY
 27.115.124.33/32 # China | Shanghai | China Unicom Shanghai Network
-27.122.61.220/32 # India | Odisha | Railtel Corporation of India Ltd.
 27.124.37.30/32 # Japan | Tokyo | Ctg Server Limited
 27.124.37.59/32 # Japan | Tokyo | Ctg Server Limited
 27.124.37.64/32 # Japan | Tokyo | Ctg Server Limited
@@ -451,11 +450,8 @@
 112.132.218.45/32 # China | Anhui | China Unicom China1 Backbone
 112.248.111.105/32 # China | Shandong | China Unicom China1 Backbone
 113.237.61.252/32 # China | Liaoning | China Unicom China1 Backbone
-113.237.194.178/32 # China | Liaoning | China Unicom China1 Backbone
 114.33.242.234/32 # Taiwan | Keelung City | Chunghwa Telecom Co., Ltd.
 114.35.179.65/32 # Taiwan | Keelung City | Chunghwa Telecom Co., Ltd.
-115.49.22.83/32 # China | Henan | China Unicom China1 Backbone
-115.56.123.97/32 # China | Henan | China Unicom China1 Backbone
 115.63.13.189/32 # China | Henan | China Unicom China1 Backbone
 117.193.131.95/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
 117.203.55.197/32 # India | Telangana | Bharat Sanchar Nigam LTD
@@ -487,6 +483,7 @@
 120.61.249.43/32 # India | Kerala | Bharat Sanchar Nigam LTD
 120.85.119.121/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
 120.138.12.130/32 # India | Karnataka | Railtel Corporation of India Ltd.
+120.240.219.52/32 # China | Guangdong Province | China Mobile Communications C...
 121.37.80.227/32 # China | Beijing | Huawei Cloud Service Data Center
 121.201.109.98/32 # China | Guangdong Province | Guangdong
 122.97.136.172/32 # China | Jiangsu | China Unicom China1 Backbone
@@ -495,7 +492,6 @@
 124.156.48.83/32 # India | Maharashtra | Shenzhen Tencent Computer Systems Co...
 124.218.87.180/32 # Taiwan | Keelung City | Asia Pacific On line Service Inc.
 125.41.93.22/32 # China | Henan | China Unicom China1 Backbone
-125.44.177.137/32 # China | Henan | China Unicom China1 Backbone
 125.94.28.145/32 # China | Guangdong Province | Chinanet
 125.229.204.96/32 # Taiwan | Keelung City | Chunghwa Telecom Co., Ltd.
 128.116.206.185/32 # Italy | Lombardy | Eolo S.P.A.
@@ -506,7 +502,6 @@
 128.254.146.183/32 # United States | Texas | Baxet Group Inc.
 134.199.146.176/32 # Australia | New South Wales | Digitalocean, LLC
 134.199.166.108/32 # Australia | New South Wales | Digitalocean, LLC
-134.199.215.75/32 # United States | California | Digitalocean, LLC
 134.209.29.104/32 # United Kingdom | England | Digitalocean, LLC
 134.209.30.220/32 # United Kingdom | Wales | Digitalocean, LLC
 134.209.111.64/32 # Singapore | Southeast | Digitalocean, LLC
@@ -660,7 +655,6 @@
 156.242.43.95/32 # United States | Virginia | xk Tech GmbH
 156.242.43.103/32 # United States | Virginia | xk Tech GmbH
 156.242.43.157/32 # United States | Virginia | xk Tech GmbH
-156.245.248.226/32 # Hong Kong | Hong Kong | Vpsquan L.L.C.
 156.248.80.113/32 # United States | Virginia | xk Tech GmbH
 156.248.80.229/32 # United States | Virginia | xk Tech GmbH
 156.248.86.66/32 # United States | District of Columbia | xk Tech GmbH
@@ -670,12 +664,12 @@
 157.66.25.116/32 # Vietnam | Ho Chi Minh | TRUMVPS COMPANY LIMITED
 157.173.104.153/32 # Germany | North Rhine-Westphalia | Contabo GmbH
 157.230.251.210/32 # Singapore | Southeast | Digitalocean, LLC
-157.245.34.155/32 # United Kingdom | England | Digitalocean, LLC
 157.245.226.231/32 # United States | California | Digitalocean, LLC
 158.247.208.174/32 # Republic of Korea |  | The Constant Company, LLC
 158.247.211.51/32 # Republic of Korea |  | The Constant Company, LLC
 158.247.222.165/32 # Republic of Korea |  | The Constant Company, LLC
 158.247.224.100/32 # Republic of Korea |  | The Constant Company, LLC
+159.65.7.43/32 # Singapore | Southeast | Digitalocean, LLC
 159.65.14.88/32 # Singapore | Southeast | Digitalocean, LLC
 159.65.27.60/32 # United Kingdom | England | Digitalocean, LLC
 159.65.41.28/32 # United States | New Jersey | Digitalocean, LLC
@@ -713,13 +707,11 @@
 165.154.227.192/32 # Taiwan | Keelung City | Scloud Pte LTD
 165.227.9.142/32 # United States | California | Digitalocean, LLC
 165.227.12.167/32 # United States | California | Digitalocean, LLC
-165.227.23.102/32 # United States | California | Digitalocean, LLC
 165.227.38.230/32 # Canada | Ontario | Digitalocean, LLC
 165.227.228.137/32 # United Kingdom | England | Digitalocean, LLC
 166.1.173.65/32 # United States | Illinois | Atomic Networks LLC
 166.88.182.65/32 # United States | Illinois | Baxet Group Inc.
 166.88.182.126/32 # United States | Illinois | Baxet Group Inc.
-167.71.209.58/32 # Singapore | Southeast | Digitalocean, LLC
 167.71.214.87/32 # Singapore | Southeast | Digitalocean, LLC
 167.71.234.145/32 # India | Karnataka | Digitalocean, LLC
 167.88.160.55/32 # United States | Texas | Routerhosting LLC
@@ -730,6 +722,7 @@
 167.88.168.27/32 # United States | Texas | Routerhosting LLC
 167.99.188.160/32 # Canada | Ontario | Digitalocean, LLC
 167.99.202.130/32 # United Kingdom | England | Digitalocean, LLC
+167.99.248.146/32 # Germany | Hesse | Digitalocean, LLC
 168.100.9.199/32 # Netherlands | North Holland | Bl Networks
 168.119.96.41/32 # Germany | Saxony | Hetzner Online GmbH
 170.64.187.113/32 # Australia | New South Wales | Digitalocean, LLC
