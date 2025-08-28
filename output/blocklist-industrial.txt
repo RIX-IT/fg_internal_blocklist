@@ -17,7 +17,6 @@
 1.220.228.82/32 # Republic of Korea |  | Lg Dacom Corporation
 2.87.184.148/32 # Greece | Peloponnese, Western Greece and the Ionian | Ote ...
 5.34.176.46/32 # Singapore | Southeast | GREEN FLOID LLC
-5.59.249.56/32 # Italy | Lazio | Cinzia Tocci Trading AS C1v
 5.61.59.201/32 # Netherlands | North Holland | Scalaxy B.V.
 5.181.3.164/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 5.181.159.48/32 # United States | New York | Mivocloud SRL
@@ -84,7 +83,6 @@
 38.181.35.129/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
 39.106.141.68/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
 41.251.50.79/32 # Morocco | Casablanca-Settat | Office National Des Postes E...
-42.176.220.144/32 # China | Liaoning | China Unicom China1 Backbone
 42.239.150.30/32 # China | Henan | China Unicom China1 Backbone
 43.226.126.164/32 # Hong Kong | Hong Kong | Ctg Server Limited
 43.226.126.165/32 # Hong Kong | Hong Kong | Ctg Server Limited
@@ -319,6 +317,7 @@
 95.181.234.25/32 # Qatar | Doha | M Europe SRL
 95.181.235.8/32 # Saudi Arabia | Riyadh Region | M Europe SRL
 95.182.97.58/32 # France | Île-de-France | CGI GLOBAL LIMITED
+95.198.175.110/32 # Sweden | Stockholm County | Telia Company Ab
 95.216.196.85/32 # Finland | Mainland Finland | Hetzner Online GmbH
 96.9.77.225/32 # Cambodia | Phnom Penh | S.i Group
 96.9.125.147/32 # Romania | Bucharest | Bl Networks
@@ -430,16 +429,17 @@
 117.209.121.213/32 # India | West Bengal | Bharat Sanchar Nigam LTD
 117.216.183.215/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.217.141.114/32 # India | Karnataka | Bharat Sanchar Nigam LTD
-117.221.168.148/32 # India | Telangana | Bharat Sanchar Nigam LTD
 117.242.194.221/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.242.248.122/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.244.65.44/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.248.25.178/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
 118.41.203.50/32 # Republic of Korea | Gyeonggi | Korea Telecom
 118.43.117.160/32 # Republic of Korea | North Jeolla | Korea Telecom
+118.45.36.69/32 # Republic of Korea | North Gyeongsang | Korea Telecom
 118.86.231.105/32 # Japan | Chiba Prefecture | Jcom Co., Ltd.
 118.98.34.130/32 # Indonesia | Special Capital Region of Jakarta | Telekomuni...
 118.107.44.219/32 # Hong Kong | Hong Kong | Ctg Server Limited
+118.141.248.118/32 # Hong Kong | Hong Kong | HGC Global Communications Limited
 118.208.238.181/32 # Australia | New South Wales | Tpg Internet Pty LTD
 119.115.75.45/32 # China | Liaoning | China Unicom China1 Backbone
 119.147.213.48/32 # China | Guangdong Province | No. 1,jin rong Street
@@ -501,15 +501,14 @@
 142.93.12.139/32 # United States | New Jersey | Digitalocean, LLC
 142.93.77.42/32 # United States | New Jersey | Digitalocean, LLC
 142.93.100.224/32 # Germany | Hesse | Digitalocean, LLC
-142.93.149.88/32 # Canada | Ontario | Digitalocean, LLC
 142.93.157.134/32 # Canada | Ontario | Digitalocean, LLC
 142.93.189.83/32 # United States | New Jersey | Digitalocean, LLC
 142.93.220.217/32 # India | Karnataka | Digitalocean, LLC
 142.214.203.108/32 # United States | Missouri | CYBERCON, INC.
-143.110.205.42/32 # United States | California | Digitalocean, LLC
 143.198.25.181/32 # United States | New Jersey | Digitalocean, LLC
 143.198.92.175/32 # Singapore | Southeast | Digitalocean, LLC
 143.198.122.111/32 # United States | New Jersey | Digitalocean, LLC
+143.198.126.108/32 # United States | New Jersey | Digitalocean, LLC
 143.244.143.66/32 # India | Karnataka | Digitalocean, LLC
 144.22.192.177/32 # Brazil | State of São Paulo | Oracle Corporation
 144.126.220.244/32 # United States | California | Digitalocean, LLC
@@ -560,8 +559,6 @@
 154.216.16.111/32 # Republic of Lithuania | Vilnius County | Larus Limited
 156.146.60.74/32 # Austria | Vienna | Datacamp Limited
 156.146.60.151/32 # Austria | Vienna | Datacamp Limited
-156.228.81.97/32 # United States | Virginia | xk Tech GmbH
-156.228.100.41/32 # United States | Virginia | xk Tech GmbH
 156.238.236.130/32 # Hong Kong | Hong Kong | Cognetcloud INC
 157.66.25.116/32 # Vietnam | Ho Chi Minh | TRUMVPS COMPANY LIMITED
 157.173.104.153/32 # Germany | North Rhine-Westphalia | Contabo GmbH
@@ -580,7 +577,6 @@
 159.65.241.37/32 # United States | New Jersey | Digitalocean, LLC
 159.89.200.152/32 # Singapore | Southeast | Digitalocean, LLC
 159.223.52.40/32 # Singapore | Southeast | Digitalocean, LLC
-159.223.111.208/32 # United States | New Jersey | Digitalocean, LLC
 160.25.232.62/32 # Vietnam | Ho Chi Minh | VIET DIGITAL TECHNOLOGY LIABILITY ...
 160.191.77.89/32 # Singapore | Southeast | Webhorizon Internet Services
 161.35.105.155/32 # United States | New Jersey | Digitalocean, LLC
@@ -640,6 +636,7 @@
 175.208.15.203/32 # Republic of Korea | Jeju | Korea Telecom
 176.65.137.44/32 # Germany | Lower Saxony | Noel Nayasha Materke
 176.206.226.104/32 # Italy | Veneto | WIND TRE S.P.A.
+177.69.131.214/32 # Brazil | Espírito Santo | ALGAR TELECOM S A
 178.128.34.15/32 # United Kingdom | England | Digitalocean, LLC
 178.128.55.249/32 # Singapore | Southeast | Digitalocean, LLC
 178.175.134.52/32 # Republic of Moldova | Chisinau | Trabia SRL
@@ -717,7 +714,6 @@
 192.3.95.152/32 # United States | New York | HostPapa
 192.3.153.18/32 # United States | New York | HostPapa
 192.46.224.190/32 # Singapore | Southeast | Akamai Technologies, Inc.
-192.81.131.250/32 # United States | California | Akamai Technologies, Inc.
 192.241.190.181/32 # United States | New Jersey | Digitalocean, LLC
 193.23.197.59/32 # Germany | Hesse | Senko Digital LTD
 193.32.162.10/32 # Romania | Bucharest | UNMANAGED LTD
@@ -754,6 +750,7 @@
 195.211.190.61/32 # Netherlands | Limburg | Railnet LLC
 196.251.84.144/32 # Netherlands | North Holland | Cheapy.host LLC
 196.251.118.41/32 # Netherlands | North Holland | Nybula LLC
+200.50.247.10/32 # Argentina | La Pampa | RSO APOLO HIDALGO S.R.L.
 200.59.83.66/32 # Argentina | Buenos Aires | SION S.A
 200.150.194.109/32 # Brazil | State of São Paulo | Saveincloud Hospedagem Na In...
 202.43.239.13/32 # Singapore | Southeast | Better Cloud Limited
