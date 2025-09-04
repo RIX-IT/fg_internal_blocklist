@@ -49,6 +49,7 @@
 23.139.82.62/32 # United States | Virginia | Ame Hosting LLC
 23.146.184.221/32 # United States | Illinois | Atomic Networks LLC
 27.43.204.84/32 # China | Guangdong Province | China Unicom Guangdong Provin...
+27.43.206.132/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.102.113.240/32 # Republic of Korea | Gyeonggi | DAOU TECHNOLOGY
 27.124.37.30/32 # Japan | Tokyo | Ctg Server Limited
 27.124.37.59/32 # Japan | Tokyo | Ctg Server Limited
@@ -157,6 +158,7 @@
 59.58.42.17/32 # China | Fujian | Chinanet
 59.88.15.6/32 # India | Kerala | Bharat Sanchar Nigam LTD
 59.88.135.51/32 # India | Kerala | Bharat Sanchar Nigam LTD
+59.91.163.34/32 # India | Haryana | Bharat Sanchar Nigam LTD
 59.92.94.243/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
 59.96.141.178/32 # India | Haryana | Bharat Sanchar Nigam LTD
 59.97.255.75/32 # India | Uttarakhand | Bharat Sanchar Nigam LTD
@@ -292,12 +294,12 @@
 91.202.233.136/32 # Russia | Saint Petersburg | PROSPERO OOO
 91.202.233.252/32 # Russia | Saint Petersburg | PROSPERO OOO
 91.245.253.27/32 # Singapore | Southeast | M Europe SRL
-92.63.197.33/32 # Netherlands | North Holland | Fop Dmytro Nedilskyi
 92.118.112.143/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 92.118.112.208/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 92.118.112.223/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 92.118.112.253/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 92.119.159.30/32 # Russia | Moscow | IP SERVER LLC
+94.69.234.122/32 # Greece | Attica | Ote SA hellenic Telecommunications Organ...
 94.72.107.3/32 # United Kingdom | England | Contabo GmbH
 94.131.108.78/32 # Turkey | İzmir | STARK INDUSTRIES SOLUTIONS LTD
 94.131.112.206/32 # Netherlands | Drenthe | STARK INDUSTRIES SOLUTIONS LTD
@@ -308,7 +310,6 @@
 94.156.65.130/32 # Netherlands | North Holland | NTT America, Inc.
 94.156.69.6/32 # Netherlands | North Holland | NTT America, Inc.
 94.156.69.111/32 # Netherlands | North Holland | NTT America, Inc.
-94.156.152.65/32 # South Africa | Gauteng | Internet Magnate pty LTD
 94.156.152.158/32 # South Africa | Gauteng | Internet Magnate pty LTD
 94.158.244.113/32 # United States | Oregon | Mivocloud SRL
 94.232.249.36/32 # Netherlands | North Holland | PSB HOSTING LTD
@@ -379,7 +380,6 @@
 103.159.133.251/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
 103.167.204.150/32 # India | Haryana | Fibre Air Services Private Limited
 103.168.2.56/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
-103.168.2.136/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.173.211.130/32 # India | Haryana | Fibre Air Services Private Limited
 103.183.3.10/32 # Hong Kong | Hong Kong | GNET INC.
 103.199.16.92/32 # Vietnam | Hanoi | Online Technology Joint Stock Company
@@ -392,6 +392,7 @@
 103.207.14.195/32 # India | Tamil Nadu | Ultimate Internet Services Private Li...
 103.207.224.8/32 # India | Andhra Pradesh | Railtel Corporation of India Ltd.
 103.210.101.33/32 # India | Uttarakhand | Railtel Corporation of India Ltd.
+103.210.101.49/32 # India | Delhi | Railtel Corporation of India Ltd.
 103.232.54.13/32 # Vietnam | Hanoi | VIETSERVER SERVICES TECHNOLOGY COMPANY L...
 104.28.229.14/32 # Germany | Hesse | Cloudflare, Inc.
 104.131.7.207/32 # United States | New Jersey | Digitalocean, LLC
@@ -402,6 +403,7 @@
 104.183.100.189/32 # United States | Florida | AT T Enterprises, LLC
 104.194.153.65/32 # Singapore | Southeast | Routerhosting LLC
 104.238.61.144/32 # United States | California | GWY IT PTY LTD
+104.248.94.202/32 # Netherlands | North Holland | Digitalocean, LLC
 104.248.154.101/32 # Singapore | Southeast | Digitalocean, LLC
 104.250.164.102/32 # Greece | Attica | Aofb Telecom Networks LTD
 107.170.45.190/32 # United States | New Jersey | Digitalocean, LLC
@@ -444,13 +446,13 @@
 118.41.203.50/32 # Republic of Korea | Gyeonggi | Korea Telecom
 118.43.117.160/32 # Republic of Korea | North Jeolla | Korea Telecom
 118.45.36.69/32 # Republic of Korea | North Gyeongsang | Korea Telecom
-118.86.231.105/32 # Japan | Chiba Prefecture | Jcom Co., Ltd.
 118.98.34.130/32 # Indonesia | Special Capital Region of Jakarta | Telekomuni...
 118.107.44.219/32 # Hong Kong | Hong Kong | Ctg Server Limited
 118.141.248.118/32 # Hong Kong | Hong Kong | HGC Global Communications Limited
 118.208.238.181/32 # Australia | New South Wales | Tpg Internet Pty LTD
 119.115.75.45/32 # China | Liaoning | China Unicom China1 Backbone
 119.147.213.48/32 # China | Guangdong Province | No. 1,jin rong Street
+120.61.87.17/32 # India | Kerala | Bharat Sanchar Nigam LTD
 120.85.112.192/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.114.78/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
 120.240.219.52/32 # China | Guangdong Province | China Mobile Communications C...
@@ -465,7 +467,7 @@
 124.49.50.94/32 # Republic of Korea | Seoul | LG POWERCOMM
 124.156.48.83/32 # India | Maharashtra | Shenzhen Tencent Computer Systems Co...
 124.197.125.156/32 # Singapore |  | M1 LIMITED
-125.41.93.22/32 # China | Henan | China Unicom China1 Backbone
+125.17.108.32/32 # India | Uttar Pradesh | Bharti Airtel Limited
 125.139.58.46/32 # Republic of Korea | North Jeolla | Korea Telecom
 128.127.180.156/32 # Belgium | Walloon Brabant | VERIXI SA
 128.199.44.237/32 # Netherlands | North Holland | Digitalocean, LLC
@@ -491,7 +493,6 @@
 139.59.169.22/32 # United Kingdom | England | Digitalocean, LLC
 139.59.180.176/32 # United Kingdom | England | Digitalocean, LLC
 139.59.236.31/32 # Singapore | Southeast | Digitalocean, LLC
-139.59.249.114/32 # Singapore | Southeast | Digitalocean, LLC
 139.99.114.108/32 # Singapore | Southeast | OVH SAS
 139.99.188.124/32 # Australia | New South Wales | OVH SAS
 141.98.234.166/32 # Hong Kong | Hong Kong | GLOBAL CONNECTIVITY SOLUTIONS LLP
@@ -503,6 +504,7 @@
 143.198.92.175/32 # Singapore | Southeast | Digitalocean, LLC
 143.198.122.111/32 # United States | New Jersey | Digitalocean, LLC
 143.198.126.108/32 # United States | New Jersey | Digitalocean, LLC
+143.198.148.103/32 # United States | California | Digitalocean, LLC
 143.244.41.219/32 # Netherlands | North Holland | Datacamp Limited
 143.244.41.251/32 # Netherlands | North Holland | Datacamp Limited
 143.244.143.66/32 # India | Karnataka | Digitalocean, LLC
