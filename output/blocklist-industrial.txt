@@ -4,6 +4,7 @@
 77.90.135.0/24 # Turkey | İstanbul | Ibrahim Tufek
 89.23.103.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
 89.23.107.0/24 # Netherlands | North Holland | GLOBAL CONNECTIVITY SOLUTION...
+91.202.233.0/24 # Russia | Saint Petersburg | PROSPERO OOO
 103.81.230.0/24 # United States | District of Columbia | Hostroyale Technolo...
 103.81.231.0/24 # United States | District of Columbia | Hostroyale Technolo...
 144.172.97.0/24 # United States | Utah | Routerhosting LLC
@@ -20,6 +21,7 @@
 2.38.151.149/32 # Italy | Sicily | Vodafone Italia S.P.A.
 2.87.184.148/32 # Greece | Peloponnese, Western Greece and the Ionian | Ote ...
 5.34.176.46/32 # Singapore | Southeast | GREEN FLOID LLC
+5.35.44.176/32 # Netherlands | North Holland | SERVERS TECH FZCO
 5.61.59.201/32 # Netherlands | North Holland | Scalaxy B.V.
 5.180.221.108/32 # Japan | Tokyo | Uab Code 00
 5.181.3.164/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
@@ -64,6 +66,7 @@
 31.192.107.157/32 # Russia | Moscow | HOSTKEY B.V.
 34.41.138.226/32 # United States | Iowa | Google LLC
 34.71.237.156/32 # United States | Iowa | Google LLC
+34.72.90.40/32 # United States | Iowa | Google LLC
 36.155.87.54/32 # China | Jiangsu | China Mobile Communications Corporation
 36.255.4.162/32 # India | Karnataka | Railtel Corporation of India Ltd.
 36.255.6.222/32 # India | Karnataka | Railtel Corporation of India Ltd.
@@ -105,7 +108,9 @@
 45.8.157.158/32 # United States | Virginia | Nktelecom INC
 45.8.157.162/32 # United States | Virginia | Nktelecom INC
 45.8.157.199/32 # United States | Virginia | Nktelecom INC
+45.11.180.174/32 # United Kingdom | England | Servinga GmbH
 45.14.245.67/32 # Netherlands | Drenthe | PQ HOSTING PLUS S.R.L.
+45.61.136.81/32 # United States | California | Bl Networks
 45.61.166.209/32 # United States | Texas | Routerhosting LLC
 45.76.93.60/32 # Germany | Hesse | The Constant Company, LLC
 45.79.134.4/32 # United States | New Jersey | Akamai Technologies, Inc.
@@ -182,6 +187,7 @@
 62.234.24.38/32 # China | Beijing | Shenzhen Tencent Computer Systems Compan...
 64.12.10.32/32 # United States | California | Edgecast Inc.
 64.52.80.62/32 # United States | California | Bl Networks
+64.52.80.82/32 # United States | California | Bl Networks
 64.52.80.252/32 # United States | California | Bl Networks
 64.95.10.209/32 # United States | Texas | Bl Networks
 64.226.93.124/32 # Germany | Hesse | Digitalocean, LLC
@@ -219,6 +225,7 @@
 77.47.152.5/32 # Germany | Berlin | Rackdog, LLC
 77.221.151.54/32 # Russia | Moscow | Aeza Group LLC
 77.221.157.170/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
+77.238.241.203/32 # Netherlands | North Holland | SERVERS TECH FZCO
 78.47.18.110/32 # Germany | Saxony | Hetzner Online GmbH
 78.131.16.76/32 # Hungary | Central Hungary | Digi Tavkozlesi Es Szolgaltato...
 78.153.139.202/32 # Finland | Mainland Finland | GLOBAL CONNECTIVITY SOLUTIONS...
@@ -227,6 +234,7 @@
 79.51.250.241/32 # Italy | Veneto | Telecom Italia S.P.A.
 79.87.146.24/32 # France | Île-de-France | Societe Francaise Du Radiotelepho...
 79.124.8.66/32 # Netherlands | North Holland | Colocationx Ltd.
+79.132.130.142/32 # Germany | Hesse | Servinga GmbH
 79.137.197.159/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 79.137.202.22/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
 79.137.203.158/32 # Germany | Hesse | AEZA INTERNATIONAL LTD
@@ -295,8 +303,6 @@
 91.149.239.242/32 # United States | California | Baxet Group Inc.
 91.174.184.167/32 # France | Nouvelle-Aquitaine | Free SAS
 91.193.19.109/32 # United States | Washington | Hz Hosting LTD
-91.202.233.136/32 # Russia | Saint Petersburg | PROSPERO OOO
-91.202.233.252/32 # Russia | Saint Petersburg | PROSPERO OOO
 91.245.253.27/32 # Singapore | Southeast | M Europe SRL
 92.118.112.143/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 92.118.112.208/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
@@ -308,6 +314,7 @@
 94.72.107.3/32 # United Kingdom | England | Contabo GmbH
 94.131.108.78/32 # Turkey | İzmir | STARK INDUSTRIES SOLUTIONS LTD
 94.131.112.206/32 # Netherlands | Drenthe | STARK INDUSTRIES SOLUTIONS LTD
+94.141.122.164/32 # Finland | Mainland Finland | Partner Hosting LTD
 94.156.8.31/32 # Canada | Québec | Nexgen Cloud LTD
 94.156.64.74/32 # Netherlands | North Holland | NTT America, Inc.
 94.156.64.76/32 # Netherlands | North Holland | NTT America, Inc.
@@ -343,6 +350,7 @@
 102.129.153.182/32 # United States | Florida | Cogent Communications
 102.129.235.127/32 # United States | District of Columbia | Cogent Communications
 102.129.235.186/32 # United States | District of Columbia | Cogent Communications
+102.135.95.102/32 # Turkey | İstanbul | SUNUCUN BILGI ILETISIM TEKNOLOJILERI V...
 102.165.16.127/32 # United States | New Jersey | Cogent Communications
 103.4.235.86/32 # Australia | New South Wales | Mammoth Media Pty LTD
 103.13.31.75/32 # Thailand | Nakhon Si Thammarat Province | Siamdata Communi...
@@ -402,9 +410,12 @@
 104.160.6.2/32 # United Kingdom | England | Orion Network Limited
 104.183.100.189/32 # United States | Florida | AT T Enterprises, LLC
 104.194.153.65/32 # Singapore | Southeast | Routerhosting LLC
+104.225.129.171/32 # United States | Florida | Shock Hosting LLC
 104.238.61.144/32 # United States | California | GWY IT PTY LTD
 104.248.94.202/32 # Netherlands | North Holland | Digitalocean, LLC
 104.248.154.101/32 # Singapore | Southeast | Digitalocean, LLC
+107.158.128.45/32 # United States | Nevada | Eonix Corporation
+107.158.128.90/32 # United States | Nevada | Eonix Corporation
 107.170.17.78/32 # United States | New Jersey | Digitalocean, LLC
 107.170.45.190/32 # United States | New Jersey | Digitalocean, LLC
 107.172.43.186/32 # United States | New York | HostPapa
@@ -613,6 +624,7 @@
 167.99.248.146/32 # Germany | Hesse | Digitalocean, LLC
 168.100.9.199/32 # Netherlands | North Holland | Bl Networks
 168.119.96.41/32 # Germany | Saxony | Hetzner Online GmbH
+170.130.165.28/32 # United States | Texas | Eonix Corporation
 172.22.173.171/32 # None | None | None
 172.86.90.122/32 # United States | Texas | Routerhosting LLC
 172.86.90.176/32 # United States | Texas | Routerhosting LLC
@@ -630,6 +642,7 @@
 172.210.58.69/32 # United States | Virginia | Microsoft Corporation
 173.2.100.3/32 # United States | New Jersey | Cablevision Systems Corp.
 173.44.141.226/32 # United States | Florida | Eonix Corporation
+173.232.146.90/32 # United States | Nevada | Eonix Corporation
 173.239.232.20/32 # United States | Colorado | Performive LLC
 173.254.204.72/32 # United States | California | HostPapa
 174.138.3.148/32 # Netherlands | North Holland | Digitalocean, LLC
@@ -643,6 +656,7 @@
 177.69.131.79/32 # Brazil | State of Minas Gerais | ALGAR TELECOM S A
 177.69.131.214/32 # Brazil | Espírito Santo | ALGAR TELECOM S A
 177.191.252.68/32 # Brazil | Espírito Santo | ALGAR TELECOM S A
+178.17.57.102/32 # Turkey | İstanbul | SUNUCUN BILGI ILETISIM TEKNOLOJILERI V...
 178.128.55.249/32 # Singapore | Southeast | Digitalocean, LLC
 178.175.134.52/32 # Republic of Moldova | Chisinau | Trabia SRL
 178.209.51.222/32 # Switzerland | Zurich | Nine Internet Solutions AG
@@ -660,6 +674,8 @@
 179.95.140.218/32 # Brazil | Goiás | TELEF NICA BRASIL S.A
 180.159.40.90/32 # China | Shanghai | China Telecom group
 180.178.109.193/32 # Indonesia | East Java | PT. HIPERNET INDODATA
+180.178.122.131/32 # Australia | Queensland | All Interactive Distribution
+180.178.189.17/32 # Pakistan | Islamabad Capital Territory | FEMO IT SOLUTIONS...
 181.119.111.71/32 # Guatemala | Sololá | UFINET PANAMA S.A.
 181.214.166.59/32 # United States | Illinois | Cogent Communications
 181.214.166.132/32 # United States | Illinois | Cogent Communications
@@ -674,6 +690,8 @@
 185.105.1.243/32 # India | Maharashtra | G core Labs S.A.
 185.107.74.40/32 # Sweden | Stockholm County | Partner Hosting LTD
 185.143.223.188/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
+185.149.146.1/32 # Germany | Hesse | Hostinux Limited
+185.149.146.118/32 # Germany | Hesse | Hostinux Limited
 185.149.232.197/32 # United States | Missouri | Heymman Servers Corporation
 185.149.232.221/32 # United States | Missouri | Heymman Servers Corporation
 185.174.136.204/32 # Russia | Moscow | Aeza Group LLC
@@ -684,6 +702,7 @@
 185.196.8.158/32 # Switzerland | Bern | Global data System IT Corporation
 185.196.9.26/32 # Switzerland | Bern | Global data System IT Corporation
 185.196.9.31/32 # Switzerland | Bern | Global data System IT Corporation
+185.208.158.250/32 # Switzerland | Bern | Global data System IT Corporation
 185.215.113.103/32 # Seychelles | Mahe | 1 TEAM LIMITED
 185.219.220.175/32 # Germany | Hesse | Servinga GmbH
 185.238.251.38/32 # United States | California | GWY IT PTY LTD
@@ -750,10 +769,12 @@
 195.123.240.2/32 # United States | California | GREEN FLOID LLC
 195.123.241.24/32 # United States | California | GREEN FLOID LLC
 195.123.242.120/32 # United States | California | GREEN FLOID LLC
+195.201.108.189/32 # Germany | Saxony | Hetzner Online GmbH
 195.211.96.135/32 # United States | Washington | GREEN FLOID LLC
 195.211.190.61/32 # Netherlands | Limburg | Railnet LLC
 196.251.84.144/32 # Netherlands | North Holland | Cheapy.host LLC
 196.251.118.41/32 # Netherlands | North Holland | Nybula LLC
+198.244.229.224/32 # United Kingdom | England | OVH SAS
 200.50.247.10/32 # Argentina | La Pampa | RSO APOLO HIDALGO S.R.L.
 200.59.83.66/32 # Argentina | Buenos Aires | SION S.A
 200.150.194.109/32 # Brazil | State of São Paulo | Saveincloud Hospedagem Na In...
