@@ -160,13 +160,11 @@
 58.40.8.206/32 # China | Shanghai | China Telecom group
 58.221.58.240/32 # China | Jiangsu | Chinanet
 59.58.42.17/32 # China | Fujian | Chinanet
-59.88.15.6/32 # India | Kerala | Bharat Sanchar Nigam LTD
 59.88.33.182/32 # India | Kerala | Bharat Sanchar Nigam LTD
 59.91.163.34/32 # India | Haryana | Bharat Sanchar Nigam LTD
 59.92.94.243/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
 59.92.165.192/32 # India | Kerala | Bharat Sanchar Nigam LTD
 59.94.70.252/32 # India | Kerala | Bharat Sanchar Nigam LTD
-59.96.141.178/32 # India | Haryana | Bharat Sanchar Nigam LTD
 59.97.255.75/32 # India | Uttarakhand | Bharat Sanchar Nigam LTD
 59.182.159.99/32 # India | Kerala | Bharat Sanchar Nigam LTD
 60.23.234.223/32 # China | Liaoning | China Unicom China1 Backbone
@@ -242,6 +240,7 @@
 82.153.134.38/32 # United States | Illinois | Atomic Networks LLC
 82.214.142.186/32 # Poland | Masovian Voivodeship | Intelligent Technologies S.A.
 83.219.1.198/32 # Russia | Perm Krai | Pjsc Rostelecom
+83.240.190.38/32 # Portugal | Faro | MEO SERVICOS DE COMUNICACOES E MULTIMEDI...
 84.200.154.47/32 # Germany | Berlin | Firstcolo GmbH
 84.239.25.13/32 # United States | Minnesota | Datacamp Limited
 84.239.45.17/32 # United States | Rhode Island | Datacamp Limited
@@ -364,7 +363,6 @@
 103.43.19.245/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.68.109.172/32 # Singapore | Southeast | Host Universal Pty LTD
 103.75.190.73/32 # Malaysia | Federal Territory of Kuala Lumpur | Gigabit Hos...
-103.83.145.46/32 # India | Delhi | Mynext Broadband Services Pvt LTD
 103.85.25.166/32 # Hong Kong | Hong Kong | Starry Network Limited
 103.91.64.214/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
 103.110.16.93/32 # India | Delhi | Mynext Broadband Services Pvt LTD
@@ -432,7 +430,6 @@
 117.193.172.180/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.205.167.148/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.205.171.22/32 # India | Karnataka | Bharat Sanchar Nigam LTD
-117.206.26.44/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.206.69.150/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
 117.206.72.6/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
 117.206.76.215/32 # India | Kerala | Bharat Sanchar Nigam LTD
@@ -452,7 +449,6 @@
 118.107.44.219/32 # Hong Kong | Hong Kong | Ctg Server Limited
 118.141.248.118/32 # Hong Kong | Hong Kong | HGC Global Communications Limited
 118.208.238.181/32 # Australia | New South Wales | Tpg Internet Pty LTD
-119.115.75.45/32 # China | Liaoning | China Unicom China1 Backbone
 119.147.213.48/32 # China | Guangdong Province | No. 1,jin rong Street
 120.61.12.71/32 # India | Kerala | Bharat Sanchar Nigam LTD
 120.61.87.17/32 # India | Kerala | Bharat Sanchar Nigam LTD
@@ -487,7 +483,6 @@
 136.243.132.112/32 # Germany | Saxony | Hetzner Online GmbH
 137.184.56.220/32 # United States | New Jersey | Digitalocean, LLC
 137.184.155.92/32 # United States | New Jersey | Digitalocean, LLC
-137.184.214.95/32 # United States | New Jersey | Digitalocean, LLC
 137.184.218.157/32 # United States | New Jersey | Digitalocean, LLC
 137.184.231.197/32 # United States | California | Digitalocean, LLC
 138.68.61.82/32 # United States | California | Digitalocean, LLC
@@ -506,7 +501,6 @@
 141.255.164.98/32 # Switzerland | Zurich | Private Layer INC
 142.93.12.139/32 # United States | New Jersey | Digitalocean, LLC
 142.93.100.224/32 # Germany | Hesse | Digitalocean, LLC
-142.93.220.217/32 # India | Karnataka | Digitalocean, LLC
 142.214.203.108/32 # United States | Missouri | CYBERCON, INC.
 143.198.92.175/32 # Singapore | Southeast | Digitalocean, LLC
 143.198.122.111/32 # United States | New Jersey | Digitalocean, LLC
@@ -577,6 +571,7 @@
 159.65.41.28/32 # United States | New Jersey | Digitalocean, LLC
 159.65.157.197/32 # India | Karnataka | Digitalocean, LLC
 159.65.241.37/32 # United States | New Jersey | Digitalocean, LLC
+159.65.243.11/32 # United States | New Jersey | Digitalocean, LLC
 159.89.148.157/32 # United States | California | Digitalocean, LLC
 159.138.138.163/32 # Hong Kong | Hong Kong | HUAWEI INTERNATIONAL PTE. LTD.
 159.223.37.117/32 # Singapore | Southeast | Digitalocean, LLC
@@ -584,7 +579,6 @@
 160.25.232.62/32 # Vietnam | Ho Chi Minh | VIET DIGITAL TECHNOLOGY LIABILITY ...
 160.191.77.89/32 # Singapore | Southeast | Webhorizon Internet Services
 161.35.179.13/32 # United States | New Jersey | Digitalocean, LLC
-161.35.213.53/32 # Germany | Hesse | Digitalocean, LLC
 162.19.135.182/32 # Germany | Schleswig-Holstein | OVH SAS
 162.33.177.56/32 # United States | Illinois | Bl Networks
 162.33.178.196/32 # United States | Illinois | Bl Networks
@@ -649,7 +643,6 @@
 177.69.131.79/32 # Brazil | State of Minas Gerais | ALGAR TELECOM S A
 177.69.131.214/32 # Brazil | Espírito Santo | ALGAR TELECOM S A
 177.191.252.68/32 # Brazil | Espírito Santo | ALGAR TELECOM S A
-178.128.34.15/32 # United Kingdom | England | Digitalocean, LLC
 178.128.55.249/32 # Singapore | Southeast | Digitalocean, LLC
 178.175.134.52/32 # Republic of Moldova | Chisinau | Trabia SRL
 178.209.51.222/32 # Switzerland | Zurich | Nine Internet Solutions AG
@@ -788,7 +781,6 @@
 208.68.38.168/32 # United States | New Jersey | Digitalocean, LLC
 208.109.231.95/32 # United States | Arizona | Godaddy.com, LLC
 209.38.29.93/32 # Australia | New South Wales | Digitalocean, LLC
-209.38.100.90/32 # Netherlands | North Holland | Digitalocean, LLC
 209.97.160.153/32 # Singapore | Southeast | Digitalocean, LLC
 209.105.148.9/32 # United States | Missouri | Consolidated Communications, Inc.
 209.141.43.37/32 # United States | Nevada | Frantech Solutions
