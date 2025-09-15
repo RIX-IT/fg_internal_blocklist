@@ -46,7 +46,6 @@
 15.235.172.219/32 # Singapore | Southeast | OVH SAS
 20.37.116.136/32 # Japan | Tokyo | Microsoft Corporation
 20.89.43.151/32 # Japan | Tokyo | Microsoft Corporation
-20.99.240.128/32 # United States | Washington | Microsoft Corporation
 20.188.26.190/32 # Japan | Tokyo | Microsoft Corporation
 20.222.138.18/32 # Japan | Tokyo | Microsoft Corporation
 20.222.194.41/32 # Japan | Tokyo | Microsoft Corporation
@@ -162,6 +161,7 @@
 51.81.42.234/32 # United States | Virginia | OVH SAS
 51.89.212.145/32 # United Kingdom | England | OVH SAS
 51.195.37.155/32 # Germany | Hesse | OVH SAS
+52.233.82.117/32 # United States | Washington | Microsoft Corporation
 52.253.107.167/32 # Japan | Tokyo | Microsoft Corporation
 54.83.226.135/32 # United States | Virginia | Amazon.com, Inc.
 58.40.8.206/32 # China | Shanghai | China Telecom group
@@ -382,7 +382,6 @@
 103.114.106.2/32 # Vietnam | Hanoi | VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 103.114.106.67/32 # Vietnam | Hanoi | VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 103.152.159.208/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
-103.152.159.241/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.158.171.54/32 # India | Delhi | ONEOTT INTERTAINMENT LIMITED
 103.158.174.51/32 # India | Uttar Pradesh | Userlinks Netcom Pvt. Ltd.
 103.159.133.205/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
@@ -395,7 +394,6 @@
 103.199.180.59/32 # India | Odisha | Railtel Corporation of India Ltd.
 103.199.200.137/32 # India | Meghalaya | Railtel Corporation of India Ltd.
 103.199.202.8/32 # India | Assam | Railtel Corporation of India Ltd.
-103.199.205.141/32 # India | Chandigarh | Railtel Corporation of India Ltd.
 103.199.205.154/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
 103.201.129.130/32 # Japan | Osaka Prefecture | Xtom Limited
 103.203.72.89/32 # India | Kerala | Railtel Corporation of India Ltd.
@@ -470,7 +468,6 @@
 120.85.114.78/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
 120.85.116.210/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.138.12.107/32 # India | Tamil Nadu | Railtel Corporation of India Ltd.
-120.240.219.52/32 # China | Guangdong Province | China Mobile Communications C...
 121.37.80.227/32 # China | Beijing | Huawei Cloud Service Data Center
 121.123.52.14/32 # Malaysia | Federal Territory of Kuala Lumpur | Maxis Broad...
 121.159.17.185/32 # Republic of Korea | North Gyeongsang | Korea Telecom
@@ -502,7 +499,6 @@
 137.184.155.92/32 # United States | New Jersey | Digitalocean, LLC
 138.68.61.82/32 # United States | California | Digitalocean, LLC
 138.68.83.226/32 # Germany | Hesse | Digitalocean, LLC
-138.197.47.39/32 # United States | New Jersey | Digitalocean, LLC
 139.5.0.180/32 # India | Haryana | Railtel Corporation of India Ltd.
 139.5.0.255/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
 139.5.1.120/32 # India | Uttarakhand | Railtel Corporation of India Ltd.
@@ -516,7 +512,6 @@
 139.135.46.104/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 141.98.234.166/32 # Hong Kong | Hong Kong | GLOBAL CONNECTIVITY SOLUTIONS LLP
 141.255.164.98/32 # Switzerland | Zurich | Private Layer INC
-142.93.12.139/32 # United States | New Jersey | Digitalocean, LLC
 142.214.203.108/32 # United States | Missouri | CYBERCON, INC.
 143.198.92.175/32 # Singapore | Southeast | Digitalocean, LLC
 143.198.126.108/32 # United States | New Jersey | Digitalocean, LLC
@@ -538,6 +533,7 @@
 147.45.178.54/32 # Germany | Hesse | GLOBAL CONNECTIVITY SOLUTIONS LLP
 147.135.244.43/32 # France | Hauts-de-France | OVH SAS
 147.182.148.183/32 # Canada | Ontario | Digitalocean, LLC
+147.182.246.203/32 # United States | California | Digitalocean, LLC
 147.185.221.24/32 # United States | Nevada | Developed Methods LLC
 148.113.214.176/32 # Canada | Québec | OVH SAS
 149.40.50.45/32 # United States | Massachusetts | Datacamp Limited
@@ -624,7 +620,6 @@
 167.71.37.198/32 # Germany | Hesse | Digitalocean, LLC
 167.71.111.54/32 # United States | New Jersey | Digitalocean, LLC
 167.88.168.11/32 # United States | Texas | Routerhosting LLC
-167.99.248.146/32 # Germany | Hesse | Digitalocean, LLC
 168.100.9.199/32 # Netherlands | North Holland | Bl Networks
 168.119.96.41/32 # Germany | Saxony | Hetzner Online GmbH
 170.130.165.28/32 # United States | Texas | Eonix Corporation
@@ -834,7 +829,6 @@
 221.159.119.6/32 # Republic of Korea | North Jeolla | Korea Telecom
 221.207.6.78/32 # China | Qinghai | China Unicom China1 Backbone
 222.104.73.118/32 # Republic of Korea | North Gyeongsang | Korea Telecom
-222.138.78.97/32 # China | Henan | China Unicom China1 Backbone
 222.219.183.84/32 # China | Yunnan | No. 1,jin rong Street
 222.221.229.59/32 # China | Yunnan | Chinanet
 223.139.82.62/32 # Taiwan | Tainan City | Mobile Business Group
