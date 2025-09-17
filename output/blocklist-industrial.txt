@@ -199,10 +199,8 @@
 66.63.187.154/32 # United States | South Carolina | Railnet LLC
 66.63.187.232/32 # United States | South Carolina | Railnet LLC
 66.112.216.232/32 # United States | California | It Networks INC
-67.207.95.96/32 # United States | New Jersey | Digitalocean, LLC
 67.217.228.55/32 # United States | California | Bl Networks
 68.113.110.78/32 # United States | Alabama | Charter Communications LLC
-68.183.116.59/32 # United States | New Jersey | Digitalocean, LLC
 68.183.212.213/32 # Germany | Hesse | Digitalocean, LLC
 69.5.7.86/32 # Indonesia | Special Capital Region of Jakarta | Byteplus P...
 69.55.62.10/32 # United States | New Jersey | Digitalocean, LLC
@@ -325,7 +323,6 @@
 94.156.65.130/32 # Netherlands | North Holland | NTT America, Inc.
 94.156.69.6/32 # Netherlands | North Holland | NTT America, Inc.
 94.156.69.111/32 # Netherlands | North Holland | NTT America, Inc.
-94.156.152.158/32 # South Africa | Gauteng | Internet Magnate pty LTD
 94.158.244.113/32 # United States | Oregon | Mivocloud SRL
 94.232.249.36/32 # Netherlands | North Holland | PSB HOSTING LTD
 94.243.13.88/32 # Russia | Zabaykalsky Krai | MTS PJSC
@@ -336,6 +333,7 @@
 95.181.234.25/32 # Qatar | Doha | M Europe SRL
 95.181.235.8/32 # Saudi Arabia | Riyadh Region | M Europe SRL
 95.182.97.58/32 # France | Île-de-France | CGI GLOBAL LIMITED
+95.186.137.10/32 # Saudi Arabia | Makkah Region | Saudi Telecom Company JSC
 95.198.175.110/32 # Sweden | Stockholm County | Telia Company Ab
 95.216.196.85/32 # Finland | Mainland Finland | Hetzner Online GmbH
 95.245.51.88/32 # Italy | Lombardy | Telecom Italia S.P.A.
@@ -444,7 +442,6 @@
 115.48.59.214/32 # China | Henan | China Unicom China1 Backbone
 115.55.156.230/32 # China | Henan | China Unicom China1 Backbone
 115.63.128.23/32 # China | Henan | China Unicom China1 Backbone
-117.193.172.180/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.205.82.37/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.205.167.148/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.205.171.22/32 # India | Karnataka | Bharat Sanchar Nigam LTD
@@ -455,7 +452,6 @@
 117.209.95.163/32 # India | Mizoram | Bharat Sanchar Nigam LTD
 117.209.121.213/32 # India | West Bengal | Bharat Sanchar Nigam LTD
 117.216.183.215/32 # India | Karnataka | Bharat Sanchar Nigam LTD
-117.244.65.44/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.244.232.133/32 # India | Delhi | Bharat Sanchar Nigam LTD
 117.248.25.178/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
 117.254.100.80/32 # India | Karnataka | Bharat Sanchar Nigam LTD
@@ -495,6 +491,7 @@
 128.199.134.3/32 # Singapore | Southeast | Digitalocean, LLC
 128.254.146.183/32 # United States | Texas | Baxet Group Inc.
 134.122.113.145/32 # United States | New Jersey | Digitalocean, LLC
+134.199.148.61/32 # Australia | New South Wales | Digitalocean, LLC
 134.209.228.56/32 # Germany | Baden-Württemberg | Digitalocean, LLC
 134.209.235.35/32 # Germany | Hesse | Digitalocean, LLC
 136.243.132.112/32 # Germany | Saxony | Hetzner Online GmbH
@@ -516,13 +513,11 @@
 139.135.46.104/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 141.98.234.166/32 # Hong Kong | Hong Kong | GLOBAL CONNECTIVITY SOLUTIONS LLP
 141.255.164.98/32 # Switzerland | Zurich | Private Layer INC
-142.214.203.108/32 # United States | Missouri | CYBERCON, INC.
 143.198.92.175/32 # Singapore | Southeast | Digitalocean, LLC
 143.198.126.108/32 # United States | New Jersey | Digitalocean, LLC
 143.198.148.103/32 # United States | California | Digitalocean, LLC
 143.244.41.219/32 # Netherlands | North Holland | Datacamp Limited
 143.244.41.251/32 # Netherlands | North Holland | Datacamp Limited
-144.126.220.244/32 # United States | California | Digitalocean, LLC
 144.172.91.104/32 # United States | Utah | Routerhosting LLC
 144.172.91.126/32 # United States | Utah | Routerhosting LLC
 146.70.79.18/32 # Hong Kong | Hong Kong | M Europe SRL
@@ -548,7 +543,6 @@
 151.236.16.167/32 # United States | California | M Europe SRL
 151.236.17.180/32 # Germany | Hesse | M Europe SRL
 152.42.136.140/32 # Netherlands | North Holland | Digitalocean, LLC
-152.42.143.79/32 # Netherlands | North Holland | Digitalocean, LLC
 153.141.232.18/32 # Japan | Tokyo | NTT Communications Corporation
 153.211.0.103/32 # Japan | Niigata Prefecture | NTT Communications Corporation
 154.6.13.139/32 # Germany | Hesse | Securelink Networks Ou
@@ -574,13 +568,13 @@
 156.244.27.246/32 # Bangladesh | Dhaka Division | Kaopu Cloud Hk Limited
 157.107.226.41/32 # Japan | Tokyo | Asahi Net
 157.173.104.153/32 # Germany | North Rhine-Westphalia | Contabo GmbH
-157.230.251.191/32 # Singapore | Southeast | Digitalocean, LLC
 158.247.208.174/32 # Republic of Korea |  | The Constant Company, LLC
 158.247.211.51/32 # Republic of Korea |  | The Constant Company, LLC
 158.247.222.165/32 # Republic of Korea |  | The Constant Company, LLC
 158.247.224.100/32 # Republic of Korea |  | The Constant Company, LLC
 159.65.241.37/32 # United States | New Jersey | Digitalocean, LLC
 159.65.243.11/32 # United States | New Jersey | Digitalocean, LLC
+159.89.101.130/32 # Germany | Hesse | Digitalocean, LLC
 159.89.148.157/32 # United States | California | Digitalocean, LLC
 159.138.138.163/32 # Hong Kong | Hong Kong | HUAWEI INTERNATIONAL PTE. LTD.
 159.223.37.117/32 # Singapore | Southeast | Digitalocean, LLC
@@ -609,7 +603,6 @@
 165.154.227.192/32 # Taiwan | Keelung City | Scloud Pte LTD
 165.227.38.1/32 # Canada | Ontario | Digitalocean, LLC
 165.227.113.183/32 # United States | New Jersey | Digitalocean, LLC
-165.227.124.167/32 # United States | New Jersey | Digitalocean, LLC
 165.227.147.162/32 # Germany | Hesse | Digitalocean, LLC
 165.227.158.198/32 # Germany | Hesse | Digitalocean, LLC
 165.232.126.33/32 # Germany | Hesse | Digitalocean, LLC
@@ -617,7 +610,6 @@
 166.1.173.65/32 # United States | Illinois | Atomic Networks LLC
 166.88.182.65/32 # United States | Illinois | Baxet Group Inc.
 166.88.182.126/32 # United States | Illinois | Baxet Group Inc.
-167.71.23.63/32 # United States | New Jersey | Digitalocean, LLC
 167.71.34.150/32 # Germany | Hesse | Digitalocean, LLC
 167.71.37.198/32 # Germany | Hesse | Digitalocean, LLC
 167.71.111.54/32 # United States | New Jersey | Digitalocean, LLC
@@ -659,7 +651,6 @@
 177.69.131.214/32 # Brazil | Espírito Santo | ALGAR TELECOM S A
 177.191.252.68/32 # Brazil | Espírito Santo | ALGAR TELECOM S A
 178.17.57.102/32 # Turkey | İstanbul | SUNUCUN BILGI ILETISIM TEKNOLOJILERI V...
-178.128.55.249/32 # Singapore | Southeast | Digitalocean, LLC
 178.175.134.52/32 # Republic of Moldova | Chisinau | Trabia SRL
 178.209.51.222/32 # Switzerland | Zurich | Nine Internet Solutions AG
 178.236.247.173/32 # United States | California | AEZA INTERNATIONAL LTD
@@ -722,7 +713,6 @@
 188.126.94.166/32 # Denmark | Denmark | Glesys Ab
 188.130.207.115/32 # France | Île-de-France | CGI GLOBAL LIMITED
 188.166.87.88/32 # Netherlands | North Holland | Digitalocean, LLC
-188.166.213.194/32 # Singapore | Southeast | Digitalocean, LLC
 188.213.34.24/32 # Turkey | İstanbul | M Europe SRL
 189.156.1.42/32 # Mexico | Coahuila | UNINET
 189.188.252.68/32 # Mexico |  | UNINET
@@ -805,7 +795,6 @@
 207.188.172.90/32 # Spain | Madrid | XTRA TELECOM S.A.
 208.68.38.168/32 # United States | New Jersey | Digitalocean, LLC
 208.109.231.95/32 # United States | Arizona | Godaddy.com, LLC
-209.38.29.93/32 # Australia | New South Wales | Digitalocean, LLC
 209.97.160.153/32 # Singapore | Southeast | Digitalocean, LLC
 209.105.148.9/32 # United States | Missouri | Consolidated Communications, Inc.
 209.141.43.37/32 # United States | Nevada | Frantech Solutions
