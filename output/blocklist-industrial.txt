@@ -53,6 +53,7 @@
 23.146.184.221/32 # United States | Illinois | Atomic Networks LLC
 24.144.121.128/32 # United States | New Jersey | Digitalocean, LLC
 27.43.206.132/32 # China | Guangdong Province | China Unicom Guangdong Provin...
+27.43.206.224/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.207.1/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.47.2.119/32 # China | Guangdong Province | China Unicom Guangzhou Network
 27.47.3.166/32 # China | Guangdong Province | China Unicom Guangzhou Network
@@ -162,6 +163,7 @@
 58.42.184.245/32 # China | Guizhou | CHINANET BACKBONE
 58.221.58.240/32 # China | Jiangsu | Chinanet
 59.88.33.182/32 # India | Kerala | Bharat Sanchar Nigam LTD
+59.88.132.24/32 # India | Kerala | Bharat Sanchar Nigam LTD
 59.88.141.233/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.91.163.34/32 # India | Haryana | Bharat Sanchar Nigam LTD
 59.92.165.192/32 # India | Kerala | Bharat Sanchar Nigam LTD
@@ -176,7 +178,6 @@
 61.3.132.166/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 61.52.86.108/32 # China | Henan | China Unicom China1 Backbone
 61.52.117.157/32 # China | Henan | China Unicom China1 Backbone
-61.52.229.104/32 # China | Henan | China Unicom China1 Backbone
 61.239.40.29/32 # Hong Kong | Hong Kong | Hong Kong Broadband Network Limited
 62.60.249.105/32 # Finland | Mainland Finland | AEZA INTERNATIONAL LTD
 62.173.140.223/32 # Russia | Moscow | Internet cosmos LLC
@@ -205,7 +206,6 @@
 72.18.215.108/32 # United States | Missouri | Wholesale Internet, Inc.
 74.113.97.40/32 # United States | District of Columbia | Nixlabs Networks
 74.113.97.44/32 # United States | District of Columbia | Nixlabs Networks
-74.113.97.115/32 # United States | District of Columbia | Nixlabs Networks
 74.126.70.154/32 # United States | Michigan | Com Net, Inc.
 75.76.77.78/32 # United States | Ohio | Breezeline
 75.110.226.226/32 # United States | Texas | Optimum
@@ -375,15 +375,14 @@
 103.91.64.214/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
 103.99.39.231/32 # India | Maharashtra | WEBYNE DATA CENTRE PRIVATE LIMITED
 103.99.196.19/32 # India | Delhi | Maxnet Digital Pvt LTD
-103.114.106.2/32 # Vietnam | Hanoi | VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 103.114.106.67/32 # Vietnam | Hanoi | VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 103.133.109.129/32 # Vietnam | Hanoi | VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-103.152.159.208/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.158.171.54/32 # India | Delhi | ONEOTT INTERTAINMENT LIMITED
 103.158.174.51/32 # India | Uttar Pradesh | Userlinks Netcom Pvt. Ltd.
 103.159.133.205/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
 103.159.133.251/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
 103.160.197.195/32 # India | Delhi | Userlinks Netcom Pvt. Ltd.
+103.160.197.254/32 # India | Delhi | Userlinks Netcom Pvt. Ltd.
 103.168.2.91/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.173.211.130/32 # India | Haryana | Fibre Air Services Private Limited
 103.182.116.104/32 # India | Andhra Pradesh | WEBMAX NETWORK SOLUTIONS PRIVATE ...
@@ -446,7 +445,6 @@
 117.209.87.246/32 # India | Gujarat | Bharat Sanchar Nigam LTD
 117.209.90.161/32 # India | Goa | Bharat Sanchar Nigam LTD
 117.209.95.163/32 # India | Mizoram | Bharat Sanchar Nigam LTD
-117.209.121.213/32 # India | West Bengal | Bharat Sanchar Nigam LTD
 117.217.88.103/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
 117.244.232.133/32 # India | Delhi | Bharat Sanchar Nigam LTD
 117.254.100.80/32 # India | Karnataka | Bharat Sanchar Nigam LTD
@@ -510,6 +508,7 @@
 141.98.234.166/32 # Hong Kong | Hong Kong | GLOBAL CONNECTIVITY SOLUTIONS LLP
 141.255.164.98/32 # Switzerland | Zurich | Private Layer INC
 143.110.189.145/32 # India | Karnataka | Digitalocean, LLC
+143.198.86.82/32 # Singapore | Southeast | Digitalocean, LLC
 143.198.92.175/32 # Singapore | Southeast | Digitalocean, LLC
 143.198.105.102/32 # United States | California | Digitalocean, LLC
 143.198.126.108/32 # United States | New Jersey | Digitalocean, LLC
@@ -648,7 +647,6 @@
 175.107.2.60/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.3.155/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.3.243/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
-175.107.37.220/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.37.234/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.39.47/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.208.15.203/32 # Republic of Korea | Jeju | Korea Telecom
