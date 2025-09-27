@@ -36,7 +36,6 @@
 13.78.113.103/32 # Japan | Tokyo | Microsoft Corporation
 13.232.191.219/32 # India | Maharashtra | Amazon.com, Inc.
 14.1.105.205/32 # Pakistan | Punjab | Cyber Internet Services private Limited
-14.33.215.88/32 # Republic of Korea | Gyeonggi | Korea Telecom
 15.188.246.198/32 # France | Île-de-France | Amazon.com, Inc.
 15.235.172.219/32 # Singapore | Southeast | OVH SAS
 20.37.116.136/32 # Japan | Tokyo | Microsoft Corporation
@@ -310,9 +309,7 @@
 95.181.235.8/32 # Saudi Arabia | Riyadh Region | M Europe SRL
 95.182.97.58/32 # France | Île-de-France | CGI GLOBAL LIMITED
 95.186.137.10/32 # Saudi Arabia | Makkah Region | Saudi Telecom Company JSC
-95.198.175.110/32 # Sweden | Stockholm County | Telia Company Ab
 95.216.196.85/32 # Finland | Mainland Finland | Hetzner Online GmbH
-95.245.51.88/32 # Italy | Lombardy | Telecom Italia S.P.A.
 96.9.125.147/32 # Romania | Bucharest | Bl Networks
 96.9.211.27/32 # Singapore | Southeast | Xtom Pty LTD
 97.64.81.119/32 # United States | New York | It Networks INC
@@ -422,7 +419,6 @@
 112.248.116.147/32 # China | Shandong | China Unicom China1 Backbone
 113.87.138.246/32 # China | Guangdong Province | No. 1,jin rong Street
 113.111.247.97/32 # China | Guangdong Province | Chinanet
-113.161.25.14/32 # Vietnam | Gia Lai Province | Vnpt Corp
 113.230.55.110/32 # China | Liaoning | China Unicom China1 Backbone
 115.48.59.214/32 # China | Henan | China Unicom China1 Backbone
 115.55.156.230/32 # China | Henan | China Unicom China1 Backbone
@@ -448,6 +444,7 @@
 120.85.113.195/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.114.78/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
 120.85.116.210/32 # China | Guangdong Province | China Unicom Guangzhou Network
+120.85.117.225/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.138.12.107/32 # India | Tamil Nadu | Railtel Corporation of India Ltd.
 121.37.80.227/32 # China | Beijing | Huawei Cloud Service Data Center
 121.127.34.118/32 # United States | Illinois | Ryamer, LLC
@@ -481,7 +478,6 @@
 139.5.11.160/32 # India | Odisha | Railtel Corporation of India Ltd.
 139.59.108.43/32 # Singapore | Southeast | Digitalocean, LLC
 139.59.142.188/32 # Germany | Hesse | Digitalocean, LLC
-139.59.169.22/32 # United Kingdom | England | Digitalocean, LLC
 139.59.236.31/32 # Singapore | Southeast | Digitalocean, LLC
 139.84.156.79/32 # India | Karnataka | The Constant Company, LLC
 139.99.114.108/32 # Singapore | Southeast | OVH SAS
@@ -490,12 +486,12 @@
 141.98.234.166/32 # Hong Kong | Hong Kong | GLOBAL CONNECTIVITY SOLUTIONS LLP
 141.255.164.98/32 # Switzerland | Zurich | Private Layer INC
 143.110.189.145/32 # India | Karnataka | Digitalocean, LLC
+143.198.37.213/32 # Canada | Ontario | Digitalocean, LLC
 143.198.86.82/32 # Singapore | Southeast | Digitalocean, LLC
 143.198.92.175/32 # Singapore | Southeast | Digitalocean, LLC
 143.198.105.102/32 # United States | California | Digitalocean, LLC
 143.198.148.103/32 # United States | California | Digitalocean, LLC
 143.244.41.219/32 # Netherlands | North Holland | Datacamp Limited
-143.244.41.251/32 # Netherlands | North Holland | Datacamp Limited
 144.129.7.50/32 # United States | Colorado | Charter Communications, INC
 144.172.91.126/32 # United States | Utah | Routerhosting LLC
 146.70.38.79/32 # Argentina | Buenos Aires | M Europe SRL
@@ -545,7 +541,6 @@
 154.211.89.5/32 # Hong Kong | Hong Kong | Tcloudnet
 154.216.16.111/32 # Republic of Lithuania | Vilnius County | Larus Limited
 156.146.60.74/32 # Austria | Vienna | Datacamp Limited
-156.228.185.41/32 # Germany | Hesse | xk Tech GmbH
 156.238.236.130/32 # Hong Kong | Hong Kong | Cognetcloud INC
 156.244.6.68/32 # Russia | Moscow | Kaopu Cloud Hk Limited
 156.244.27.246/32 # Bangladesh | Dhaka Division | Kaopu Cloud Hk Limited
@@ -569,7 +564,6 @@
 160.30.172.107/32 # Vietnam | Hà Nội | Thien Quang Digital Technology Joint St...
 160.191.77.89/32 # Singapore | Southeast | Webhorizon Internet Services
 161.35.78.64/32 # Germany | Hesse | Digitalocean, LLC
-161.35.179.13/32 # United States | New Jersey | Digitalocean, LLC
 162.19.135.182/32 # Germany | Schleswig-Holstein | OVH SAS
 162.33.177.56/32 # United States | Illinois | Bl Networks
 162.33.178.196/32 # United States | Illinois | Bl Networks
@@ -578,7 +572,6 @@
 162.243.120.201/32 # United States | New Jersey | Digitalocean, LLC
 162.243.203.246/32 # United States | New Jersey | Digitalocean, LLC
 162.243.212.56/32 # United States | New Jersey | Digitalocean, LLC
-162.255.251.91/32 # Canada | British Columbia | GOCO TECHNOLOGY LIMITED PARTNE...
 163.116.128.80/32 # United States | California | Netskope INC
 163.204.32.255/32 # China | Guangdong Province | China Unicom Ip Network China...
 163.227.230.253/32 # Vietnam | Bac Lieu province | EZ TECHNOLOGY COMPANY LIMITED
@@ -659,8 +652,8 @@
 181.214.166.132/32 # United States | Illinois | Cogent Communications
 181.215.246.155/32 # Malaysia | Federal Territory of Kuala Lumpur | Gigabit Hos...
 182.116.29.66/32 # China | Henan | China Unicom China1 Backbone
+182.126.122.180/32 # China | Henan | China Unicom China1 Backbone
 182.240.228.181/32 # China | Yunnan | No. 1,jin rong Street
-183.106.42.146/32 # Republic of Korea | Gyeonggi | Korea Telecom
 185.22.153.228/32 # Russia | Moscow | LLC Baxet
 185.49.69.41/32 # Germany | Hamburg | Leaseweb Deutschland GmbH
 185.72.8.129/32 # United States | Georgia | Baxet Group Inc.
@@ -788,7 +781,6 @@
 212.237.217.182/32 # Finland | Mainland Finland | HOSTKEY B.V.
 216.126.236.211/32 # United States | Utah | Routerhosting LLC
 216.245.184.181/32 # United States | Illinois | Bl Networks
-220.201.89.153/32 # China | Beijing | China Unicom China1 Backbone
 220.253.227.169/32 # Australia | New South Wales | Tpg Internet Pty LTD
 221.159.119.6/32 # Republic of Korea | North Jeolla | Korea Telecom
 222.104.73.118/32 # Republic of Korea | North Gyeongsang | Korea Telecom
