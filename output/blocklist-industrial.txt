@@ -20,6 +20,7 @@
 216.126.237.0/24 # United States | Utah | Routerhosting LLC
 1.53.193.248/32 # Vietnam | Hanoi | Fpt Telecom Company
 1.220.228.82/32 # Republic of Korea |  | Lg Dacom Corporation
+2.38.150.1/32 # Italy | Sicily | Vodafone Italia S.P.A.
 2.38.150.141/32 # Italy | Sicily | Vodafone Italia S.P.A.
 2.38.150.189/32 # Italy | Sicily | Vodafone Italia S.P.A.
 2.38.151.110/32 # Italy | Sicily | Vodafone Italia S.P.A.
@@ -76,7 +77,6 @@
 23.146.184.221/32 # United States | Illinois | Atomic Networks LLC
 24.144.121.128/32 # United States | New Jersey | Digitalocean, LLC
 27.37.87.81/32 # China | Guangdong Province | China Unicom Guangdong Provin...
-27.43.204.84/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.204.206/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.206.132/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.206.224/32 # China | Guangdong Province | China Unicom Guangdong Provin...
@@ -90,6 +90,7 @@
 27.124.37.30/32 # Japan | Tokyo | Ctg Server Limited
 27.124.37.59/32 # Japan | Tokyo | Ctg Server Limited
 27.124.37.64/32 # Japan | Tokyo | Ctg Server Limited
+27.206.240.91/32 # China | Shandong | China Unicom China1 Backbone
 27.252.30.116/32 # New Zealand | Auckland | One New Zealand Group Limited
 31.177.109.39/32 # Russia | Moscow | LLC Smart Ape
 31.192.107.157/32 # Russia | Moscow | HOSTKEY B.V.
@@ -106,6 +107,7 @@
 36.255.4.162/32 # India | Karnataka | Railtel Corporation of India Ltd.
 36.255.6.222/32 # India | Karnataka | Railtel Corporation of India Ltd.
 36.255.7.169/32 # India | Karnataka | Railtel Corporation of India Ltd.
+36.255.18.78/32 # India | Telangana | Railtel Corporation of India Ltd.
 37.19.197.182/32 # United States | New York | Datacamp Limited
 37.19.197.211/32 # United States | New York | Datacamp Limited
 37.46.113.206/32 # Luxembourg | Canton Capellen | Altushost B.V.
@@ -130,6 +132,7 @@
 43.226.126.164/32 # Hong Kong | Hong Kong | Ctg Server Limited
 43.226.126.165/32 # Hong Kong | Hong Kong | Ctg Server Limited
 43.229.79.163/32 # Thailand | Bangkok | Siamdata Communication CO.,LTD.
+43.242.200.217/32 # Hong Kong | Hong Kong | Cognetcloud INC
 43.247.135.53/32 # Hong Kong | Hong Kong | XNNET LLC
 43.247.135.106/32 # Hong Kong | Hong Kong | XNNET LLC
 43.248.136.110/32 # China | Jiangsu | China Telecom
@@ -196,7 +199,6 @@
 45.147.247.244/32 # United States | California | Clouvider Limited
 45.149.80.43/32 # United States | New York | Clouvider Limited
 45.149.80.138/32 # United States | New York | Clouvider Limited
-45.149.80.140/32 # United States | New York | Clouvider Limited
 45.149.80.150/32 # United States | New York | Clouvider Limited
 45.149.81.25/32 # United States | New York | Clouvider Limited
 45.149.81.106/32 # United States | New York | Clouvider Limited
@@ -245,14 +247,12 @@
 59.88.143.67/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
 59.88.145.63/32 # India | Kerala | Bharat Sanchar Nigam LTD
 59.91.163.34/32 # India | Haryana | Bharat Sanchar Nigam LTD
-59.92.94.243/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
 59.92.165.192/32 # India | Kerala | Bharat Sanchar Nigam LTD
 59.92.181.60/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.93.23.228/32 # India | Kerala | Bharat Sanchar Nigam LTD
 59.93.90.205/32 # India | Telangana | Bharat Sanchar Nigam LTD
 59.94.70.252/32 # India | Kerala | Bharat Sanchar Nigam LTD
 59.94.126.56/32 # India | Karnataka | Bharat Sanchar Nigam LTD
-59.97.255.75/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
 59.120.142.185/32 # Taiwan | Taipei City | Chunghwa Telecom Co., Ltd.
 59.182.83.34/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
 59.182.110.90/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
@@ -480,7 +480,6 @@
 103.91.64.214/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
 103.99.39.231/32 # India | Maharashtra | WEBYNE DATA CENTRE PRIVATE LIMITED
 103.99.196.19/32 # India | Delhi | Maxnet Digital Pvt LTD
-103.110.16.93/32 # India | Haryana | Mynext Broadband Services Pvt LTD
 103.114.106.2/32 # Vietnam | Hanoi | VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 103.114.106.67/32 # Vietnam | Hanoi | VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 103.133.109.129/32 # Vietnam | Hanoi | VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
@@ -502,7 +501,6 @@
 103.160.197.195/32 # India | Delhi | Userlinks Netcom Pvt. Ltd.
 103.160.197.254/32 # India | Delhi | Userlinks Netcom Pvt. Ltd.
 103.167.204.125/32 # India | Haryana | Fibre Air Services Private Limited
-103.168.2.56/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.168.2.91/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.173.211.130/32 # India | Haryana | Fibre Air Services Private Limited
 103.182.116.104/32 # India | Andhra Pradesh | WEBMAX NETWORK SOLUTIONS PRIVATE ...
@@ -563,7 +561,6 @@
 110.37.38.2/32 # Pakistan | Punjab | Wateen Telecom Limited
 110.37.44.120/32 # Pakistan | Punjab | Wateen Telecom Limited
 110.45.186.8/32 # Republic of Korea | Gyeonggi | Lg Dacom Corporation
-111.18.176.111/32 # China | Guangdong Province | China Mobile Communications C...
 111.55.74.30/32 # China | Jiangsu | China Mobile Communications Corporation
 111.55.75.142/32 # China | Jiangsu | China Mobile Communications Corporation
 111.250.110.247/32 # Taiwan | Taichung City | Chunghwa Telecom Co., Ltd.
@@ -594,7 +591,6 @@
 117.205.167.148/32 # India | Rajasthan | Bharat Sanchar Nigam LTD
 117.205.171.22/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.206.22.96/32 # India | Karnataka | Bharat Sanchar Nigam LTD
-117.206.69.150/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.206.76.215/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.206.133.145/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.206.184.205/32 # India | Delhi | Bharat Sanchar Nigam LTD
@@ -698,7 +694,6 @@
 139.135.46.104/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 141.255.164.98/32 # Switzerland | Zurich | Private Layer INC
 142.93.12.139/32 # United States | New Jersey | Digitalocean, LLC
-142.93.100.224/32 # Germany | Hesse | Digitalocean, LLC
 142.214.203.108/32 # United States | Missouri | CYBERCON, INC.
 143.110.189.145/32 # India | Karnataka | Digitalocean, LLC
 143.198.37.213/32 # Canada | Ontario | Digitalocean, LLC
@@ -729,7 +724,6 @@
 147.45.133.68/32 # Netherlands | North Holland | Timeweb, LLP
 147.135.244.43/32 # France | Hauts-de-France | OVH SAS
 147.182.148.183/32 # Canada | Ontario | Digitalocean, LLC
-147.182.214.233/32 # United States | New Jersey | Digitalocean, LLC
 147.182.246.203/32 # United States | California | Digitalocean, LLC
 147.185.221.24/32 # United States | Nevada | Developed Methods LLC
 148.113.214.176/32 # Canada | Québec | OVH SAS
@@ -776,7 +770,6 @@
 158.247.222.165/32 # Republic of Korea |  | The Constant Company, LLC
 158.247.224.100/32 # Republic of Korea |  | The Constant Company, LLC
 159.65.7.43/32 # Singapore | Southeast | Digitalocean, LLC
-159.65.41.28/32 # United States | New Jersey | Digitalocean, LLC
 159.65.57.26/32 # United Kingdom | England | Digitalocean, LLC
 159.65.241.37/32 # United States | New Jersey | Digitalocean, LLC
 159.65.243.11/32 # United States | New Jersey | Digitalocean, LLC
@@ -804,7 +797,6 @@
 162.243.120.201/32 # United States | New Jersey | Digitalocean, LLC
 162.243.203.246/32 # United States | New Jersey | Digitalocean, LLC
 162.243.212.56/32 # United States | New Jersey | Digitalocean, LLC
-162.243.254.35/32 # United States | New Jersey | Digitalocean, LLC
 162.255.251.91/32 # Canada | British Columbia | GOCO TECHNOLOGY LIMITED PARTNE...
 163.116.128.80/32 # United States | California | Netskope INC
 163.123.19.88/32 # United States | North Dakota | Midcontinent Communications
@@ -1139,6 +1131,7 @@
 213.166.94.241/32 # United States | New York | Shock Hosting LLC
 216.126.236.211/32 # United States | Utah | Routerhosting LLC
 216.245.184.181/32 # United States | Illinois | Bl Networks
+217.114.43.19/32 # Russia | Moscow | Cloud Hosting Solutions, Limited.
 218.158.250.34/32 # Republic of Korea | Gyeonggi | Korea Telecom
 220.201.89.153/32 # China | Beijing | China Unicom China1 Backbone
 220.253.227.169/32 # Australia | New South Wales | Tpg Internet Pty LTD
