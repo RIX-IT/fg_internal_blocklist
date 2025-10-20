@@ -1,7 +1,6 @@
 5.181.3.0/24 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 46.246.3.0/24 # Sweden | Stockholm County | Glesys Ab
 46.246.8.0/24 # Sweden | Stockholm County | Glesys Ab
-77.90.135.0/24 # United States | Minnesota | Railnet LLC
 89.185.80.0/24 # United States | Arizona | GLOBAL CONNECTIVITY SOLUTIONS LLP
 92.118.112.0/24 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 103.81.230.0/24 # United States | District of Columbia | Hostroyale Technolo...
@@ -12,11 +11,8 @@
 155.2.191.0/24 # United States | Ohio | Host Universal Pty LTD
 158.94.209.0/24 # Germany | Schleswig-Holstein | Metaspinner Net GmbH
 172.86.91.0/24 # United States | Texas | Routerhosting LLC
-185.230.13.0/24 # Germany | Schleswig-Holstein | Railnet LLC
-185.230.15.0/24 # Germany | Schleswig-Holstein | Railnet LLC
 208.131.130.0/24 # United States | Ohio | Uk Limited
 212.18.104.0/24 # United States | Arizona | GLOBAL CONNECTIVITY SOLUTIONS LLP
-213.209.157.0/24 # Germany | Bavaria | Railnet LLC
 216.126.237.0/24 # United States | Utah | Routerhosting LLC
 1.53.193.248/32 # Vietnam | Hanoi | Fpt Telecom Company
 1.220.228.82/32 # Republic of Korea |  | Lg Dacom Corporation
@@ -63,6 +59,7 @@
 13.78.113.103/32 # Japan | Tokyo | Microsoft Corporation
 13.232.191.219/32 # India | Maharashtra | Amazon.com, Inc.
 14.1.105.205/32 # Pakistan | Punjab | Cyber Internet Services private Limited
+14.1.106.27/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 14.33.215.88/32 # Republic of Korea | Gyeonggi | Korea Telecom
 14.46.125.153/32 # Republic of Korea | North Gyeongsang | Korea Telecom
 14.224.219.66/32 # Vietnam | Hanoi | Vnpt Corp
@@ -104,7 +101,6 @@
 31.222.247.133/32 # United States | New York | Clouvider Limited
 31.222.247.177/32 # United States | Texas | Clouvider Limited
 31.222.247.203/32 # United States | New York | Clouvider Limited
-34.41.138.226/32 # United States | Iowa | Google LLC
 34.71.237.156/32 # United States | Iowa | Google LLC
 34.72.90.40/32 # United States | Iowa | Google LLC
 36.155.87.54/32 # China | Jiangsu | China Mobile Communications Corporation
@@ -537,6 +533,7 @@
 103.160.197.195/32 # India | Delhi | Userlinks Netcom Pvt. Ltd.
 103.160.197.254/32 # India | Delhi | Userlinks Netcom Pvt. Ltd.
 103.167.204.125/32 # India | Haryana | Fibre Air Services Private Limited
+103.168.2.89/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.168.2.91/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.173.211.130/32 # India | Haryana | Fibre Air Services Private Limited
 103.182.116.104/32 # India | Andhra Pradesh | WEBMAX NETWORK SOLUTIONS PRIVATE ...
@@ -603,6 +600,7 @@
 111.55.75.142/32 # China | Jiangsu | China Mobile Communications Corporation
 111.228.32.15/32 # China | Beijing | China Telecom
 111.250.110.247/32 # Taiwan | Taichung City | Chunghwa Telecom Co., Ltd.
+112.81.76.66/32 # China | Jiangsu | China Unicom China1 Backbone
 112.94.98.155/32 # China | Guangdong Province | China Unicom CHINA1 Guangdong...
 112.232.20.166/32 # China | Shandong | China Unicom China1 Backbone
 112.248.3.64/32 # China | Shandong | China Unicom China1 Backbone
@@ -649,7 +647,6 @@
 117.217.88.103/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
 117.244.232.133/32 # India | Delhi | Bharat Sanchar Nigam LTD
 117.247.153.64/32 # India | Gujarat | Bharat Sanchar Nigam LTD
-117.248.25.178/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
 117.254.100.80/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 118.41.203.50/32 # Republic of Korea | North Gyeongsang | Korea Telecom
 118.43.117.160/32 # Republic of Korea | North Jeolla | Korea Telecom
@@ -694,8 +691,10 @@
 124.49.50.94/32 # Republic of Korea |  | LG POWERCOMM
 124.156.48.83/32 # India | Maharashtra | Shenzhen Tencent Computer Systems Co...
 124.197.125.156/32 # Singapore | Southeast | M1 LIMITED
+124.221.69.147/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
 125.17.108.32/32 # India | Haryana | Bharti Airtel Limited
 125.41.7.216/32 # China | Henan | China Unicom China1 Backbone
+125.124.123.40/32 # China | Zhejiang | No. ,fu chun Road
 125.139.58.46/32 # Republic of Korea | Gyeonggi | Korea Telecom
 128.127.180.156/32 # Belgium | Walloon Brabant | VERIXI SA
 128.199.25.3/32 # India | Karnataka | Digitalocean, LLC
@@ -721,7 +720,6 @@
 138.197.132.193/32 # Canada | Ontario | Digitalocean, LLC
 138.197.199.146/32 # United States | California | Digitalocean, LLC
 138.197.204.26/32 # United States | California | Digitalocean, LLC
-139.5.0.180/32 # India | Punjab | Railtel Corporation of India Ltd.
 139.5.0.255/32 # India | Punjab | Railtel Corporation of India Ltd.
 139.5.1.120/32 # India | Uttarakhand | Railtel Corporation of India Ltd.
 139.5.1.157/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
@@ -801,6 +799,7 @@
 154.216.16.111/32 # Republic of Lithuania | Vilnius County | Larus Limited
 156.146.60.74/32 # Austria | Vienna | Datacamp Limited
 156.228.185.41/32 # Germany | Hesse | xk Tech GmbH
+156.229.244.118/32 # United States | California | Clouvider Limited
 156.229.254.93/32 # United States | California | Clouvider Limited
 156.229.255.39/32 # United States | California | Clouvider Limited
 156.233.0.170/32 # United States | New York | Clouvider Limited
@@ -926,6 +925,7 @@
 174.138.3.148/32 # Netherlands | North Holland | Digitalocean, LLC
 174.138.56.49/32 # United States | New Jersey | Digitalocean, LLC
 175.44.158.213/32 # China | Fujian | China Unicom China1 Backbone
+175.107.0.155/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.0.241/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.2.60/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.3.155/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
@@ -951,6 +951,7 @@
 178.16.55.65/32 # United States | New York | Metaspinner Net GmbH
 178.17.57.102/32 # Turkey | İstanbul | SUNUCUN BILGI ILETISIM TEKNOLOJILERI V...
 178.62.207.14/32 # Netherlands | North Holland | Digitalocean, LLC
+178.128.159.29/32 # United States | New Jersey | Digitalocean, LLC
 178.142.220.73/32 # Germany | Lower Saxony | Ewe Tel GmbH
 178.159.93.222/32 # United States | New York | Clouvider Limited
 178.175.134.52/32 # Republic of Moldova | Chisinau | Trabia SRL
@@ -1150,6 +1151,7 @@
 206.188.196.20/32 # Netherlands | North Holland | Bl Networks
 206.188.197.52/32 # Netherlands | North Holland | Bl Networks
 206.189.1.18/32 # Netherlands | North Holland | Digitalocean, LLC
+206.189.121.14/32 # United Kingdom | England | Digitalocean, LLC
 206.189.147.199/32 # Singapore | Southeast | Digitalocean, LLC
 206.206.77.33/32 # Singapore | Southeast | Regxa Company for Information Tech...
 206.237.0.49/32 # Hong Kong | Hong Kong | XNNET LLC
@@ -1229,5 +1231,4 @@
 222.221.229.59/32 # China | Yunnan | Chinanet
 222.254.34.39/32 # Vietnam | Hanoi | Vnpt Corp
 223.139.82.62/32 # Taiwan | Tainan City | Mobile Business Group
-223.152.197.233/32 # China | Hunan | No. 1,jin rong Street
 223.184.254.150/32 # India | Rajasthan | Bharti Airtel Limited
