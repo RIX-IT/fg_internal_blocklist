@@ -1,6 +1,4 @@
 5.181.3.0/24 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
-46.246.3.0/24 # Sweden | Stockholm County | Glesys Ab
-46.246.8.0/24 # Sweden | Stockholm County | Glesys Ab
 89.185.80.0/24 # United States | Arizona | GLOBAL CONNECTIVITY SOLUTIONS LLP
 92.118.112.0/24 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 103.81.230.0/24 # United States | District of Columbia | Hostroyale Technolo...
@@ -8,7 +6,6 @@
 103.199.180.0/24 # India | Jharkhand | Railtel Corporation of India Ltd.
 103.210.101.0/24 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
 144.172.97.0/24 # United States | Utah | Routerhosting LLC
-149.57.16.0/24 # Netherlands | North Holland | Ipv Superhub Limited
 155.2.191.0/24 # United States | Ohio | Host Universal Pty LTD
 158.94.209.0/24 # Germany | Schleswig-Holstein | Metaspinner Net GmbH
 172.86.91.0/24 # United States | Texas | Routerhosting LLC
@@ -101,8 +98,6 @@
 36.255.4.162/32 # India | Karnataka | Railtel Corporation of India Ltd.
 36.255.7.169/32 # India | Karnataka | Railtel Corporation of India Ltd.
 36.255.18.78/32 # India | Telangana | Railtel Corporation of India Ltd.
-37.19.197.182/32 # United States | New York | Datacamp Limited
-37.46.113.206/32 # Luxembourg | Canton Capellen | Altushost B.V.
 37.114.46.25/32 # Germany | Bavaria | Florian Kolb
 37.119.236.18/32 # Italy | Sicily | Vodafone Italia S.P.A.
 37.119.236.42/32 # Italy | Sicily | Vodafone Italia S.P.A.
@@ -163,7 +158,6 @@
 45.87.127.113/32 # United States | California | Clouvider Limited
 45.87.127.196/32 # United States | New York | Clouvider Limited
 45.87.127.235/32 # United States | New York | Clouvider Limited
-45.88.97.225/32 # Germany | Hesse | Cogent Communications
 45.94.47.102/32 # Finland | Mainland Finland | HOSTKEY B.V.
 45.94.47.103/32 # Finland | Mainland Finland | HOSTKEY B.V.
 45.94.47.136/32 # Finland | Mainland Finland | HOSTKEY B.V.
@@ -235,7 +229,6 @@
 46.232.43.103/32 # United States | New York | Clouvider Limited
 46.232.44.193/32 # United States | New York | Clouvider Limited
 46.246.122.54/32 # Norway | Oslo | Glesys Ab
-46.246.122.185/32 # Norway | Oslo | Glesys Ab
 47.53.185.217/32 # Italy | Apulia | Vodafone Italia S.P.A.
 47.83.8.198/32 # Hong Kong | Hong Kong | Alibaba us Technology Co., Ltd.
 47.97.42.177/32 # China | Zhejiang | Hangzhou Alibaba Advertising CO.,LTD.
@@ -390,8 +383,6 @@
 84.200.77.213/32 # Germany | Hesse | Ultahost, Inc.
 84.200.154.47/32 # Germany | Berlin | Firstcolo GmbH
 84.200.154.105/32 # Germany | Rhineland-Palatinate | Ultahost, Inc.
-84.239.25.13/32 # United States | Minnesota | Datacamp Limited
-84.239.45.17/32 # United States | Rhode Island | Datacamp Limited
 85.73.241.136/32 # Greece | Epirus and Western Macedonia | Ote SA hellenic Te...
 85.106.113.168/32 # Turkey | Balıkesir | Ttnet A.S.
 85.192.49.118/32 # Finland | Mainland Finland | H NEXUS LTD
@@ -414,7 +405,6 @@
 89.23.96.126/32 # Russia | Sverdlovsk Oblast | LLC Smart Ape
 89.117.1.173/32 # Germany | Hesse | Hosteons Pte. Ltd.
 89.117.79.31/32 # United States | New York | Nubes, LLC
-89.149.38.204/32 # Switzerland | Zurich | Ines Group SRL
 90.146.178.92/32 # Austria | Upper Austria | Liwest Kabelmedien GmbH
 91.90.195.91/32 # United States | New York | GREEN FLOID LLC
 91.124.17.216/32 # United States | District of Columbia | Cogent Communicatio...
@@ -442,10 +432,6 @@
 94.158.244.113/32 # United States | Oregon | Mivocloud SRL
 94.232.249.36/32 # Netherlands | North Holland | PSB HOSTING LTD
 95.169.180.122/32 # United States | Illinois | Latitude.sh LTDA
-95.181.234.12/32 # Qatar | Doha | M Europe SRL
-95.181.234.15/32 # Qatar | Doha | M Europe SRL
-95.181.234.25/32 # Qatar | Doha | M Europe SRL
-95.181.235.8/32 # Saudi Arabia | Riyadh Region | M Europe SRL
 95.186.137.10/32 # Saudi Arabia | Makkah Region | Saudi Telecom Company JSC
 95.214.83.9/32 # United States | Pennsylvania | Clouvider Limited
 96.9.125.147/32 # Romania | Bucharest | Bl Networks
@@ -458,15 +444,10 @@
 101.99.91.107/32 # Malaysia | Federal Territory of Kuala Lumpur | Shinjiru Te...
 102.36.229.83/32 # Nigeria | Lagos | Timeless Network Services LTD
 102.88.55.49/32 # Nigeria | Lagos | Mtn Nigeria Communication Limited
-102.129.152.60/32 # United States | Florida | Cogent Communications
 102.129.153.134/32 # United States | Florida | Cogent Communications, LLC
 102.129.153.158/32 # United States | Florida | Cogent Communications, LLC
-102.129.153.182/32 # United States | Florida | Cogent Communications
 102.129.153.192/32 # United States | Florida | Cogent Communications, LLC
-102.129.235.127/32 # United States | District of Columbia | Cogent Communications
-102.129.235.186/32 # United States | District of Columbia | Cogent Communications
 102.135.95.102/32 # Turkey | İstanbul | SUNUCUN BILGI ILETISIM TEKNOLOJILERI V...
-102.165.16.127/32 # United States | New Jersey | Cogent Communications
 102.212.41.8/32 # Nigeria | Akwa Ibom | Connect, Surf And Smile Limited
 103.13.31.75/32 # Thailand | Nakhon Si Thammarat Province | Siamdata Communi...
 103.20.103.50/32 # Vietnam | Hanoi | ODS ONLINE DATA SOLUTION JOINT STOCK COM...
@@ -514,6 +495,7 @@
 103.168.2.89/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.168.2.91/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.173.211.130/32 # India | Haryana | Fibre Air Services Private Limited
+103.175.29.60/32 # India | Maharashtra | Userlinks Netcom Pvt. Ltd.
 103.182.116.104/32 # India | Andhra Pradesh | WEBMAX NETWORK SOLUTIONS PRIVATE ...
 103.182.116.107/32 # India | Andhra Pradesh | WEBMAX NETWORK SOLUTIONS PRIVATE ...
 103.183.3.10/32 # Hong Kong | Hong Kong | GNET INC.
@@ -722,7 +704,6 @@
 146.70.38.79/32 # Argentina | Buenos Aires | M Europe SRL
 146.70.79.18/32 # Hong Kong | Hong Kong | M Europe SRL
 146.70.79.105/32 # Hong Kong | Hong Kong | M Europe SRL
-146.70.102.3/32 # United Arab Emirates | Dubai | M Europe SRL
 146.190.94.251/32 # Singapore | Southeast | Digitalocean, LLC
 146.190.243.131/32 # Canada | Ontario | Digitalocean, LLC
 146.190.249.29/32 # Canada | Ontario | Digitalocean, LLC
@@ -740,7 +721,6 @@
 148.113.214.176/32 # Canada | Québec | OVH SAS
 149.28.130.195/32 # Singapore | Southeast | The Constant Company, LLC
 149.28.137.254/32 # Singapore | Southeast | The Constant Company, LLC
-149.40.50.45/32 # United States | Massachusetts | Datacamp Limited
 149.102.243.100/32 # United States | California | Datacamp Limited
 149.104.23.176/32 # Hong Kong | Hong Kong | XNNET LLC
 149.115.250.19/32 # United States | California | Cogent Communications
@@ -753,18 +733,12 @@
 152.53.100.133/32 # Austria | Carinthia | Netcup GmbH
 152.252.24.125/32 # Brazil | State of São Paulo | TELEF NICA BRASIL S.A
 153.211.0.103/32 # Japan | Niigata Prefecture | NTT Communications Corporation
-154.6.13.139/32 # Germany | Hesse | Securelink Networks Ou
-154.6.13.144/32 # Germany | Hesse | Securelink Networks Ou
-154.6.13.151/32 # Germany | Hesse | Securelink Networks Ou
-154.16.192.37/32 # United States | New York | Cogent Communications
-154.16.192.38/32 # United States | New York | Cogent Communications
 154.82.85.79/32 # Hong Kong | Hong Kong | Tcloudnet
 154.91.196.185/32 # Hong Kong | Hong Kong | Vh Global Limited
 154.201.68.57/32 # Hong Kong | Hong Kong | High Family Technology Co., Limited
 154.211.89.5/32 # Hong Kong | Hong Kong | Tcloudnet
 154.216.16.111/32 # Republic of Lithuania | Vilnius County | Larus Limited
 155.138.150.12/32 # Canada | Ontario | The Constant Company, LLC
-156.146.60.74/32 # Austria | Vienna | Datacamp Limited
 156.229.244.118/32 # United States | California | Clouvider Limited
 156.229.254.93/32 # United States | California | Clouvider Limited
 156.229.255.39/32 # United States | California | Clouvider Limited
@@ -775,7 +749,6 @@
 156.244.27.246/32 # Bangladesh | Dhaka Division | Kaopu Cloud Hk Limited
 157.66.26.209/32 # Vietnam | Ho Chi Minh City | TRUMVPS COMPANY LIMITED
 157.107.226.41/32 # Japan | Yamagata Prefecture | Asahi Net
-157.173.104.153/32 # Germany | North Rhine-Westphalia | Contabo GmbH
 157.245.43.175/32 # United Kingdom | England | Digitalocean, LLC
 157.245.164.229/32 # United States | California | Digitalocean, LLC
 158.46.179.103/32 # United States | California | Clouvider Limited
@@ -878,14 +851,12 @@
 172.96.15.103/32 # United States | Missouri | Unreal Servers, LLC
 172.96.15.104/32 # United States | Missouri | Unreal Servers, LLC
 172.96.137.224/32 # United States | Texas | Shock Hosting LLC
-172.98.71.191/32 # Canada | Québec | Performive LLC
 172.105.80.201/32 # Germany | Hesse | Akamai Technologies, Inc.
 172.121.241.199/32 # United States | Nevada | Clouvider Limited
 172.210.58.69/32 # United States | Virginia | Microsoft Corporation
 172.245.52.169/32 # Ireland | Leinster | HostPapa
 173.44.141.226/32 # United States | Florida | Eonix Corporation
 173.232.146.90/32 # United States | Nevada | Eonix Corporation
-173.239.232.20/32 # United States | Colorado | Performive LLC
 173.254.204.72/32 # United States | California | HostPapa
 174.138.3.148/32 # Netherlands | North Holland | Digitalocean, LLC
 174.138.56.49/32 # United States | New Jersey | Digitalocean, LLC
@@ -922,8 +893,6 @@
 180.178.109.193/32 # Indonesia | Special Capital Region of Jakarta | PT. HIPERN...
 180.178.122.131/32 # Australia | Queensland | All Interactive Distribution
 180.178.189.17/32 # Pakistan | Islamabad Capital Territory | FEMO IT SOLUTIONS...
-181.214.166.59/32 # United States | Illinois | Cogent Communications
-181.214.166.132/32 # United States | Illinois | Cogent Communications
 181.215.246.155/32 # Malaysia | Federal Territory of Kuala Lumpur | Gigabit Hos...
 182.60.10.53/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
 182.112.31.187/32 # China | Henan | China Unicom China1 Backbone
@@ -974,10 +943,6 @@
 185.253.45.26/32 # Poland | Pomeranian Voivodeship | GREEN FLOID LLC
 186.2.163.10/32 # Belize | Cayo | Iqweb Fz llc
 187.72.114.96/32 # Brazil | Espírito Santo | ALGAR TELECOM S A
-188.126.89.35/32 # Finland | Mainland Finland | Glesys Ab
-188.126.94.57/32 # Denmark | Denmark | Glesys Ab
-188.126.94.60/32 # Denmark | Denmark | Glesys Ab
-188.126.94.166/32 # Denmark | Denmark | Glesys Ab
 188.130.207.115/32 # France | Île-de-France | CGI GLOBAL LIMITED
 188.166.22.17/32 # Netherlands | North Holland | Digitalocean, LLC
 188.166.32.249/32 # Netherlands | North Holland | Digitalocean, LLC
@@ -988,17 +953,7 @@
 190.109.225.31/32 # Bolivia | La Paz | Cotel Ltda.
 190.219.85.123/32 # Panama | Panama | Cable Onda
 191.54.186.17/32 # Brazil | Espírito Santo | ALGAR TELECOM S A
-191.96.106.33/32 # United States | California | Cogent Communications
-191.96.150.14/32 # United States | New York | Cogent Communications
-191.96.150.21/32 # United States | New York | Cogent Communications
-191.96.150.50/32 # United States | New York | Cogent Communications
-191.96.150.96/32 # United States | New York | Cogent Communications
-191.96.227.102/32 # United States | New York | Cogent Communications
-191.96.227.113/32 # United States | New York | Cogent Communications
-191.96.227.122/32 # United States | New York | Cogent Communications
-191.96.227.159/32 # United States | New York | Cogent Communications
 191.101.61.138/32 # United States | Nevada | Cogent Communications, LLC
-191.101.217.10/32 # France | Île-de-France | Cogent Communications
 192.3.95.152/32 # United States | New York | HostPapa
 192.3.153.18/32 # United States | New York | HostPapa
 192.144.16.55/32 # United States | California | Clouvider Limited
@@ -1125,8 +1080,6 @@
 212.56.35.232/32 # United States | New Jersey | Nubes, LLC
 212.83.190.143/32 # France | Île-de-France | SCALEWAY S.A.S.
 212.102.35.140/32 # Netherlands | North Holland | Datacamp Limited
-212.102.39.212/32 # Czech Republic | Prague | Datacamp Limited
-212.102.57.29/32 # Germany | Hesse | Datacamp Limited
 212.102.255.102/32 # Germany | Hesse | H NEXUS LTD
 212.112.19.120/32 # Norway | Oslo | Glesys Ab
 212.193.136.217/32 # United States | New York | Clouvider Limited
