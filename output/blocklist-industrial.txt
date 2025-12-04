@@ -21,14 +21,12 @@
 2.56.91.80/32 # Hong Kong | Hong Kong | eServer
 2.56.139.77/32 # United States | California | Shock Hosting LLC
 2.56.139.89/32 # United States | California | Shock Hosting LLC
-2.56.139.187/32 # United States | California | Shock Hosting LLC
 2.56.139.205/32 # United States | California | Shock Hosting LLC
 2.57.148.5/32 # United States | California | Clouvider Limited
 2.57.148.18/32 # United States | California | Clouvider Limited
 2.57.148.48/32 # United States | California | Clouvider Limited
 2.57.148.149/32 # United States | California | Clouvider Limited
 2.57.151.67/32 # United States | California | Shock Hosting LLC
-2.57.151.77/32 # United States | California | Shock Hosting LLC
 2.57.151.157/32 # United States | California | Shock Hosting LLC
 5.1.46.3/32 # United States | New York | Clouvider Limited
 5.1.46.14/32 # United States | New York | Clouvider Limited
@@ -107,6 +105,7 @@
 39.74.54.188/32 # China | Shandong | China Unicom China1 Backbone
 39.106.141.68/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
 41.110.181.226/32 # Algeria | Algiers | Algerie Telecom
+42.5.249.110/32 # China | Liaoning | China Unicom China1 Backbone
 42.57.166.118/32 # China | Liaoning | China Unicom China1 Backbone
 42.96.22.247/32 # Vietnam | Hanoi | Branch of Long Van System Solution JSC H...
 42.178.170.33/32 # China | Liaoning | China Unicom China1 Backbone
@@ -170,7 +169,6 @@
 45.130.185.101/32 # United States | New York | Clouvider Limited
 45.131.179.24/32 # Hong Kong | Hong Kong | XNNET LLC
 45.134.142.214/32 # United States | Florida | Datacamp Limited
-45.136.25.30/32 # United States | Mississippi | Purevoltage Hosting Inc.
 45.138.5.228/32 # Netherlands | North Holland | Clouvider Limited
 45.139.54.58/32 # Netherlands | North Holland | Shock Hosting LLC
 45.140.67.90/32 # Netherlands | North Holland | Clouvider Limited
@@ -189,13 +187,11 @@
 45.147.244.251/32 # United States | California | Clouvider Limited
 45.147.245.86/32 # United States | California | Clouvider Limited
 45.147.245.231/32 # United States | California | Clouvider Limited
-45.147.245.245/32 # United States | California | Clouvider Limited
 45.147.247.35/32 # United States | California | Clouvider Limited
 45.147.247.97/32 # United States | California | Clouvider Limited
 45.147.247.154/32 # United States | California | Clouvider Limited
 45.147.247.244/32 # United States | California | Clouvider Limited
 45.149.80.17/32 # United States | New Jersey | Clouvider Limited
-45.149.80.43/32 # United States | New York | Clouvider Limited
 45.149.80.138/32 # United States | New York | Clouvider Limited
 45.149.80.150/32 # United States | New York | Clouvider Limited
 45.149.81.25/32 # United States | New York | Clouvider Limited
@@ -302,7 +298,6 @@
 64.227.31.54/32 # United States | New Jersey | Digitalocean, LLC
 64.227.58.231/32 # United States | California | Digitalocean, LLC
 64.227.133.82/32 # India | Karnataka | Digitalocean, LLC
-64.227.145.113/32 # India | Karnataka | Digitalocean, LLC
 65.49.235.210/32 # Canada | British Columbia | It Networks INC
 66.63.187.154/32 # United States | South Carolina | Railnet LLC
 66.63.187.232/32 # United States | South Carolina | Railnet LLC
@@ -321,7 +316,6 @@
 77.72.83.68/32 # United States | Texas | Clouvider Limited
 77.72.84.14/32 # United States | District of Columbia | Clouvider Limited
 77.72.84.68/32 # United States | District of Columbia | Clouvider Limited
-77.72.84.154/32 # United States | District of Columbia | Clouvider Limited
 77.83.4.127/32 # United States | California | Clouvider Limited
 77.83.4.142/32 # United States | California | Clouvider Limited
 77.83.4.210/32 # United States | California | Clouvider Limited
@@ -354,7 +348,6 @@
 80.68.148.103/32 # United States | New York | Clouvider Limited
 80.68.150.78/32 # United States | New York | Clouvider Limited
 80.73.242.97/32 # United States | District of Columbia | Clouvider Limited
-80.73.242.147/32 # United States | District of Columbia | Clouvider Limited
 80.73.244.34/32 # United States | District of Columbia | Clouvider Limited
 80.73.244.178/32 # United States | District of Columbia | Clouvider Limited
 80.73.244.192/32 # United States | District of Columbia | Clouvider Limited
@@ -423,7 +416,6 @@
 91.247.78.182/32 # United States | New York | Clouvider Limited
 92.119.159.30/32 # Russia | Moscow | IP SERVER LLC
 92.119.161.141/32 # Netherlands | North Holland | Shock Hosting LLC
-92.119.163.57/32 # United States | California | Shock Hosting LLC
 92.119.163.127/32 # United States | California | Shock Hosting LLC
 92.119.163.142/32 # United States | California | Shock Hosting LLC
 92.119.163.251/32 # United States | California | Shock Hosting LLC
@@ -507,7 +499,6 @@
 103.210.101.168/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
 103.232.54.13/32 # Vietnam | Hanoi | VIETSERVER SERVICES TECHNOLOGY COMPANY L...
 103.246.144.118/32 # Netherlands | North Holland | Podaon Sia
-103.247.54.216/32 # India | Rajasthan | Railtel Corporation of India Ltd.
 104.160.6.2/32 # United Kingdom | England | Orion Network Limited
 104.164.47.253/32 # Netherlands | North Holland | HOST TELECOM LTD
 104.164.144.102/32 # Netherlands | North Holland | HOST TELECOM LTD
@@ -619,11 +610,9 @@
 119.116.36.126/32 # China | Liaoning | China Unicom China1 Backbone
 119.185.243.73/32 # China | Shandong | China Unicom China1 Backbone
 119.200.13.201/32 # Republic of Korea | Daejeon | Korea Telecom
-120.28.135.254/32 # Philippines | Metro Manila | Globe Telecom Inc.
 120.28.210.78/32 # Philippines | Davao Region | Globe Telecom Inc.
 120.48.77.176/32 # China | Beijing | Beijing Baidu Netcom Science And Technol...
 120.60.237.245/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
-120.61.68.8/32 # India | Kerala | Bharat Sanchar Nigam LTD
 120.85.93.248/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.112.45/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.117.42/32 # China | Guangdong Province | China Unicom Guangzhou Network
@@ -647,7 +636,6 @@
 125.47.61.197/32 # China | Henan | China Unicom China1 Backbone
 125.124.123.40/32 # China | Zhejiang | No. ,fu chun Road
 128.127.180.156/32 # Belgium | Walloon Brabant | VERIXI SA
-128.199.25.3/32 # India | Karnataka | Digitalocean, LLC
 128.199.134.3/32 # Singapore | Southeast | Digitalocean, LLC
 128.199.250.172/32 # Singapore | Southeast | Digitalocean, LLC
 128.254.146.183/32 # United States | Texas | Baxet Group Inc.
@@ -747,7 +735,6 @@
 151.241.119.110/32 # United States | New Jersey | Cogent Communications, LLC
 151.241.119.206/32 # United States | New Jersey | Cogent Communications, LLC
 151.241.122.74/32 # United States | New Jersey | Cogent Communications, LLC
-152.53.80.94/32 # United States | Virginia | Netcup GmbH
 152.53.100.133/32 # Austria | Carinthia | Netcup GmbH
 154.81.198.187/32 # Netherlands | North Holland | HOST TELECOM LTD
 154.82.84.227/32 # Hong Kong | Hong Kong | Tcloudnet
@@ -924,7 +911,6 @@
 175.107.39.178/32 # Pakistan | Sindh | National Telecommunication Corporation
 175.107.205.14/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 175.148.155.206/32 # China | Liaoning | China Unicom China1 Backbone
-176.53.133.14/32 # United States | New York | Clouvider Limited
 176.53.133.96/32 # United States | New York | Clouvider Limited
 176.53.133.225/32 # United States | New York | Clouvider Limited
 176.65.137.44/32 # Germany | Lower Saxony | Noel Nayasha Materke
@@ -955,7 +941,6 @@
 181.215.176.69/32 # United Kingdom | England | Cogent Communications, LLC
 181.215.246.155/32 # Malaysia | Federal Territory of Kuala Lumpur | Gigabit Hos...
 182.60.10.53/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
-182.112.31.187/32 # China | Henan | China Unicom China1 Backbone
 182.113.40.215/32 # China | Henan | China Unicom China1 Backbone
 182.114.32.100/32 # China | Henan | China Unicom China1 Backbone
 182.116.90.205/32 # China | Henan | China Unicom China1 Backbone
@@ -1074,7 +1059,6 @@
 193.232.145.2/32 # United States | New York | Clouvider Limited
 193.232.145.247/32 # United States | New York | Clouvider Limited
 193.232.228.91/32 # United States | New York | Clouvider Limited
-193.232.228.104/32 # United States | New York | Clouvider Limited
 193.232.228.243/32 # United States | New York | Clouvider Limited
 193.239.86.168/32 # Hong Kong | Hong Kong | M Europe SRL
 194.36.209.227/32 # United States | California | CGI GLOBAL LIMITED
@@ -1102,7 +1086,6 @@
 194.190.178.225/32 # United States | New York | Clouvider Limited
 194.190.179.233/32 # United States | New York | Clouvider Limited
 194.190.179.248/32 # United States | New York | Clouvider Limited
-194.190.190.55/32 # United States | New York | Clouvider Limited
 194.190.190.100/32 # United States | New York | Clouvider Limited
 194.226.185.9/32 # United States | New York | Clouvider Limited
 194.226.185.213/32 # United States | New York | Clouvider Limited
@@ -1170,7 +1153,6 @@
 212.56.35.232/32 # United States | New Jersey | Nubes, LLC
 212.83.190.143/32 # France | Île-de-France | SCALEWAY S.A.S.
 212.102.255.102/32 # Germany | Hesse | H NEXUS LTD
-212.193.136.217/32 # United States | New York | Clouvider Limited
 212.193.136.239/32 # United States | New York | Clouvider Limited
 212.193.137.211/32 # United States | New York | Clouvider Limited
 212.193.138.159/32 # United States | New York | Clouvider Limited
@@ -1178,7 +1160,6 @@
 212.193.140.42/32 # United States | New York | Clouvider Limited
 212.193.140.54/32 # United States | New York | Clouvider Limited
 212.193.140.186/32 # United States | New York | Clouvider Limited
-212.193.141.127/32 # United States | New York | Clouvider Limited
 212.193.141.136/32 # United States | New York | Clouvider Limited
 212.193.142.26/32 # United States | New York | Clouvider Limited
 212.193.142.43/32 # United States | New York | Clouvider Limited
@@ -1190,17 +1171,14 @@
 213.139.192.70/32 # United States | New Jersey | Clouvider Limited
 213.139.192.172/32 # United States | New Jersey | Clouvider Limited
 213.139.192.206/32 # United States | New York | Clouvider Limited
-213.139.193.83/32 # United States | California | Clouvider Limited
 213.139.193.135/32 # United States | Illinois | Clouvider Limited
 213.139.193.158/32 # United States | Illinois | Clouvider Limited
 213.139.193.160/32 # United States | Illinois | Clouvider Limited
-213.139.195.54/32 # United States | California | Clouvider Limited
 213.139.195.56/32 # United States | California | Clouvider Limited
 213.139.195.108/32 # United States | California | Clouvider Limited
 213.139.195.172/32 # United States | California | Clouvider Limited
 213.162.85.69/32 # Austria | Vienna | T mobile Austria GmbH
 213.166.94.77/32 # United States | New York | Shock Hosting LLC
-213.166.94.185/32 # United States | New York | Shock Hosting LLC
 213.166.94.241/32 # United States | New York | Shock Hosting LLC
 213.209.134.48/32 # Netherlands | South Holland | Clouvider Limited
 213.209.134.103/32 # Netherlands | South Holland | Clouvider Limited
