@@ -211,7 +211,6 @@
 59.97.250.159/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
 59.182.121.228/32 # India | Kerala | Bharat Sanchar Nigam LTD
 59.182.139.244/32 # India | Kerala | Bharat Sanchar Nigam LTD
-60.23.75.217/32 # China | Liaoning | China Unicom China1 Backbone
 61.1.193.100/32 # India | Kerala | Bharat Sanchar Nigam LTD
 61.3.18.8/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 61.3.102.43/32 # India | Karnataka | Bharat Sanchar Nigam LTD
@@ -610,7 +609,6 @@
 138.68.169.151/32 # United Kingdom | England | Digitalocean, LLC
 138.68.244.132/32 # United States | California | Digitalocean, LLC
 138.197.150.126/32 # Canada | Ontario | Digitalocean, LLC
-138.197.164.219/32 # Canada | Ontario | Digitalocean, LLC
 138.197.211.64/32 # United States | California | Digitalocean, LLC
 138.197.218.11/32 # United States | California | Digitalocean, LLC
 139.5.0.15/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
@@ -627,7 +625,6 @@
 139.84.156.79/32 # India | Karnataka | The Constant Company, LLC
 139.99.188.124/32 # Australia | New South Wales | OVH SAS
 139.135.40.153/32 # Pakistan | Punjab | Cyber Internet Services private Limited
-139.135.42.119/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.135.59.206/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.135.60.101/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.162.8.186/32 # Singapore | Southeast | Akamai Technologies, Inc.
@@ -678,6 +675,7 @@
 142.252.121.219/32 # United States | California | HOST TELECOM LTD
 142.252.126.117/32 # United States | Texas | Clouvider Limited
 142.252.132.214/32 # United States | California | HOST TELECOM LTD
+142.252.133.236/32 # United States | California | HOST TELECOM LTD
 142.252.140.84/32 # United States | California | HOST TELECOM LTD
 142.252.170.164/32 # United States | California | HOST TELECOM LTD
 142.252.171.139/32 # United States | California | HOST TELECOM LTD
@@ -714,7 +712,6 @@
 149.115.250.19/32 # United States | California | Cogent Communications
 150.230.79.179/32 # Brazil | State of São Paulo | Oracle Corporation
 151.236.16.167/32 # United States | California | M Europe SRL
-151.241.119.110/32 # United States | New Jersey | Cogent Communications, LLC
 151.241.119.206/32 # United States | New Jersey | Cogent Communications, LLC
 152.42.195.209/32 # Singapore | Southeast | Digitalocean, LLC
 152.42.246.199/32 # Singapore | Southeast | Digitalocean, LLC
@@ -794,7 +791,6 @@
 159.65.241.37/32 # United States | New Jersey | Digitalocean, LLC
 159.89.48.87/32 # United States | New Jersey | Digitalocean, LLC
 159.89.111.43/32 # Germany | Hesse | Digitalocean, LLC
-159.203.28.104/32 # Canada | Ontario | Digitalocean, LLC
 159.203.29.245/32 # Canada | Ontario | Digitalocean, LLC
 159.203.45.94/32 # Canada | Ontario | Digitalocean, LLC
 159.203.57.130/32 # Canada | Ontario | Digitalocean, LLC
@@ -986,7 +982,6 @@
 173.255.221.64/32 # United States | California | Akamai Technologies, Inc.
 173.255.253.220/32 # United States | California | Akamai Technologies, Inc.
 174.138.34.231/32 # United States | New Jersey | Digitalocean, LLC
-175.3.234.28/32 # China | Hunan | No. 1,jin rong Street
 175.107.1.168/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.1.200/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.2.107/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
@@ -1026,7 +1021,9 @@
 182.113.40.215/32 # China | Henan | China Unicom China1 Backbone
 182.121.53.75/32 # China | Henan | China Unicom China1 Backbone
 182.121.91.110/32 # China | Henan | China Unicom China1 Backbone
+182.123.211.5/32 # China | Henan | China Unicom China1 Backbone
 182.123.239.134/32 # China | Henan | China Unicom China1 Backbone
+182.190.248.157/32 # Pakistan | Islamabad Capital Territory | Triple Play Proje...
 183.82.120.214/32 # India | Telangana | Atria Convergence Technologies Pvt. Ltd.,
 183.237.143.154/32 # China | Beijing | China Mobile
 185.3.95.166/32 # United Kingdom | England | Akamai Technologies, Inc.
@@ -1084,7 +1081,6 @@
 192.177.18.131/32 # United States | Nevada | Clouvider Limited
 192.177.24.241/32 # United States | New York | HOST TELECOM LTD
 192.177.45.17/32 # United States | Pennsylvania | Clouvider Limited
-192.227.128.163/32 # United States | New York | HostPapa
 192.241.190.181/32 # United States | New Jersey | Digitalocean, LLC
 192.241.249.247/32 # United States | New Jersey | Digitalocean, LLC
 193.17.65.94/32 # Netherlands | North Holland | Clouvider Limited
@@ -1130,6 +1126,7 @@
 201.217.193.155/32 # Colombia | Bogota | Ifx Corporation
 202.9.122.179/32 # India | Haryana | Nas Internet Services Private Limited
 202.21.42.101/32 # India | Maharashtra | Railtel Corporation of India Ltd.
+202.21.42.171/32 # India | Maharashtra | Railtel Corporation of India Ltd.
 202.21.42.211/32 # India | Maharashtra | Railtel Corporation of India Ltd.
 202.21.42.230/32 # India | Maharashtra | Railtel Corporation of India Ltd.
 202.146.222.208/32 # Hong Kong | Hong Kong | Ctg Server Limited
@@ -1173,7 +1170,6 @@
 212.83.190.143/32 # France | Île-de-France | SCALEWAY S.A.S.
 212.102.255.102/32 # Germany | Hesse | H NEXUS LTD
 212.192.251.24/32 # United States | New York | Clouvider Limited
-212.227.3.33/32 # Germany | Hesse | IONOS SE
 212.227.76.145/32 # Germany | Hesse | IONOS SE
 212.237.217.182/32 # Finland | Mainland Finland | HOSTKEY B.V.
 213.139.193.135/32 # United States | Illinois | Clouvider Limited
