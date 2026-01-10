@@ -226,6 +226,7 @@
 59.97.248.194/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.97.250.159/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
 59.182.121.228/32 # India | Kerala | Bharat Sanchar Nigam LTD
+59.182.146.19/32 # India | Kerala | Bharat Sanchar Nigam LTD
 60.28.124.21/32 # China | Tianjin | CNC Group CHINA1 Tianjin Province Network
 60.29.226.181/32 # China | Tianjin | CNC Group CHINA1 Tianjin Province Network
 61.1.193.100/32 # India | Kerala | Bharat Sanchar Nigam LTD
@@ -416,7 +417,6 @@
 103.208.230.23/32 # India | Tamil Nadu | Railtel Corporation of India Ltd.
 103.208.230.45/32 # India | Tamil Nadu | Railtel Corporation of India Ltd.
 103.210.101.89/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
-103.210.101.168/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
 103.232.54.13/32 # Vietnam | Hanoi | VIETSERVER SERVICES TECHNOLOGY COMPANY L...
 103.237.157.251/32 # India | Delhi | Skymax Broadband Services Pvt. Ltd.
 103.237.159.93/32 # India | Delhi | Skymax Broadband Services Pvt. Ltd.
@@ -484,10 +484,10 @@
 113.239.246.25/32 # China | Liaoning | China Unicom China1 Backbone
 114.220.75.156/32 # China | Jiangsu | Chinanet
 114.225.199.135/32 # China | Jiangsu | No. 1,jin rong Street
+114.241.209.26/32 # China | Beijing | China Unicom Beijing Province Network
 115.55.55.112/32 # China | Henan | China Unicom China1 Backbone
 115.55.59.134/32 # China | Henan | China Unicom China1 Backbone
 115.57.215.165/32 # China | Henan | China Unicom China1 Backbone
-115.132.54.236/32 # Malaysia | Malacca | TM TECHNOLOGY SERVICES SDN BHD
 115.190.174.7/32 # China | Beijing | Beijing Volcano Engine Technology Co., Ltd.
 116.213.178.11/32 # China | Beijing | CNLINKNET
 117.121.133.33/32 # China | Beijing | China Unicom China1 Backbone
@@ -498,7 +498,6 @@
 117.200.236.99/32 # India | Telangana | Bharat Sanchar Nigam LTD
 117.200.238.48/32 # India | Telangana | Bharat Sanchar Nigam LTD
 117.204.166.166/32 # India | Karnataka | Bharat Sanchar Nigam LTD
-117.205.165.107/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.206.107.102/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.206.140.96/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.209.1.225/32 # India | Meghalaya | Bharat Sanchar Nigam LTD
@@ -558,35 +557,27 @@
 130.49.15.47/32 # United States | Washington | GREEN FLOID LLC
 130.49.15.222/32 # United States | Washington | GREEN FLOID LLC
 130.49.17.90/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
-130.49.17.172/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
-130.49.24.37/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 130.49.25.43/32 # United States | Washington | GREEN FLOID LLC
 130.49.25.170/32 # United States | Washington | GREEN FLOID LLC
 130.49.25.221/32 # United States | Washington | GREEN FLOID LLC
 130.49.35.41/32 # United States | Washington | GREEN FLOID LLC
 130.49.35.80/32 # United States | Washington | GREEN FLOID LLC
-130.49.39.45/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 130.49.44.13/32 # United States | Florida | GREEN FLOID LLC
 130.49.44.29/32 # United States | Florida | GREEN FLOID LLC
 130.49.44.117/32 # United States | Florida | GREEN FLOID LLC
 130.49.52.13/32 # United States | Florida | GREEN FLOID LLC
 130.49.52.182/32 # United States | Washington | GREEN FLOID LLC
 130.49.52.232/32 # United States | Washington | GREEN FLOID LLC
-130.49.55.8/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 130.49.61.97/32 # United States | Washington | GREEN FLOID LLC
 130.49.61.107/32 # United States | Washington | GREEN FLOID LLC
 130.49.61.114/32 # United States | Washington | GREEN FLOID LLC
-130.49.62.203/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 130.49.70.180/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
-130.49.70.203/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 130.49.72.126/32 # United States | Washington | GREEN FLOID LLC
 130.49.72.180/32 # United States | Florida | GREEN FLOID LLC
 130.49.72.226/32 # United States | Florida | GREEN FLOID LLC
-130.49.81.119/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 130.49.85.105/32 # United States | Washington | GREEN FLOID LLC
 130.49.85.142/32 # United States | Washington | GREEN FLOID LLC
 130.49.85.242/32 # United States | Washington | GREEN FLOID LLC
-130.49.89.127/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 130.49.94.2/32 # United States | Florida | GREEN FLOID LLC
 130.49.94.184/32 # United States | Washington | GREEN FLOID LLC
 130.49.94.231/32 # United States | Washington | GREEN FLOID LLC
@@ -767,7 +758,6 @@
 153.80.108.22/32 # United States | Georgia | GREEN FLOID LLC
 153.80.115.115/32 # United States | Georgia | GREEN FLOID LLC
 154.70.82.114/32 # Togo | Plateaux Region | Cafe Informatique Et Telecommunic...
-154.81.198.187/32 # Netherlands | North Holland | HOST TELECOM LTD
 154.82.84.227/32 # Hong Kong | Hong Kong | Tcloudnet
 154.82.85.79/32 # Hong Kong | Hong Kong | Tcloudnet
 154.90.58.164/32 # Singapore | Southeast | Kaopu Cloud Hk Limited
@@ -776,10 +766,8 @@
 154.211.89.5/32 # Hong Kong | Hong Kong | Tcloudnet
 155.138.150.12/32 # Canada | Ontario | The Constant Company, LLC
 155.212.34.77/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
-155.212.34.242/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.41.67/32 # United States | Florida | GREEN FLOID LLC
 155.212.41.199/32 # United States | Florida | GREEN FLOID LLC
-155.212.46.93/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.50.6/32 # United States | Washington | GREEN FLOID LLC
 155.212.50.90/32 # United States | Washington | GREEN FLOID LLC
 155.212.59.51/32 # United States | Florida | GREEN FLOID LLC
@@ -791,24 +779,19 @@
 155.212.67.232/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.77.38/32 # United States | Washington | GREEN FLOID LLC
 155.212.77.63/32 # United States | Florida | GREEN FLOID LLC
-155.212.82.111/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.82.224/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.85.9/32 # United States | Washington | GREEN FLOID LLC
 155.212.89.13/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.89.114/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.94.90/32 # United States | Washington | GREEN FLOID LLC
 155.212.94.238/32 # United States | Washington | GREEN FLOID LLC
-155.212.96.133/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.102.19/32 # United States | Washington | GREEN FLOID LLC
 155.212.102.24/32 # United States | Washington | GREEN FLOID LLC
-155.212.104.113/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.114.242/32 # United States | Washington | GREEN FLOID LLC
 155.212.114.249/32 # United States | Washington | GREEN FLOID LLC
-155.212.115.77/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.115.87/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.115.187/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.122.151/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
-155.212.122.241/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.125.136/32 # United States | Washington | GREEN FLOID LLC
 155.212.125.149/32 # United States | Washington | GREEN FLOID LLC
 156.146.60.72/32 # Austria | Vienna | Datacamp Limited
@@ -862,7 +845,6 @@
 159.203.29.245/32 # Canada | Ontario | Digitalocean, LLC
 159.203.45.94/32 # Canada | Ontario | Digitalocean, LLC
 159.203.57.130/32 # Canada | Ontario | Digitalocean, LLC
-159.223.23.42/32 # Germany | Hesse | Digitalocean, LLC
 160.25.232.62/32 # Vietnam | Ho Chi Minh | VIET DIGITAL TECHNOLOGY LIABILITY ...
 160.191.77.89/32 # Singapore | Southeast | Webhorizon Internet Services
 160.250.132.50/32 # Vietnam | Thanh Hoa province | EZ TECHNOLOGY COMPANY LIMITED
@@ -972,7 +954,6 @@
 170.168.215.70/32 # United States | District of Columbia | GREEN FLOID LLC
 170.168.215.170/32 # United States | District of Columbia | GREEN FLOID LLC
 170.168.215.230/32 # United States | District of Columbia | GREEN FLOID LLC
-170.168.228.123/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 170.168.230.34/32 # United States | District of Columbia | GREEN FLOID LLC
 170.168.230.78/32 # United States | District of Columbia | GREEN FLOID LLC
 170.168.250.37/32 # United States | District of Columbia | GREEN FLOID LLC
