@@ -46,6 +46,7 @@
 23.230.192.117/32 # United States | New York | HOST TELECOM LTD
 23.230.241.39/32 # United States | New York | HOST TELECOM LTD
 23.230.241.177/32 # United States | New York | HOST TELECOM LTD
+23.234.96.82/32 # United States | Virginia | Tzulo, Inc.
 23.234.97.45/32 # United States | Virginia | Tzulo, Inc.
 23.234.97.251/32 # United States | Virginia | Tzulo, Inc.
 23.234.99.112/32 # United States | Virginia | Tzulo, Inc.
@@ -79,7 +80,6 @@
 38.47.97.72/32 # Japan | Osaka Prefecture | Vmiss Inc.
 38.54.30.117/32 # Vietnam | Hanoi | Kaopu Cloud Hk Limited
 38.54.56.88/32 # Japan | Tokyo | Kaopu Cloud Hk Limited
-38.132.110.188/32 # United States | New York | M Europe SRL
 38.146.28.93/32 # United States | California | Cogent Communications
 38.180.137.141/32 # United States | Texas | Scalaxy B.V.
 38.180.137.245/32 # United States | Texas | Scalaxy B.V.
@@ -242,7 +242,6 @@
 64.52.80.252/32 # United States | California | Bl Networks
 64.95.10.209/32 # United States | Texas | Bl Networks
 64.225.0.163/32 # United States | New Jersey | Digitalocean, LLC
-64.226.110.112/32 # Germany | Hesse | Digitalocean, LLC
 64.227.31.54/32 # United States | New Jersey | Digitalocean, LLC
 64.227.58.231/32 # United States | California | Digitalocean, LLC
 64.227.175.7/32 # India | Karnataka | Digitalocean, LLC
@@ -500,6 +499,7 @@
 117.209.1.225/32 # India | Meghalaya | Bharat Sanchar Nigam LTD
 117.209.18.27/32 # India | Meghalaya | Bharat Sanchar Nigam LTD
 117.209.19.213/32 # India | Meghalaya | Bharat Sanchar Nigam LTD
+117.209.28.86/32 # India | Meghalaya | Bharat Sanchar Nigam LTD
 117.209.82.102/32 # India | Tripura | Bharat Sanchar Nigam LTD
 117.209.93.217/32 # India | Meghalaya | Bharat Sanchar Nigam LTD
 117.216.55.240/32 # India | Karnataka | Bharat Sanchar Nigam LTD
@@ -717,7 +717,6 @@
 143.110.195.221/32 # United States | California | Digitalocean, LLC
 143.110.201.52/32 # United States | California | Digitalocean, LLC
 143.198.4.120/32 # United States | New Jersey | Digitalocean, LLC
-143.198.66.251/32 # United States | California | Digitalocean, LLC
 143.198.128.210/32 # United States | California | Digitalocean, LLC
 144.31.4.70/32 # Poland | Masovian Voivodeship | H NEXUS LTD
 144.48.130.36/32 # Pakistan | Sindh | Cyber Internet Services private Limited
@@ -1064,6 +1063,9 @@
 173.230.129.211/32 # United States | Georgia | Akamai Technologies, Inc.
 173.232.146.90/32 # United States | Nevada | Eonix Corporation
 173.249.7.24/32 # France | Grand Est | Contabo GmbH
+173.249.252.174/32 # United States | Illinois | Tzulo, Inc.
+173.249.252.190/32 # United States | Illinois | Tzulo, Inc.
+173.249.254.62/32 # United States | California | tzulo
 173.254.204.72/32 # United States | California | HostPapa
 173.255.206.8/32 # United States | Texas | Akamai Technologies, Inc.
 173.255.221.64/32 # United States | California | Akamai Technologies, Inc.
@@ -1074,7 +1076,6 @@
 175.107.1.200/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.2.107/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.2.197/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
-175.107.2.237/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.3.178/32 # Pakistan | Punjab | National Telecommunication Corporation
 175.107.39.178/32 # Pakistan | Sindh | National Telecommunication Corporation
 175.107.228.204/32 # Pakistan | Punjab | Cyber Internet Services private Limited
@@ -1123,7 +1124,6 @@
 185.22.153.228/32 # Russia | Moscow | LLC Baxet
 185.28.119.160/32 # United States | California | Bluevps Ou
 185.28.119.228/32 # United States | California | Bluevps Ou
-185.32.4.7/32 # Poland | West Pomeranian Voivodeship | AS Consulting Sp. Z...
 185.39.17.14/32 # United States | Washington | GREEN FLOID LLC
 185.39.17.87/32 # United States | Florida | GREEN FLOID LLC
 185.72.8.129/32 # United States | Georgia | Baxet Group Inc.
@@ -1270,7 +1270,6 @@
 217.110.243.170/32 # Germany | Hesse | Colt Technology Services Group Limited
 217.154.38.135/32 # United Kingdom | England | IONOS SE
 219.154.154.110/32 # China | Henan | China Unicom China1 Backbone
-219.157.26.232/32 # China | Henan | China Unicom China1 Backbone
 222.89.169.98/32 # China | Henan | No. 1,jin rong Street
 222.141.75.171/32 # China | Henan | China Unicom China1 Backbone
 223.184.254.150/32 # India | Rajasthan | Bharti Airtel Limited
