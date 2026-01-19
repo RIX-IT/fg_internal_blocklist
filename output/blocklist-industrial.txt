@@ -4,8 +4,6 @@
 23.234.99.0/24 # United States | Virginia | Tzulo, Inc.
 37.19.210.0/24 # United States | Colorado | Datacamp Limited
 37.19.221.0/24 # United States | Texas | Datacamp Limited
-45.134.142.0/24 # United States | Mississippi | Datacamp Limited
-68.235.46.0/24 # United States | Ohio | Tzulo, Inc.
 87.251.67.0/24 # Netherlands | North Holland | Shesternin Vladimir Anatolie...
 103.81.230.0/24 # United States | District of Columbia | Hostroyale Technolo...
 103.81.231.0/24 # United States | District of Columbia | Hostroyale Technolo...
@@ -152,6 +150,10 @@
 45.128.149.32/32 # United States | California | GREEN FLOID LLC
 45.129.185.24/32 # Armenia | Yerevan | GLOBAL CONNECTIVITY SOLUTIONS LLP
 45.131.179.24/32 # Hong Kong | Hong Kong | XNNET LLC
+45.134.142.201/32 # United States | Florida | Datacamp Limited
+45.134.142.205/32 # United States | Florida | Datacamp Limited
+45.134.142.208/32 # United States | Florida | Datacamp Limited
+45.134.142.218/32 # United States | Florida | Datacamp Limited
 45.137.155.43/32 # Ukraine | Kyiv city | GREEN FLOID LLC
 45.137.155.86/32 # United States | Florida | GREEN FLOID LLC
 45.144.53.145/32 # Finland | Mainland Finland | H NEXUS LTD
@@ -235,7 +237,6 @@
 60.29.226.181/32 # China | Tianjin | CNC Group CHINA1 Tianjin Province Network
 61.1.193.100/32 # India | Kerala | Bharat Sanchar Nigam LTD
 61.3.18.8/32 # India | Karnataka | Bharat Sanchar Nigam LTD
-61.3.102.43/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 61.53.89.26/32 # China | Henan | China Unicom China1 Backbone
 61.135.185.29/32 # China | Beijing | China Unicom Beijing Province Network
 62.12.119.98/32 # Kenya | Nairobi | Angani Limited
@@ -262,6 +263,10 @@
 67.217.228.55/32 # United States | California | Bl Networks
 68.183.93.62/32 # India | Karnataka | Digitalocean, LLC
 68.183.103.59/32 # United States | New Jersey | Digitalocean, LLC
+68.235.46.32/32 # United States | Ohio | Tzulo, Inc.
+68.235.46.45/32 # United States | Ohio | Tzulo, Inc.
+68.235.46.125/32 # United States | Illinois | Tzulo, Inc.
+68.235.46.208/32 # United States | Illinois | Tzulo, Inc.
 69.55.62.10/32 # United States | New Jersey | Digitalocean, LLC
 69.164.207.173/32 # United States | Texas | Akamai Technologies, Inc.
 72.18.215.1/32 # United States | Missouri | Wholesale Internet, Inc.
@@ -394,7 +399,6 @@
 103.160.196.81/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.160.196.251/32 # India | Uttar Pradesh | Userlinks Netcom Pvt. Ltd.
 103.160.197.53/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
-103.167.204.232/32 # India | Haryana | Fibre Air Services Private Limited
 103.168.2.65/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.168.2.119/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.170.53.185/32 # India | Delhi | ACN DIGICOM INDIA PVT LTD
@@ -490,7 +494,6 @@
 114.225.199.135/32 # China | Jiangsu | No. 1,jin rong Street
 114.241.209.26/32 # China | Beijing | China Unicom Beijing Province Network
 115.55.55.112/32 # China | Henan | China Unicom China1 Backbone
-115.55.59.134/32 # China | Henan | China Unicom China1 Backbone
 115.56.155.75/32 # China | Henan | China Unicom China1 Backbone
 115.190.174.7/32 # China | Beijing | Beijing Volcano Engine Technology Co., Ltd.
 116.213.178.11/32 # China | Beijing | CNLINKNET
@@ -503,7 +506,6 @@
 117.204.166.166/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.206.103.48/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.206.107.102/32 # India | Karnataka | Bharat Sanchar Nigam LTD
-117.206.140.96/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.209.1.225/32 # India | Meghalaya | Bharat Sanchar Nigam LTD
 117.209.18.27/32 # India | Meghalaya | Bharat Sanchar Nigam LTD
 117.209.19.213/32 # India | Meghalaya | Bharat Sanchar Nigam LTD
@@ -736,7 +738,6 @@
 143.198.4.120/32 # United States | New Jersey | Digitalocean, LLC
 143.198.128.210/32 # United States | California | Digitalocean, LLC
 143.198.169.248/32 # United States | New Jersey | Digitalocean, LLC
-143.244.47.76/32 # United States | New York | Datacamp Limited
 143.244.47.86/32 # United States | New York | Datacamp Limited
 143.244.47.90/32 # United States | New York | Datacamp Limited
 144.31.4.70/32 # Poland | Masovian Voivodeship | H NEXUS LTD
@@ -883,7 +884,6 @@
 162.243.111.130/32 # United States | New Jersey | Digitalocean, LLC
 162.243.164.139/32 # United States | New Jersey | Digitalocean, LLC
 162.243.215.205/32 # United States | New Jersey | Digitalocean, LLC
-162.243.222.234/32 # United States | North Carolina | Digitalocean, LLC
 162.243.232.181/32 # United States | New Jersey | Digitalocean, LLC
 162.243.249.22/32 # United States | New Jersey | Digitalocean, LLC
 164.90.175.46/32 # Germany | Hesse | Digitalocean, LLC
@@ -998,7 +998,6 @@
 172.96.15.103/32 # United States | Missouri | Unreal Servers, LLC
 172.96.15.104/32 # United States | Missouri | Unreal Servers, LLC
 172.104.30.66/32 # United States | New Jersey | Akamai Technologies, Inc.
-172.105.3.107/32 # Canada | Ontario | Akamai Technologies, Inc.
 172.105.158.208/32 # United States | Georgia | Akamai Technologies, Inc.
 172.120.12.31/32 # United States | New Jersey | HOST TELECOM LTD
 172.120.17.45/32 # United States | California | HOST TELECOM LTD
@@ -1130,7 +1129,6 @@
 179.43.159.186/32 # Switzerland | Zurich | Private Layer INC
 179.43.184.242/32 # Switzerland | Zurich | Private Layer INC
 179.60.149.209/32 # United States | New York | HOSTKEY
-179.61.197.45/32 # Canada | Ontario | Cogent Communications, LLC
 180.178.122.131/32 # Australia | Queensland | All Interactive Distribution
 180.178.189.17/32 # Pakistan | Islamabad Capital Territory | FEMO IT SOLUTIONS...
 181.215.176.69/32 # United Kingdom | England | Cogent Communications, LLC
@@ -1158,15 +1156,12 @@
 185.73.219.224/32 # United States | Delaware | Clouvider Limited
 185.100.157.74/32 # Sweden | Stockholm County | Partner Hosting LTD
 185.107.74.40/32 # Sweden | Stockholm County | Partner Hosting LTD
-185.128.43.118/32 # United States | New York | Clouvider Limited
 185.141.119.142/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
 185.149.146.1/32 # Germany | Hesse | Hostinux Limited
 185.149.146.118/32 # Germany | Hesse | Hostinux Limited
 185.149.232.197/32 # United States | Missouri | Heymman Servers Corporation
 185.149.232.221/32 # United States | Missouri | Heymman Servers Corporation
-185.156.46.141/32 # United States | Virginia | Datacamp Limited
 185.156.46.155/32 # United States | Virginia | Datacamp Limited
-185.156.46.167/32 # United States | Virginia | Datacamp Limited
 185.156.46.168/32 # United States | Virginia | Datacamp Limited
 185.180.221.108/32 # Netherlands | South Holland | Worldstream B.V.
 185.190.24.33/32 # Åland | Åland Islands | Internet Solutions Innovations Ltd.
@@ -1177,7 +1172,6 @@
 185.209.228.127/32 # France | Grand Est | Contabo GmbH
 185.219.220.175/32 # Germany | Hesse | Servinga GmbH
 185.238.251.38/32 # United States | California | GWY IT PTY LTD
-185.244.161.197/32 # United States | Texas | Clouvider Limited
 185.245.183.74/32 # Germany | North Rhine-Westphalia | Contabo GmbH
 185.248.85.57/32 # United Kingdom | England | Owl Limited
 185.253.117.141/32 # Bahrain | Capital Governorate | Hz Hosting LTD
