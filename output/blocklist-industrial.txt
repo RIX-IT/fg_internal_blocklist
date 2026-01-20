@@ -2,9 +2,13 @@
 23.234.97.0/24 # United States | Virginia | Tzulo, Inc.
 23.234.98.0/24 # United States | Virginia | Tzulo, Inc.
 23.234.99.0/24 # United States | Virginia | Tzulo, Inc.
+23.234.104.0/24 # United States | Texas | Tzulo, Inc.
+23.234.105.0/24 # United States | Texas | Tzulo, Inc.
+23.234.106.0/24 # United States | Texas | Tzulo, Inc.
 23.234.107.0/24 # United States | Texas | Tzulo, Inc.
 37.19.210.0/24 # United States | Colorado | Datacamp Limited
 37.19.221.0/24 # United States | Texas | Datacamp Limited
+45.134.142.0/24 # United States | Mississippi | Datacamp Limited
 68.235.46.0/24 # United States | Ohio | Tzulo, Inc.
 87.251.67.0/24 # Netherlands | North Holland | Shesternin Vladimir Anatolie...
 103.81.230.0/24 # United States | District of Columbia | Hostroyale Technolo...
@@ -56,15 +60,6 @@
 23.230.192.117/32 # United States | New York | HOST TELECOM LTD
 23.230.241.39/32 # United States | New York | HOST TELECOM LTD
 23.230.241.177/32 # United States | New York | HOST TELECOM LTD
-23.234.104.49/32 # United States | Texas | Tzulo, Inc.
-23.234.104.231/32 # United States | Texas | Tzulo, Inc.
-23.234.105.49/32 # United States | Texas | Tzulo, Inc.
-23.234.105.104/32 # United States | Texas | Tzulo, Inc.
-23.234.105.188/32 # United States | Texas | Tzulo, Inc.
-23.234.106.47/32 # United States | Texas | Tzulo, Inc.
-23.234.106.63/32 # United States | Texas | Tzulo, Inc.
-23.234.106.76/32 # United States | Texas | Tzulo, Inc.
-23.234.106.188/32 # United States | Texas | Tzulo, Inc.
 24.144.103.193/32 # United States | New Jersey | Digitalocean, LLC
 24.199.84.217/32 # United States | New Jersey | Digitalocean, LLC
 24.199.86.59/32 # United States | New Jersey | Digitalocean, LLC
@@ -104,6 +99,7 @@
 38.180.245.207/32 # Germany | Hesse | Leaseweb Deutschland GmbH
 38.242.152.105/32 # France | Grand Est | Contabo GmbH
 38.246.250.201/32 # Hong Kong | Hong Kong | Netlab Global
+39.73.238.139/32 # China | Shandong | China Unicom China1 Backbone
 39.90.149.194/32 # China | Shandong | China Unicom China1 Backbone
 39.106.141.68/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
 41.110.181.226/32 # Algeria | Algiers | Algerie Telecom
@@ -162,10 +158,6 @@
 45.128.149.32/32 # United States | California | GREEN FLOID LLC
 45.129.185.24/32 # Armenia | Yerevan | GLOBAL CONNECTIVITY SOLUTIONS LLP
 45.131.179.24/32 # Hong Kong | Hong Kong | XNNET LLC
-45.134.142.201/32 # United States | Florida | Datacamp Limited
-45.134.142.205/32 # United States | Florida | Datacamp Limited
-45.134.142.208/32 # United States | Florida | Datacamp Limited
-45.134.142.218/32 # United States | Florida | Datacamp Limited
 45.137.155.43/32 # Ukraine | Kyiv city | GREEN FLOID LLC
 45.137.155.86/32 # United States | Florida | GREEN FLOID LLC
 45.144.53.145/32 # Finland | Mainland Finland | H NEXUS LTD
@@ -259,6 +251,7 @@
 64.95.10.209/32 # United States | Texas | Bl Networks
 64.225.0.163/32 # United States | New Jersey | Digitalocean, LLC
 64.227.31.54/32 # United States | New Jersey | Digitalocean, LLC
+64.227.140.202/32 # India | Karnataka | Digitalocean, LLC
 64.227.175.7/32 # India | Karnataka | Digitalocean, LLC
 65.49.235.210/32 # Canada | British Columbia | It Networks INC
 66.63.187.154/32 # United States | South Carolina | Railnet LLC
@@ -289,10 +282,12 @@
 78.142.18.135/32 # Netherlands | North Holland | Colocatel Inc.
 79.110.205.205/32 # Poland | Województwo dolnośląskie | Korbank S. A.
 79.117.85.119/32 # Spain |  Basque Country | DIGI SPAIN TELECOM S.L.
+79.127.217.42/32 # United States | California | Datacamp Limited
 79.127.217.50/32 # United States | California | Datacamp Limited
 79.127.217.59/32 # United States | California | Datacamp Limited
 79.127.222.206/32 # United States | Texas | Datacamp Limited
 79.127.222.212/32 # United States | Texas | Datacamp Limited
+79.127.222.218/32 # United States | Texas | Datacamp Limited
 79.127.222.219/32 # United States | Texas | Datacamp Limited
 79.132.130.142/32 # Germany | Hesse | Servinga GmbH
 79.133.51.100/32 # Germany | Hesse | Ultahost, Inc.
@@ -540,6 +535,7 @@
 120.85.93.248/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.112.45/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.112.184/32 # China | Guangdong Province | China Unicom Guangzhou Network
+120.85.113.17/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.116.193/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.118.31/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.118.87/32 # China | Guangdong Province | China Unicom Guangzhou Network
