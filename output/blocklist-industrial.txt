@@ -135,7 +135,6 @@
 43.138.74.140/32 # China | Beijing | Shenzhen Tencent Computer Systems Compan...
 43.139.214.180/32 # China | Guangdong Province | Shenzhen Tencent Computer Sys...
 43.157.118.169/32 # Germany | Hesse | Shenzhen Tencent Computer Systems Compan...
-43.165.61.15/32 # Germany | Hesse | Shenzhen Tencent Computer Systems Compan...
 43.225.189.168/32 # United States | Massachusetts | Hostroyale Technologies Pv...
 43.229.79.163/32 # Thailand | Bangkok | Siamdata Communication CO.,LTD.
 43.247.135.53/32 # Hong Kong | Hong Kong | XNNET LLC
@@ -256,6 +255,7 @@
 59.182.121.228/32 # India | Kerala | Bharat Sanchar Nigam LTD
 59.182.146.19/32 # India | Kerala | Bharat Sanchar Nigam LTD
 59.182.155.104/32 # India | Kerala | Bharat Sanchar Nigam LTD
+60.22.160.238/32 # China | Liaoning | China Unicom China1 Backbone
 60.28.124.21/32 # China | Tianjin | CNC Group CHINA1 Tianjin Province Network
 60.29.226.181/32 # China | Tianjin | CNC Group CHINA1 Tianjin Province Network
 61.53.89.26/32 # China | Henan | China Unicom China1 Backbone
@@ -374,7 +374,6 @@
 93.152.207.197/32 # Finland | Mainland Finland | GLOBAL CONNECTIVITY SOLUTIONS...
 94.141.122.164/32 # Finland | Mainland Finland | Partner Hosting LTD
 94.158.53.81/32 # Uzbekistan | Yunusabad district | IPLUS LLC
-95.81.92.100/32 # United States | Texas | Scalaxy B.V.
 95.169.180.122/32 # United States | Illinois | Latitude.sh LTDA
 95.173.197.195/32 # Hong Kong | Hong Kong | Datacamp Limited
 95.181.232.12/32 # Morocco | Rabat-Salé-Kénitra | M Europe SRL
@@ -421,6 +420,7 @@
 103.160.197.48/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.160.197.53/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.160.197.250/32 # India | Uttar Pradesh | Userlinks Netcom Pvt. Ltd.
+103.162.159.204/32 # India | Maharashtra | Maa Vindhyawasini Enterprises
 103.167.204.103/32 # India | Haryana | Fibre Air Services Private Limited
 103.168.2.65/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.168.2.119/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
@@ -540,7 +540,6 @@
 117.209.1.225/32 # India | Meghalaya | Bharat Sanchar Nigam LTD
 117.209.28.86/32 # India | Meghalaya | Bharat Sanchar Nigam LTD
 117.209.29.230/32 # India | Meghalaya | Bharat Sanchar Nigam LTD
-117.209.82.102/32 # India | Tripura | Bharat Sanchar Nigam LTD
 117.215.60.254/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.216.55.240/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.216.69.192/32 # India | Kerala | Bharat Sanchar Nigam LTD
@@ -572,7 +571,6 @@
 122.97.209.180/32 # China | Jiangsu | CNC Group CHINA1 Jiangsu Province Network
 122.227.32.102/32 # China | Beijing | Chinanet
 123.4.48.9/32 # China | Henan | China Unicom China1 Backbone
-123.5.207.156/32 # China | Henan | China Unicom China1 Backbone
 123.57.194.153/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
 123.139.57.103/32 # China | Shaanxi | China Unicom China1 Backbone
 123.145.201.157/32 # China | Chongqing | China Unicom China1 Backbone
@@ -626,7 +624,6 @@
 131.159.24.205/32 # Germany | Bavaria | Technical University of Munich
 134.199.145.109/32 # Australia | New South Wales | Digitalocean, LLC
 134.199.146.40/32 # Australia | New South Wales | Digitalocean, LLC
-134.199.147.214/32 # Australia | New South Wales | Digitalocean, LLC
 134.199.148.105/32 # Australia | New South Wales | Digitalocean, LLC
 134.199.158.29/32 # Australia | New South Wales | Digitalocean, LLC
 134.199.162.49/32 # Australia | New South Wales | Digitalocean, LLC
@@ -974,7 +971,6 @@
 167.99.202.247/32 # United Kingdom | England | Digitalocean, LLC
 167.99.219.122/32 # Netherlands | North Holland | Digitalocean, LLC
 167.172.27.96/32 # United States | New Jersey | Digitalocean, LLC
-167.172.59.13/32 # United Kingdom | England | Digitalocean, LLC
 167.172.124.16/32 # United States | California | Digitalocean, LLC
 167.172.139.31/32 # United States | New Jersey | Digitalocean, LLC
 167.172.151.223/32 # United States | New Jersey | Digitalocean, LLC
@@ -1256,7 +1252,6 @@
 198.23.212.41/32 # United States | New York | HostPapa
 198.55.98.133/32 # United States | California | KPROHOST LLC
 198.211.97.27/32 # United States | New Jersey | Digitalocean, LLC
-198.211.101.24/32 # United States | New Jersey | Digitalocean, LLC
 201.168.124.82/32 # Mexico | Nuevo Leon | COORDINADORA DE CARRIER S, S.A. DE C.V.
 201.217.193.155/32 # Colombia | Bogota | Ifx Corporation
 202.21.42.171/32 # India | Maharashtra | Railtel Corporation of India Ltd.
@@ -1305,7 +1300,6 @@
 209.38.95.14/32 # Australia | New South Wales | Digitalocean, LLC
 209.38.95.85/32 # Australia | New South Wales | Digitalocean, LLC
 209.38.107.142/32 # Netherlands | North Holland | Digitalocean, LLC
-209.38.110.122/32 # Netherlands | North Holland | Digitalocean, LLC
 209.38.221.143/32 # Germany | Hesse | Digitalocean, LLC
 209.38.239.106/32 # Germany | Hesse | Digitalocean, LLC
 209.38.250.32/32 # Germany | Hesse | Digitalocean, LLC
@@ -1313,7 +1307,6 @@
 211.159.151.11/32 # China | Beijing | Shenzhen Tencent Computer Systems Compan...
 212.47.65.123/32 # France | Grand Est | Contabo GmbH
 212.56.35.232/32 # United States | New Jersey | Nubes, LLC
-212.56.45.4/32 # United States | Missouri | Contabo Inc.
 212.83.190.143/32 # France | Île-de-France | SCALEWAY S.A.S.
 212.102.255.102/32 # Germany | Hesse | H NEXUS LTD
 212.132.106.225/32 # Germany | Baden-Württemberg | IONOS SE
