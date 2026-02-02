@@ -6,6 +6,8 @@
 23.234.105.0/24 # United States | Texas | Tzulo, Inc.
 23.234.106.0/24 # United States | Texas | Tzulo, Inc.
 23.234.107.0/24 # United States | Texas | Tzulo, Inc.
+23.234.120.0/24 # United States | Nevada | Tzulo, Inc.
+23.234.123.0/24 # United States | Illinois | Tzulo, Inc.
 37.19.200.0/24 # United States | Texas | Datacamp Limited
 37.19.210.0/24 # United States | Colorado | Datacamp Limited
 37.19.221.0/24 # United States | Texas | Datacamp Limited
@@ -21,6 +23,7 @@
 130.49.216.0/24 # Netherlands | South Holland | Worldstream B.V.
 138.199.43.0/24 # United States | Washington | Datacamp Limited
 143.244.47.0/24 # United States | New York | Datacamp Limited
+146.70.198.0/24 # Canada | Québec | M Europe SRL
 149.40.50.0/24 # United States | Massachusetts | Datacamp Limited
 155.2.190.0/24 # United States | Georgia | Uk Limited
 155.2.191.0/24 # United States | Ohio | Host Universal Pty LTD
@@ -29,6 +32,7 @@
 173.249.253.0/24 # United States | Illinois | Tzulo, Inc.
 173.249.254.0/24 # United States | California | tzulo
 173.249.255.0/24 # United States | Illinois | Tzulo, Inc.
+178.249.214.0/24 # Canada | Ontario | Datacamp Limited
 185.156.46.0/24 # United States | Virginia | Datacamp Limited
 195.24.237.0/24 # Netherlands | Limburg | Netiface Limited
 202.21.42.0/24 # India | Karnataka | Railtel Corporation of India Ltd.
@@ -87,11 +91,17 @@
 23.234.76.252/32 # United States | North Carolina | Tzulo, Inc.
 23.234.79.123/32 # United States | North Carolina | Tzulo, Inc.
 23.234.83.123/32 # United States | Washington | Tzulo, Inc.
+23.234.84.31/32 # Canada | Ontario | Tzulo, Inc.
 23.234.84.156/32 # Canada | Ontario | Tzulo, Inc.
+23.234.84.237/32 # Canada | Ontario | Tzulo, Inc.
+23.234.84.250/32 # Canada | Ontario | Tzulo, Inc.
+23.234.85.22/32 # Canada | Ontario | Tzulo, Inc.
 23.234.85.31/32 # Canada | Ontario | Tzulo, Inc.
 23.234.85.237/32 # Canada | Ontario | Tzulo, Inc.
 23.234.86.31/32 # Canada | Ontario | Tzulo, Inc.
 23.234.86.122/32 # Canada | Ontario | Tzulo, Inc.
+23.234.86.250/32 # Canada | Ontario | Tzulo, Inc.
+23.234.87.22/32 # Canada | Ontario | Tzulo, Inc.
 23.234.87.31/32 # Canada | Ontario | Tzulo, Inc.
 23.234.87.110/32 # Canada | Ontario | Tzulo, Inc.
 23.234.88.251/32 # United States | Arizona | Tzulo, Inc.
@@ -112,17 +122,13 @@
 23.234.118.123/32 # United States | Missouri | Tzulo, Inc.
 23.234.119.123/32 # United States | Missouri | Tzulo, Inc.
 23.234.119.251/32 # United States | Missouri | Tzulo, Inc.
-23.234.120.123/32 # United States | Nevada | Tzulo, Inc.
-23.234.120.163/32 # United States | Nevada | Tzulo, Inc.
-23.234.120.170/32 # United States | Nevada | Tzulo, Inc.
-23.234.120.250/32 # United States | Nevada | Tzulo, Inc.
+23.234.121.38/32 # United States | Nevada | Tzulo, Inc.
 23.234.121.45/32 # United States | Nevada | Tzulo, Inc.
+23.234.121.123/32 # United States | Nevada | Tzulo, Inc.
 23.234.121.170/32 # United States | Nevada | Tzulo, Inc.
 23.234.122.45/32 # Canada | Québec | Tzulo, Inc.
 23.234.122.112/32 # Canada | Québec | Tzulo, Inc.
-23.234.123.45/32 # United States | Illinois | Tzulo, Inc.
-23.234.123.240/32 # United States | Illinois | Tzulo, Inc.
-23.234.123.250/32 # United States | Illinois | Tzulo, Inc.
+23.234.122.163/32 # Canada | Québec | Tzulo, Inc.
 24.144.103.193/32 # United States | New Jersey | Digitalocean, LLC
 24.199.84.217/32 # United States | New Jersey | Digitalocean, LLC
 24.199.86.59/32 # United States | New Jersey | Digitalocean, LLC
@@ -440,6 +446,7 @@
 102.69.167.14/32 # Tanzania | Dodoma | Flashnet Technologies Limited
 102.88.54.9/32 # Nigeria | Lagos | Mtn Nigeria Communication Limited
 102.88.54.107/32 # Nigeria | Lagos | Mtn Nigeria Communication Limited
+102.88.55.207/32 # Nigeria | Lagos | Mtn Nigeria Communication Limited
 102.135.95.102/32 # Turkey | İstanbul | SUNUCUN BILGI ILETISIM TEKNOLOJILERI V...
 102.212.42.30/32 # Nigeria | Akwa Ibom | Connect, Surf And Smile Limited
 102.212.42.47/32 # Nigeria | Akwa Ibom | Connect, Surf And Smile Limited
@@ -500,6 +507,7 @@
 104.160.6.2/32 # United Kingdom | England | Orion Network Limited
 104.164.164.51/32 # United States | New York | HOST TELECOM LTD
 104.168.92.245/32 # United States | California | HostPapa
+104.193.135.123/32 # Canada | British Columbia | Tech Futures Interactive Inc.
 104.193.135.198/32 # Canada | British Columbia | Tech Futures Interactive Inc.
 104.193.135.200/32 # Canada | British Columbia | Tech Futures Interactive Inc.
 104.193.135.219/32 # Canada | British Columbia | Tech Futures Interactive Inc.
@@ -816,9 +824,6 @@
 146.70.187.61/32 # United States | Florida | M Europe SRL
 146.70.187.125/32 # United States | Florida | M Europe SRL
 146.70.187.188/32 # United States | Florida | M Europe SRL
-146.70.198.188/32 # Canada | Québec | M Europe SRL
-146.70.198.197/32 # Canada | Québec | M Europe SRL
-146.70.198.252/32 # Canada | Québec | M Europe SRL
 146.70.211.60/32 # United States | Texas | M Europe SRL
 146.70.211.188/32 # United States | Texas | M Europe SRL
 146.190.68.120/32 # United States | New Jersey | Digitalocean, LLC
@@ -829,6 +834,7 @@
 147.185.221.24/32 # United States | Nevada | Developed Methods LLC
 148.113.214.176/32 # Canada | Québec | OVH SAS
 148.251.175.85/32 # Germany | Saxony | Hetzner Online GmbH
+149.22.81.197/32 # Canada | British Columbia | Datacamp Limited
 149.22.81.209/32 # Canada | British Columbia | Datacamp Limited
 149.22.81.219/32 # Canada | British Columbia | Datacamp Limited
 149.28.130.195/32 # Singapore | Southeast | The Constant Company, LLC
@@ -979,6 +985,7 @@
 165.22.83.203/32 # Germany | Hesse | Digitalocean, LLC
 165.22.122.35/32 # United Kingdom | England | Digitalocean, LLC
 165.22.166.38/32 # United States | California | Digitalocean, LLC
+165.22.188.122/32 # United States | New Jersey | Digitalocean, LLC
 165.22.189.32/32 # United States | New Jersey | Digitalocean, LLC
 165.227.47.162/32 # Canada | Ontario | Digitalocean, LLC
 165.227.113.183/32 # United States | New Jersey | Digitalocean, LLC
@@ -1193,9 +1200,6 @@
 178.159.95.151/32 # United States | New York | Clouvider Limited
 178.175.134.52/32 # Republic of Moldova | Chisinau | Trabia SRL
 178.236.247.173/32 # United States | California | AEZA INTERNATIONAL LTD
-178.249.214.5/32 # Canada | Ontario | Datacamp Limited
-178.249.214.14/32 # Canada | Ontario | Datacamp Limited
-178.249.214.18/32 # Canada | Ontario | Datacamp Limited
 179.43.159.186/32 # Switzerland | Zurich | Private Layer INC
 179.60.149.209/32 # United States | New York | HOSTKEY
 179.95.136.68/32 # Brazil | Goiás | TELEF NICA BRASIL S.A
@@ -1251,6 +1255,7 @@
 188.166.168.121/32 # United Kingdom | England | Digitalocean, LLC
 188.241.176.197/32 # Canada | Québec | M Europe SRL
 188.241.176.202/32 # Canada | Québec | M Europe SRL
+188.241.176.252/32 # Canada | Québec | M Europe SRL
 190.153.123.197/32 # Venezuela | Miranda State | Net Uno, C.A.
 191.96.150.28/32 # United States | New York | Cogent Communications, LLC
 192.3.95.152/32 # United States | New York | HostPapa
@@ -1311,6 +1316,7 @@
 206.189.52.73/32 # Germany | Hesse | Digitalocean, LLC
 206.189.86.235/32 # Singapore | Southeast | Digitalocean, LLC
 206.189.105.102/32 # Netherlands | North Holland | Digitalocean, LLC
+206.189.123.77/32 # United Kingdom | England | Digitalocean, LLC
 206.189.162.208/32 # United States | California | Digitalocean, LLC
 206.237.0.49/32 # Hong Kong | Hong Kong | XNNET LLC
 206.237.2.40/32 # Hong Kong | Hong Kong | XNNET LLC
