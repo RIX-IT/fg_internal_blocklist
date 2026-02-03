@@ -16,6 +16,7 @@
 37.19.200.0/24 # United States | Texas | Datacamp Limited
 37.19.210.0/24 # United States | Colorado | Datacamp Limited
 37.19.221.0/24 # United States | Texas | Datacamp Limited
+38.240.225.0/24 # Canada | British Columbia | Tech Futures Interactive Inc.
 45.134.142.0/24 # United States | Mississippi | Datacamp Limited
 62.93.167.0/24 # Canada | Québec | Datacamp Limited
 68.235.46.0/24 # United States | Ohio | Tzulo, Inc.
@@ -110,11 +111,13 @@
 23.234.90.123/32 # United States | Arizona | Tzulo, Inc.
 23.234.91.123/32 # United States | Arizona | Tzulo, Inc.
 23.234.91.251/32 # United States | Arizona | Tzulo, Inc.
+23.234.92.251/32 # United States | California | Tzulo, Inc.
 23.234.93.251/32 # United States | California | Tzulo, Inc.
 23.234.94.251/32 # United States | Illinois | Tzulo, Inc.
 23.234.95.252/32 # United States | California | Tzulo, Inc.
 23.234.102.252/32 # United States | New York | Tzulo, Inc.
 23.234.109.123/32 # United States | Georgia | Tzulo, Inc.
+23.234.109.251/32 # United States | Georgia | Tzulo, Inc.
 23.234.111.123/32 # United States | Georgia | Tzulo, Inc.
 23.234.112.124/32 # United States | Utah | Tzulo, Inc.
 23.234.114.251/32 # United States | Utah | Tzulo, Inc.
@@ -122,6 +125,7 @@
 23.234.117.123/32 # United States | Missouri | Tzulo, Inc.
 23.234.117.251/32 # United States | Missouri | Tzulo, Inc.
 23.234.118.123/32 # United States | Missouri | Tzulo, Inc.
+23.234.118.251/32 # United States | Missouri | Tzulo, Inc.
 23.234.119.123/32 # United States | Missouri | Tzulo, Inc.
 23.234.119.251/32 # United States | Missouri | Tzulo, Inc.
 24.144.103.193/32 # United States | New Jersey | Digitalocean, LLC
@@ -156,10 +160,6 @@
 38.180.137.245/32 # United States | Texas | Scalaxy B.V.
 38.180.244.209/32 # United States | Texas | Scalaxy B.V.
 38.180.245.207/32 # Germany | Hesse | Leaseweb Deutschland GmbH
-38.240.225.38/32 # Canada | British Columbia | Tech Futures Interactive Inc.
-38.240.225.59/32 # Canada | British Columbia | Tech Futures Interactive Inc.
-38.240.225.61/32 # Canada | British Columbia | Tech Futures Interactive Inc.
-38.240.225.91/32 # Canada | British Columbia | Tech Futures Interactive Inc.
 38.242.152.105/32 # France | Grand Est | Contabo GmbH
 38.246.250.201/32 # Hong Kong | Hong Kong | Netlab Global
 39.73.238.139/32 # China | Shandong | China Unicom China1 Backbone
@@ -464,6 +464,7 @@
 103.102.246.251/32 # United States | District of Columbia | Hostroyale Technolo...
 103.136.95.110/32 # India | Maharashtra | UCN CABLE NETWORK PVT. LTD
 103.148.195.198/32 # Indonesia | Bali | DINAS KOMUNIKASI DAN INFORMATIKA KABUPA...
+103.158.170.190/32 # India | Delhi | ONEOTT INTERTAINMENT LIMITED
 103.160.196.251/32 # India | Uttar Pradesh | Userlinks Netcom Pvt. Ltd.
 103.160.197.48/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.160.197.53/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
@@ -537,6 +538,7 @@
 107.170.169.57/32 # United States | New Jersey | Digitalocean, LLC
 107.172.3.31/32 # United States | New York | HostPapa
 107.173.135.116/32 # United States | New York | HostPapa
+107.175.65.230/32 # United States | New York | HostPapa
 107.189.15.205/32 # Netherlands | North Holland | Routerhosting LLC
 107.189.16.41/32 # Netherlands | North Holland | Routerhosting LLC
 107.189.17.89/32 # Netherlands | North Holland | Routerhosting LLC
@@ -1062,6 +1064,7 @@
 172.22.173.171/32 # None | None | None
 172.86.81.100/32 # Singapore | Southeast | Routerhosting LLC
 172.86.93.139/32 # Germany | Hesse | Aurologic GmbH
+172.86.108.36/32 # United States | New York | Routerhosting LLC
 172.86.113.71/32 # United States | Texas | Routerhosting LLC
 172.86.113.117/32 # United States | Texas | Routerhosting LLC
 172.96.15.103/32 # United States | Missouri | Unreal Servers, LLC
@@ -1230,6 +1233,7 @@
 185.190.251.16/32 # United States | New York | GREEN FLOID LLC
 185.208.158.250/32 # Switzerland | Bern | Global data System IT Corporation
 185.209.228.127/32 # France | Grand Est | Contabo GmbH
+185.213.193.100/32 # United States | District of Columbia | Zenlayer INC
 185.213.193.123/32 # United States | District of Columbia | Zenlayer INC
 185.213.193.251/32 # United States | District of Columbia | Zenlayer INC
 185.219.220.175/32 # Germany | Hesse | Servinga GmbH
