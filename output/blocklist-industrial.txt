@@ -31,7 +31,9 @@
 138.199.43.0/24 # United States | Washington | Datacamp Limited
 143.244.47.0/24 # United States | New York | Datacamp Limited
 146.70.165.0/24 # United States | New York | M Europe SRL
+146.70.172.0/24 # United States | California | M Europe SRL
 146.70.198.0/24 # Canada | Québec | M Europe SRL
+146.70.211.0/24 # United States | Texas | M Europe SRL
 149.22.81.0/24 # Canada | British Columbia | Datacamp Limited
 149.40.50.0/24 # United States | Massachusetts | Datacamp Limited
 155.2.190.0/24 # United States | Georgia | Uk Limited
@@ -43,6 +45,7 @@
 173.249.255.0/24 # United States | Illinois | Tzulo, Inc.
 178.249.214.0/24 # Canada | Ontario | Datacamp Limited
 185.156.46.0/24 # United States | Virginia | Datacamp Limited
+192.253.248.0/24 # Singapore | Southeast | M Europe SRL
 195.24.237.0/24 # Netherlands | Limburg | Netiface Limited
 202.21.42.0/24 # India | Karnataka | Railtel Corporation of India Ltd.
 208.131.130.0/24 # United States | Ohio | Uk Limited
@@ -172,6 +175,7 @@
 39.90.149.194/32 # China | Shandong | China Unicom China1 Backbone
 39.106.141.68/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
 41.217.86.92/32 # Nigeria | Lagos | SPECTRANET LIMITED
+42.5.89.215/32 # China | Liaoning | China Unicom China1 Backbone
 42.7.100.222/32 # China | Liaoning | China Unicom China1 Backbone
 42.54.66.97/32 # China | Liaoning | China Unicom China1 Backbone
 42.56.49.137/32 # China | Liaoning | China Unicom China1 Backbone
@@ -465,6 +469,7 @@
 103.96.130.107/32 # Hong Kong | Hong Kong | WUZHOUHULIAN INTERNATIONAL CO., LI...
 103.98.37.187/32 # India | Delhi | NETMAX COMPUTERS
 103.102.246.251/32 # United States | District of Columbia | Hostroyale Technolo...
+103.118.156.2/32 # Malaysia | Federal Territory of Kuala Lumpur | Mt Microtel...
 103.136.95.110/32 # India | Maharashtra | UCN CABLE NETWORK PVT. LTD
 103.148.195.198/32 # Indonesia | Bali | DINAS KOMUNIKASI DAN INFORMATIKA KABUPA...
 103.158.170.190/32 # India | Delhi | ONEOTT INTERTAINMENT LIMITED
@@ -491,6 +496,7 @@
 103.208.230.45/32 # India | Tamil Nadu | Railtel Corporation of India Ltd.
 103.210.101.111/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
 103.232.54.13/32 # Vietnam | Hanoi | VIETSERVER SERVICES TECHNOLOGY COMPANY L...
+103.233.25.228/32 # India | Maharashtra | Tier Cloud Services
 103.237.157.251/32 # India | Delhi | Skymax Broadband Services Pvt. Ltd.
 103.246.144.118/32 # Netherlands | North Holland | Podaon Sia
 103.251.26.251/32 # United States | California | Hostroyale Technologies Pvt LTD
@@ -735,6 +741,7 @@
 139.5.1.196/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
 139.5.10.90/32 # India | Odisha | Railtel Corporation of India Ltd.
 139.5.10.178/32 # India | Odisha | Railtel Corporation of India Ltd.
+139.5.70.227/32 # Nepal | Bagmati Pradesh | Worldlink Communications
 139.5.70.228/32 # Nepal | Bagmati Pradesh | Worldlink Communications
 139.59.28.138/32 # India | Karnataka | Digitalocean, LLC
 139.59.30.35/32 # India | Karnataka | Digitalocean, LLC
@@ -746,6 +753,7 @@
 139.84.170.230/32 # India | Uttar Pradesh | The Constant Company, LLC
 139.99.188.124/32 # Australia | New South Wales | OVH SAS
 139.135.42.181/32 # Pakistan | Punjab | Cyber Internet Services private Limited
+139.135.43.97/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.135.44.167/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.135.44.176/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.135.46.117/32 # Pakistan | Punjab | Cyber Internet Services private Limited
@@ -806,18 +814,11 @@
 146.70.166.188/32 # United States | New York | M Europe SRL
 146.70.166.253/32 # United States | New York | M Europe SRL
 146.70.168.124/32 # United States | New York | M Europe SRL
-146.70.172.125/32 # United States | California | M Europe SRL
-146.70.172.188/32 # United States | California | M Europe SRL
-146.70.172.189/32 # United States | California | M Europe SRL
-146.70.172.253/32 # United States | California | M Europe SRL
+146.70.171.176/32 # United States | New York | M Europe SRL
 146.70.187.60/32 # United States | Florida | M Europe SRL
 146.70.187.61/32 # United States | Florida | M Europe SRL
 146.70.187.125/32 # United States | Florida | M Europe SRL
 146.70.187.188/32 # United States | Florida | M Europe SRL
-146.70.211.60/32 # United States | Texas | M Europe SRL
-146.70.211.176/32 # United States | Texas | M Europe SRL
-146.70.211.188/32 # United States | Texas | M Europe SRL
-146.70.211.189/32 # United States | Texas | M Europe SRL
 146.190.68.120/32 # United States | New Jersey | Digitalocean, LLC
 146.190.93.205/32 # Singapore | Southeast | Digitalocean, LLC
 146.190.133.207/32 # United States | California | Digitalocean, LLC
@@ -1249,7 +1250,6 @@
 192.241.190.181/32 # United States | New Jersey | Digitalocean, LLC
 192.241.243.250/32 # United States | New Jersey | Digitalocean, LLC
 192.241.245.60/32 # United States | New Jersey | Digitalocean, LLC
-192.253.248.150/32 # Singapore | Southeast | M Europe SRL
 193.32.162.10/32 # Romania | Bucharest | UNMANAGED LTD
 193.37.32.137/32 # Singapore | Southeast | F.N.S. HOLDINGS LIMITED
 193.124.24.117/32 # United States | Delaware | Baxet Group Inc.
