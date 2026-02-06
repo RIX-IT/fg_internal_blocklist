@@ -15,28 +15,23 @@
 23.234.123.0/24 # United States | Illinois | Tzulo, Inc.
 37.19.200.0/24 # United States | Texas | Datacamp Limited
 37.19.210.0/24 # United States | Colorado | Datacamp Limited
-37.19.221.0/24 # United States | Texas | Datacamp Limited
 38.240.225.0/24 # Canada | British Columbia | Tech Futures Interactive Inc.
 45.134.142.0/24 # United States | Mississippi | Datacamp Limited
 62.93.167.0/24 # Canada | Québec | Datacamp Limited
 68.235.46.0/24 # United States | Ohio | Tzulo, Inc.
 79.127.217.0/24 # United States | California | Datacamp Limited
 79.127.222.0/24 # United States | Texas | Datacamp Limited
-87.249.134.0/24 # United States | Illinois | Datacamp Limited
 87.251.67.0/24 # Netherlands | North Holland | Shesternin Vladimir Anatolie...
 103.81.230.0/24 # United States | District of Columbia | Hostroyale Technolo...
 103.81.231.0/24 # United States | District of Columbia | Hostroyale Technolo...
 130.49.215.0/24 # Netherlands | North Holland | Shesternin Vladimir Anatolie...
 130.49.216.0/24 # Netherlands | South Holland | Worldstream B.V.
-138.199.43.0/24 # United States | Washington | Datacamp Limited
-143.244.47.0/24 # United States | New York | Datacamp Limited
 146.70.165.0/24 # United States | New York | M Europe SRL
 146.70.172.0/24 # United States | California | M Europe SRL
 146.70.198.0/24 # Canada | Québec | M Europe SRL
 146.70.211.0/24 # United States | Texas | M Europe SRL
 149.22.81.0/24 # Canada | British Columbia | Datacamp Limited
 149.40.50.0/24 # United States | Massachusetts | Datacamp Limited
-155.2.190.0/24 # United States | Georgia | Uk Limited
 155.2.191.0/24 # United States | Ohio | Host Universal Pty LTD
 172.86.127.0/24 # United States | California | Routerhosting LLC
 173.249.252.0/24 # United States | Illinois | Tzulo, Inc.
@@ -164,6 +159,10 @@
 36.255.18.20/32 # India | Karnataka | Railtel Corporation of India Ltd.
 36.255.18.65/32 # India | Maharashtra | Railtel Corporation of India Ltd.
 36.255.18.119/32 # India | Maharashtra | Railtel Corporation of India Ltd.
+37.19.221.141/32 # United States | Texas | Datacamp Limited
+37.19.221.151/32 # United States | Texas | Datacamp Limited
+37.19.221.174/32 # United States | Texas | Datacamp Limited
+37.19.221.181/32 # United States | Texas | Datacamp Limited
 37.114.46.25/32 # Germany | Bavaria | Florian Kolb
 38.54.30.117/32 # Vietnam | Hanoi | Kaopu Cloud Hk Limited
 38.54.56.88/32 # Japan | Tokyo | Kaopu Cloud Hk Limited
@@ -351,7 +350,6 @@
 72.255.26.120/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 72.255.26.178/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 75.127.0.235/32 # United States | California | HostPapa
-75.157.196.239/32 # Canada | British Columbia | Telus Communications Inc.
 77.8.32.251/32 # Germany | Free Hanseatic City of Bremen | Telefonica Germa...
 77.90.153.30/32 # Germany | Bavaria | British Telecommunications PLC
 77.110.118.231/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
@@ -390,6 +388,10 @@
 87.106.191.217/32 # Germany | Berlin | IONOS SE
 87.120.187.41/32 # Germany | Hesse | PLAY GO INTERNATIONAL LIMITED
 87.120.219.26/32 # United Kingdom | England | GLOBAL CONNECTIVITY SOLUTIONS LLP
+87.249.134.35/32 # United States | Illinois | Datacamp Limited
+87.249.134.37/32 # United States | Illinois | Datacamp Limited
+87.249.134.38/32 # United States | Illinois | Datacamp Limited
+87.249.134.39/32 # United States | Illinois | Datacamp Limited
 88.32.34.78/32 # Italy | Veneto | Telecom Italia S.P.A.
 88.32.188.248/32 # Italy | Lombardy | Telecom Italia S.P.A.
 88.119.175.65/32 # United States | Illinois | Informacines Sistemos Ir Techno...
@@ -548,7 +550,6 @@
 107.170.61.156/32 # United States | New Jersey | Digitalocean, LLC
 107.170.64.42/32 # United States | New Jersey | Digitalocean, LLC
 107.170.71.127/32 # United States | New Jersey | Digitalocean, LLC
-107.170.78.173/32 # United States | New Jersey | Digitalocean, LLC
 107.170.169.57/32 # United States | New Jersey | Digitalocean, LLC
 107.172.3.31/32 # United States | New York | HostPapa
 107.173.135.116/32 # United States | New York | HostPapa
@@ -594,7 +595,6 @@
 115.56.155.75/32 # China | Henan | China Unicom China1 Backbone
 115.63.43.188/32 # China | Henan | China Unicom China1 Backbone
 115.96.28.203/32 # India | West Bengal | HATHWAY CABLE AND DATACOM LIMITED
-115.190.174.7/32 # China | Beijing | Beijing Volcano Engine Technology Co., Ltd.
 115.190.242.90/32 # China | Beijing | Beijing Volcano Engine Technology Co., Ltd.
 116.138.12.214/32 # China | Beijing | China Unicom China1 Backbone
 116.213.178.11/32 # China | Beijing | CNLINKNET
@@ -630,7 +630,6 @@
 117.242.194.221/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.248.24.16/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
 118.107.44.219/32 # Hong Kong | Hong Kong | Ctg Server Limited
-119.187.193.144/32 # China | Shandong | China Unicom China1 Backbone
 120.48.109.87/32 # China | Beijing | Beijing Baidu Netcom Science And Technol...
 120.61.193.85/32 # India | Kerala | Bharat Sanchar Nigam LTD
 120.61.194.87/32 # India | Kerala | Bharat Sanchar Nigam LTD
@@ -642,7 +641,6 @@
 120.85.118.87/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.143.32/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.86.238.131/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
-120.86.239.5/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
 121.37.80.227/32 # China | Beijing | Huawei Cloud Service Data Center
 122.97.136.108/32 # China | Jiangsu | China Unicom China1 Backbone
 122.97.209.180/32 # China | Jiangsu | CNC Group CHINA1 Jiangsu Province Network
@@ -740,6 +738,9 @@
 138.197.150.126/32 # Canada | Ontario | Digitalocean, LLC
 138.197.187.224/32 # Germany | Hesse | Digitalocean, LLC
 138.197.218.11/32 # United States | California | Digitalocean, LLC
+138.199.43.77/32 # United States | Washington | Datacamp Limited
+138.199.43.96/32 # United States | Washington | Datacamp Limited
+138.199.43.103/32 # United States | Washington | Datacamp Limited
 139.5.0.234/32 # India | Haryana | Railtel Corporation of India Ltd.
 139.5.1.67/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
 139.5.1.196/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
@@ -809,6 +810,10 @@
 143.110.243.240/32 # India | Karnataka | Digitalocean, LLC
 143.198.4.120/32 # United States | New Jersey | Digitalocean, LLC
 143.198.169.248/32 # United States | New Jersey | Digitalocean, LLC
+143.244.47.67/32 # United States | New York | Datacamp Limited
+143.244.47.76/32 # United States | New York | Datacamp Limited
+143.244.47.77/32 # United States | New York | Datacamp Limited
+143.244.47.90/32 # United States | New York | Datacamp Limited
 143.244.129.29/32 # India | Karnataka | Digitalocean, LLC
 144.48.130.36/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 144.91.81.7/32 # France | Grand Est | Contabo GmbH
@@ -862,6 +867,10 @@
 154.92.16.80/32 # Hong Kong | Hong Kong | YISU CLOUD LIMITED
 154.201.68.57/32 # Hong Kong | Hong Kong | High Family Technology Co., Limited
 154.211.89.5/32 # Hong Kong | Hong Kong | Tcloudnet
+155.2.190.36/32 # United States | Georgia | Uk Limited
+155.2.190.72/32 # United States | Georgia | Uk Limited
+155.2.190.107/32 # United States | Georgia | Uk Limited
+155.2.190.211/32 # United States | Georgia | Uk Limited
 155.2.192.67/32 # United States | New York | Interserver, INC
 155.138.150.12/32 # Canada | Ontario | The Constant Company, LLC
 155.212.41.67/32 # United States | Florida | GREEN FLOID LLC
@@ -964,7 +973,6 @@
 162.243.215.205/32 # United States | New Jersey | Digitalocean, LLC
 162.243.232.181/32 # United States | New Jersey | Digitalocean, LLC
 162.243.249.22/32 # United States | New Jersey | Digitalocean, LLC
-164.90.175.46/32 # Germany | Hesse | Digitalocean, LLC
 164.90.229.162/32 # Germany | Hesse | Digitalocean, LLC
 164.92.147.21/32 # Netherlands | North Holland | Digitalocean, LLC
 164.92.160.26/32 # Germany | Hesse | Digitalocean, LLC
@@ -986,7 +994,6 @@
 165.227.113.183/32 # United States | New Jersey | Digitalocean, LLC
 165.227.147.162/32 # Germany | Baden-Württemberg | Digitalocean, LLC
 165.227.158.198/32 # Germany | Hesse | Digitalocean, LLC
-165.231.182.17/32 # Estonia | Harju maakond | Orion Network Limited
 165.232.105.22/32 # United Kingdom | England | Digitalocean, LLC
 165.232.170.158/32 # Singapore | Southeast | Digitalocean, LLC
 165.232.183.118/32 # India | Karnataka | Digitalocean, LLC
@@ -1185,7 +1192,6 @@
 178.128.242.242/32 # Netherlands | North Holland | Digitalocean, LLC
 178.128.253.198/32 # Netherlands | North Holland | Digitalocean, LLC
 178.156.176.74/32 # United States | Virginia | Hetzner Online GmbH
-178.156.202.204/32 # United States | Virginia | Hetzner Online GmbH
 178.159.93.110/32 # United States | New York | Clouvider Limited
 178.159.95.151/32 # United States | New York | Clouvider Limited
 178.175.134.52/32 # Republic of Moldova | Chisinau | Trabia SRL
@@ -1320,7 +1326,6 @@
 207.90.236.231/32 # United States | Georgia | Baxet Group Inc.
 207.90.238.46/32 # United States | New York | Baxet Group Inc.
 207.90.238.52/32 # United States | New York | Baxet Group Inc.
-207.154.194.5/32 # Germany | Hesse | Digitalocean, LLC
 207.174.31.92/32 # United States | Georgia | Baxet Group Inc.
 207.174.31.215/32 # United States | Georgia | Baxet Group Inc.
 207.180.227.46/32 # France | Grand Est | Contabo GmbH
