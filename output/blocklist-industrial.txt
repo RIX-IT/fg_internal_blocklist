@@ -13,7 +13,6 @@
 23.234.121.0/24 # United States | Nevada | Tzulo, Inc.
 23.234.122.0/24 # Canada | Québec | Tzulo, Inc.
 23.234.123.0/24 # United States | Illinois | Tzulo, Inc.
-37.19.200.0/24 # United States | Texas | Datacamp Limited
 38.240.225.0/24 # Canada | British Columbia | Tech Futures Interactive Inc.
 45.134.142.0/24 # United States | Mississippi | Datacamp Limited
 62.93.167.0/24 # Canada | Québec | Datacamp Limited
@@ -156,6 +155,10 @@
 36.255.18.20/32 # India | Karnataka | Railtel Corporation of India Ltd.
 36.255.18.65/32 # India | Maharashtra | Railtel Corporation of India Ltd.
 36.255.18.119/32 # India | Maharashtra | Railtel Corporation of India Ltd.
+37.19.200.141/32 # United States | Texas | Datacamp Limited
+37.19.200.142/32 # United States | Texas | Datacamp Limited
+37.19.200.161/32 # United States | Texas | Datacamp Limited
+37.19.200.168/32 # United States | Texas | Datacamp Limited
 37.19.210.12/32 # United States | Colorado | Datacamp Limited
 37.19.210.13/32 # United States | Colorado | Datacamp Limited
 37.19.210.26/32 # United States | Colorado | Datacamp Limited
@@ -296,7 +299,6 @@
 59.94.120.27/32 # India | Kerala | Bharat Sanchar Nigam LTD
 59.95.83.219/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.95.86.195/32 # India | Chhattisgarh | Bharat Sanchar Nigam LTD
-59.97.248.194/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.97.249.80/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
 59.97.249.154/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
 59.110.7.32/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
@@ -419,7 +421,6 @@
 91.202.233.132/32 # Russia | Saint Petersburg | PROSPERO OOO
 91.202.233.250/32 # Russia | Saint Petersburg | PROSPERO OOO
 91.202.233.251/32 # Russia | Saint Petersburg | PROSPERO OOO
-91.208.184.93/32 # Republic of Moldova | Chisinau | ALEXHOST SRL
 91.231.56.216/32 # Uzbekistan | Yunusabad district | Ooo Gals Telecom
 92.118.112.143/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 92.118.112.208/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
@@ -447,7 +448,6 @@
 101.91.116.193/32 # China | Shanghai | China Telecom group
 101.99.91.107/32 # Malaysia | Federal Territory of Kuala Lumpur | Shinjiru Te...
 101.108.51.244/32 # Thailand | Maha Sarakham Province | Ministry of Education ...
-101.126.86.90/32 # China | Beijing | Beijing Volcano Engine Technology Co., Ltd.
 102.69.167.14/32 # Tanzania | Dodoma | Flashnet Technologies Limited
 102.88.54.9/32 # Nigeria | Lagos | Mtn Nigeria Communication Limited
 102.88.54.107/32 # Nigeria | Lagos | Mtn Nigeria Communication Limited
@@ -528,7 +528,6 @@
 104.248.74.23/32 # United States | California | Digitalocean, LLC
 104.248.85.120/32 # Netherlands | North Holland | Digitalocean, LLC
 104.248.144.225/32 # Singapore | Southeast | Digitalocean, LLC
-104.248.147.131/32 # Singapore | Southeast | Digitalocean, LLC
 104.248.154.101/32 # Singapore | Southeast | Digitalocean, LLC
 104.248.197.172/32 # Netherlands | North Holland | Digitalocean, LLC
 104.248.243.150/32 # Germany | Hesse | Digitalocean, LLC
@@ -691,7 +690,6 @@
 130.49.126.13/32 # United States | Florida | GREEN FLOID LLC
 130.49.126.30/32 # United States | Washington | GREEN FLOID LLC
 131.159.24.205/32 # Germany | Bavaria | Technical University of Munich
-134.199.145.109/32 # Australia | New South Wales | Digitalocean, LLC
 134.199.158.29/32 # Australia | New South Wales | Digitalocean, LLC
 134.199.166.179/32 # Australia | New South Wales | Digitalocean, LLC
 134.199.167.226/32 # Australia | New South Wales | Digitalocean, LLC
@@ -740,7 +738,6 @@
 139.5.1.67/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
 139.5.1.196/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
 139.5.10.90/32 # India | Odisha | Railtel Corporation of India Ltd.
-139.5.10.178/32 # India | Odisha | Railtel Corporation of India Ltd.
 139.5.70.227/32 # Nepal | Bagmati Pradesh | Worldlink Communications
 139.5.70.228/32 # Nepal | Bagmati Pradesh | Worldlink Communications
 139.59.28.138/32 # India | Karnataka | Digitalocean, LLC
@@ -804,7 +801,6 @@
 143.110.243.240/32 # India | Karnataka | Digitalocean, LLC
 143.198.4.120/32 # United States | New Jersey | Digitalocean, LLC
 143.198.169.248/32 # United States | New Jersey | Digitalocean, LLC
-143.244.47.67/32 # United States | New York | Datacamp Limited
 143.244.47.76/32 # United States | New York | Datacamp Limited
 143.244.47.77/32 # United States | New York | Datacamp Limited
 143.244.47.90/32 # United States | New York | Datacamp Limited
@@ -836,7 +832,6 @@
 149.104.23.176/32 # Hong Kong | Hong Kong | XNNET LLC
 149.115.250.19/32 # United States | California | Cogent Communications
 150.158.161.169/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
-150.230.79.179/32 # Brazil | State of São Paulo | Oracle Corporation
 152.42.246.199/32 # Singapore | Southeast | Digitalocean, LLC
 153.80.11.13/32 # United States | Georgia | GREEN FLOID LLC
 153.80.11.185/32 # United States | Georgia | GREEN FLOID LLC
@@ -919,7 +914,6 @@
 157.107.226.41/32 # Japan | Yamagata Prefecture | Asahi Net
 157.230.141.102/32 # United States | California | Digitalocean, LLC
 157.230.170.105/32 # United States | California | Digitalocean, LLC
-157.230.238.218/32 # United States | New Jersey | Digitalocean, LLC
 157.245.186.51/32 # United States | California | Digitalocean, LLC
 157.245.236.203/32 # United States | California | Digitalocean, LLC
 158.94.208.130/32 # Germany | Hesse | Railnet LLC
@@ -1041,9 +1035,7 @@
 170.64.193.67/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.200.249/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.211.21/32 # Australia | New South Wales | Digitalocean, LLC
-170.64.214.154/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.226.168/32 # Australia | New South Wales | Digitalocean, LLC
-170.64.227.44/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.229.147/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.233.9/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.235.130/32 # Australia | New South Wales | Digitalocean, LLC
@@ -1168,7 +1160,6 @@
 175.107.36.95/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.37.197/32 # Pakistan | Sindh | National Telecommunication Corporation
 175.107.37.230/32 # Pakistan | Sindh | National Telecommunication Corporation
-175.107.228.204/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 175.107.237.53/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 175.165.83.32/32 # China | Liaoning | China Unicom China1 Backbone
 175.218.20.74/32 # Republic of Korea | Gyeonggi | Korea Telecom
@@ -1177,7 +1168,6 @@
 176.100.130.60/32 # United States | New York | Clouvider Limited
 176.100.131.64/32 # United States | New York | Clouvider Limited
 178.17.57.102/32 # Turkey | İstanbul | SUNUCUN BILGI ILETISIM TEKNOLOJILERI V...
-178.128.8.247/32 # United States | California | Digitalocean, LLC
 178.128.91.137/32 # Singapore | Southeast | Digitalocean, LLC
 178.128.156.45/32 # United States | New Jersey | Digitalocean, LLC
 178.128.163.71/32 # United Kingdom | England | Digitalocean, LLC
