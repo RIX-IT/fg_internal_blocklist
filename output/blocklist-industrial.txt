@@ -21,7 +21,6 @@
 130.49.215.0/24 # Netherlands | North Holland | Shesternin Vladimir Anatolie...
 130.49.216.0/24 # Netherlands | South Holland | Worldstream B.V.
 146.70.165.0/24 # United States | New York | M Europe SRL
-146.70.172.0/24 # United States | California | M Europe SRL
 146.70.198.0/24 # Canada | Québec | M Europe SRL
 146.70.211.0/24 # United States | Texas | M Europe SRL
 149.22.81.0/24 # Canada | British Columbia | Datacamp Limited
@@ -52,7 +51,6 @@
 8.217.60.40/32 # Hong Kong | Hong Kong | Alibaba us Technology Co., Ltd.
 13.232.191.219/32 # India | Maharashtra | Amazon.com, Inc.
 14.1.104.209/32 # Pakistan | Punjab | Cyber Internet Services private Limited
-14.1.106.124/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 14.96.75.238/32 # India | Maharashtra | TTSL ISP DIVISION
 14.231.151.151/32 # Vietnam | Hanoi | Vnpt Corp
 15.188.246.198/32 # France | Île-de-France | Amazon.com, Inc.
@@ -125,13 +123,11 @@
 34.79.212.205/32 # Belgium | Brussels-Capital | Google LLC
 34.100.196.176/32 # India | Maharashtra | Google LLC
 34.121.95.53/32 # United States | Iowa | Google LLC
-34.134.199.247/32 # United States | Iowa | Google LLC
 34.194.151.175/32 # United States | Virginia | Amazon.com, Inc.
 36.255.5.114/32 # India | Karnataka | Railtel Corporation of India Ltd.
 36.255.18.20/32 # India | Karnataka | Railtel Corporation of India Ltd.
 37.19.200.141/32 # United States | Texas | Datacamp Limited
 37.19.200.142/32 # United States | Texas | Datacamp Limited
-37.19.200.161/32 # United States | Texas | Datacamp Limited
 37.114.46.25/32 # Germany | Bavaria | Florian Kolb
 38.146.28.93/32 # United States | California | Cogent Communications
 38.180.137.141/32 # United States | Texas | Scalaxy B.V.
@@ -454,7 +450,6 @@
 104.248.252.96/32 # Germany | Hesse | Digitalocean, LLC
 104.250.164.102/32 # United States | Texas | Net Gate Telecom S.R.L.
 105.114.21.252/32 # Nigeria | Delta | Airtel Networks Limited
-106.75.3.246/32 # China | Shanghai | Idc, China Telecommunications Corporation
 106.126.3.56/32 # China | Guangdong Province | Quanzhou
 106.126.3.78/32 # China | Guangdong Province | Quanzhou
 106.254.141.148/32 # Republic of Korea |  | Lg Dacom Corporation
@@ -514,7 +509,6 @@
 117.121.133.33/32 # China | Beijing | China Unicom China1 Backbone
 117.175.185.81/32 # China | Guangdong Province | China Mobile
 117.192.125.95/32 # India | Karnataka | Bharat Sanchar Nigam LTD
-117.193.138.110/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.196.170.197/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.205.89.41/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.205.93.155/32 # India | Rajasthan | Bharat Sanchar Nigam LTD
@@ -627,7 +621,6 @@
 139.135.42.181/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.135.43.97/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.135.44.167/32 # Pakistan | Punjab | Cyber Internet Services private Limited
-139.135.44.176/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.135.46.117/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.135.60.80/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.135.60.177/32 # Pakistan | Punjab | Cyber Internet Services private Limited
@@ -655,10 +648,7 @@
 142.111.247.148/32 # United States | New Jersey | HOST TELECOM LTD
 142.111.254.17/32 # United States | New Jersey | HOST TELECOM LTD
 142.147.89.239/32 # United States | California | xTom
-142.252.4.173/32 # United States | California | HOST TELECOM LTD
 142.252.91.235/32 # United States | California | HOST TELECOM LTD
-142.252.133.236/32 # United States | California | HOST TELECOM LTD
-142.252.171.139/32 # United States | California | HOST TELECOM LTD
 143.110.142.238/32 # United States | California | Digitalocean, LLC
 143.110.186.117/32 # India | Karnataka | Digitalocean, LLC
 143.110.192.43/32 # United States | California | Digitalocean, LLC
@@ -678,6 +668,10 @@
 146.70.166.189/32 # United States | New York | M Europe SRL
 146.70.166.253/32 # United States | New York | M Europe SRL
 146.70.171.176/32 # United States | New York | M Europe SRL
+146.70.172.125/32 # United States | California | M Europe SRL
+146.70.172.188/32 # United States | California | M Europe SRL
+146.70.172.189/32 # United States | California | M Europe SRL
+146.70.172.253/32 # United States | California | M Europe SRL
 146.70.187.61/32 # United States | Florida | M Europe SRL
 146.70.187.125/32 # United States | Florida | M Europe SRL
 146.70.187.188/32 # United States | Florida | M Europe SRL
@@ -705,7 +699,6 @@
 154.90.58.164/32 # Singapore | Southeast | Kaopu Cloud Hk Limited
 154.92.16.80/32 # Hong Kong | Hong Kong | YISU CLOUD LIMITED
 154.211.89.5/32 # Hong Kong | Hong Kong | Tcloudnet
-155.2.190.36/32 # United States | Georgia | Uk Limited
 155.2.190.107/32 # United States | Georgia | Uk Limited
 155.2.190.211/32 # United States | Georgia | Uk Limited
 155.2.192.67/32 # United States | New York | Interserver, INC
@@ -826,7 +819,6 @@
 167.71.9.86/32 # Netherlands | North Holland | Digitalocean, LLC
 167.71.13.186/32 # Netherlands | North Holland | Digitalocean, LLC
 167.71.139.42/32 # United Kingdom | England | Digitalocean, LLC
-167.71.188.164/32 # United States | New Jersey | Digitalocean, LLC
 167.71.212.219/32 # Singapore | Southeast | Digitalocean, LLC
 167.71.215.225/32 # Singapore | Southeast | Digitalocean, LLC
 167.71.228.212/32 # India | Karnataka | Digitalocean, LLC
@@ -867,12 +859,7 @@
 172.86.113.117/32 # United States | Texas | Routerhosting LLC
 172.96.15.103/32 # United States | Missouri | Unreal Servers, LLC
 172.96.15.104/32 # United States | Missouri | Unreal Servers, LLC
-172.104.30.66/32 # United States | New Jersey | Akamai Technologies, Inc.
-172.120.141.81/32 # United States | New Jersey | HOST TELECOM LTD
 172.120.182.81/32 # United States | New Jersey | HOST TELECOM LTD
-172.120.189.142/32 # United States | New Jersey | HOST TELECOM LTD
-172.120.194.250/32 # United States | Illinois | HOST TELECOM LTD
-172.120.211.175/32 # United States | Texas | HOST TELECOM LTD
 172.120.238.173/32 # United States | Texas | HOST TELECOM LTD
 172.120.239.66/32 # United States | Texas | HOST TELECOM LTD
 172.120.239.96/32 # United States | Texas | HOST TELECOM LTD
@@ -918,7 +905,6 @@
 178.128.156.45/32 # United States | New Jersey | Digitalocean, LLC
 178.128.163.71/32 # United Kingdom | England | Digitalocean, LLC
 178.128.242.242/32 # Netherlands | North Holland | Digitalocean, LLC
-178.128.253.198/32 # Netherlands | North Holland | Digitalocean, LLC
 178.156.176.74/32 # United States | Virginia | Hetzner Online GmbH
 178.159.95.151/32 # United States | New York | Clouvider Limited
 178.175.134.52/32 # Republic of Moldova | Chisinau | Trabia SRL
@@ -954,7 +940,6 @@
 185.149.232.221/32 # United States | Missouri | Heymman Servers Corporation
 185.156.46.141/32 # United States | Virginia | Datacamp Limited
 185.156.46.155/32 # United States | Virginia | Datacamp Limited
-185.156.46.167/32 # United States | Virginia | Datacamp Limited
 185.180.221.108/32 # Netherlands | South Holland | Worldstream B.V.
 185.190.24.33/32 # Åland | Åland Islands | Internet Solutions Innovations Ltd.
 185.190.24.54/32 # Åland | Åland Islands | Internet Solutions Innovations Ltd.
