@@ -220,6 +220,7 @@
 142.252.4.0/24 # None | None | None
 142.252.24.0/24 # None | None | None
 142.252.25.0/24 # None | None | None
+142.252.43.0/24 # United States | California | HOST TELECOM LTD
 142.252.81.0/24 # None | None | None
 142.252.82.0/24 # None | None | None
 142.252.86.0/24 # None | None | None
@@ -564,6 +565,7 @@
 59.89.71.24/32 # None | None | None
 59.93.18.54/32 # None | None | None
 59.93.75.191/32 # None | None | None
+59.93.183.87/32 # India | Andhra Pradesh | Bharat Sanchar Nigam LTD
 59.94.120.27/32 # None | None | None
 59.95.83.219/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.97.179.240/32 # None | None | None
@@ -754,7 +756,6 @@
 103.30.76.206/32 # Hong Kong | Hong Kong | XNNET LLC
 103.48.64.27/32 # None | None | None
 103.48.66.165/32 # India | Delhi | GEOCITY NETWORK SOLUTIONS PVT LTD
-103.70.82.235/32 # India | Delhi | Ani Network Pvt LTD
 103.72.8.70/32 # None | None | None
 103.72.9.97/32 # None | None | None
 103.72.9.107/32 # India | Uttar Pradesh | SWIFTIFY PRIVATE LIMITED
@@ -882,7 +883,6 @@
 117.216.55.240/32 # None | None | None
 117.223.143.92/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.231.153.206/32 # None | None | None
-117.232.188.157/32 # None | None | None
 117.247.215.224/32 # None | None | None
 117.253.71.40/32 # None | None | None
 117.254.100.231/32 # None | None | None
@@ -1010,10 +1010,6 @@
 142.252.8.98/32 # None | None | None
 142.252.8.134/32 # United States | California | HOST TELECOM LTD
 142.252.8.160/32 # None | None | None
-142.252.43.69/32 # None | None | None
-142.252.43.77/32 # None | None | None
-142.252.43.97/32 # None | None | None
-142.252.43.213/32 # None | None | None
 142.252.59.55/32 # None | None | None
 142.252.59.73/32 # None | None | None
 142.252.59.212/32 # None | None | None
@@ -1266,7 +1262,6 @@
 169.150.203.31/32 # None | None | None
 169.150.203.40/32 # None | None | None
 170.64.143.122/32 # None | None | None
-170.64.154.38/32 # None | None | None
 170.64.161.15/32 # None | None | None
 170.64.165.102/32 # None | None | None
 170.64.183.159/32 # None | None | None
@@ -1613,7 +1608,6 @@
 208.109.231.95/32 # United States | Arizona | Godaddy.com, LLC
 209.38.26.228/32 # None | None | None
 209.38.82.156/32 # None | None | None
-209.38.95.14/32 # Australia | New South Wales | Digitalocean, LLC
 209.38.95.85/32 # None | None | None
 209.101.150.129/32 # None | None | None
 209.101.150.207/32 # None | None | None
