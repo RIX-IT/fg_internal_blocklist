@@ -22,6 +22,7 @@
 23.234.75.0/24 # None | None | None
 23.234.77.0/24 # None | None | None
 23.234.78.0/24 # None | None | None
+23.234.79.0/24 # United States | Texas | Tzulo, Inc.
 23.234.80.0/24 # None | None | None
 23.234.81.0/24 # None | None | None
 23.234.82.0/24 # None | None | None
@@ -252,6 +253,7 @@
 153.80.108.0/24 # None | None | None
 153.80.115.0/24 # None | None | None
 153.80.155.0/24 # None | None | None
+153.80.156.0/24 # United States | Utah | GREEN FLOID LLC
 153.80.157.0/24 # None | None | None
 155.2.190.0/24 # None | None | None
 155.2.191.0/24 # United States | Ohio | Host Universal Pty LTD
@@ -300,6 +302,7 @@
 170.168.215.0/24 # None | None | None
 170.168.230.0/24 # None | None | None
 170.168.250.0/24 # None | None | None
+172.120.50.0/24 # United States | Nevada | Clouvider Limited
 172.120.53.0/24 # None | None | None
 172.120.71.0/24 # None | None | None
 172.120.81.0/24 # None | None | None
@@ -322,6 +325,7 @@
 172.121.67.0/24 # United States | New Jersey | HOST TELECOM LTD
 172.121.83.0/24 # United States | Florida | HOST TELECOM LTD
 172.121.85.0/24 # None | None | None
+172.121.241.0/24 # United States | Nevada | Clouvider Limited
 173.249.252.0/24 # United States | Illinois | Tzulo, Inc.
 173.249.253.0/24 # United States | Illinois | Tzulo, Inc.
 173.249.254.0/24 # United States | California | tzulo
@@ -424,10 +428,7 @@
 23.234.76.32/32 # None | None | None
 23.234.76.157/32 # None | None | None
 23.234.76.194/32 # None | None | None
-23.234.79.21/32 # None | None | None
-23.234.79.32/32 # None | None | None
-23.234.79.68/32 # None | None | None
-23.234.79.102/32 # None | None | None
+23.234.76.231/32 # United States | North Carolina | Tzulo, Inc.
 24.199.84.217/32 # None | None | None
 24.199.86.59/32 # None | None | None
 24.199.122.11/32 # None | None | None
@@ -485,7 +486,6 @@
 45.39.194.165/32 # United States | New York | HOST TELECOM LTD
 45.39.244.150/32 # None | None | None
 45.39.244.160/32 # None | None | None
-45.39.244.203/32 # None | None | None
 45.56.109.80/32 # None | None | None
 45.59.124.94/32 # Switzerland | Bern | Routerhosting LLC
 45.59.125.141/32 # Switzerland | Bern | Routerhosting LLC
@@ -711,6 +711,7 @@
 89.185.80.86/32 # United States | Arizona | GLOBAL CONNECTIVITY SOLUTIONS LLP
 89.185.80.251/32 # United States | Arizona | GLOBAL CONNECTIVITY SOLUTIONS LLP
 89.195.5.18/32 # United States | California | Mongodb, Inc.
+91.90.122.10/32 # Liechtenstein | Oberland | M Europe SRL
 91.90.195.91/32 # United States | New York | GREEN FLOID LLC
 91.92.243.129/32 # United States | New York | Railnet LLC
 91.92.243.160/32 # United States | New York | Omegatech LTD
@@ -723,7 +724,6 @@
 92.118.112.143/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 92.118.112.208/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 92.119.159.30/32 # Russia | Moscow | IP SERVER LLC
-93.152.207.197/32 # None | None | None
 94.141.122.164/32 # Finland | Mainland Finland | Partner Hosting LTD
 94.158.53.81/32 # Uzbekistan | Yunusabad district | IPLUS LLC
 94.229.214.47/32 # None | None | None
@@ -872,6 +872,7 @@
 117.206.103.48/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.206.107.102/32 # None | None | None
 117.209.8.242/32 # None | None | None
+117.209.13.33/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.209.16.23/32 # None | None | None
 117.209.31.175/32 # None | None | None
 117.209.89.126/32 # None | None | None
@@ -1041,6 +1042,7 @@
 142.252.110.9/32 # None | None | None
 142.252.110.59/32 # None | None | None
 142.252.110.75/32 # None | None | None
+142.252.110.153/32 # United States | Texas | Clouvider Limited
 142.252.120.61/32 # United States | Texas | Clouvider Limited
 142.252.120.112/32 # None | None | None
 142.252.120.142/32 # None | None | None
@@ -1122,10 +1124,6 @@
 153.80.145.12/32 # None | None | None
 153.80.145.29/32 # None | None | None
 153.80.145.46/32 # None | None | None
-153.80.156.19/32 # None | None | None
-153.80.156.22/32 # United States | Utah | GREEN FLOID LLC
-153.80.156.28/32 # None | None | None
-153.80.156.97/32 # None | None | None
 153.80.158.6/32 # None | None | None
 153.80.158.29/32 # None | None | None
 153.80.158.201/32 # None | None | None
@@ -1198,7 +1196,6 @@
 164.90.129.126/32 # United States | New Jersey | Digitalocean, LLC
 164.92.244.15/32 # None | None | None
 164.138.90.2/32 # Russia | Khabarovsk Krai | JSC Redcom lnternet
-165.22.11.74/32 # None | None | None
 165.227.38.98/32 # Canada | Nova Scotia | Digitalocean, LLC
 165.227.47.162/32 # None | None | None
 165.227.113.183/32 # United States | New Jersey | Digitalocean, LLC
@@ -1318,10 +1315,6 @@
 172.120.48.15/32 # None | None | None
 172.120.48.47/32 # None | None | None
 172.120.48.135/32 # United States | Nevada | Clouvider Limited
-172.120.50.26/32 # None | None | None
-172.120.50.71/32 # None | None | None
-172.120.50.130/32 # None | None | None
-172.120.50.145/32 # None | None | None
 172.120.57.5/32 # None | None | None
 172.120.57.16/32 # None | None | None
 172.120.57.191/32 # None | None | None
@@ -1344,6 +1337,7 @@
 172.120.118.26/32 # None | None | None
 172.120.118.51/32 # None | None | None
 172.120.118.101/32 # None | None | None
+172.120.118.205/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.121.84/32 # None | None | None
 172.120.121.138/32 # None | None | None
 172.120.121.148/32 # None | None | None
@@ -1443,14 +1437,9 @@
 172.121.82.4/32 # None | None | None
 172.121.82.107/32 # None | None | None
 172.121.82.168/32 # None | None | None
-172.121.241.43/32 # None | None | None
-172.121.241.130/32 # None | None | None
-172.121.241.176/32 # None | None | None
-172.121.241.230/32 # None | None | None
 172.210.58.69/32 # United States | Virginia | Microsoft Corporation
 172.233.178.66/32 # United States | Florida | Akamai Technologies, Inc.
 172.233.183.40/32 # None | None | None
-172.237.88.137/32 # None | None | None
 172.245.52.169/32 # Ireland | Leinster | HostPapa
 172.252.110.58/32 # None | None | None
 172.252.110.60/32 # None | None | None
