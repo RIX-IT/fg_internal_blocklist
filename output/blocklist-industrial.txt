@@ -300,6 +300,7 @@
 170.168.215.0/24 # None | None | None
 170.168.230.0/24 # None | None | None
 170.168.250.0/24 # None | None | None
+172.86.127.0/24 # United States | California | Routerhosting LLC
 172.120.50.0/24 # United States | Nevada | Clouvider Limited
 172.120.53.0/24 # None | None | None
 172.120.71.0/24 # None | None | None
@@ -891,6 +892,7 @@
 121.37.80.227/32 # China | Beijing | Huawei Cloud Service Data Center
 121.202.249.42/32 # None | None | None
 122.154.50.218/32 # None | None | None
+123.9.219.117/32 # China | Henan | China Unicom China1 Backbone
 123.125.21.157/32 # China | Beijing | China Unicom Beijing Province Network
 123.139.57.103/32 # China | Shaanxi | China Unicom China1 Backbone
 123.145.201.157/32 # None | None | None
@@ -967,9 +969,11 @@
 139.135.41.186/32 # None | None | None
 139.135.43.97/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.135.46.117/32 # None | None | None
+139.135.59.105/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.135.60.80/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.180.160.173/32 # Australia | New South Wales | The Constant Company, LLC
 140.205.220.98/32 # China | Zhejiang | Hangzhou Alibaba Advertising CO.,LTD.
+142.93.226.130/32 # Netherlands | North Holland | Digitalocean, LLC
 142.111.3.9/32 # United States | District of Columbia | HOST TELECOM LTD
 142.111.3.23/32 # United States | District of Columbia | HOST TELECOM LTD
 142.111.3.75/32 # United States | District of Columbia | HOST TELECOM LTD
@@ -1202,7 +1206,6 @@
 162.243.215.205/32 # None | None | None
 162.243.249.22/32 # None | None | None
 164.90.129.126/32 # United States | New Jersey | Digitalocean, LLC
-164.92.244.15/32 # None | None | None
 164.138.90.2/32 # Russia | Khabarovsk Krai | JSC Redcom lnternet
 165.227.20.2/32 # United States | California | Digitalocean, LLC
 165.227.38.98/32 # Canada | Nova Scotia | Digitalocean, LLC
@@ -1277,7 +1280,6 @@
 170.64.161.15/32 # None | None | None
 170.64.200.249/32 # Australia | New South Wales | Digitalocean, LLC
 170.64.226.168/32 # Australia | New South Wales | Digitalocean, LLC
-170.64.239.242/32 # None | None | None
 170.130.165.28/32 # United States | Texas | Eonix Corporation
 170.168.103.208/32 # Germany | Berlin | GTHost
 172.22.173.171/32 # None | None | None
@@ -1287,6 +1289,7 @@
 172.86.107.55/32 # None | None | None
 172.86.107.197/32 # None | None | None
 172.86.107.241/32 # None | None | None
+172.86.126.62/32 # United States | California | Routerhosting LLC
 172.96.15.103/32 # United States | Missouri | Unreal Servers, LLC
 172.96.15.104/32 # United States | Missouri | Unreal Servers, LLC
 172.105.158.135/32 # None | None | None
@@ -1458,7 +1461,6 @@
 175.107.0.64/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.1.107/32 # None | None | None
 175.107.3.29/32 # None | None | None
-175.165.83.32/32 # China | Liaoning | China Unicom China1 Backbone
 176.65.137.44/32 # Germany | Lower Saxony | Noel Nayasha Materke
 176.125.228.10/32 # None | None | None
 178.16.54.87/32 # Netherlands | North Holland | Omegatech LTD
@@ -1479,6 +1481,7 @@
 181.215.246.155/32 # Malaysia | Federal Territory of Kuala Lumpur | Gigabit Hos...
 182.53.18.35/32 # None | None | None
 182.71.94.6/32 # None | None | None
+182.116.244.21/32 # China | Henan | China Unicom China1 Backbone
 182.117.28.94/32 # None | None | None
 182.121.16.59/32 # None | None | None
 183.82.0.230/32 # None | None | None
@@ -1582,6 +1585,7 @@
 202.21.42.34/32 # India | Andhra Pradesh | Railtel Corporation of India Ltd.
 202.21.42.175/32 # India | Telangana | Railtel Corporation of India Ltd.
 202.29.32.88/32 # None | None | None
+202.141.37.54/32 # India | Haryana | Railtel Corporation of India Ltd.
 202.141.94.172/32 # India | Haryana | Railtel Corporation of India Ltd.
 203.161.30.164/32 # None | None | None
 206.81.23.225/32 # Germany | Hesse | Digitalocean, LLC
