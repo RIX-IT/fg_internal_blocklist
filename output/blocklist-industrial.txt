@@ -117,6 +117,7 @@
 45.192.39.0/24 # None | None | None
 45.192.41.0/24 # None | None | None
 45.192.42.0/24 # None | None | None
+45.192.43.0/24 # United States | New York | Clouvider Limited
 45.192.44.0/24 # None | None | None
 45.192.46.0/24 # None | None | None
 45.192.47.0/24 # United States | New York | Clouvider Limited
@@ -179,6 +180,7 @@
 103.251.27.0/24 # United States | California | Hostroyale Technologies Pvt LTD
 104.36.50.0/24 # None | None | None
 104.193.135.0/24 # None | None | None
+104.252.153.0/24 # United States | New York | HOST TELECOM LTD
 109.94.216.0/24 # None | None | None
 109.94.217.0/24 # None | None | None
 109.94.218.0/24 # None | None | None
@@ -304,10 +306,13 @@
 170.168.230.0/24 # None | None | None
 170.168.250.0/24 # None | None | None
 172.86.127.0/24 # United States | California | Routerhosting LLC
+172.120.21.0/24 # United States | California | HOST TELECOM LTD
 172.120.50.0/24 # United States | Nevada | Clouvider Limited
 172.120.53.0/24 # None | None | None
+172.120.63.0/24 # United States | New Jersey | HOST TELECOM LTD
 172.120.71.0/24 # None | None | None
 172.120.81.0/24 # None | None | None
+172.120.117.0/24 # United States | District of Columbia | HOST TELECOM LTD
 172.120.157.0/24 # None | None | None
 172.120.162.0/24 # None | None | None
 172.120.164.0/24 # None | None | None
@@ -482,6 +487,7 @@
 45.11.180.174/32 # United Kingdom | England | Servinga GmbH
 45.39.127.27/32 # None | None | None
 45.39.127.48/32 # None | None | None
+45.39.127.83/32 # United States | New York | HOST TELECOM LTD
 45.39.194.30/32 # None | None | None
 45.39.244.150/32 # None | None | None
 45.39.244.160/32 # None | None | None
@@ -514,10 +520,6 @@
 45.192.40.10/32 # None | None | None
 45.192.40.47/32 # None | None | None
 45.192.40.209/32 # None | None | None
-45.192.43.9/32 # None | None | None
-45.192.43.82/32 # None | None | None
-45.192.43.100/32 # None | None | None
-45.192.43.237/32 # None | None | None
 45.192.45.19/32 # None | None | None
 45.192.45.212/32 # None | None | None
 45.192.45.241/32 # None | None | None
@@ -802,10 +804,6 @@
 104.238.61.144/32 # United States | California | GWY IT PTY LTD
 104.248.74.23/32 # None | None | None
 104.248.143.242/32 # None | None | None
-104.252.153.126/32 # None | None | None
-104.252.153.151/32 # None | None | None
-104.252.153.199/32 # None | None | None
-104.252.153.200/32 # None | None | None
 104.252.183.19/32 # None | None | None
 104.252.183.57/32 # None | None | None
 104.252.183.179/32 # None | None | None
@@ -1076,6 +1074,7 @@
 144.172.115.212/32 # United States | Utah | Routerhosting LLC
 144.172.117.158/32 # United States | Utah | Routerhosting LLC
 146.0.74.161/32 # Netherlands | North Holland | HOSTKEY B.V.
+146.70.165.81/32 # United States | New York | M Europe SRL
 146.70.165.106/32 # United States | New York | M Europe SRL
 146.70.165.170/32 # United States | New York | M Europe SRL
 146.70.185.11/32 # United States | New York | M Europe SRL
@@ -1295,10 +1294,6 @@
 172.120.20.116/32 # None | None | None
 172.120.20.146/32 # None | None | None
 172.120.20.191/32 # None | None | None
-172.120.21.37/32 # None | None | None
-172.120.21.106/32 # None | None | None
-172.120.21.179/32 # None | None | None
-172.120.21.227/32 # None | None | None
 172.120.40.16/32 # None | None | None
 172.120.40.252/32 # None | None | None
 172.120.40.253/32 # None | None | None
@@ -1321,18 +1316,10 @@
 172.120.60.114/32 # None | None | None
 172.120.61.107/32 # None | None | None
 172.120.61.121/32 # None | None | None
-172.120.63.14/32 # None | None | None
-172.120.63.21/32 # None | None | None
-172.120.63.48/32 # None | None | None
-172.120.63.228/32 # None | None | None
 172.120.82.17/32 # None | None | None
 172.120.83.8/32 # None | None | None
 172.120.83.43/32 # None | None | None
 172.120.83.195/32 # None | None | None
-172.120.117.37/32 # None | None | None
-172.120.117.47/32 # None | None | None
-172.120.117.152/32 # None | None | None
-172.120.117.183/32 # None | None | None
 172.120.118.26/32 # None | None | None
 172.120.118.51/32 # None | None | None
 172.120.118.101/32 # None | None | None
@@ -1351,6 +1338,7 @@
 172.120.137.160/32 # None | None | None
 172.120.138.154/32 # None | None | None
 172.120.138.155/32 # None | None | None
+172.120.141.142/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.141.160/32 # None | None | None
 172.120.141.242/32 # None | None | None
 172.120.148.14/32 # None | None | None
