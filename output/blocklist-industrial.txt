@@ -207,6 +207,7 @@
 142.111.43.0/24 # None | None | None
 142.111.128.0/24 # None | None | None
 142.111.213.0/24 # United States | California | Clouvider Limited
+142.111.226.0/24 # United States | New Jersey | HOST TELECOM LTD
 142.111.229.0/24 # None | None | None
 142.111.231.0/24 # None | None | None
 142.111.246.0/24 # None | None | None
@@ -312,6 +313,7 @@
 172.120.184.0/24 # None | None | None
 172.120.185.0/24 # None | None | None
 172.120.194.0/24 # United States | Illinois | HOST TELECOM LTD
+172.120.196.0/24 # United States | New Jersey | HOST TELECOM LTD
 172.120.204.0/24 # None | None | None
 172.120.205.0/24 # None | None | None
 172.120.211.0/24 # None | None | None
@@ -394,7 +396,6 @@
 5.180.221.108/32 # Japan | Tokyo | Uab Code 00
 5.181.3.164/32 # United States | Georgia | GLOBAL CONNECTIVITY SOLUTIONS LLP
 5.181.159.48/32 # United States | New York | Mivocloud SRL
-5.187.35.21/32 # Netherlands | North Holland | Amarutu Technology LTD
 5.252.189.73/32 # None | None | None
 5.252.189.87/32 # None | None | None
 5.255.115.54/32 # None | None | None
@@ -811,6 +812,7 @@
 104.252.224.122/32 # None | None | None
 104.252.224.216/32 # None | None | None
 104.252.224.238/32 # None | None | None
+105.112.215.94/32 # Nigeria | Niger | Airtel Networks Limited
 106.126.3.56/32 # China | Guangdong Province | Quanzhou
 106.126.3.78/32 # China | Guangdong Province | Quanzhou
 107.158.128.45/32 # United States | Nevada | Eonix Corporation
@@ -994,10 +996,6 @@
 142.111.193.132/32 # None | None | None
 142.111.193.180/32 # None | None | None
 142.111.193.222/32 # None | None | None
-142.111.226.8/32 # United States | District of Columbia | HOST TELECOM LTD
-142.111.226.37/32 # United States | District of Columbia | HOST TELECOM LTD
-142.111.226.53/32 # United States | District of Columbia | HOST TELECOM LTD
-142.111.226.60/32 # United States | District of Columbia | HOST TELECOM LTD
 142.111.228.2/32 # None | None | None
 142.111.228.75/32 # None | None | None
 142.111.228.85/32 # None | None | None
@@ -1209,7 +1207,6 @@
 165.227.47.162/32 # None | None | None
 165.227.113.183/32 # United States | New Jersey | Digitalocean, LLC
 165.232.105.22/32 # United Kingdom | England | Digitalocean, LLC
-165.232.183.118/32 # None | None | None
 166.1.115.84/32 # None | None | None
 166.1.115.143/32 # United States | Virginia | Clouvider Limited
 166.1.115.156/32 # United States | Virginia | Clouvider Limited
@@ -1384,6 +1381,7 @@
 172.120.182.66/32 # None | None | None
 172.120.182.81/32 # None | None | None
 172.120.189.98/32 # None | None | None
+172.120.189.158/32 # United States | Illinois | HOST TELECOM LTD
 172.120.189.207/32 # None | None | None
 172.120.190.100/32 # None | None | None
 172.120.190.145/32 # None | None | None
@@ -1391,10 +1389,6 @@
 172.120.195.104/32 # None | None | None
 172.120.195.229/32 # None | None | None
 172.120.195.248/32 # None | None | None
-172.120.196.10/32 # United States | New Jersey | HOST TELECOM LTD
-172.120.196.46/32 # None | None | None
-172.120.196.112/32 # None | None | None
-172.120.196.187/32 # None | None | None
 172.120.198.65/32 # None | None | None
 172.120.198.116/32 # None | None | None
 172.120.198.221/32 # None | None | None
@@ -1589,6 +1583,7 @@
 206.188.196.20/32 # Netherlands | North Holland | Bl Networks
 206.188.197.52/32 # Netherlands | North Holland | Bl Networks
 206.189.5.110/32 # Netherlands | North Holland | Digitalocean, LLC
+206.189.21.90/32 # United Kingdom | England | Digitalocean, LLC
 206.189.86.235/32 # Singapore | Southeast | Digitalocean, LLC
 206.189.97.184/32 # Netherlands | North Holland | Digitalocean, LLC
 206.237.0.49/32 # Hong Kong | Hong Kong | XNNET LLC
@@ -1637,7 +1632,6 @@
 221.15.27.110/32 # China | Henan | China Unicom China1 Backbone
 221.15.188.200/32 # None | None | None
 222.89.169.98/32 # China | Henan | No. 1,jin rong Street
-222.141.75.171/32 # None | None | None
 222.141.136.215/32 # None | None | None
 222.143.23.26/32 # None | None | None
 223.64.222.128/32 # None | None | None
