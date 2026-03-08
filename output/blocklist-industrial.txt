@@ -108,14 +108,11 @@
 45.159.125.0/24 # United States | Pennsylvania | Clouvider Limited
 45.159.126.0/24 # United States | Pennsylvania | Clouvider Limited
 45.159.127.0/24 # United States | Pennsylvania | Clouvider Limited
-45.192.32.0/24 # United States | New York | Clouvider Limited
 45.192.33.0/24 # United States | New York | Clouvider Limited
 45.192.36.0/24 # United States | New York | Clouvider Limited
-45.192.37.0/24 # United States | New York | Clouvider Limited
 45.192.38.0/24 # United States | New York | Clouvider Limited
 45.192.39.0/24 # United States | New York | Clouvider Limited
 45.192.42.0/24 # United States | New York | Clouvider Limited
-45.192.43.0/24 # United States | New York | Clouvider Limited
 45.192.44.0/24 # United States | New York | Clouvider Limited
 45.192.46.0/24 # United States | New York | Clouvider Limited
 62.93.167.0/24 # Canada | Québec | Datacamp Limited
@@ -191,10 +188,7 @@
 109.94.218.0/24 # United States | Florida | Clouvider Limited
 109.205.62.0/24 # United States | New York | Clouvider Limited
 130.49.25.0/24 # United States | Florida | GREEN FLOID LLC
-130.49.35.0/24 # United States | Florida | GREEN FLOID LLC
 130.49.44.0/24 # United States | Washington | GREEN FLOID LLC
-130.49.72.0/24 # United States | Washington | GREEN FLOID LLC
-130.49.117.0/24 # United States | Washington | GREEN FLOID LLC
 130.49.126.0/24 # United States | Washington | GREEN FLOID LLC
 135.106.5.0/24 # United States | New York | GREEN FLOID LLC
 135.106.26.0/24 # United States | Montana | GREEN FLOID LLC
@@ -344,9 +338,7 @@
 172.121.42.0/24 # United States | California | HOST TELECOM LTD
 172.121.52.0/24 # United States | Nevada | HOST TELECOM LTD
 172.121.58.0/24 # United States | Nevada | HOST TELECOM LTD
-172.121.67.0/24 # United States | New Jersey | HOST TELECOM LTD
 172.121.83.0/24 # United States | Florida | HOST TELECOM LTD
-172.121.85.0/24 # United States | New Jersey | HOST TELECOM LTD
 172.121.241.0/24 # United States | Nevada | Clouvider Limited
 173.249.252.0/24 # United States | Illinois | Tzulo, Inc.
 173.249.253.0/24 # United States | Illinois | Tzulo, Inc.
@@ -444,7 +436,6 @@
 23.230.241.223/32 # United States | New York | HOST TELECOM LTD
 24.144.98.255/32 # United States | New Jersey | Digitalocean, LLC
 24.199.84.217/32 # United States | New Jersey | Digitalocean, LLC
-24.199.86.59/32 # United States | New Jersey | Digitalocean, LLC
 24.199.122.11/32 # United States | California | Digitalocean, LLC
 27.43.204.42/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.204.72/32 # China | Guangdong Province | China Unicom Guangdong Provin...
@@ -533,6 +524,10 @@
 45.145.43.244/32 # Germany | Hesse | Dataforest GmbH
 45.147.96.205/32 # France | Île-de-France | SERVERD SAS
 45.151.91.187/32 # Seychelles | Mahe | Ip Vendetta Inc.
+45.192.32.9/32 # United States | New York | Clouvider Limited
+45.192.32.10/32 # United States | New York | Clouvider Limited
+45.192.32.202/32 # United States | New York | Clouvider Limited
+45.192.32.235/32 # United States | New York | Clouvider Limited
 45.192.34.48/32 # United States | New York | Clouvider Limited
 45.192.34.91/32 # United States | New York | Clouvider Limited
 45.192.34.94/32 # United States | New York | Clouvider Limited
@@ -541,12 +536,20 @@
 45.192.35.136/32 # United States | New York | Clouvider Limited
 45.192.35.182/32 # United States | New York | Clouvider Limited
 45.192.35.246/32 # United States | New York | Clouvider Limited
+45.192.37.70/32 # United States | New York | Clouvider Limited
+45.192.37.191/32 # United States | New York | Clouvider Limited
+45.192.37.227/32 # United States | New York | Clouvider Limited
+45.192.37.229/32 # United States | New York | Clouvider Limited
 45.192.40.10/32 # United States | New York | Clouvider Limited
 45.192.40.47/32 # United States | New York | Clouvider Limited
 45.192.41.36/32 # United States | New York | Clouvider Limited
 45.192.41.128/32 # United States | New York | Clouvider Limited
 45.192.41.142/32 # United States | New York | Clouvider Limited
 45.192.41.169/32 # United States | New York | Clouvider Limited
+45.192.43.21/32 # United States | New York | Clouvider Limited
+45.192.43.82/32 # United States | New York | Clouvider Limited
+45.192.43.100/32 # United States | New York | Clouvider Limited
+45.192.43.237/32 # United States | New York | Clouvider Limited
 45.192.45.19/32 # United States | New York | Clouvider Limited
 45.192.45.212/32 # United States | New York | Clouvider Limited
 45.192.45.241/32 # United States | New York | Clouvider Limited
@@ -558,7 +561,6 @@
 45.221.64.224/32 # Seychelles | Mahe | internet security
 46.21.176.14/32 # Italy | Lombardy | Planetel SPA
 46.101.234.197/32 # Germany | Hesse | Digitalocean, LLC
-46.149.140.100/32 # United States | Texas | GREEN FLOID LLC
 46.225.21.203/32 # Germany | Bavaria | Hetzner Online GmbH
 46.229.55.63/32 # Ukraine | Poltava Oblast | Oleksandr Melnyk
 46.250.254.255/32 # Japan | Tokyo | Contabo Asia Private Limited
@@ -951,12 +953,20 @@
 129.226.159.39/32 # Singapore | Southeast | Shenzhen Tencent Computer Systems ...
 130.49.15.26/32 # United States | Washington | GREEN FLOID LLC
 130.49.15.99/32 # United States | Washington | GREEN FLOID LLC
+130.49.35.67/32 # United States | Florida | GREEN FLOID LLC
+130.49.35.203/32 # United States | Florida | GREEN FLOID LLC
+130.49.35.211/32 # United States | Florida | GREEN FLOID LLC
+130.49.35.214/32 # United States | Florida | GREEN FLOID LLC
 130.49.52.66/32 # United States | Washington | GREEN FLOID LLC
 130.49.52.99/32 # United States | Washington | GREEN FLOID LLC
 130.49.61.54/32 # United States | Florida | GREEN FLOID LLC
 130.49.61.59/32 # United States | Florida | GREEN FLOID LLC
 130.49.61.61/32 # United States | Florida | GREEN FLOID LLC
 130.49.61.149/32 # United States | Florida | GREEN FLOID LLC
+130.49.72.22/32 # United States | Washington | GREEN FLOID LLC
+130.49.72.70/32 # United States | Washington | GREEN FLOID LLC
+130.49.72.101/32 # United States | Washington | GREEN FLOID LLC
+130.49.72.143/32 # United States | Washington | GREEN FLOID LLC
 130.49.80.181/32 # Denmark | Denmark | IT HOSTLINE LTD
 130.49.85.30/32 # United States | Washington | GREEN FLOID LLC
 130.49.85.61/32 # United States | Washington | GREEN FLOID LLC
@@ -968,6 +978,10 @@
 130.49.94.227/32 # United States | Washington | GREEN FLOID LLC
 130.49.102.19/32 # United States | Washington | GREEN FLOID LLC
 130.49.102.80/32 # United States | Washington | GREEN FLOID LLC
+130.49.117.9/32 # United States | Washington | GREEN FLOID LLC
+130.49.117.10/32 # United States | Washington | GREEN FLOID LLC
+130.49.117.101/32 # United States | Washington | GREEN FLOID LLC
+130.49.117.176/32 # United States | Washington | GREEN FLOID LLC
 131.159.24.205/32 # Germany | Bavaria | Technical University of Munich
 132.226.220.254/32 # Switzerland | Zurich | Oracle Corporation
 134.199.167.226/32 # Australia | New South Wales | Digitalocean, LLC
@@ -1408,13 +1422,11 @@
 172.120.238.55/32 # United States | Texas | HOST TELECOM LTD
 172.120.238.217/32 # United States | Texas | HOST TELECOM LTD
 172.120.238.245/32 # United States | Texas | HOST TELECOM LTD
-172.120.239.66/32 # United States | Texas | HOST TELECOM LTD
 172.120.239.170/32 # United States | Texas | HOST TELECOM LTD
 172.120.254.36/32 # United States | California | HOST TELECOM LTD
 172.120.254.133/32 # United States | California | HOST TELECOM LTD
 172.120.254.213/32 # United States | California | HOST TELECOM LTD
 172.120.255.30/32 # United States | California | HOST TELECOM LTD
-172.120.255.77/32 # United States | California | HOST TELECOM LTD
 172.120.255.147/32 # United States | California | HOST TELECOM LTD
 172.121.48.160/32 # United States | New Jersey | HOST TELECOM LTD
 172.121.48.221/32 # United States | New Jersey | HOST TELECOM LTD
@@ -1422,17 +1434,23 @@
 172.121.59.114/32 # United States | Nevada | HOST TELECOM LTD
 172.121.59.158/32 # United States | Nevada | HOST TELECOM LTD
 172.121.59.177/32 # United States | Nevada | HOST TELECOM LTD
-172.121.77.38/32 # United States | Florida | HOST TELECOM LTD
+172.121.67.12/32 # United States | New Jersey | HOST TELECOM LTD
+172.121.67.106/32 # United States | New Jersey | HOST TELECOM LTD
+172.121.67.133/32 # United States | New Jersey | HOST TELECOM LTD
+172.121.67.178/32 # United States | New Jersey | HOST TELECOM LTD
 172.121.77.81/32 # United States | Florida | HOST TELECOM LTD
 172.121.77.86/32 # United States | Florida | HOST TELECOM LTD
 172.121.77.188/32 # United States | Florida | HOST TELECOM LTD
 172.121.80.18/32 # United States | New Jersey | HOST TELECOM LTD
 172.121.80.107/32 # United States | New Jersey | HOST TELECOM LTD
 172.121.80.196/32 # United States | New Jersey | HOST TELECOM LTD
-172.121.80.215/32 # United States | New Jersey | HOST TELECOM LTD
 172.121.82.3/32 # United States | Florida | HOST TELECOM LTD
 172.121.82.4/32 # United States | Florida | HOST TELECOM LTD
 172.121.82.107/32 # United States | Florida | HOST TELECOM LTD
+172.121.85.2/32 # United States | New Jersey | HOST TELECOM LTD
+172.121.85.23/32 # United States | New Jersey | HOST TELECOM LTD
+172.121.85.47/32 # United States | New Jersey | HOST TELECOM LTD
+172.121.85.231/32 # United States | New Jersey | HOST TELECOM LTD
 172.210.58.69/32 # United States | Virginia | Microsoft Corporation
 172.233.178.66/32 # United States | Florida | Akamai Technologies, Inc.
 172.233.183.40/32 # United States | Florida | Akamai Technologies, Inc.
@@ -1479,7 +1497,6 @@
 185.22.153.228/32 # Russia | Moscow | LLC Baxet
 185.28.119.160/32 # United States | California | Bluevps Ou
 185.28.119.228/32 # United States | California | Bluevps Ou
-185.39.17.14/32 # United States | Washington | GREEN FLOID LLC
 185.39.17.17/32 # United States | Washington | GREEN FLOID LLC
 185.39.17.93/32 # United States | Washington | GREEN FLOID LLC
 185.39.17.117/32 # United States | Washington | GREEN FLOID LLC
