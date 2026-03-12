@@ -443,6 +443,7 @@
 1.220.228.82/32 # Republic of Korea | Unknown | Lg Dacom Corporation
 4.152.26.13/32 # United States | Virginia | Microsoft Corporation
 4.200.16.222/32 # Australia | New South Wales | Microsoft Corporation
+4.225.32.97/32 # Sweden | Gavleborg County | Microsoft Corporation
 4.255.20.19/32 # United States | District of Columbia | Microsoft Corporation
 5.35.44.176/32 # Netherlands | North Holland | SERVERS TECH FZCO
 5.42.209.173/32 # Germany | Berlin | Ivanov Vitaliy Sergeevich
@@ -591,6 +592,7 @@
 45.150.63.214/32 # Netherlands | South Holland | Clouvider Limited
 45.151.91.187/32 # Seychelles | Mahe | Ip Vendetta Inc.
 45.152.227.117/32 # Germany | Berlin | Clouvider Limited
+45.153.227.202/32 # Germany | Berlin | Clouvider Limited
 45.192.32.9/32 # United States | New York | Clouvider Limited
 45.192.32.10/32 # United States | New York | Clouvider Limited
 45.192.32.202/32 # United States | New York | Clouvider Limited
@@ -682,6 +684,7 @@
 62.60.249.105/32 # Finland | Mainland Finland | Netcrafters Ou
 62.169.28.111/32 # France | Grand Est | Contabo GmbH
 62.171.143.113/32 # France | Grand Est | Contabo GmbH
+62.171.180.14/32 # France | Grand Est | Contabo GmbH
 62.192.139.38/32 # Netherlands | Groningen | Ivanov Vitaliy Sergeevich
 62.234.24.38/32 # China | Beijing | Shenzhen Tencent Computer Systems Compan...
 64.23.162.255/32 # United States | California | Digitalocean, LLC
@@ -806,6 +809,7 @@
 89.116.56.251/32 # United States | New York | Datacamp Limited
 89.117.79.31/32 # United States | New York | Contabo Inc.
 89.195.5.18/32 # United States | California | Mongodb, Inc.
+89.248.68.37/32 # Germany | Hesse | Clouvider Limited
 91.90.122.10/32 # Liechtenstein | Oberland | M Europe SRL
 91.92.243.129/32 # United States | New York | Omegatech LTD
 91.92.243.160/32 # United States | New York | Omegatech LTD
@@ -889,6 +893,7 @@
 104.164.164.199/32 # United States | New York | HOST TELECOM LTD
 104.164.164.215/32 # United States | New York | HOST TELECOM LTD
 104.164.165.158/32 # Netherlands | North Holland | HOST TELECOM LTD
+104.164.169.16/32 # Netherlands | North Holland | HOST TELECOM LTD
 104.164.205.141/32 # Netherlands | North Holland | HOST TELECOM LTD
 104.165.128.134/32 # United States | Pennsylvania | Clouvider Limited
 104.165.128.186/32 # United States | Pennsylvania | Clouvider Limited
@@ -1041,6 +1046,7 @@
 135.106.66.149/32 # United States | Idaho | GREEN FLOID LLC
 135.106.66.238/32 # United States | Idaho | GREEN FLOID LLC
 135.106.66.245/32 # United States | Idaho | GREEN FLOID LLC
+135.237.29.5/32 # United States | District of Columbia | Microsoft Corporation
 136.0.196.71/32 # United States | New Jersey | HOST TELECOM LTD
 136.0.196.210/32 # United States | New Jersey | HOST TELECOM LTD
 136.0.196.214/32 # United States | New Jersey | HOST TELECOM LTD
@@ -1224,6 +1230,7 @@
 154.81.199.141/32 # Netherlands | North Holland | HOST TELECOM LTD
 154.82.84.227/32 # Hong Kong | Hong Kong | Tcloudnet
 154.90.58.164/32 # Singapore | Southeast | Kaopu Cloud Hk Limited
+154.194.70.108/32 # Germany | Berlin | Clouvider Limited
 154.194.72.251/32 # Germany | Berlin | Clouvider Limited
 154.194.85.139/32 # Germany | Berlin | Clouvider Limited
 154.194.88.55/32 # Germany | Berlin | Clouvider Limited
@@ -1233,22 +1240,30 @@
 154.194.104.160/32 # Germany | Berlin | Clouvider Limited
 154.194.112.50/32 # Germany | Berlin | Clouvider Limited
 154.194.120.229/32 # Germany | Berlin | Clouvider Limited
+154.194.125.100/32 # Germany | Berlin | Clouvider Limited
 154.194.127.5/32 # Germany | Berlin | Clouvider Limited
 154.195.2.179/32 # Germany | Berlin | Clouvider Limited
 154.195.25.56/32 # Germany | Berlin | Clouvider Limited
 154.195.27.3/32 # Germany | Berlin | Clouvider Limited
 154.195.97.80/32 # Germany | Berlin | Clouvider Limited
+154.195.108.161/32 # Germany | Berlin | Clouvider Limited
+154.195.113.77/32 # Germany | Berlin | Clouvider Limited
 154.195.127.86/32 # Germany | Berlin | Clouvider Limited
 154.195.130.177/32 # Germany | Bavaria | Clouvider Limited
 154.195.135.216/32 # Germany | Bavaria | Clouvider Limited
+154.195.136.18/32 # Germany | Bavaria | Clouvider Limited
 154.195.140.168/32 # Germany | Bavaria | Clouvider Limited
+154.195.157.136/32 # Germany | Bavaria | Clouvider Limited
 154.195.163.85/32 # Germany | Bavaria | Clouvider Limited
 154.195.165.239/32 # Germany | Bavaria | Clouvider Limited
 154.195.170.187/32 # Germany | Bavaria | Clouvider Limited
+154.195.175.114/32 # Germany | Bavaria | Clouvider Limited
+154.195.184.32/32 # Germany | Bavaria | Clouvider Limited
 154.196.20.132/32 # Germany | Hamburg | Clouvider Limited
 154.196.23.122/32 # Germany | Hamburg | Clouvider Limited
 154.196.23.223/32 # Germany | Hamburg | Clouvider Limited
 154.196.28.52/32 # Germany | Hamburg | Clouvider Limited
+154.196.34.169/32 # Germany | North Rhine-Westphalia | Clouvider Limited
 154.196.42.190/32 # Germany | Hesse | Clouvider Limited
 154.196.48.158/32 # Germany | Hesse | Clouvider Limited
 154.196.54.202/32 # Germany | Hesse | Clouvider Limited
@@ -1306,7 +1321,6 @@
 158.255.83.29/32 # Russia | Moscow | Atc Telecom Ltd.
 159.65.111.154/32 # United States | California | Digitalocean, LLC
 159.65.241.37/32 # United States | New Jersey | Digitalocean, LLC
-159.203.5.72/32 # Canada | Ontario | Digitalocean, LLC
 159.223.25.203/32 # Germany | Hesse | Digitalocean, LLC
 160.25.232.62/32 # Vietnam | Ho Chi Minh | VIET DIGITAL TECHNOLOGY LIABILITY ...
 160.176.21.116/32 # Morocco | Casablanca-Settat | Office National Des Postes E...
@@ -1389,6 +1403,7 @@
 172.120.17.4/32 # United States | California | HOST TELECOM LTD
 172.120.17.157/32 # United States | California | HOST TELECOM LTD
 172.120.40.16/32 # United States | New Jersey | HOST TELECOM LTD
+172.120.40.217/32 # United States | New Jersey | HOST TELECOM LTD
 172.120.40.252/32 # United States | New Jersey | HOST TELECOM LTD
 172.120.40.253/32 # United States | New Jersey | HOST TELECOM LTD
 172.120.57.5/32 # United States | New Jersey | HOST TELECOM LTD
@@ -1602,6 +1617,7 @@
 193.23.220.22/32 # Germany | Hesse | Lendnodes LTD
 193.32.162.10/32 # Romania | Bucharest | UNMANAGED LTD
 193.32.249.135/32 # Netherlands | North Holland | 11 Services Ab
+193.33.188.136/32 # Germany | Hesse | Clouvider Limited
 193.41.68.93/32 # Netherlands | North Holland | Leaseweb Netherlands B.V.
 193.41.68.162/32 # Netherlands | North Holland | Leaseweb Netherlands B.V.
 193.41.68.230/32 # Netherlands | North Holland | Leaseweb Netherlands B.V.
@@ -1708,6 +1724,7 @@
 221.15.8.250/32 # China | Henan | China Unicom China1 Backbone
 221.15.27.110/32 # China | Henan | China Unicom China1 Backbone
 221.15.188.200/32 # China | Henan | China Unicom China1 Backbone
+222.85.37.31/32 # China | Henan | No. 1,jin rong Street
 222.89.169.98/32 # China | Henan | No. 1,jin rong Street
 222.138.124.189/32 # China | Henan | China Unicom China1 Backbone
 222.140.140.132/32 # China | Henan | China Unicom China1 Backbone
