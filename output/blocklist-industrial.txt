@@ -199,7 +199,9 @@
 130.49.35.0/24 # United States | Florida | GREEN FLOID LLC
 130.49.44.0/24 # United States | Washington | GREEN FLOID LLC
 130.49.61.0/24 # United States | Florida | GREEN FLOID LLC
+130.49.72.0/24 # United States | Washington | GREEN FLOID LLC
 130.49.85.0/24 # United States | Washington | GREEN FLOID LLC
+130.49.94.0/24 # United States | Washington | GREEN FLOID LLC
 130.49.126.0/24 # United States | Washington | GREEN FLOID LLC
 135.106.5.0/24 # United States | New York | GREEN FLOID LLC
 135.106.26.0/24 # United States | Montana | GREEN FLOID LLC
@@ -222,6 +224,7 @@
 142.111.229.0/24 # United States | New Jersey | HOST TELECOM LTD
 142.111.231.0/24 # United States | Kansas | Clouvider Limited
 142.111.246.0/24 # United States | New Jersey | HOST TELECOM LTD
+142.111.247.0/24 # United States | New Jersey | HOST TELECOM LTD
 142.111.253.0/24 # United States | California | Clouvider Limited
 142.111.254.0/24 # United States | New Jersey | HOST TELECOM LTD
 142.147.89.0/24 # United States | California | xTom
@@ -564,6 +567,7 @@
 45.76.93.60/32 # Germany | Hesse | The Constant Company, LLC
 45.79.132.233/32 # United States | New Jersey | Akamai Technologies, Inc.
 45.88.110.88/32 # Germany | Hesse | Oliver Horscht Is Trading AS Synlinq
+45.93.60.6/32 # Germany | Berlin | Clouvider Limited
 45.94.47.102/32 # Finland | Mainland Finland | HOSTING INDUSTRY LIMITED
 45.94.47.103/32 # Finland | Mainland Finland | HOSTING INDUSTRY LIMITED
 45.94.47.136/32 # Finland | Mainland Finland | HOSTING INDUSTRY LIMITED
@@ -651,7 +655,6 @@
 58.144.143.27/32 # China | Chongqing | China Unicom China1 Backbone
 59.88.145.206/32 # India | Kerala | Bharat Sanchar Nigam LTD
 59.89.71.24/32 # India | Karnataka | Bharat Sanchar Nigam LTD
-59.93.18.54/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.93.75.191/32 # India | Andhra Pradesh | Bharat Sanchar Nigam LTD
 59.93.183.87/32 # India | Andhra Pradesh | Bharat Sanchar Nigam LTD
 59.94.71.66/32 # India | Karnataka | Bharat Sanchar Nigam LTD
@@ -989,7 +992,6 @@
 120.61.193.85/32 # India | Kerala | Bharat Sanchar Nigam LTD
 120.85.116.46/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.119.210/32 # China | Guangdong Province | China Unicom Guangzhou Network
-120.86.238.131/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
 121.37.80.227/32 # China | Beijing | Huawei Cloud Service Data Center
 121.202.249.42/32 # Hong Kong | New Territories | SMARTONE
 121.228.46.51/32 # China | Jiangsu | Chinanet
@@ -1017,15 +1019,7 @@
 130.49.52.46/32 # United States | Washington | GREEN FLOID LLC
 130.49.52.66/32 # United States | Washington | GREEN FLOID LLC
 130.49.52.99/32 # United States | Washington | GREEN FLOID LLC
-130.49.72.22/32 # United States | Washington | GREEN FLOID LLC
-130.49.72.70/32 # United States | Washington | GREEN FLOID LLC
-130.49.72.101/32 # United States | Washington | GREEN FLOID LLC
-130.49.72.143/32 # United States | Washington | GREEN FLOID LLC
 130.49.80.181/32 # Denmark | Denmark | IT HOSTLINE LTD
-130.49.94.22/32 # United States | Washington | GREEN FLOID LLC
-130.49.94.89/32 # United States | Washington | GREEN FLOID LLC
-130.49.94.140/32 # United States | Washington | GREEN FLOID LLC
-130.49.94.227/32 # United States | Washington | GREEN FLOID LLC
 130.49.96.44/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 130.49.102.19/32 # United States | Washington | GREEN FLOID LLC
 130.49.102.80/32 # United States | Washington | GREEN FLOID LLC
@@ -1133,10 +1127,6 @@
 142.111.233.147/32 # United States | New Jersey | HOST TELECOM LTD
 142.111.233.182/32 # United States | New Jersey | HOST TELECOM LTD
 142.111.233.244/32 # United States | New Jersey | HOST TELECOM LTD
-142.111.247.44/32 # United States | New Jersey | HOST TELECOM LTD
-142.111.247.90/32 # United States | New Jersey | HOST TELECOM LTD
-142.111.247.120/32 # United States | New Jersey | HOST TELECOM LTD
-142.111.247.244/32 # United States | New Jersey | HOST TELECOM LTD
 142.252.8.59/32 # United States | California | HOST TELECOM LTD
 142.252.8.98/32 # United States | California | HOST TELECOM LTD
 142.252.8.134/32 # United States | California | HOST TELECOM LTD
@@ -1195,6 +1185,7 @@
 149.28.137.254/32 # Singapore | Southeast | The Constant Company, LLC
 149.102.243.100/32 # United States | California | Datacamp Limited
 149.104.23.176/32 # Hong Kong | Hong Kong | XNNET LLC
+150.136.222.129/32 # United States | Virginia | Oracle Corporation
 150.241.200.0/32 # United States | New York | Datacamp Limited
 150.241.200.17/32 # United States | New York | Datacamp Limited
 150.241.200.100/32 # United States | New York | Datacamp Limited
@@ -1226,13 +1217,18 @@
 154.16.6.56/32 # Germany | Hesse | Michael Sebastian Schinzel Trading AS Ip...
 154.16.168.94/32 # United States | Oregon | Tier.net Technologies LLC
 154.53.46.201/32 # United States | Missouri | Contabo Inc.
+154.81.196.56/32 # Netherlands | North Holland | HOST TELECOM LTD
 154.81.199.141/32 # Netherlands | North Holland | HOST TELECOM LTD
 154.82.84.227/32 # Hong Kong | Hong Kong | Tcloudnet
 154.90.58.164/32 # Singapore | Southeast | Kaopu Cloud Hk Limited
+154.194.72.251/32 # Germany | Berlin | Clouvider Limited
+154.194.85.139/32 # Germany | Berlin | Clouvider Limited
 154.194.88.55/32 # Germany | Berlin | Clouvider Limited
 154.194.90.54/32 # Germany | Berlin | Clouvider Limited
 154.194.95.3/32 # Germany | Berlin | Clouvider Limited
+154.194.96.151/32 # Germany | Berlin | Clouvider Limited
 154.194.104.160/32 # Germany | Berlin | Clouvider Limited
+154.194.112.50/32 # Germany | Berlin | Clouvider Limited
 154.194.120.229/32 # Germany | Berlin | Clouvider Limited
 154.194.127.5/32 # Germany | Berlin | Clouvider Limited
 154.195.2.179/32 # Germany | Berlin | Clouvider Limited
@@ -1243,6 +1239,7 @@
 154.195.130.177/32 # Germany | Bavaria | Clouvider Limited
 154.195.135.216/32 # Germany | Bavaria | Clouvider Limited
 154.195.140.168/32 # Germany | Bavaria | Clouvider Limited
+154.195.163.85/32 # Germany | Bavaria | Clouvider Limited
 154.195.165.239/32 # Germany | Bavaria | Clouvider Limited
 154.195.170.187/32 # Germany | Bavaria | Clouvider Limited
 154.196.20.132/32 # Germany | Hamburg | Clouvider Limited
@@ -1538,7 +1535,6 @@
 181.215.185.147/32 # United States | Illinois | Datacamp Limited
 181.215.246.155/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
 182.116.244.21/32 # China | Henan | China Unicom China1 Backbone
-182.117.28.94/32 # China | Henan | China Unicom China1 Backbone
 182.121.16.59/32 # China | Henan | China Unicom China1 Backbone
 182.138.158.116/32 # China | Sichuan | Chinanet
 183.82.0.230/32 # India | Telangana | Atria Convergence Technologies Pvt. Ltd.,
@@ -1553,7 +1549,9 @@
 185.65.133.203/32 # Finland | Mainland Finland | 11 Services Ab
 185.65.134.242/32 # Netherlands | North Holland | 11 Services Ab
 185.72.8.129/32 # United States | Georgia | Baxet Group Inc.
+185.78.79.234/32 # Germany | Hesse | Clouvider Limited
 185.100.157.74/32 # Sweden | Stockholm County | Partner Hosting LTD
+185.100.158.149/32 # Netherlands | South Holland | Clouvider Limited
 185.101.200.85/32 # Netherlands | North Holland | Clouvider Limited
 185.107.74.40/32 # Sweden | Stockholm County | Partner Hosting LTD
 185.121.233.78/32 # Netherlands | North Holland | SERVERS TECH FZCO
