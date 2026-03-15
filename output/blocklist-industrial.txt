@@ -291,7 +291,6 @@
 155.212.94.0/24 # United States | Washington | GREEN FLOID LLC
 155.212.102.0/24 # United States | Washington | GREEN FLOID LLC
 155.212.114.0/24 # United States | Washington | GREEN FLOID LLC
-155.212.125.0/24 # United States | Washington | GREEN FLOID LLC
 156.229.238.0/24 # United States | California | Clouvider Limited
 156.229.244.0/24 # United States | California | Clouvider Limited
 156.229.245.0/24 # United States | California | Clouvider Limited
@@ -517,6 +516,7 @@
 31.59.121.19/32 # France | Île-de-France | CGI GLOBAL LIMITED
 31.177.109.39/32 # Russia | Moscow | LLC Smart Ape
 31.192.107.157/32 # Russia | Moscow | HOSTKEY B.V.
+31.220.75.117/32 # France | Grand Est | Contabo GmbH
 31.220.109.219/32 # United States | Arizona | Hostinger International Limited
 34.22.152.82/32 # Belgium | Brussels-Capital | Google LLC
 34.53.222.197/32 # Belgium | Brussels-Capital | Google LLC
@@ -530,6 +530,7 @@
 35.206.221.211/32 # Taiwan | Keelung City | Google LLC
 35.233.96.173/32 # Belgium | Brussels-Capital | Google LLC
 36.33.249.101/32 # China | Anhui | China Unicom Anhui Province Network
+36.150.185.121/32 # China | Beijing | China Mobile Communications Corporation
 36.255.5.58/32 # India | Tamil Nadu | Railtel Corporation of India Ltd.
 36.255.18.252/32 # India | Karnataka | Railtel Corporation of India Ltd.
 36.255.33.178/32 # Pakistan | Punjab | Cyber Internet Services private Limited
@@ -568,6 +569,7 @@
 45.10.156.123/32 # Netherlands | North Holland | Datacamp Limited
 45.10.156.163/32 # Netherlands | North Holland | Datacamp Limited
 45.11.180.174/32 # United Kingdom | England | Servinga GmbH
+45.11.229.248/32 # Germany | Hesse | Florian Kolb
 45.38.134.150/32 # Netherlands | North Holland | HOST TELECOM LTD
 45.38.169.63/32 # Netherlands | North Holland | HOST TELECOM LTD
 45.39.127.27/32 # United States | New York | HOST TELECOM LTD
@@ -675,6 +677,7 @@
 51.89.212.145/32 # United Kingdom | England | OVH SAS
 52.151.222.84/32 # United States | District of Columbia | Microsoft Corporation
 52.226.253.206/32 # United States | Virginia | Microsoft Corporation
+52.228.113.13/32 # Canada | Ontario | Microsoft Corporation
 52.242.17.182/32 # Canada | Québec | Microsoft Corporation
 52.252.26.67/32 # United States | Virginia | Microsoft Corporation
 52.255.42.113/32 # Australia | Victoria | Microsoft Corporation
@@ -689,7 +692,6 @@
 59.93.75.191/32 # India | Andhra Pradesh | Bharat Sanchar Nigam LTD
 59.93.183.87/32 # India | Andhra Pradesh | Bharat Sanchar Nigam LTD
 59.94.71.66/32 # India | Karnataka | Bharat Sanchar Nigam LTD
-59.94.120.27/32 # India | Kerala | Bharat Sanchar Nigam LTD
 59.97.179.240/32 # India | Odisha | Bharat Sanchar Nigam LTD
 59.98.236.222/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
 59.103.106.96/32 # Pakistan | Punjab | Cyber Internet Services private Limited
@@ -880,12 +882,14 @@
 102.135.95.102/32 # Seychelles | Mahe | M Europe SRL
 103.13.31.75/32 # Thailand | Bangkok | Siamdata Communication CO.,LTD.
 103.18.14.86/32 # Pakistan | Khyber Pakhtunkhwa | Cyber Internet Services pr...
+103.18.14.221/32 # Pakistan | Khyber Pakhtunkhwa | Cyber Internet Services pr...
 103.20.91.68/32 # Indonesia | East Java | Wow Internet Indonesia
 103.26.82.193/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 103.27.110.232/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.30.76.206/32 # Hong Kong | Hong Kong | XNNET LLC
 103.38.52.102/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.48.66.165/32 # India | Delhi | GEOCITY NETWORK SOLUTIONS PVT LTD
+103.51.144.15/32 # Hong Kong | Hong Kong | Cloudie Limited
 103.72.8.70/32 # India | Delhi | SWIFTIFY PRIVATE LIMITED
 103.72.9.97/32 # India | Delhi | SWIFTIFY PRIVATE LIMITED
 103.72.9.107/32 # India | Delhi | SWIFTIFY PRIVATE LIMITED
@@ -1332,6 +1336,10 @@
 155.212.96.89/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.115.76/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.122.8/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
+155.212.125.107/32 # United States | Washington | GREEN FLOID LLC
+155.212.125.140/32 # United States | Washington | GREEN FLOID LLC
+155.212.125.222/32 # United States | Washington | GREEN FLOID LLC
+155.212.125.251/32 # United States | Washington | GREEN FLOID LLC
 155.254.193.70/32 # United States | Texas | Baxet Group Inc.
 155.254.195.81/32 # United States | Texas | Baxet Group Inc.
 156.233.53.58/32 # Denmark | Denmark | IT HOSTLINE LTD
@@ -1375,6 +1383,7 @@
 162.33.179.247/32 # United States | Illinois | Bl Networks
 162.243.36.241/32 # United States | New Jersey | Digitalocean, LLC
 162.243.47.171/32 # United States | New Jersey | Digitalocean, LLC
+163.43.147.181/32 # Japan | Osaka Prefecture | Sakura Internet Inc.
 163.176.216.54/32 # Brazil | State of São Paulo | Oracle Corporation
 164.90.129.126/32 # United States | New Jersey | Digitalocean, LLC
 164.138.90.2/32 # Russia | Khabarovsk Krai | JSC Redcom lnternet
