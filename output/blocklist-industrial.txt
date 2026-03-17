@@ -249,11 +249,13 @@
 142.252.242.0/24 # United States | California | Clouvider Limited
 142.252.246.0/24 # United States | California | Clouvider Limited
 143.244.47.0/24 # United States | New York | Datacamp Limited
+144.172.99.0/24 # United States | New York | Frantech Solutions
 146.70.165.0/24 # United States | New York | M Europe SRL
 146.70.166.0/24 # United States | New York | M Europe SRL
 146.70.168.0/24 # United States | West Virginia | M Europe SRL
 146.70.171.0/24 # United States | New York | M Europe SRL
 146.70.172.0/24 # United States | California | M Europe SRL
+146.70.185.0/24 # United States | New York | M Europe SRL
 146.70.187.0/24 # United States | Florida | M Europe SRL
 146.70.198.0/24 # Canada | Québec | M Europe SRL
 146.70.211.0/24 # United States | Texas | M Europe SRL
@@ -492,6 +494,7 @@
 20.212.118.199/32 # Singapore | Southeast | Microsoft Corporation
 20.215.89.29/32 # Poland | Masovian Voivodeship | Microsoft Corporation
 20.219.226.122/32 # India | Maharashtra | Microsoft Corporation
+20.233.241.159/32 # United Arab Emirates | Dubai | Microsoft Corporation
 20.240.18.188/32 # Sweden | Gavleborg County | Microsoft Corporation
 20.246.194.204/32 # United States | District of Columbia | Microsoft Corporation
 20.248.236.164/32 # Australia | New South Wales | Microsoft Corporation
@@ -671,6 +674,7 @@
 47.238.107.83/32 # Hong Kong | Hong Kong | Alibaba Cloud LLC
 47.239.197.97/32 # Hong Kong | Hong Kong | Alibaba us Technology Co., Ltd.
 49.89.41.187/32 # China | Jiangsu | Chinanet
+49.234.229.91/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
 49.236.162.215/32 # Republic of Korea | Gyeonggi | NAVER BUSINESS PLATFORM ASI...
 50.118.198.27/32 # United States | New Jersey | HOST TELECOM LTD
 50.118.198.110/32 # United States | New Jersey | HOST TELECOM LTD
@@ -760,6 +764,7 @@
 68.67.198.163/32 # United States | California | Datacamp Limited
 68.67.198.214/32 # United States | California | Datacamp Limited
 68.168.213.163/32 # United States | New Jersey | Interserver, INC
+68.168.222.205/32 # United States | New Jersey | Interserver, INC
 69.55.61.111/32 # United States | New Jersey | Digitalocean, LLC
 69.55.62.10/32 # United States | New Jersey | Digitalocean, LLC
 69.67.173.30/32 # Romania | Bucharest | Bl Networks
@@ -890,6 +895,7 @@
 101.32.26.15/32 # Hong Kong | Hong Kong | Shenzhen Tencent Computer Systems ...
 101.32.26.154/32 # Hong Kong | Hong Kong | Shenzhen Tencent Computer Systems ...
 101.35.156.50/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
+101.35.161.128/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
 101.99.91.107/32 # Malaysia | Federal Territory of Kuala Lumpur | Shinjiru Te...
 102.129.141.133/32 # United States | Massachusetts | Datacamp Limited
 102.129.141.136/32 # United States | Massachusetts | Datacamp Limited
@@ -1232,14 +1238,11 @@
 144.48.130.188/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 144.91.75.108/32 # France | Grand Est | Contabo GmbH
 144.91.97.191/32 # France | Grand Est | Contabo GmbH
+144.172.105.135/32 # United States | Utah | Routerhosting LLC
 144.172.106.140/32 # United States | Utah | Routerhosting LLC
 144.172.115.212/32 # United States | Utah | Routerhosting LLC
 144.172.117.158/32 # United States | Utah | Routerhosting LLC
 146.0.74.161/32 # Netherlands | North Holland | HOSTKEY B.V.
-146.70.185.11/32 # United States | New York | M Europe SRL
-146.70.185.36/32 # United States | New York | M Europe SRL
-146.70.185.40/32 # United States | New York | M Europe SRL
-146.70.185.60/32 # United States | New York | M Europe SRL
 146.103.51.169/32 # United States | New York | Datacamp Limited
 146.247.112.20/32 # Germany | Hesse | Datacamp Limited
 146.247.112.96/32 # Germany | Hesse | Datacamp Limited
@@ -1437,6 +1440,9 @@
 166.88.222.242/32 # United States | New Jersey | HOST TELECOM LTD
 167.71.3.101/32 # Netherlands | North Holland | Digitalocean, LLC
 167.86.121.168/32 # France | Grand Est | Contabo GmbH
+167.88.164.25/32 # United States | Texas | Routerhosting LLC
+167.88.164.34/32 # United States | Texas | Routerhosting LLC
+167.88.164.39/32 # United States | Texas | Routerhosting LLC
 168.75.107.64/32 # Brazil | State of São Paulo | Oracle Corporation
 168.119.96.41/32 # Germany | Saxony | Hetzner Online GmbH
 168.181.229.87/32 # United States | New York | HOST PARA TU VIDA S.A.
@@ -1459,6 +1465,10 @@
 172.86.107.55/32 # United States | New York | Routerhosting LLC
 172.86.107.197/32 # United States | New York | Routerhosting LLC
 172.86.107.241/32 # United States | New York | Routerhosting LLC
+172.86.113.79/32 # United States | Texas | Routerhosting LLC
+172.86.121.205/32 # United States | Texas | Routerhosting LLC
+172.86.123.122/32 # United States | Texas | Routerhosting LLC
+172.86.123.150/32 # United States | Texas | Routerhosting LLC
 172.86.126.62/32 # United States | California | Routerhosting LLC
 172.96.15.103/32 # United States | Missouri | Unreal Servers, LLC
 172.96.15.104/32 # United States | Missouri | Unreal Servers, LLC
@@ -1620,6 +1630,7 @@
 180.178.189.17/32 # Pakistan | Islamabad Capital Territory | FEMO IT SOLUTIONS...
 181.215.185.147/32 # United States | Illinois | Datacamp Limited
 181.215.246.155/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
+182.113.30.187/32 # China | Henan | China Unicom China1 Backbone
 182.116.244.21/32 # China | Henan | China Unicom China1 Backbone
 182.138.158.116/32 # China | Sichuan | Chinanet
 182.254.146.55/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
