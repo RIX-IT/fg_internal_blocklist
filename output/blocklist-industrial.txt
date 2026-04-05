@@ -529,7 +529,6 @@
 23.230.241.223/32 # United States | New York | HOST TELECOM LTD
 23.234.87.30/32 # Canada | Ontario | Tzulo, Inc.
 23.234.87.59/32 # Canada | Québec | Tzulo, Inc.
-23.234.87.110/32 # Canada | Ontario | Tzulo, Inc.
 23.234.87.121/32 # Canada | Ontario | Tzulo, Inc.
 23.234.88.90/32 # United States | Arizona | Tzulo, Inc.
 23.234.88.123/32 # United States | Arizona | Tzulo, Inc.
@@ -540,6 +539,7 @@
 24.160.110.31/32 # United States | Florida | Charter Communications, INC
 24.199.122.11/32 # United States | California | Digitalocean, LLC
 27.9.45.87/32 # China | Chongqing | China Unicom China1 Backbone
+27.37.82.217/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.42.239.196/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.204.42/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.204.72/32 # China | Guangdong Province | China Unicom Guangdong Provin...
@@ -1162,10 +1162,10 @@
 117.212.36.244/32 # India | Madhya Pradesh | Bharat Sanchar Nigam LTD
 117.215.49.83/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.215.62.97/32 # India | Chhattisgarh | Bharat Sanchar Nigam LTD
+117.217.129.68/32 # India | Andhra Pradesh | Bharat Sanchar Nigam LTD
 117.221.112.151/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.221.165.240/32 # India | Telangana | Bharat Sanchar Nigam LTD
 117.221.172.174/32 # India | Telangana | Bharat Sanchar Nigam LTD
-117.223.143.92/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
 117.235.238.47/32 # India | Delhi | Bharat Sanchar Nigam LTD
 117.242.206.78/32 # India | Delhi | Bharat Sanchar Nigam LTD
 117.242.237.148/32 # India | Delhi | Bharat Sanchar Nigam LTD
@@ -1367,7 +1367,6 @@
 144.172.108.230/32 # United States | Utah | Routerhosting LLC
 144.172.115.212/32 # United States | Utah | Routerhosting LLC
 144.172.117.158/32 # United States | Utah | Routerhosting LLC
-146.0.74.161/32 # Netherlands | North Holland | HOSTKEY B.V.
 146.103.51.169/32 # United States | New York | Datacamp Limited
 146.235.40.233/32 # Brazil | State of São Paulo | Oracle Corporation
 146.247.112.20/32 # Germany | Hesse | Datacamp Limited
@@ -1794,6 +1793,7 @@
 185.121.233.78/32 # Netherlands | North Holland | SERVERS TECH FZCO
 185.141.119.133/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
 185.141.119.142/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
+185.141.119.163/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
 185.149.146.1/32 # Germany | Hesse | Foton Telecom Cjsc
 185.149.146.118/32 # Germany | Hesse | Foton Telecom Cjsc
 185.149.232.197/32 # United States | Missouri | Heymman Servers Corporation
@@ -1818,6 +1818,7 @@
 186.235.184.217/32 # Brazil | State of Pernambuco | GFT COMERCIO DE TELEFONIA E...
 187.184.11.171/32 # Mexico | Morelos | Cablemas Telecomunicaciones SA De Cv
 188.166.87.88/32 # Netherlands | North Holland | Digitalocean, LLC
+188.239.19.68/32 # Singapore | Southeast | HUAWEI INTERNATIONAL PTE. LTD.
 190.123.4.100/32 # Mexico | Jalisco | HERFLOR TI SA DE CV
 190.123.85.29/32 # Argentina | Córdoba | Pogliotti Pogliotti Construcciones S.A.
 191.101.44.118/32 # United States | South Dakota | Psychz Networks
