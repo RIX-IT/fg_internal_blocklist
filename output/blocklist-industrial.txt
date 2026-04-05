@@ -17,7 +17,6 @@
 23.234.68.0/24 # United States | Colorado | Tzulo, Inc.
 23.234.69.0/24 # United States | Colorado | Tzulo, Inc.
 23.234.70.0/24 # United States | Colorado | Tzulo, Inc.
-23.234.71.0/24 # United States | Colorado | Tzulo, Inc.
 23.234.72.0/24 # United States | California | Tzulo, Inc.
 23.234.73.0/24 # United States | California | Tzulo, Inc.
 23.234.74.0/24 # United States | California | Tzulo, Inc.
@@ -64,7 +63,6 @@
 23.234.117.0/24 # United States | Missouri | Tzulo, Inc.
 23.234.118.0/24 # United States | Missouri | Tzulo, Inc.
 23.234.119.0/24 # United States | Missouri | Tzulo, Inc.
-23.234.120.0/24 # Canada | Québec | Tzulo, Inc.
 23.234.121.0/24 # Canada | Québec | Tzulo, Inc.
 23.234.122.0/24 # Canada | Québec | Tzulo, Inc.
 23.234.123.0/24 # Canada | Québec | Tzulo, Inc.
@@ -525,6 +523,10 @@
 23.230.241.171/32 # United States | New York | HOST TELECOM LTD
 23.230.241.191/32 # United States | New York | HOST TELECOM LTD
 23.230.241.223/32 # United States | New York | HOST TELECOM LTD
+23.234.71.21/32 # United States | Colorado | Tzulo, Inc.
+23.234.71.32/32 # United States | Colorado | Tzulo, Inc.
+23.234.71.123/32 # United States | Colorado | Tzulo, Inc.
+23.234.71.146/32 # United States | Colorado | Tzulo, Inc.
 23.234.87.30/32 # Canada | Ontario | Tzulo, Inc.
 23.234.87.59/32 # Canada | Québec | Tzulo, Inc.
 23.234.87.121/32 # Canada | Ontario | Tzulo, Inc.
@@ -532,6 +534,10 @@
 23.234.88.123/32 # United States | Arizona | Tzulo, Inc.
 23.234.88.159/32 # United States | Arizona | Tzulo, Inc.
 23.234.88.195/32 # United States | Arizona | Tzulo, Inc.
+23.234.120.44/32 # Canada | Québec | Tzulo, Inc.
+23.234.120.69/32 # Canada | Québec | Tzulo, Inc.
+23.234.120.122/32 # Canada | Québec | Tzulo, Inc.
+23.234.120.195/32 # Canada | Québec | Tzulo, Inc.
 24.65.228.183/32 # Canada | Alberta | Shaw Communications
 24.144.98.255/32 # United States | New Jersey | Digitalocean, LLC
 24.160.110.31/32 # United States | Florida | Charter Communications, INC
@@ -553,6 +559,7 @@
 31.192.107.157/32 # Russia | Moscow | HOSTKEY B.V.
 31.220.75.117/32 # France | Grand Est | Contabo GmbH
 31.220.109.219/32 # United States | Arizona | Hostinger International Limited
+31.222.245.23/32 # United States | South Carolina | Clouvider Limited
 34.9.18.51/32 # United States | Iowa | Google LLC
 34.22.152.82/32 # Belgium | Brussels-Capital | Google LLC
 34.53.222.197/32 # Belgium | Brussels-Capital | Google LLC
@@ -592,6 +599,7 @@
 39.187.126.220/32 # China | Zhejiang | China Mobile Communications Corporation
 40.81.230.77/32 # India | Maharashtra | Microsoft Corporation
 41.59.76.190/32 # Tanzania | Coastal Zone | TTCL
+41.83.168.207/32 # Senegal | Dakar Region | Sonatel as Autonomous System
 41.139.234.177/32 # Kenya | Nairobi | Safaricom Limited
 41.141.39.120/32 # Morocco | Casablanca-Settat | Office National Des Postes E...
 41.209.14.89/32 # Kenya | Nairobi | MTN SA
@@ -926,6 +934,7 @@
 88.216.186.62/32 # United Kingdom | England | Hivelocity LLC
 88.216.187.29/32 # Netherlands | North Holland | Uab Cherry Servers
 88.216.197.45/32 # Republic of Lithuania | Šiaulių apskritis | Uab Cherry Ser...
+88.218.80.18/32 # United States | New York | Clouvider Limited
 89.19.57.147/32 # United States | California | Ws Telecom INC
 89.19.57.163/32 # United States | California | Ws Telecom INC
 89.19.57.184/32 # United States | California | Ws Telecom INC
@@ -1005,7 +1014,6 @@
 103.72.9.107/32 # India | Delhi | SWIFTIFY PRIVATE LIMITED
 103.96.130.107/32 # Hong Kong | Hong Kong | WUZHOUHULIAN INTERNATIONAL CO., LI...
 103.99.197.131/32 # India | Delhi | Maxnet Digital Pvt LTD
-103.120.189.74/32 # India | West Bengal | Netstra Communications Pvt LTD
 103.124.165.160/32 # Albania | Central Albania | Keminet Shpk
 103.146.111.124/32 # India | Haryana | Crisp Enterprises
 103.160.197.73/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
@@ -1050,7 +1058,6 @@
 104.165.166.181/32 # Netherlands | North Holland | HOST TELECOM LTD
 104.168.93.116/32 # United States | New York | HostPapa
 104.193.135.111/32 # Canada | British Columbia | Tech Futures Interactive Inc.
-104.193.135.123/32 # Canada | British Columbia | Tech Futures Interactive Inc.
 104.193.135.207/32 # Canada | British Columbia | Tech Futures Interactive Inc.
 104.193.135.221/32 # Canada | British Columbia | Tech Futures Interactive Inc.
 104.194.132.28/32 # Netherlands | North Holland | Routerhosting LLC
@@ -1212,6 +1219,7 @@
 125.79.183.174/32 # China | Fujian | No. 1,jin rong Street
 129.211.53.53/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
 129.222.109.252/32 # Madagascar | Analamanga | Space Exploration Technologies C...
+129.222.253.214/32 # United States | Georgia | Space Exploration Technologies C...
 129.226.128.168/32 # Hong Kong | Hong Kong | Shenzhen Tencent Computer Systems ...
 129.226.159.39/32 # Singapore | Southeast | Shenzhen Tencent Computer Systems ...
 130.49.5.240/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
@@ -1474,7 +1482,6 @@
 154.196.54.202/32 # Germany | Hesse | Clouvider Limited
 154.211.89.5/32 # Hong Kong | Hong Kong | Tcloudnet
 154.223.222.226/32 # Netherlands | North Holland | Clouvider Limited
-155.2.192.67/32 # United States | New York | Interserver, INC
 155.138.150.12/32 # Canada | Ontario | The Constant Company, LLC
 155.212.34.213/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.66.7/32 # United States | Florida | GREEN FLOID LLC
@@ -1517,6 +1524,7 @@
 157.22.30.135/32 # Denmark | Region Zealand | IT HOSTLINE LTD
 157.22.79.100/32 # Denmark | Denmark | IT HOSTLINE LTD
 157.66.26.209/32 # Vietnam | Ho Chi Minh | TRUMVPS COMPANY LIMITED
+157.100.198.119/32 # Ecuador | Guayas | Telconet S.a
 157.156.24.9/32 # China | Guangdong Province | China Unicom Ip Network China...
 157.173.219.148/32 # India | Maharashtra | Hostinger International Limited
 157.180.40.106/32 # Finland | Mainland Finland | Hetzner Online GmbH
@@ -1553,7 +1561,6 @@
 165.73.180.188/32 # South Africa | Gauteng | HERO TELECOMS PTY LTD
 165.227.20.2/32 # United States | California | Digitalocean, LLC
 165.227.26.253/32 # United States | California | Digitalocean, LLC
-165.227.38.98/32 # Canada | Nova Scotia | Digitalocean, LLC
 165.227.113.183/32 # United States | New Jersey | Digitalocean, LLC
 165.227.161.101/32 # Germany | Schleswig-Holstein | Digitalocean, LLC
 165.245.184.194/32 # Singapore | Southeast | Digitalocean, LLC
@@ -1588,7 +1595,6 @@
 168.181.229.87/32 # United States | New York | HOST PARA TU VIDA S.A.
 168.181.229.118/32 # United States | New York | HOST PARA TU VIDA S.A.
 168.231.121.209/32 # India | Maharashtra | Hostinger International Limited
-170.64.226.168/32 # Australia | New South Wales | Digitalocean, LLC
 170.79.235.138/32 # Chile | Santiago Metropolitan Region | Tna Solutions SPA
 170.130.165.28/32 # United States | Nevada | Eonix Corporation
 170.168.103.208/32 # Germany | Berlin | GTHost
@@ -1851,6 +1857,7 @@
 192.227.153.50/32 # United States | New York | HostPapa
 192.241.190.181/32 # United States | New Jersey | Digitalocean, LLC
 193.17.42.6/32 # United States | New York | Clouvider Limited
+193.17.42.25/32 # United States | New York | Clouvider Limited
 193.17.65.57/32 # Netherlands | North Holland | Clouvider Limited
 193.23.220.22/32 # Germany | Hesse | Lendnodes LTD
 193.32.162.10/32 # Romania | Bucharest | UNMANAGED LTD
