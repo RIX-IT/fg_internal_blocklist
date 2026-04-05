@@ -109,6 +109,7 @@
 45.192.36.0/24 # United States | New York | Clouvider Limited
 45.192.38.0/24 # United States | New York | Clouvider Limited
 45.192.39.0/24 # United States | New York | Clouvider Limited
+45.192.41.0/24 # United States | New York | Clouvider Limited
 45.192.42.0/24 # United States | New York | Clouvider Limited
 45.192.43.0/24 # United States | New York | Clouvider Limited
 45.192.44.0/24 # United States | New York | Clouvider Limited
@@ -480,7 +481,6 @@
 14.1.105.130/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 14.1.106.170/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 14.1.107.146/32 # Pakistan | Punjab | Cyber Internet Services private Limited
-14.96.75.238/32 # India | West Bengal | TTSL ISP DIVISION
 14.102.232.59/32 # United States | New York | Datacamp Limited
 14.102.232.162/32 # United States | New York | Datacamp Limited
 15.188.246.198/32 # France | Île-de-France | Amazon.com, Inc.
@@ -698,10 +698,6 @@
 45.192.37.229/32 # United States | New York | Clouvider Limited
 45.192.40.10/32 # United States | New York | Clouvider Limited
 45.192.40.47/32 # United States | New York | Clouvider Limited
-45.192.41.36/32 # United States | New York | Clouvider Limited
-45.192.41.128/32 # United States | New York | Clouvider Limited
-45.192.41.142/32 # United States | New York | Clouvider Limited
-45.192.41.169/32 # United States | New York | Clouvider Limited
 45.192.45.19/32 # United States | New York | Clouvider Limited
 45.192.45.212/32 # United States | New York | Clouvider Limited
 45.192.45.241/32 # United States | New York | Clouvider Limited
@@ -846,7 +842,6 @@
 72.153.124.8/32 # United States | Virginia | Microsoft Corporation
 72.224.201.161/32 # United States | New York | Charter Communications INC
 72.255.26.8/32 # Pakistan | Punjab | Cyber Internet Services private Limited
-72.255.26.178/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 72.255.32.64/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 73.134.168.186/32 # United States | Delaware | Comcast Cable Communications, LLC
 73.152.127.80/32 # United States | Virginia | Comcast Cable Communications, LLC
@@ -966,6 +961,7 @@
 94.141.122.164/32 # Finland | Mainland Finland | Partner Hosting LTD
 94.229.214.47/32 # United States | California | Datacamp Limited
 94.229.214.121/32 # United States | California | Datacamp Limited
+95.111.224.11/32 # France | Grand Est | Contabo GmbH
 95.111.227.74/32 # France | Grand Est | Contabo GmbH
 95.169.180.122/32 # United States | Illinois | Latitude.sh LTDA
 95.173.197.195/32 # Hong Kong | Hong Kong | Datacamp Limited
@@ -1121,6 +1117,7 @@
 113.45.149.56/32 # China | Guangdong Province | Huawei Cloud Service Data Center
 113.93.15.185/32 # China | Guangdong Province | Chinanet Guangdong Province Y...
 114.88.88.244/32 # China | Shanghai | China Telecom group
+114.185.63.79/32 # Japan | Osaka Prefecture | NTT Docomo Business,inc.
 115.42.75.105/32 # Pakistan | Punjab | Cmpak Limited
 115.48.145.140/32 # China | Henan | China Unicom China1 Backbone
 115.49.66.57/32 # China | Henan | China Unicom China1 Backbone
@@ -1131,6 +1128,7 @@
 115.190.29.141/32 # China | Beijing | Beijing Volcano Engine Technology Co., Ltd.
 115.190.242.220/32 # China | Beijing | Beijing Volcano Engine Technology Co., Ltd.
 115.191.6.5/32 # China | Beijing | Beijing Volcano Engine Technology Co., Ltd.
+116.75.232.69/32 # India | Delhi | HATHWAY CABLE AND DATACOM LIMITED
 116.140.208.243/32 # China | Beijing | China Unicom China1 Backbone
 116.149.240.90/32 # China | Beijing | China Unicom China1 Backbone
 116.213.178.11/32 # China | Beijing | Beijing Volcano Engine Technology Co., Ltd.
@@ -1318,6 +1316,7 @@
 142.111.112.236/32 # United States | New Jersey | HOST TELECOM LTD
 142.111.176.129/32 # United States | New Jersey | HOST TELECOM LTD
 142.111.176.139/32 # United States | New Jersey | HOST TELECOM LTD
+142.111.176.161/32 # United States | New York | HOST TELECOM LTD
 142.111.176.208/32 # United States | New Jersey | HOST TELECOM LTD
 142.111.177.14/32 # United States | New Jersey | HOST TELECOM LTD
 142.111.177.20/32 # United States | New Jersey | HOST TELECOM LTD
@@ -1362,13 +1361,19 @@
 144.48.130.188/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 144.91.75.108/32 # France | Grand Est | Contabo GmbH
 144.91.97.191/32 # France | Grand Est | Contabo GmbH
+144.172.93.94/32 # United States | Utah | Routerhosting LLC
 144.172.94.166/32 # United States | Utah | Routerhosting LLC
+144.172.96.91/32 # United States | Utah | Routerhosting LLC
+144.172.96.92/32 # United States | Utah | Routerhosting LLC
+144.172.98.34/32 # United States | Utah | Routerhosting LLC
 144.172.104.44/32 # United States | Utah | Routerhosting LLC
 144.172.105.135/32 # United States | Utah | Routerhosting LLC
 144.172.105.232/32 # United States | Utah | Routerhosting LLC
 144.172.106.140/32 # United States | Utah | Routerhosting LLC
 144.172.108.230/32 # United States | Utah | Routerhosting LLC
+144.172.108.238/32 # United States | Utah | Routerhosting LLC
 144.172.115.212/32 # United States | Utah | Routerhosting LLC
+144.172.116.161/32 # United States | Utah | Routerhosting LLC
 144.172.117.158/32 # United States | Utah | Routerhosting LLC
 146.103.51.169/32 # United States | New York | Datacamp Limited
 146.235.40.233/32 # Brazil | State of São Paulo | Oracle Corporation
@@ -1527,7 +1532,6 @@
 158.247.224.100/32 # Republic of Korea | Unknown | The Constant Company, LLC
 158.247.252.178/32 # Republic of Korea | Unknown | The Constant Company, LLC
 158.255.83.29/32 # Russia | Moscow | Atc Telecom Ltd.
-159.65.111.154/32 # United States | California | Digitalocean, LLC
 159.65.241.37/32 # United States | New Jersey | Digitalocean, LLC
 160.25.232.62/32 # Vietnam | Ho Chi Minh | VIET DIGITAL TECHNOLOGY LIABILITY ...
 160.176.21.116/32 # Morocco | Casablanca-Settat | Office National Des Postes E...
@@ -1961,7 +1965,10 @@
 213.170.223.245/32 # United States | Pennsylvania | Ws Telecom INC
 213.178.152.70/32 # Russia | Moscow | Ivanov Vitaliy Sergeevich
 216.9.224.26/32 # United States | New York | Fiba Cloud Operation Company, LLC
+216.126.225.79/32 # United States | Utah | Routerhosting LLC
 216.126.227.161/32 # United States | Utah | Routerhosting LLC
+216.126.227.254/32 # United States | Utah | Routerhosting LLC
+216.126.236.151/32 # United States | Utah | Routerhosting LLC
 216.126.236.167/32 # United States | Utah | Routerhosting LLC
 216.126.239.209/32 # United States | Utah | Routerhosting LLC
 216.126.239.223/32 # United States | Utah | Routerhosting LLC
@@ -1985,6 +1992,7 @@
 221.15.27.110/32 # China | Henan | China Unicom China1 Backbone
 221.15.27.160/32 # China | Henan | China Unicom China1 Backbone
 221.15.188.200/32 # China | Henan | China Unicom China1 Backbone
+221.15.215.235/32 # China | Henan | China Unicom China1 Backbone
 222.75.122.66/32 # China | Ningxia | No. 1,jin rong Street
 222.85.37.31/32 # China | Henan | No. 1,jin rong Street
 222.138.124.189/32 # China | Henan | China Unicom China1 Backbone
