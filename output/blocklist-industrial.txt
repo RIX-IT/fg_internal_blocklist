@@ -22,7 +22,6 @@
 23.234.74.0/24 # United States | California | Tzulo, Inc.
 23.234.75.0/24 # United States | California | Tzulo, Inc.
 23.234.76.0/24 # United States | North Carolina | Tzulo, Inc.
-23.234.77.0/24 # United States | North Carolina | Tzulo, Inc.
 23.234.78.0/24 # United States | North Carolina | Tzulo, Inc.
 23.234.79.0/24 # United States | North Carolina | Tzulo, Inc.
 23.234.80.0/24 # United States | Washington | Tzulo, Inc.
@@ -54,7 +53,6 @@
 23.234.108.0/24 # United States | Georgia | Tzulo, Inc.
 23.234.109.0/24 # United States | Georgia | Tzulo, Inc.
 23.234.110.0/24 # United States | Georgia | Tzulo, Inc.
-23.234.111.0/24 # United States | Georgia | Tzulo, Inc.
 23.234.112.0/24 # United States | Utah | Tzulo, Inc.
 23.234.113.0/24 # United States | Utah | Tzulo, Inc.
 23.234.114.0/24 # United States | Utah | Tzulo, Inc.
@@ -219,6 +217,7 @@
 142.111.226.0/24 # United States | New Jersey | HOST TELECOM LTD
 142.111.229.0/24 # United States | New Jersey | HOST TELECOM LTD
 142.111.231.0/24 # United States | Kansas | Clouvider Limited
+142.111.233.0/24 # United States | New York | HOST TELECOM LTD
 142.111.246.0/24 # United States | New Jersey | HOST TELECOM LTD
 142.111.247.0/24 # United States | New Jersey | HOST TELECOM LTD
 142.111.253.0/24 # United States | California | Clouvider Limited
@@ -407,7 +406,6 @@
 185.213.193.0/24 # United States | District of Columbia | Zenlayer INC
 185.241.150.0/24 # Germany | Hesse | Datacamp Limited
 185.244.161.0/24 # United States | Texas | Clouvider Limited
-188.241.176.0/24 # Canada | Québec | M Europe SRL
 188.255.196.0/24 # Netherlands | North Holland | Datacamp Limited
 192.109.127.0/24 # Germany | Hesse | Datacamp Limited
 192.144.16.0/24 # United States | California | Clouvider Limited
@@ -527,6 +525,10 @@
 23.234.71.32/32 # United States | Colorado | Tzulo, Inc.
 23.234.71.123/32 # United States | Colorado | Tzulo, Inc.
 23.234.71.146/32 # United States | Colorado | Tzulo, Inc.
+23.234.77.21/32 # United States | North Carolina | Tzulo, Inc.
+23.234.77.32/32 # United States | North Carolina | Tzulo, Inc.
+23.234.77.102/32 # United States | North Carolina | Tzulo, Inc.
+23.234.77.157/32 # United States | North Carolina | Tzulo, Inc.
 23.234.87.30/32 # Canada | Ontario | Tzulo, Inc.
 23.234.87.59/32 # Canada | Québec | Tzulo, Inc.
 23.234.87.121/32 # Canada | Ontario | Tzulo, Inc.
@@ -534,6 +536,10 @@
 23.234.88.123/32 # United States | Arizona | Tzulo, Inc.
 23.234.88.159/32 # United States | Arizona | Tzulo, Inc.
 23.234.88.195/32 # United States | Arizona | Tzulo, Inc.
+23.234.111.33/32 # United States | Georgia | Tzulo, Inc.
+23.234.111.148/32 # United States | Georgia | Tzulo, Inc.
+23.234.111.159/32 # United States | Georgia | Tzulo, Inc.
+23.234.111.195/32 # United States | Georgia | Tzulo, Inc.
 23.234.120.44/32 # Canada | Québec | Tzulo, Inc.
 23.234.120.69/32 # Canada | Québec | Tzulo, Inc.
 23.234.120.122/32 # Canada | Québec | Tzulo, Inc.
@@ -1015,6 +1021,7 @@
 103.96.130.107/32 # Hong Kong | Hong Kong | WUZHOUHULIAN INTERNATIONAL CO., LI...
 103.99.197.131/32 # India | Delhi | Maxnet Digital Pvt LTD
 103.124.165.160/32 # Albania | Central Albania | Keminet Shpk
+103.131.102.153/32 # Bangladesh | Khulna Division | Business Zone Limited
 103.146.111.124/32 # India | Haryana | Crisp Enterprises
 103.160.197.73/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.167.204.168/32 # India | Haryana | Fibre Air Services Private Limited
@@ -1041,7 +1048,6 @@
 103.244.172.62/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 103.246.144.118/32 # Netherlands | North Holland | Podaon Sia
 103.248.94.195/32 # India | Delhi | Ani Network Pvt LTD
-104.152.222.104/32 # United States | Oregon | H y Technologies LLC
 104.164.32.69/32 # Netherlands | North Holland | HOST TELECOM LTD
 104.164.47.145/32 # Netherlands | North Holland | HOST TELECOM LTD
 104.164.153.180/32 # Netherlands | North Holland | HOST TELECOM LTD
@@ -1194,6 +1200,7 @@
 120.48.144.5/32 # China | Beijing | Beijing Baidu Netcom Science And Technol...
 120.84.219.207/32 # China | Guangdong Province | CNC Group CHINA1 Guangdong Pr...
 120.85.116.46/32 # China | Guangdong Province | China Unicom Guangzhou Network
+120.85.116.209/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.116.248/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.119.210/32 # China | Guangdong Province | China Unicom Guangzhou Network
 121.37.80.227/32 # China | Beijing | Huawei Cloud Service Data Center
@@ -1340,10 +1347,6 @@
 142.111.232.171/32 # United States | New Jersey | HOST TELECOM LTD
 142.111.232.220/32 # United States | New Jersey | HOST TELECOM LTD
 142.111.232.244/32 # United States | New Jersey | HOST TELECOM LTD
-142.111.233.145/32 # United States | New Jersey | HOST TELECOM LTD
-142.111.233.147/32 # United States | New Jersey | HOST TELECOM LTD
-142.111.233.182/32 # United States | New Jersey | HOST TELECOM LTD
-142.111.233.244/32 # United States | New Jersey | HOST TELECOM LTD
 142.252.8.59/32 # United States | California | HOST TELECOM LTD
 142.252.8.98/32 # United States | California | HOST TELECOM LTD
 142.252.8.134/32 # United States | California | HOST TELECOM LTD
@@ -1406,6 +1409,7 @@
 150.241.200.100/32 # United States | New York | Datacamp Limited
 150.241.200.198/32 # United States | New York | Datacamp Limited
 150.241.201.222/32 # United States | New York | Datacamp Limited
+151.202.39.46/32 # United States | New York | Verizon Business
 151.241.122.47/32 # United States | New Jersey | Cogent Communications, LLC
 151.243.11.23/32 # Germany | Hesse | LLC VASH KREDIT BANK
 151.247.51.245/32 # United States | California | M Europe SRL
@@ -1558,6 +1562,7 @@
 163.176.216.54/32 # Brazil | State of São Paulo | Oracle Corporation
 164.90.129.126/32 # United States | New Jersey | Digitalocean, LLC
 164.138.90.2/32 # Russia | Khabarovsk Krai | JSC Redcom lnternet
+165.16.186.161/32 # South Africa | Gauteng | Sadv pty LTD
 165.73.180.188/32 # South Africa | Gauteng | HERO TELECOMS PTY LTD
 165.227.20.2/32 # United States | California | Digitalocean, LLC
 165.227.26.253/32 # United States | California | Digitalocean, LLC
@@ -1743,6 +1748,7 @@
 172.245.52.169/32 # Ireland | Leinster | HostPapa
 172.245.106.196/32 # United States | New York | HostPapa
 173.40.144.163/32 # United States | Louisiana | Charter Communications LLC
+173.41.23.176/32 # United States | Michigan | Charter Communications LLC
 173.76.10.161/32 # United States | Massachusetts | Verizon Business
 173.230.128.104/32 # United States | Georgia | Akamai Technologies, Inc.
 173.232.146.90/32 # United States | Texas | Eonix Corporation
@@ -1771,10 +1777,8 @@
 178.128.31.150/32 # Singapore | Southeast | Digitalocean, LLC
 178.156.176.74/32 # United States | Virginia | Hetzner Online GmbH
 178.175.134.52/32 # Republic of Moldova | Chisinau | Trabia SRL
-178.249.214.4/32 # Canada | Ontario | Datacamp Limited
 178.249.214.8/32 # Canada | Ontario | Datacamp Limited
 178.249.214.18/32 # Canada | Ontario | Datacamp Limited
-178.249.214.27/32 # Canada | Ontario | Datacamp Limited
 178.253.12.76/32 # United States | Virginia | Datacamp Limited
 178.253.12.79/32 # United States | Virginia | Datacamp Limited
 178.253.12.254/32 # United States | Virginia | Datacamp Limited
@@ -1836,6 +1840,10 @@
 187.184.11.171/32 # Mexico | Morelos | Cablemas Telecomunicaciones SA De Cv
 188.166.87.88/32 # Netherlands | North Holland | Digitalocean, LLC
 188.239.19.68/32 # Singapore | Southeast | HUAWEI INTERNATIONAL PTE. LTD.
+188.241.176.201/32 # Canada | Québec | M Europe SRL
+188.241.176.217/32 # Canada | Québec | M Europe SRL
+188.241.176.245/32 # Canada | Québec | M Europe SRL
+188.241.176.252/32 # Canada | Québec | M Europe SRL
 190.123.4.100/32 # Mexico | Jalisco | HERFLOR TI SA DE CV
 190.123.85.29/32 # Argentina | Córdoba | Pogliotti Pogliotti Construcciones S.A.
 191.101.44.118/32 # United States | South Dakota | Psychz Networks
