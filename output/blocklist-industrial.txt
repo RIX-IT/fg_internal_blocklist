@@ -29,7 +29,6 @@
 23.234.84.0/24 # Canada | Ontario | Tzulo, Inc.
 23.234.85.0/24 # Canada | Ontario | Tzulo, Inc.
 23.234.86.0/24 # Canada | Ontario | Tzulo, Inc.
-23.234.88.0/24 # United States | Arizona | Tzulo, Inc.
 23.234.89.0/24 # United States | Arizona | Tzulo, Inc.
 23.234.90.0/24 # United States | Arizona | Tzulo, Inc.
 23.234.93.0/24 # United States | California | Tzulo, Inc.
@@ -47,7 +46,6 @@
 23.234.105.0/24 # United States | Texas | Tzulo, Inc.
 23.234.106.0/24 # United States | Texas | Tzulo, Inc.
 23.234.107.0/24 # United States | Texas | Tzulo, Inc.
-23.234.108.0/24 # United States | Georgia | Tzulo, Inc.
 23.234.110.0/24 # United States | Georgia | Tzulo, Inc.
 23.234.111.0/24 # United States | Georgia | Tzulo, Inc.
 23.234.112.0/24 # United States | Utah | Tzulo, Inc.
@@ -532,6 +530,10 @@
 23.234.87.30/32 # Canada | Ontario | Tzulo, Inc.
 23.234.87.59/32 # Canada | Québec | Tzulo, Inc.
 23.234.87.121/32 # Canada | Ontario | Tzulo, Inc.
+23.234.88.90/32 # United States | Arizona | Tzulo, Inc.
+23.234.88.123/32 # United States | Arizona | Tzulo, Inc.
+23.234.88.173/32 # United States | Arizona | Tzulo, Inc.
+23.234.88.195/32 # United States | Arizona | Tzulo, Inc.
 23.234.91.33/32 # United States | Arizona | Tzulo, Inc.
 23.234.91.159/32 # United States | Arizona | Tzulo, Inc.
 23.234.91.217/32 # United States | Arizona | Tzulo, Inc.
@@ -539,6 +541,10 @@
 23.234.92.123/32 # United States | California | Tzulo, Inc.
 23.234.92.159/32 # United States | California | Tzulo, Inc.
 23.234.92.173/32 # United States | California | Tzulo, Inc.
+23.234.108.47/32 # United States | Georgia | Tzulo, Inc.
+23.234.108.123/32 # United States | Georgia | Tzulo, Inc.
+23.234.108.148/32 # United States | Georgia | Tzulo, Inc.
+23.234.108.217/32 # United States | Virginia | Tzulo, Inc.
 23.234.109.22/32 # United States | Georgia | Tzulo, Inc.
 23.234.109.104/32 # United States | Georgia | Tzulo, Inc.
 23.234.109.148/32 # United States | Georgia | Tzulo, Inc.
@@ -559,6 +565,7 @@
 27.43.204.42/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.204.72/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.205.2/32 # China | Guangdong Province | China Unicom Guangdong Provin...
+27.43.205.174/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.206.164/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.207.70/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.123.241.187/32 # India | Delhi | Ani Network Pvt LTD
@@ -753,7 +760,6 @@
 50.116.2.250/32 # United States | California | Akamai Technologies, Inc.
 50.116.49.131/32 # United States | New Jersey | Akamai Technologies, Inc.
 50.118.198.27/32 # United States | New Jersey | HOST TELECOM LTD
-50.118.198.110/32 # United States | New Jersey | HOST TELECOM LTD
 50.118.198.173/32 # United States | New Jersey | HOST TELECOM LTD
 50.118.198.218/32 # United States | New Jersey | HOST TELECOM LTD
 50.217.45.185/32 # United States | Illinois | Comcast Cable Communications, LLC
@@ -774,6 +780,7 @@
 54.39.83.187/32 # Canada | Québec | OVH SAS
 54.46.50.255/32 # Hong Kong | Hong Kong | Amazon.com, Inc.
 54.197.141.245/32 # United States | Virginia | Amazon.com, Inc.
+57.159.30.22/32 # India | Maharashtra | Microsoft Corporation
 58.23.95.174/32 # China | Fujian | China Unicom China1 Backbone
 58.47.65.231/32 # China | Hunan | No. 1,jin rong Street
 58.68.255.45/32 # China | Beijing | People.Cn CO
@@ -1068,7 +1075,6 @@
 103.199.202.161/32 # India | Assam | Railtel Corporation of India Ltd.
 103.199.202.191/32 # India | Assam | Railtel Corporation of India Ltd.
 103.199.205.156/32 # India | Uttar Pradesh | Railtel Corporation of India Ltd.
-103.206.100.88/32 # India | Haryana | Nas Internet Services Private Limited
 103.207.14.195/32 # India | Tamil Nadu | Ultimate Internet Services Private Li...
 103.232.54.13/32 # Vietnam | Hanoi | VIETSERVER SERVICES TECHNOLOGY COMPANY L...
 103.237.157.31/32 # India | Delhi | Skymax Broadband Services Pvt. Ltd.
@@ -1123,6 +1129,7 @@
 107.189.25.128/32 # Netherlands | North Holland | Routerhosting LLC
 107.189.26.46/32 # Netherlands | North Holland | Routerhosting LLC
 107.189.27.207/32 # Netherlands | North Holland | Routerhosting LLC
+108.17.61.64/32 # United States | New York | Verizon Business
 108.93.59.129/32 # United States | Florida | AT T Enterprises, LLC
 108.141.58.143/32 # Netherlands | North Holland | Microsoft Corporation
 108.171.195.163/32 # United States | Utah | Webnx, Inc.
@@ -1585,7 +1592,6 @@
 162.33.178.196/32 # United States | Illinois | Bl Networks
 162.33.179.247/32 # United States | Illinois | Bl Networks
 162.155.96.170/32 # United States | New York | Charter Communications INC
-162.243.36.241/32 # United States | New Jersey | Digitalocean, LLC
 163.43.147.181/32 # Japan | Osaka Prefecture | Sakura Internet Inc.
 163.176.138.17/32 # Brazil | State of São Paulo | Oracle Corporation
 163.176.216.54/32 # Brazil | State of São Paulo | Oracle Corporation
@@ -1825,6 +1831,7 @@
 173.254.204.72/32 # United States | California | HostPapa
 173.255.221.15/32 # United States | California | Akamai Technologies, Inc.
 173.255.229.76/32 # United States | New Jersey | Akamai Technologies, Inc.
+174.129.205.0/32 # United States | Virginia | Amazon.com, Inc.
 175.107.0.5/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.0.28/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.0.133/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
@@ -1963,6 +1970,7 @@
 193.228.48.253/32 # United States | Nevada | Clouvider Limited
 193.228.49.231/32 # United States | Nevada | Clouvider Limited
 193.228.50.73/32 # United States | Nevada | Clouvider Limited
+193.228.50.208/32 # United States | Nevada | Clouvider Limited
 193.228.51.122/32 # United States | Nevada | Clouvider Limited
 193.228.51.195/32 # United States | Nevada | Clouvider Limited
 193.228.51.198/32 # United States | Nevada | Clouvider Limited
