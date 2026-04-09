@@ -36,7 +36,6 @@
 23.234.97.0/24 # United States | Virginia | Tzulo, Inc.
 23.234.98.0/24 # United States | Virginia | Tzulo, Inc.
 23.234.99.0/24 # United States | Virginia | Tzulo, Inc.
-23.234.100.0/24 # United States | New York | Tzulo, Inc.
 23.234.101.0/24 # United States | New York | Tzulo, Inc.
 23.234.102.0/24 # United States | New York | Tzulo, Inc.
 23.234.103.0/24 # United States | New York | Tzulo, Inc.
@@ -123,7 +122,6 @@
 66.93.165.0/24 # United States | Illinois | Datacamp Limited
 66.93.166.0/24 # United States | Illinois | Datacamp Limited
 66.93.167.0/24 # United States | Illinois | Datacamp Limited
-66.167.169.0/24 # Pakistan | Punjab | Cyber Internet Services private Limited
 68.235.46.0/24 # United States | Illinois | Tzulo, Inc.
 72.244.46.0/24 # United States | Illinois | Datacamp Limited
 72.244.47.0/24 # United States | Illinois | Datacamp Limited
@@ -543,6 +541,10 @@
 23.234.92.123/32 # United States | California | Tzulo, Inc.
 23.234.92.159/32 # United States | California | Tzulo, Inc.
 23.234.92.173/32 # United States | California | Tzulo, Inc.
+23.234.100.148/32 # United States | New York | Tzulo, Inc.
+23.234.100.173/32 # United States | New York | Tzulo, Inc.
+23.234.100.231/32 # United States | New York | Tzulo, Inc.
+23.234.100.251/32 # United States | New York | Tzulo, Inc.
 23.234.108.47/32 # United States | Georgia | Tzulo, Inc.
 23.234.108.123/32 # United States | Georgia | Tzulo, Inc.
 23.234.108.148/32 # United States | Georgia | Tzulo, Inc.
@@ -714,6 +716,7 @@
 45.145.43.244/32 # Germany | Hesse | Dataforest GmbH
 45.146.26.74/32 # United States | Rhode Island | Clouvider Limited
 45.148.10.212/32 # Netherlands | North Holland | TECHOFF SRV LIMITED
+45.149.235.45/32 # Germany | Berlin | SERV.HOST GROUP LTD
 45.150.63.214/32 # Netherlands | South Holland | Clouvider Limited
 45.151.91.187/32 # Seychelles | Mahe | Ip Vendetta Inc.
 45.152.138.96/32 # United States | California | Clouvider Limited
@@ -808,7 +811,6 @@
 59.110.7.32/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
 59.182.116.244/32 # India | Kerala | Bharat Sanchar Nigam LTD
 59.183.104.186/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
-59.184.243.153/32 # India | Chhattisgarh | Bharat Sanchar Nigam LTD
 59.184.247.106/32 # India | Chhattisgarh | Bharat Sanchar Nigam LTD
 60.28.124.21/32 # China | Tianjin | CNC Group CHINA1 Tianjin Province Network
 60.29.226.181/32 # China | Tianjin | CNC Group CHINA1 Tianjin Province Network
@@ -822,6 +824,7 @@
 61.53.86.228/32 # China | Henan | China Unicom China1 Backbone
 61.53.91.167/32 # China | Henan | China Unicom China1 Backbone
 61.53.157.157/32 # China | Henan | China Unicom China1 Backbone
+61.53.203.245/32 # China | Henan | China Unicom China1 Backbone
 61.135.185.29/32 # China | Beijing | China Unicom Beijing Province Network
 61.137.155.154/32 # China | Liaoning | China Unicom China1 Backbone
 61.139.76.99/32 # China | Sichuan | Chinanet Sichuan Telecom Internet Data C...
@@ -852,6 +855,10 @@
 66.167.166.0/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 66.167.166.49/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 66.167.166.231/32 # Pakistan | Punjab | Cyber Internet Services private Limited
+66.167.169.154/32 # Pakistan | Punjab | Cyber Internet Services private Limited
+66.167.169.156/32 # Pakistan | Punjab | Cyber Internet Services private Limited
+66.167.169.172/32 # Pakistan | Punjab | Cyber Internet Services private Limited
+66.167.169.173/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 66.179.94.117/32 # United States | Pennsylvania | IONOS SE
 66.179.208.216/32 # United States | Pennsylvania | IONOS SE
 66.228.42.204/32 # United States | New Jersey | Akamai Technologies, Inc.
@@ -1419,6 +1426,7 @@
 144.31.221.179/32 # Germany | Hesse | Kyonix Networks Limited
 144.31.221.197/32 # Germany | Hesse | Kyonix Networks Limited
 144.48.130.188/32 # Pakistan | Punjab | Cyber Internet Services private Limited
+144.48.134.93/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 144.91.75.108/32 # France | Grand Est | Contabo GmbH
 144.91.97.191/32 # France | Grand Est | Contabo GmbH
 144.172.93.94/32 # United States | Utah | Routerhosting LLC
@@ -1487,7 +1495,7 @@
 153.80.170.102/32 # Netherlands | Flevoland | Ivanov Vitaliy Sergeevich
 153.80.171.128/32 # Netherlands | South Holland | Ivanov Vitaliy Sergeevich
 153.174.105.176/32 # Japan | Niigata Prefecture | NTT Docomo Business,inc.
-154.16.6.56/32 # Germany | Hesse | Michael Sebastian Schinzel Trading AS Ip...
+153.242.113.129/32 # Japan | Tokyo | NTT Docomo Business,inc.
 154.16.168.94/32 # United States | Oregon | Tier.net Technologies LLC
 154.53.46.201/32 # United States | Missouri | Contabo Inc.
 154.81.196.56/32 # Netherlands | North Holland | HOST TELECOM LTD
@@ -1848,6 +1856,7 @@
 173.255.221.15/32 # United States | California | Akamai Technologies, Inc.
 173.255.229.76/32 # United States | New Jersey | Akamai Technologies, Inc.
 174.129.205.0/32 # United States | Virginia | Amazon.com, Inc.
+174.171.52.9/32 # United States | Texas | Comcast Cable Communications, LLC
 175.107.0.5/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.0.28/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.0.133/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
@@ -2067,7 +2076,6 @@
 207.180.232.238/32 # France | Grand Est | Contabo GmbH
 208.79.113.205/32 # United States | Tennessee | Electric Plant Board of the ci...
 208.109.231.95/32 # United States | Arizona | Godaddy.com, LLC
-209.38.82.156/32 # Australia | New South Wales | Digitalocean, LLC
 209.101.149.26/32 # United States | Florida | Datacamp Limited
 209.101.150.129/32 # United States | Florida | Datacamp Limited
 209.101.150.207/32 # United States | Florida | Datacamp Limited
