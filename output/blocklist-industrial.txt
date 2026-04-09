@@ -211,7 +211,6 @@
 142.111.226.0/24 # United States | New Jersey | HOST TELECOM LTD
 142.111.229.0/24 # United States | New Jersey | HOST TELECOM LTD
 142.111.231.0/24 # United States | Kansas | Clouvider Limited
-142.111.232.0/24 # United States | New York | HOST TELECOM LTD
 142.111.233.0/24 # United States | New York | HOST TELECOM LTD
 142.111.246.0/24 # United States | New Jersey | HOST TELECOM LTD
 142.111.247.0/24 # United States | New Jersey | HOST TELECOM LTD
@@ -566,7 +565,6 @@
 23.234.110.195/32 # United States | Georgia | Tzulo, Inc.
 23.234.110.217/32 # United States | Georgia | Tzulo, Inc.
 23.234.111.33/32 # United States | Georgia | Tzulo, Inc.
-23.234.111.148/32 # United States | Georgia | Tzulo, Inc.
 23.234.111.159/32 # United States | Georgia | Tzulo, Inc.
 23.234.111.195/32 # United States | Georgia | Tzulo, Inc.
 23.234.120.44/32 # Canada | Québec | Tzulo, Inc.
@@ -983,6 +981,7 @@
 86.38.177.160/32 # Germany | Berlin | Datacamp Limited
 86.54.24.25/32 # Latvia | Vidzeme | Noyobzoda Faridduni Saidilhom
 86.54.42.120/32 # Switzerland | Bern | Global data System IT Corporation
+87.4.39.51/32 # Italy | Lombardy | Telecom Italia S.P.A.
 87.106.51.202/32 # Germany | Baden-Württemberg | IONOS SE
 87.106.191.217/32 # Germany | Hesse | IONOS SE
 87.120.219.26/32 # United Kingdom | England | GLOBAL CONNECTIVITY SOLUTIONS LLP
@@ -1041,6 +1040,7 @@
 95.214.83.13/32 # United States | Idaho | Clouvider Limited
 95.214.83.108/32 # United States | Idaho | Clouvider Limited
 96.9.125.147/32 # Romania | Bucharest | Bl Networks
+96.33.153.139/32 # United States | Louisiana | Charter Communications LLC
 97.64.81.119/32 # United States | New York | It Networks INC
 98.159.234.144/32 # United Kingdom | England | Datacamp Limited
 98.177.107.142/32 # United States | Arizona | Cox Communications Inc.
@@ -1402,6 +1402,10 @@
 142.111.228.2/32 # United States | New Jersey | HOST TELECOM LTD
 142.111.228.75/32 # United States | New Jersey | HOST TELECOM LTD
 142.111.228.85/32 # United States | New Jersey | HOST TELECOM LTD
+142.111.232.48/32 # United States | New York | HOST TELECOM LTD
+142.111.232.171/32 # United States | New York | HOST TELECOM LTD
+142.111.232.227/32 # United States | New York | HOST TELECOM LTD
+142.111.232.244/32 # United States | New York | HOST TELECOM LTD
 142.147.89.213/32 # United States | California | xTom
 142.147.89.220/32 # United States | California | xTom
 142.147.89.228/32 # United States | California | xTom
@@ -1873,7 +1877,6 @@
 175.107.0.133/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.1.107/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.2.76/32 # Pakistan | Punjab | National Telecommunication Corporation
-175.107.3.29/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.3.93/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.205.133/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 175.107.221.154/32 # Pakistan | Punjab | Cyber Internet Services private Limited
@@ -2038,6 +2041,7 @@
 196.251.118.41/32 # Netherlands | North Holland | internet security Nybula
 197.0.21.38/32 # Tunisia | Sfax | TOPNET
 197.186.3.98/32 # Tanzania | Coastal Zone | Airtel Tanzania
+197.186.75.223/32 # Tanzania | Coastal Zone | Airtel Tanzania
 197.244.88.68/32 # Tunisia | Tunis | TOPNET
 198.55.98.133/32 # United States | New York | HostPapa
 198.58.117.211/32 # United States | Texas | Akamai Technologies, Inc.
