@@ -12,7 +12,6 @@
 23.160.24.0/24 # United States | California | Data Bridge Limited
 23.168.216.0/24 # United States | California | Hayashimo LLC
 23.234.68.0/24 # United States | Colorado | Tzulo, Inc.
-23.234.70.0/24 # United States | Colorado | Tzulo, Inc.
 23.234.72.0/24 # United States | California | Tzulo, Inc.
 23.234.73.0/24 # United States | California | Tzulo, Inc.
 23.234.74.0/24 # United States | California | Tzulo, Inc.
@@ -191,7 +190,6 @@
 142.111.246.0/24 # United States | New Jersey | HOST TELECOM LTD
 142.111.253.0/24 # United States | California | Clouvider Limited
 142.111.254.0/24 # United States | New Jersey | HOST TELECOM LTD
-142.252.4.0/24 # United States | Kansas | HOST TELECOM LTD
 142.252.24.0/24 # United States | California | HOST TELECOM LTD
 142.252.81.0/24 # United States | California | Clouvider Limited
 142.252.82.0/24 # United States | California | Clouvider Limited
@@ -416,6 +414,7 @@
 14.1.104.134/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 14.1.105.26/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 14.1.105.130/32 # Pakistan | Punjab | Cyber Internet Services private Limited
+14.1.105.214/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 14.1.106.170/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 14.1.107.146/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 14.102.232.59/32 # United States | New York | Datacamp Limited
@@ -473,6 +472,10 @@
 23.234.69.32/32 # United States | Colorado | Tzulo, Inc.
 23.234.69.146/32 # United States | Colorado | Tzulo, Inc.
 23.234.69.157/32 # United States | Colorado | Tzulo, Inc.
+23.234.70.21/32 # United States | Colorado | Tzulo, Inc.
+23.234.70.123/32 # United States | Colorado | Tzulo, Inc.
+23.234.70.146/32 # United States | Colorado | Tzulo, Inc.
+23.234.70.194/32 # United States | Colorado | Tzulo, Inc.
 23.234.71.21/32 # United States | Colorado | Tzulo, Inc.
 23.234.71.32/32 # United States | Colorado | Tzulo, Inc.
 23.234.71.123/32 # United States | Colorado | Tzulo, Inc.
@@ -587,7 +590,6 @@
 35.233.96.173/32 # Belgium | Brussels-Capital | Google LLC
 36.33.249.101/32 # China | Anhui | China Unicom Anhui Province Network
 36.150.185.121/32 # China | Beijing | China Mobile Communications Corporation
-36.255.5.58/32 # India | Tamil Nadu | Railtel Corporation of India Ltd.
 36.255.33.178/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 36.255.33.195/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 37.37.34.1/32 # Kuwait | Hawalli | Mobile Telecommunications Company K.S.C.P.
@@ -607,10 +609,13 @@
 39.187.126.220/32 # China | Zhejiang | China Mobile Communications Corporation
 40.81.230.77/32 # India | Maharashtra | Microsoft Corporation
 41.59.76.190/32 # Tanzania | Coastal Zone | TTCL
+41.82.64.153/32 # Senegal | Dakar Region | Sonatel as Autonomous System
 41.83.168.207/32 # Senegal | Dakar Region | Sonatel as Autonomous System
+41.116.109.128/32 # South Africa | Gauteng | MTN SA
 41.139.234.177/32 # Kenya | Nairobi | Safaricom Limited
 41.141.39.120/32 # Morocco | Casablanca-Settat | Office National Des Postes E...
 41.198.159.89/32 # South Africa | Northern Cape | Echotel Pty LTD
+41.209.10.181/32 # Kenya | Embu County | MTN SA
 41.209.14.89/32 # Kenya | Nairobi | MTN SA
 41.210.143.242/32 # Uganda | Namayingo | Mtn Uganda
 41.223.133.187/32 # Sierra Leone | Western Area | Africell Sierra Leone Limited
@@ -661,6 +666,7 @@
 45.61.157.192/32 # United States | Nevada | Routerhosting LLC
 45.66.248.112/32 # United States | Georgia | Bluevps Ou
 45.66.249.28/32 # United States | California | Bluevps Ou
+45.66.249.52/32 # United States | California | Bluevps Ou
 45.76.9.248/32 # United States | New Jersey | The Constant Company, LLC
 45.76.93.60/32 # Germany | Hesse | The Constant Company, LLC
 45.79.22.93/32 # United States | Texas | Akamai Technologies, Inc.
@@ -882,6 +888,7 @@
 69.55.62.10/32 # United States | New Jersey | Digitalocean, LLC
 69.67.173.30/32 # Romania | Bucharest | Bl Networks
 69.164.195.109/32 # United States | Texas | Akamai Technologies, Inc.
+69.164.244.90/32 # United States | New York | Interserver, INC
 69.249.11.189/32 # United States | Pennsylvania | Comcast Cable Communication...
 71.188.120.125/32 # United States | New Jersey | Verizon Business
 71.193.194.219/32 # United States | Oregon | Comcast Cable Communications, LLC
@@ -981,6 +988,7 @@
 87.247.143.239/32 # Germany | Berlin | Clouvider Limited
 88.32.34.78/32 # Italy | Friuli-Venezia Giulia | Telecom Italia S.P.A.
 88.32.188.248/32 # Italy | Lombardy | Telecom Italia S.P.A.
+88.119.174.116/32 # United States | Illinois | Informacines Sistemos Ir Techno...
 88.119.175.184/32 # United States | Illinois | Informacines Sistemos Ir Techno...
 88.119.175.190/32 # United States | Illinois | Informacines Sistemos Ir Techno...
 88.214.49.6/32 # United States | Washington | GREEN FLOID LLC
@@ -1009,6 +1017,7 @@
 91.92.243.129/32 # United States | New York | Omegatech LTD
 91.92.243.160/32 # United States | New York | Omegatech LTD
 91.98.229.246/32 # Germany | Bavaria | Hetzner Online GmbH
+91.193.19.200/32 # United States | Washington | Hz Hosting LTD
 91.200.14.69/32 # Russia | Moscow | I SERVERS LTD
 91.202.233.132/32 # Russia | Saint Petersburg | PROSPERO OOO
 91.202.233.250/32 # Russia | Saint Petersburg | PROSPERO OOO
@@ -1057,6 +1066,7 @@
 101.99.91.107/32 # Malaysia | Federal Territory of Kuala Lumpur | Shinjiru Te...
 102.31.211.137/32 # Tunisia | Tunis | Societe Nationale Des Telecommunications...
 102.53.23.178/32 # Morocco | Béni Mellal-Khenifra | Office National Des Poste...
+102.64.150.15/32 # Togo | 1st District | Gva Cote D ivoire SAS
 102.68.77.242/32 # Kenya | Kiambu | Unwired Communications Limited
 102.129.141.133/32 # United States | Massachusetts | Datacamp Limited
 102.129.141.136/32 # United States | Massachusetts | Datacamp Limited
@@ -1065,6 +1075,7 @@
 102.203.84.66/32 # Kenya | Kisii | CLOUD STREAMS NETWORKS LIMITED
 102.205.250.221/32 # Tanzania | Coastal Zone | Savanna Fibre tanzania LTD
 102.206.121.30/32 # Ivory Coast | Yamoussoukro | Atlantique Telecom cote D ivoire
+102.209.13.131/32 # South Africa | Gauteng | Develop Net pty LTD
 102.218.85.142/32 # Angola | Luanda Province | Africell Angola S.a
 103.13.31.75/32 # Thailand | Bangkok | Siamdata Communication CO.,LTD.
 103.13.138.22/32 # Indonesia | South Sulawesi | Pt Era Bangun Indonesia
@@ -1093,6 +1104,7 @@
 103.168.2.157/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.168.3.253/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.170.53.162/32 # India | Delhi | Ani Network Pvt LTD
+103.173.211.105/32 # India | Haryana | Fibre Air Services Private Limited
 103.173.211.117/32 # India | Haryana | Fibre Air Services Private Limited
 103.176.16.44/32 # India | Delhi | Qwistel Network Service Private Limited
 103.181.134.138/32 # Hong Kong | Hong Kong | GNET INC.
@@ -1155,6 +1167,7 @@
 107.170.43.160/32 # United States | New Jersey | Digitalocean, LLC
 107.172.92.122/32 # United States | Georgia | HostPapa
 107.173.135.116/32 # United States | New York | HostPapa
+107.173.241.234/32 # United States | New York | HostPapa
 107.189.15.205/32 # Netherlands | North Holland | Routerhosting LLC
 107.189.16.41/32 # Netherlands | North Holland | Routerhosting LLC
 107.189.17.89/32 # Netherlands | North Holland | Routerhosting LLC
@@ -1452,6 +1465,10 @@
 142.147.89.213/32 # United States | California | xTom
 142.147.89.220/32 # United States | California | xTom
 142.147.89.228/32 # United States | California | xTom
+142.252.4.39/32 # United States | California | HOST TELECOM LTD
+142.252.4.139/32 # United States | California | HOST TELECOM LTD
+142.252.4.147/32 # United States | California | HOST TELECOM LTD
+142.252.4.221/32 # United States | California | HOST TELECOM LTD
 142.252.8.59/32 # United States | California | HOST TELECOM LTD
 142.252.8.134/32 # United States | California | HOST TELECOM LTD
 142.252.25.24/32 # United States | California | HOST TELECOM LTD
@@ -1510,6 +1527,7 @@
 144.172.115.212/32 # United States | Utah | Routerhosting LLC
 144.172.116.161/32 # United States | Utah | Routerhosting LLC
 144.172.117.158/32 # United States | Utah | Routerhosting LLC
+144.208.127.143/32 # United States | New York | Shock Hosting LLC
 146.103.51.169/32 # United States | New York | Datacamp Limited
 146.235.40.233/32 # Brazil | State of São Paulo | Oracle Corporation
 146.247.112.20/32 # Germany | Hesse | Datacamp Limited
@@ -2013,6 +2031,7 @@
 185.22.153.228/32 # Russia | Moscow | LLC Baxet
 185.28.119.160/32 # United States | California | Bluevps Ou
 185.28.119.228/32 # United States | California | Bluevps Ou
+185.33.86.41/32 # United States | Virginia | Hz Hosting LTD
 185.39.17.18/32 # United States | Washington | GREEN FLOID LLC
 185.39.17.93/32 # United States | Washington | GREEN FLOID LLC
 185.39.17.117/32 # United States | Washington | GREEN FLOID LLC
@@ -2139,8 +2158,10 @@
 196.251.118.41/32 # Netherlands | North Holland | internet security Nybula
 197.0.21.38/32 # Tunisia | Sfax | TOPNET
 197.10.180.51/32 # Tunisia | Tunis | STE INTERNET SMART SOLUTIONS
+197.17.122.127/32 # Tunisia | Ben Arous | OOREDOO TUNISIE SA
 197.91.94.221/32 # South Africa | Western Cape | Dimension Data
 197.186.3.98/32 # Tanzania | Coastal Zone | Airtel Tanzania
+197.186.63.27/32 # Tanzania | Mwanza Region | Airtel Tanzania
 197.186.75.223/32 # Tanzania | Coastal Zone | Airtel Tanzania
 197.244.88.68/32 # Tunisia | Tunis | TOPNET
 198.55.98.133/32 # United States | New York | HostPapa
@@ -2236,7 +2257,6 @@
 217.199.144.35/32 # Kenya | Kiambu | MTN SA
 217.216.40.246/32 # United States | Washington | Contabo Inc.
 219.163.15.58/32 # Japan | Nagasaki Prefecture | NTT Docomo Business,inc.
-220.198.241.79/32 # China | Guangdong Province | China Unicom Guangzhou Network
 220.202.91.172/32 # China | Hunan | China Unicom China1 Backbone
 221.1.157.199/32 # China | Shandong | China Unicom China1 Backbone
 221.14.191.101/32 # China | Henan | China Unicom China1 Backbone
