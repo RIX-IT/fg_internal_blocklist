@@ -21,7 +21,6 @@
 23.234.84.0/24 # Canada | Ontario | Tzulo, Inc.
 23.234.85.0/24 # Canada | Ontario | Tzulo, Inc.
 23.234.86.0/24 # Canada | Ontario | Tzulo, Inc.
-23.234.89.0/24 # United States | Arizona | Tzulo, Inc.
 23.234.90.0/24 # United States | Arizona | Tzulo, Inc.
 23.234.93.0/24 # United States | California | Tzulo, Inc.
 23.234.95.0/24 # United States | California | Tzulo, Inc.
@@ -195,7 +194,6 @@
 142.111.254.0/24 # United States | New Jersey | HOST TELECOM LTD
 142.252.4.0/24 # United States | Kansas | HOST TELECOM LTD
 142.252.24.0/24 # United States | California | HOST TELECOM LTD
-142.252.25.0/24 # United States | California | HOST TELECOM LTD
 142.252.81.0/24 # United States | California | Clouvider Limited
 142.252.82.0/24 # United States | California | Clouvider Limited
 142.252.83.0/24 # United States | California | Clouvider Limited
@@ -488,7 +486,6 @@
 23.234.76.157/32 # United States | North Carolina | Tzulo, Inc.
 23.234.76.194/32 # United States | North Carolina | Tzulo, Inc.
 23.234.77.21/32 # United States | North Carolina | Tzulo, Inc.
-23.234.77.32/32 # United States | North Carolina | Tzulo, Inc.
 23.234.77.157/32 # United States | North Carolina | Tzulo, Inc.
 23.234.78.21/32 # United States | North Carolina | Tzulo, Inc.
 23.234.78.32/32 # United States | North Carolina | Tzulo, Inc.
@@ -497,7 +494,6 @@
 23.234.79.21/32 # United States | North Carolina | Tzulo, Inc.
 23.234.79.32/32 # United States | North Carolina | Tzulo, Inc.
 23.234.79.162/32 # United States | North Carolina | Tzulo, Inc.
-23.234.80.21/32 # United States | Washington | Tzulo, Inc.
 23.234.80.68/32 # United States | Washington | Tzulo, Inc.
 23.234.80.146/32 # United States | Washington | Tzulo, Inc.
 23.234.82.21/32 # United States | Washington | Tzulo, Inc.
@@ -512,9 +508,12 @@
 23.234.87.59/32 # Canada | Québec | Tzulo, Inc.
 23.234.87.121/32 # Canada | Ontario | Tzulo, Inc.
 23.234.88.90/32 # United States | Arizona | Tzulo, Inc.
+23.234.89.22/32 # United States | Arizona | Tzulo, Inc.
+23.234.89.90/32 # United States | Arizona | Tzulo, Inc.
+23.234.89.217/32 # United States | Arizona | Tzulo, Inc.
+23.234.89.218/32 # United States | Arizona | Tzulo, Inc.
 23.234.91.159/32 # United States | Arizona | Tzulo, Inc.
 23.234.91.217/32 # United States | Arizona | Tzulo, Inc.
-23.234.92.123/32 # United States | California | Tzulo, Inc.
 23.234.92.159/32 # United States | California | Tzulo, Inc.
 23.234.92.173/32 # United States | California | Tzulo, Inc.
 23.234.94.22/32 # United States | California | Tzulo, Inc.
@@ -594,7 +593,6 @@
 36.33.249.101/32 # China | Anhui | China Unicom Anhui Province Network
 36.150.185.121/32 # China | Beijing | China Mobile Communications Corporation
 36.255.5.58/32 # India | Tamil Nadu | Railtel Corporation of India Ltd.
-36.255.18.252/32 # India | Karnataka | Railtel Corporation of India Ltd.
 36.255.33.178/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 36.255.33.195/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 37.37.34.1/32 # Kuwait | Hawalli | Mobile Telecommunications Company K.S.C.P.
@@ -1184,6 +1182,7 @@
 110.36.30.37/32 # Pakistan | Punjab | Wateen Telecom Limited
 110.36.80.166/32 # Pakistan | Punjab | Wateen Telecom Limited
 110.37.18.21/32 # Pakistan | Punjab | Wateen Telecom Limited
+110.37.59.113/32 # Pakistan | Punjab | Wateen Telecom Limited
 110.38.214.94/32 # Pakistan | Punjab | Wateen Telecom Limited
 110.38.250.184/32 # Pakistan | Sindh | Galaxy Broadband pvt. Ltd.
 110.39.235.170/32 # Pakistan | Punjab | Wateen Telecom Limited
@@ -1237,7 +1236,6 @@
 117.206.68.203/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.209.13.33/32 # India | Meghalaya | Bharat Sanchar Nigam LTD
 117.209.15.215/32 # India | Karnataka | Bharat Sanchar Nigam LTD
-117.209.16.23/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.209.21.64/32 # India | Meghalaya | Bharat Sanchar Nigam LTD
 117.209.82.188/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.209.90.175/32 # India | Mizoram | Bharat Sanchar Nigam LTD
@@ -1337,7 +1335,6 @@
 131.159.24.205/32 # Germany | Bavaria | Technical University of Munich
 134.195.90.13/32 # United States | New York | Hosthatch, LLC
 134.255.183.88/32 # Germany | Baden-Württemberg | Contabo GmbH
-135.106.26.9/32 # United States | Montana | GREEN FLOID LLC
 135.106.26.41/32 # United States | Montana | GREEN FLOID LLC
 135.106.26.64/32 # United States | Montana | GREEN FLOID LLC
 135.106.26.77/32 # United States | Montana | GREEN FLOID LLC
@@ -1347,6 +1344,7 @@
 135.106.85.41/32 # United States | Massachusetts | GREEN FLOID LLC
 135.106.85.47/32 # United States | Massachusetts | GREEN FLOID LLC
 135.106.85.114/32 # United States | Massachusetts | GREEN FLOID LLC
+135.131.63.200/32 # United States | Wisconsin | TDS TELECOM
 135.237.29.5/32 # United States | District of Columbia | Microsoft Corporation
 136.0.196.210/32 # United States | New Jersey | HOST TELECOM LTD
 136.0.196.214/32 # United States | New Jersey | HOST TELECOM LTD
@@ -1371,6 +1369,7 @@
 138.68.61.82/32 # United States | California | Digitalocean, LLC
 138.68.171.133/32 # United Kingdom | England | Digitalocean, LLC
 138.124.101.92/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
+138.204.160.246/32 # Argentina | Buenos Aires | COOPERATIVA UNION DEL SUD
 138.249.105.184/32 # Netherlands | North Holland | Clouvider Limited
 138.249.139.38/32 # United States | California | Clouvider Limited
 138.249.167.28/32 # United States | District of Columbia | Clouvider Limited
@@ -1456,6 +1455,10 @@
 142.147.89.228/32 # United States | California | xTom
 142.252.8.59/32 # United States | California | HOST TELECOM LTD
 142.252.8.134/32 # United States | California | HOST TELECOM LTD
+142.252.25.24/32 # United States | California | HOST TELECOM LTD
+142.252.25.59/32 # United States | California | HOST TELECOM LTD
+142.252.25.60/32 # United States | California | HOST TELECOM LTD
+142.252.25.156/32 # United States | California | HOST TELECOM LTD
 142.252.43.3/32 # United States | California | HOST TELECOM LTD
 142.252.43.69/32 # United States | California | HOST TELECOM LTD
 142.252.43.77/32 # United States | California | HOST TELECOM LTD
@@ -1470,7 +1473,6 @@
 142.252.126.122/32 # United States | Texas | Clouvider Limited
 142.252.126.189/32 # United States | Texas | Clouvider Limited
 142.252.126.212/32 # United States | Texas | Clouvider Limited
-142.252.132.12/32 # United States | California | HOST TELECOM LTD
 142.252.132.147/32 # United States | California | HOST TELECOM LTD
 142.252.132.199/32 # United States | California | HOST TELECOM LTD
 142.252.132.242/32 # United States | California | HOST TELECOM LTD
@@ -1579,7 +1581,6 @@
 153.174.105.176/32 # Japan | Niigata Prefecture | NTT Docomo Business,inc.
 153.242.113.129/32 # Japan | Tokyo | NTT Docomo Business,inc.
 154.16.168.94/32 # United States | Oregon | Tier.net Technologies LLC
-154.53.46.201/32 # United States | Missouri | Contabo Inc.
 154.81.196.56/32 # Netherlands | North Holland | HOST TELECOM LTD
 154.81.199.141/32 # Netherlands | North Holland | HOST TELECOM LTD
 154.82.84.227/32 # Hong Kong | Hong Kong | Tcloudnet
@@ -2135,6 +2136,7 @@
 196.251.118.41/32 # Netherlands | North Holland | internet security Nybula
 197.0.21.38/32 # Tunisia | Sfax | TOPNET
 197.10.180.51/32 # Tunisia | Tunis | STE INTERNET SMART SOLUTIONS
+197.91.94.221/32 # South Africa | Western Cape | Dimension Data
 197.186.3.98/32 # Tanzania | Coastal Zone | Airtel Tanzania
 197.186.75.223/32 # Tanzania | Coastal Zone | Airtel Tanzania
 197.244.88.68/32 # Tunisia | Tunis | TOPNET
@@ -2226,7 +2228,6 @@
 216.203.21.65/32 # United States | Pennsylvania | Sungard Availability Networ...
 216.234.211.16/32 # Mozambique | Distrito Municipal de KaMpfumo | Space Explor...
 216.245.184.181/32 # United States | Illinois | Bl Networks
-217.110.243.170/32 # Germany | Hesse | Colt Technology Services Group Limited
 217.154.47.221/32 # United Kingdom | England | IONOS SE
 217.160.248.17/32 # Spain | Madrid | IONOS SE
 217.199.144.35/32 # Kenya | Kiambu | MTN SA
