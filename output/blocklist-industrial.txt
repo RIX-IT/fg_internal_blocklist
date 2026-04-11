@@ -88,7 +88,6 @@
 45.192.42.0/24 # United States | New York | Clouvider Limited
 45.192.44.0/24 # United States | New York | Clouvider Limited
 45.192.46.0/24 # United States | New York | Clouvider Limited
-62.93.167.0/24 # Canada | Québec | Datacamp Limited
 62.106.69.0/24 # United States | New Jersey | Clouvider Limited
 63.223.67.0/24 # United States | Washington | Sentris Network LLC
 64.113.0.0/24 # United States | Delaware | Datacamp Limited
@@ -470,7 +469,6 @@
 23.234.69.21/32 # United States | Colorado | Tzulo, Inc.
 23.234.69.32/32 # United States | Colorado | Tzulo, Inc.
 23.234.69.146/32 # United States | Colorado | Tzulo, Inc.
-23.234.69.157/32 # United States | Colorado | Tzulo, Inc.
 23.234.70.21/32 # United States | Colorado | Tzulo, Inc.
 23.234.70.123/32 # United States | Colorado | Tzulo, Inc.
 23.234.70.146/32 # United States | Colorado | Tzulo, Inc.
@@ -496,10 +494,8 @@
 23.234.80.146/32 # United States | Washington | Tzulo, Inc.
 23.234.82.21/32 # United States | Washington | Tzulo, Inc.
 23.234.82.32/32 # United States | Washington | Tzulo, Inc.
-23.234.82.68/32 # United States | Washington | Tzulo, Inc.
 23.234.82.146/32 # United States | Washington | Tzulo, Inc.
 23.234.83.32/32 # United States | Washington | Tzulo, Inc.
-23.234.83.102/32 # United States | Washington | Tzulo, Inc.
 23.234.83.157/32 # United States | Washington | Tzulo, Inc.
 23.234.83.218/32 # United States | Washington | Tzulo, Inc.
 23.234.87.30/32 # Canada | Ontario | Tzulo, Inc.
@@ -751,6 +747,7 @@
 45.205.1.20/32 # Brazil | State of São Paulo | VPSVAULT.HOST LTD
 45.207.220.12/32 # Hong Kong | Hong Kong | Cognetcloud INC
 45.221.64.224/32 # Seychelles | Mahe | internet security
+45.227.254.44/32 # Republic of Lithuania | Vilnius County | Flyservers S.A.
 46.21.176.14/32 # Italy | Lombardy | Planetel SPA
 46.22.156.31/32 # Germany | Lower Saxony | Tng Stadtnetz GmbH
 46.25.4.108/32 # Spain | Catalunya | Vodafone BB Global
@@ -838,6 +835,10 @@
 61.137.155.154/32 # China | Liaoning | China Unicom China1 Backbone
 61.139.76.99/32 # China | Sichuan | Chinanet Sichuan Telecom Internet Data C...
 62.60.249.105/32 # Finland | Mainland Finland | Netcrafters Ou
+62.93.167.136/32 # Canada | Québec | Datacamp Limited
+62.93.167.143/32 # Canada | Québec | Datacamp Limited
+62.93.167.166/32 # Canada | Québec | Datacamp Limited
+62.93.167.172/32 # Canada | Québec | Datacamp Limited
 62.169.28.111/32 # France | Grand Est | Contabo GmbH
 62.171.143.113/32 # France | Grand Est | Contabo GmbH
 62.171.160.208/32 # France | Grand Est | Contabo GmbH
@@ -1127,7 +1128,6 @@
 103.246.144.118/32 # Netherlands | North Holland | Podaon Sia
 103.248.94.195/32 # India | Delhi | Ani Network Pvt LTD
 103.251.27.33/32 # United States | California | Hostroyale Technologies Pvt LTD
-103.251.27.148/32 # United States | California | Hostroyale Technologies Pvt LTD
 103.251.27.217/32 # United States | California | Hostroyale Technologies Pvt LTD
 104.37.191.3/32 # United States | New Jersey | Interserver, INC
 104.164.32.69/32 # Netherlands | North Holland | HOST TELECOM LTD
@@ -1231,7 +1231,6 @@
 115.96.178.191/32 # India | Karnataka | HATHWAY CABLE AND DATACOM LIMITED
 115.190.29.141/32 # China | Beijing | Beijing Volcano Engine Technology Co., Ltd.
 115.190.242.220/32 # China | Beijing | Beijing Volcano Engine Technology Co., Ltd.
-115.191.6.5/32 # China | Beijing | Beijing Volcano Engine Technology Co., Ltd.
 116.75.232.69/32 # India | Delhi | HATHWAY CABLE AND DATACOM LIMITED
 116.140.208.243/32 # China | Beijing | China Unicom China1 Backbone
 116.149.240.90/32 # China | Beijing | China Unicom China1 Backbone
@@ -1279,7 +1278,6 @@
 119.30.116.177/32 # Pakistan | Punjab | Mobilink Gsm, Pakistan Mobile Communic...
 119.30.117.176/32 # Pakistan | Islamabad Capital Territory | Mobilink Gsm, Pak...
 119.59.103.212/32 # Thailand | Bangkok | Metrabyte Co.,ltd
-119.116.39.129/32 # China | Liaoning | China Unicom China1 Backbone
 119.185.243.49/32 # China | Shandong | China Unicom China1 Backbone
 119.235.221.127/32 # Indonesia | Jawa Barat | Pt Mora Telematika Indonesia
 120.7.98.24/32 # China | Hebei | China Unicom China1 Backbone
@@ -2278,7 +2276,6 @@
 222.141.136.215/32 # China | Henan | China Unicom China1 Backbone
 222.143.23.26/32 # China | Henan | China Unicom China1 Backbone
 223.29.232.120/32 # Pakistan | Sindh | Logon Broadband Pvt. Limited
-223.64.222.128/32 # China | Jiangsu | China Mobile Communications Corporation
 223.64.222.188/32 # China | Jiangsu | China Mobile Communications Corporation
 223.123.38.34/32 # Pakistan | Punjab | Cmpak Limited
 223.123.43.5/32 # Pakistan | Punjab | Cmpak Limited
