@@ -54,7 +54,6 @@
 37.19.210.0/24 # United States | Colorado | Datacamp Limited
 37.19.221.0/24 # United States | Texas | Datacamp Limited
 37.140.255.0/24 # United States | Indiana | Clouvider Limited
-38.240.225.0/24 # Canada | Alberta | Tech Futures Interactive Inc.
 43.225.189.0/24 # United States | Massachusetts | Hostroyale Technologies Pv...
 45.87.124.0/24 # United States | California | Clouvider Limited
 45.87.125.0/24 # United States | California | Clouvider Limited
@@ -287,7 +286,6 @@
 166.88.219.0/24 # United States | District of Columbia | HOST TELECOM LTD
 169.150.203.0/24 # United States | California | Datacamp Limited
 170.168.215.0/24 # United States | District of Columbia | GREEN FLOID LLC
-170.168.230.0/24 # United States | District of Columbia | GREEN FLOID LLC
 170.168.250.0/24 # United States | District of Columbia | GREEN FLOID LLC
 172.86.113.0/24 # United States | Texas | Routerhosting LLC
 172.86.127.0/24 # United States | California | Routerhosting LLC
@@ -530,7 +528,6 @@
 23.234.109.104/32 # United States | Georgia | Tzulo, Inc.
 23.234.109.195/32 # United States | Georgia | Tzulo, Inc.
 23.234.110.148/32 # United States | Georgia | Tzulo, Inc.
-23.234.110.159/32 # United States | Georgia | Tzulo, Inc.
 23.234.110.195/32 # United States | Georgia | Tzulo, Inc.
 23.234.110.217/32 # United States | Georgia | Tzulo, Inc.
 23.234.111.33/32 # United States | Georgia | Tzulo, Inc.
@@ -602,6 +599,10 @@
 38.52.222.146/32 # Dominican Republic | Distrito Nacional | TELECABLE DOMINIC...
 38.180.245.207/32 # Germany | Hesse | Leaseweb Deutschland GmbH
 38.240.48.188/32 # United States | Texas | Hyonix
+38.240.225.47/32 # Canada | Alberta | Tech Futures Interactive Inc.
+38.240.225.61/32 # Canada | Alberta | Tech Futures Interactive Inc.
+38.240.225.79/32 # Canada | Alberta | Tech Futures Interactive Inc.
+38.240.225.93/32 # Canada | Alberta | Tech Futures Interactive Inc.
 38.246.250.201/32 # Hong Kong | Hong Kong | Netlab Global
 39.97.46.7/32 # China | Zhejiang | Hangzhou Alibaba Advertising CO.,LTD.
 39.106.141.68/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
@@ -1053,6 +1054,7 @@
 95.214.83.108/32 # United States | Idaho | Clouvider Limited
 96.9.125.147/32 # Romania | Bucharest | Bl Networks
 96.33.153.139/32 # United States | Louisiana | Charter Communications LLC
+96.126.106.7/32 # United States | New Jersey | Akamai Technologies, Inc.
 97.64.81.119/32 # United States | New York | It Networks INC
 98.159.234.144/32 # United Kingdom | England | Datacamp Limited
 98.177.107.142/32 # United States | Arizona | Cox Communications Inc.
@@ -1134,7 +1136,6 @@
 104.164.32.69/32 # Netherlands | North Holland | HOST TELECOM LTD
 104.164.47.145/32 # Netherlands | North Holland | HOST TELECOM LTD
 104.164.153.180/32 # Netherlands | North Holland | HOST TELECOM LTD
-104.164.164.4/32 # United States | New York | HOST TELECOM LTD
 104.164.164.199/32 # United States | New York | HOST TELECOM LTD
 104.164.164.215/32 # United States | New York | HOST TELECOM LTD
 104.164.165.158/32 # Netherlands | North Holland | HOST TELECOM LTD
@@ -1329,7 +1330,6 @@
 130.49.52.46/32 # United States | Washington | GREEN FLOID LLC
 130.49.52.66/32 # United States | Washington | GREEN FLOID LLC
 130.49.52.125/32 # United States | Florida | GREEN FLOID LLC
-130.49.80.181/32 # Denmark | Denmark | IT HOSTLINE LTD
 130.49.85.61/32 # United States | Washington | GREEN FLOID LLC
 130.49.85.103/32 # United States | Washington | GREEN FLOID LLC
 130.49.85.108/32 # United States | Washington | GREEN FLOID LLC
@@ -1365,15 +1365,11 @@
 136.0.196.210/32 # United States | New Jersey | HOST TELECOM LTD
 136.0.196.214/32 # United States | New Jersey | HOST TELECOM LTD
 136.0.196.228/32 # United States | New Jersey | HOST TELECOM LTD
-136.234.156.134/32 # Denmark | Denmark | IT HOSTLINE LTD
-136.234.157.123/32 # Denmark | Denmark | IT HOSTLINE LTD
-136.234.157.124/32 # Denmark | Denmark | IT HOSTLINE LTD
 136.234.158.92/32 # Netherlands | South Holland | Ivanov Vitaliy Sergeevich
 136.234.160.75/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 136.234.162.105/32 # Netherlands | South Holland | Ivanov Vitaliy Sergeevich
 136.234.222.68/32 # Netherlands | North Brabant | Ivanov Vitaliy Sergeevich
 136.234.224.151/32 # Netherlands | Limburg | Ivanov Vitaliy Sergeevich
-136.234.226.250/32 # Denmark | Denmark | IT HOSTLINE LTD
 136.234.242.2/32 # United States | Illinois | GREEN FLOID LLC
 136.234.242.151/32 # United States | Illinois | GREEN FLOID LLC
 136.234.242.160/32 # United States | Illinois | GREEN FLOID LLC
@@ -1436,7 +1432,6 @@
 142.111.3.141/32 # United States | New York | HOST TELECOM LTD
 142.111.112.46/32 # United States | New York | HOST TELECOM LTD
 142.111.112.48/32 # United States | New Jersey | HOST TELECOM LTD
-142.111.112.111/32 # United States | New Jersey | HOST TELECOM LTD
 142.111.112.236/32 # United States | New Jersey | HOST TELECOM LTD
 142.111.128.27/32 # United States | New Jersey | HOST TELECOM LTD
 142.111.128.103/32 # United States | New Jersey | HOST TELECOM LTD
@@ -1678,8 +1673,6 @@
 155.254.193.70/32 # United States | Texas | Baxet Group Inc.
 155.254.195.81/32 # United States | Texas | Baxet Group Inc.
 156.233.53.58/32 # Denmark | Denmark | IT HOSTLINE LTD
-156.233.57.222/32 # Denmark | Denmark | IT HOSTLINE LTD
-156.233.59.39/32 # Denmark | Denmark | IT HOSTLINE LTD
 156.233.105.121/32 # United States | New York | Clouvider Limited
 156.233.105.133/32 # United States | New York | Clouvider Limited
 156.233.105.234/32 # United States | New York | Clouvider Limited
@@ -1691,8 +1684,6 @@
 156.251.19.36/32 # Hong Kong | Hong Kong | Tcloudnet
 156.251.25.43/32 # United States | California | Tcloudnet
 156.251.25.112/32 # United States | California | Tcloudnet
-157.22.30.135/32 # Denmark | Region Zealand | IT HOSTLINE LTD
-157.22.79.100/32 # Denmark | Denmark | IT HOSTLINE LTD
 157.66.26.209/32 # Vietnam | Ho Chi Minh | TRUMVPS COMPANY LIMITED
 157.100.198.119/32 # Ecuador | Guayas | Telconet S.a
 157.156.24.9/32 # China | Guangdong Province | China Unicom Ip Network China...
@@ -1782,6 +1773,10 @@
 170.79.235.138/32 # Chile | Santiago Metropolitan Region | Tna Solutions SPA
 170.130.165.28/32 # United States | Nevada | Eonix Corporation
 170.168.103.208/32 # Germany | Berlin | GTHost
+170.168.230.25/32 # United States | District of Columbia | GREEN FLOID LLC
+170.168.230.155/32 # United States | District of Columbia | GREEN FLOID LLC
+170.168.230.190/32 # United States | District of Columbia | GREEN FLOID LLC
+170.168.230.208/32 # United States | District of Columbia | GREEN FLOID LLC
 170.168.248.125/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 170.245.148.83/32 # Brazil | Santa Catarina | Pinhais Net Telecom Comercio E S...
 171.213.157.240/32 # China | Sichuan | No. 1,jin rong Street
