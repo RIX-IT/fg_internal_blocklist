@@ -42,7 +42,6 @@
 37.19.200.0/24 # United States | Texas | Datacamp Limited
 37.19.210.0/24 # United States | Colorado | Datacamp Limited
 37.19.221.0/24 # United States | Texas | Datacamp Limited
-37.140.255.0/24 # United States | Indiana | Clouvider Limited
 43.225.189.0/24 # United States | Massachusetts | Hostroyale Technologies Pv...
 45.87.124.0/24 # United States | California | Clouvider Limited
 45.87.125.0/24 # United States | California | Clouvider Limited
@@ -164,7 +163,6 @@
 136.234.241.0/24 # United States | Florida | GREEN FLOID LLC
 138.199.43.0/24 # United States | Washington | Datacamp Limited
 142.111.121.0/24 # United States | California | Clouvider Limited
-142.111.130.0/24 # United States | New York | HOST TELECOM LTD
 142.111.177.0/24 # United States | New York | HOST TELECOM LTD
 142.111.213.0/24 # United States | California | Clouvider Limited
 142.111.229.0/24 # United States | New Jersey | HOST TELECOM LTD
@@ -226,12 +224,10 @@
 155.212.50.0/24 # United States | Florida | GREEN FLOID LLC
 155.212.59.0/24 # United States | Washington | GREEN FLOID LLC
 155.212.94.0/24 # United States | Washington | GREEN FLOID LLC
-155.212.102.0/24 # United States | Washington | GREEN FLOID LLC
 155.212.114.0/24 # United States | Washington | GREEN FLOID LLC
 156.229.238.0/24 # United States | California | Clouvider Limited
 156.229.244.0/24 # United States | California | Clouvider Limited
 156.229.245.0/24 # United States | California | Clouvider Limited
-156.229.246.0/24 # United States | California | Clouvider Limited
 156.229.254.0/24 # United States | California | Clouvider Limited
 156.229.255.0/24 # United States | California | Clouvider Limited
 156.233.0.0/24 # United States | New York | Clouvider Limited
@@ -280,7 +276,6 @@
 172.120.50.0/24 # United States | New York | Clouvider Limited
 172.120.53.0/24 # United States | Nevada | Clouvider Limited
 172.120.63.0/24 # United States | New Jersey | HOST TELECOM LTD
-172.120.81.0/24 # United States | California | HOST TELECOM LTD
 172.120.118.0/24 # United States | District of Columbia | HOST TELECOM LTD
 172.120.157.0/24 # United States | District of Columbia | HOST TELECOM LTD
 172.120.162.0/24 # United States | New Jersey | HOST TELECOM LTD
@@ -456,10 +451,8 @@
 23.234.69.21/32 # United States | Colorado | Tzulo, Inc.
 23.234.69.32/32 # United States | Colorado | Tzulo, Inc.
 23.234.69.146/32 # United States | Colorado | Tzulo, Inc.
-23.234.70.21/32 # United States | Colorado | Tzulo, Inc.
 23.234.70.123/32 # United States | Colorado | Tzulo, Inc.
 23.234.70.146/32 # United States | Colorado | Tzulo, Inc.
-23.234.70.194/32 # United States | Colorado | Tzulo, Inc.
 23.234.71.21/32 # United States | Colorado | Tzulo, Inc.
 23.234.71.32/32 # United States | Colorado | Tzulo, Inc.
 23.234.76.102/32 # United States | North Carolina | Tzulo, Inc.
@@ -484,7 +477,6 @@
 23.234.89.90/32 # United States | Arizona | Tzulo, Inc.
 23.234.89.217/32 # United States | Arizona | Tzulo, Inc.
 23.234.89.218/32 # United States | Arizona | Tzulo, Inc.
-23.234.92.173/32 # United States | California | Tzulo, Inc.
 23.234.93.22/32 # United States | California | Tzulo, Inc.
 23.234.93.37/32 # United States | California | Tzulo, Inc.
 23.234.93.148/32 # United States | California | Tzulo, Inc.
@@ -568,6 +560,9 @@
 37.65.160.50/32 # France | Île-de-France | Societe Francaise Du Radiotelepho...
 37.83.78.152/32 # Germany | Baden-Württemberg | Deutsche Telekom AG
 37.114.46.25/32 # Germany | Bavaria | Florian Kolb
+37.140.255.3/32 # United States | Indiana | Clouvider Limited
+37.140.255.163/32 # United States | Indiana | Clouvider Limited
+37.140.255.222/32 # United States | Indiana | Clouvider Limited
 37.202.189.17/32 # Iran | Kurdistan Province | Aria Shatel Pjsc
 37.221.66.174/32 # Republic of Moldova | Chisinau | AVA HOST SRL
 38.7.200.204/32 # Chile | Santiago Metropolitan Region | GRUPO ZGH SPA
@@ -585,7 +580,6 @@
 41.83.168.207/32 # Senegal | Dakar Region | Sonatel as Autonomous System
 41.116.109.128/32 # South Africa | Gauteng | MTN SA
 41.139.234.177/32 # Kenya | Nairobi | Safaricom Limited
-41.141.39.120/32 # Morocco | Casablanca-Settat | Office National Des Postes E...
 41.198.159.89/32 # South Africa | Northern Cape | Echotel Pty LTD
 41.209.10.181/32 # Kenya | Embu County | MTN SA
 41.209.14.89/32 # Kenya | Nairobi | MTN SA
@@ -593,7 +587,6 @@
 41.223.133.187/32 # Sierra Leone | Western Area | Africell Sierra Leone Limited
 41.250.121.7/32 # Morocco | Casablanca-Settat | Office National Des Postes E...
 42.5.92.93/32 # China | Liaoning | China Unicom China1 Backbone
-42.58.171.231/32 # China | Liaoning | China Unicom China1 Backbone
 42.114.170.105/32 # Vietnam | Hanoi | Fpt Telecom Company
 42.224.61.44/32 # China | Henan | China Unicom China1 Backbone
 42.230.47.43/32 # China | Henan | China Unicom China1 Backbone
@@ -1288,7 +1281,6 @@
 129.226.128.168/32 # Hong Kong | Hong Kong | Shenzhen Tencent Computer Systems ...
 129.226.159.39/32 # Singapore | Southeast | Shenzhen Tencent Computer Systems ...
 130.49.5.240/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
-130.49.15.26/32 # United States | Washington | GREEN FLOID LLC
 130.49.15.99/32 # United States | Washington | GREEN FLOID LLC
 130.49.35.49/32 # United States | Washington | GREEN FLOID LLC
 130.49.35.203/32 # United States | Washington | GREEN FLOID LLC
@@ -1411,6 +1403,9 @@
 142.111.112.236/32 # United States | New Jersey | HOST TELECOM LTD
 142.111.128.27/32 # United States | New Jersey | HOST TELECOM LTD
 142.111.128.245/32 # United States | New Jersey | HOST TELECOM LTD
+142.111.130.3/32 # United States | New York | HOST TELECOM LTD
+142.111.130.5/32 # United States | New York | HOST TELECOM LTD
+142.111.130.16/32 # United States | New York | HOST TELECOM LTD
 142.111.176.161/32 # United States | New York | HOST TELECOM LTD
 142.111.176.208/32 # United States | New Jersey | HOST TELECOM LTD
 142.111.193.125/32 # United States | New York | HOST TELECOM LTD
@@ -1447,7 +1442,6 @@
 142.252.43.3/32 # United States | California | HOST TELECOM LTD
 142.252.43.69/32 # United States | California | HOST TELECOM LTD
 142.252.43.77/32 # United States | California | HOST TELECOM LTD
-142.252.43.97/32 # United States | California | HOST TELECOM LTD
 142.252.59.58/32 # United States | California | HOST TELECOM LTD
 142.252.59.73/32 # United States | California | HOST TELECOM LTD
 142.252.59.212/32 # United States | California | HOST TELECOM LTD
@@ -1625,15 +1619,17 @@
 155.212.66.133/32 # United States | Florida | GREEN FLOID LLC
 155.212.67.167/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.77.26/32 # United States | Washington | GREEN FLOID LLC
-155.212.77.63/32 # United States | Washington | GREEN FLOID LLC
 155.212.77.94/32 # United States | Washington | GREEN FLOID LLC
 155.212.80.32/32 # Denmark | Denmark | IT HOSTLINE LTD
 155.212.82.252/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.85.43/32 # United States | Washington | GREEN FLOID LLC
-155.212.85.125/32 # United States | Washington | GREEN FLOID LLC
 155.212.85.212/32 # United States | Washington | GREEN FLOID LLC
 155.212.85.229/32 # United States | Washington | GREEN FLOID LLC
 155.212.96.89/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
+155.212.102.10/32 # United States | Florida | GREEN FLOID LLC
+155.212.102.46/32 # United States | Florida | GREEN FLOID LLC
+155.212.102.47/32 # United States | Florida | GREEN FLOID LLC
+155.212.102.242/32 # United States | Florida | GREEN FLOID LLC
 155.212.115.76/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.122.8/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.125.107/32 # United States | Washington | GREEN FLOID LLC
@@ -1641,6 +1637,10 @@
 155.212.125.222/32 # United States | Washington | GREEN FLOID LLC
 155.254.193.70/32 # United States | Texas | Baxet Group Inc.
 155.254.195.81/32 # United States | Texas | Baxet Group Inc.
+156.229.246.39/32 # United States | California | Clouvider Limited
+156.229.246.160/32 # United States | California | Clouvider Limited
+156.229.246.196/32 # United States | California | Clouvider Limited
+156.229.246.205/32 # United States | California | Clouvider Limited
 156.233.53.58/32 # Denmark | Denmark | IT HOSTLINE LTD
 156.233.105.121/32 # United States | New York | Clouvider Limited
 156.233.105.133/32 # United States | New York | Clouvider Limited
@@ -1706,7 +1706,6 @@
 166.1.149.223/32 # United States | Pennsylvania | Clouvider Limited
 166.1.198.83/32 # Germany | Berlin | Clouvider Limited
 166.88.0.17/32 # United States | California | HOST TELECOM LTD
-166.88.0.76/32 # United States | California | HOST TELECOM LTD
 166.88.0.106/32 # United States | California | HOST TELECOM LTD
 166.88.0.160/32 # United States | California | HOST TELECOM LTD
 166.88.153.18/32 # United States | California | HOST TELECOM LTD
@@ -1800,6 +1799,10 @@
 172.120.71.35/32 # United States | California | HOST TELECOM LTD
 172.120.71.102/32 # United States | California | HOST TELECOM LTD
 172.120.71.147/32 # United States | California | HOST TELECOM LTD
+172.120.81.76/32 # United States | California | HOST TELECOM LTD
+172.120.81.80/32 # United States | California | HOST TELECOM LTD
+172.120.81.227/32 # United States | California | HOST TELECOM LTD
+172.120.81.242/32 # United States | California | HOST TELECOM LTD
 172.120.82.17/32 # United States | New Jersey | HOST TELECOM LTD
 172.120.82.24/32 # United States | California | HOST TELECOM LTD
 172.120.82.198/32 # United States | New Jersey | HOST TELECOM LTD
@@ -1868,7 +1871,6 @@
 172.120.196.10/32 # United States | Pennsylvania | HOST TELECOM LTD
 172.120.196.46/32 # United States | Pennsylvania | HOST TELECOM LTD
 172.120.196.109/32 # United States | Pennsylvania | HOST TELECOM LTD
-172.120.196.187/32 # United States | Pennsylvania | HOST TELECOM LTD
 172.120.198.65/32 # United States | New Jersey | HOST TELECOM LTD
 172.120.198.116/32 # United States | New Jersey | HOST TELECOM LTD
 172.120.198.221/32 # United States | New Jersey | HOST TELECOM LTD
@@ -2068,7 +2070,6 @@
 192.3.153.18/32 # United States | New York | HostPapa
 192.109.138.65/32 # Netherlands | Limburg | Colocatel Inc.
 192.177.18.63/32 # United States | Nevada | Clouvider Limited
-192.177.24.221/32 # United States | New York | HOST TELECOM LTD
 192.177.45.94/32 # United States | Pennsylvania | Clouvider Limited
 192.177.45.193/32 # United States | Pennsylvania | Clouvider Limited
 192.177.45.235/32 # United States | Pennsylvania | Clouvider Limited
