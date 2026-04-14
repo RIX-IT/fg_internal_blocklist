@@ -6,7 +6,6 @@
 5.57.210.0/24 # United States | Louisiana | Clouvider Limited
 5.252.191.0/24 # United States | New York | Clouvider Limited
 23.27.3.0/24 # United States | Utah | EGIHosting
-23.234.68.0/24 # United States | Colorado | Tzulo, Inc.
 23.234.72.0/24 # United States | California | Tzulo, Inc.
 23.234.73.0/24 # United States | California | Tzulo, Inc.
 23.234.74.0/24 # United States | California | Tzulo, Inc.
@@ -24,9 +23,7 @@
 23.234.114.0/24 # United States | Utah | Tzulo, Inc.
 23.234.115.0/24 # United States | Utah | Tzulo, Inc.
 23.234.116.0/24 # United States | Missouri | Tzulo, Inc.
-23.234.117.0/24 # United States | Missouri | Tzulo, Inc.
 23.234.118.0/24 # United States | Missouri | Tzulo, Inc.
-23.234.119.0/24 # United States | Missouri | Tzulo, Inc.
 31.59.236.0/24 # Germany | Hesse | Datacamp Limited
 31.59.237.0/24 # Germany | Hesse | Datacamp Limited
 31.59.238.0/24 # Germany | Hesse | Datacamp Limited
@@ -128,7 +125,6 @@
 104.36.50.0/24 # United States | Pennsylvania | Hostroyale Technologies Pvt...
 104.219.170.0/24 # United States | New York | Datacamp Limited
 104.219.171.0/24 # United States | New York | Datacamp Limited
-104.252.153.0/24 # United States | New York | HOST TELECOM LTD
 109.94.216.0/24 # United States | California | Clouvider Limited
 109.94.217.0/24 # United States | New York | Clouvider Limited
 109.94.218.0/24 # United States | Florida | Clouvider Limited
@@ -137,7 +133,6 @@
 130.49.44.0/24 # United States | Washington | GREEN FLOID LLC
 130.49.72.0/24 # United States | Washington | GREEN FLOID LLC
 130.49.126.0/24 # United States | Washington | GREEN FLOID LLC
-135.106.94.0/24 # United States | Wyoming | GREEN FLOID LLC
 135.106.107.0/24 # United States | Louisiana | GREEN FLOID LLC
 136.0.102.0/24 # United States | District of Columbia | HOST TELECOM LTD
 136.234.141.0/24 # United States | Texas | GREEN FLOID LLC
@@ -191,7 +186,6 @@
 151.247.186.0/24 # United States | New York | M Europe SRL
 151.247.187.0/24 # United States | New York | M Europe SRL
 153.80.11.0/24 # United States | Washington | GREEN FLOID LLC
-153.80.97.0/24 # United States | Rhode Island | GREEN FLOID LLC
 153.80.108.0/24 # United States | Iowa | GREEN FLOID LLC
 153.80.143.0/24 # United States | New Mexico | GREEN FLOID LLC
 153.80.145.0/24 # United States | Vermont | GREEN FLOID LLC
@@ -241,7 +235,6 @@
 172.120.48.0/24 # United States | Nevada | Clouvider Limited
 172.120.50.0/24 # United States | New York | Clouvider Limited
 172.120.53.0/24 # United States | Nevada | Clouvider Limited
-172.120.118.0/24 # United States | District of Columbia | HOST TELECOM LTD
 172.120.157.0/24 # United States | District of Columbia | HOST TELECOM LTD
 172.120.162.0/24 # United States | New Jersey | HOST TELECOM LTD
 172.120.184.0/24 # United States | Illinois | HOST TELECOM LTD
@@ -397,26 +390,24 @@
 23.162.40.148/32 # United States | California | Cyber Data LLC
 23.162.40.159/32 # United States | California | Cyber Data LLC
 23.162.40.206/32 # United States | California | Cyber Data LLC
-23.162.40.217/32 # United States | California | Cyber Data LLC
 23.168.216.22/32 # United States | California | Hayashimo LLC
 23.168.216.217/32 # United States | California | Hayashimo LLC
 23.168.216.231/32 # United States | California | Hayashimo LLC
 23.230.77.29/32 # United States | New York | HOST TELECOM LTD
-23.230.77.194/32 # United States | New York | HOST TELECOM LTD
 23.230.77.253/32 # United States | New York | HOST TELECOM LTD
 23.230.175.22/32 # Netherlands | North Holland | HOST TELECOM LTD
 23.230.192.79/32 # United States | New York | HOST TELECOM LTD
 23.230.192.141/32 # United States | New York | HOST TELECOM LTD
 23.230.192.205/32 # United States | New York | HOST TELECOM LTD
 23.230.237.53/32 # Netherlands | North Holland | HOST TELECOM LTD
-23.230.241.171/32 # United States | New York | HOST TELECOM LTD
 23.230.241.191/32 # United States | New York | HOST TELECOM LTD
+23.234.68.32/32 # United States | Colorado | Tzulo, Inc.
+23.234.68.46/32 # United States | New Mexico | Tzulo, Inc.
+23.234.68.157/32 # United States | Colorado | Tzulo, Inc.
+23.234.68.194/32 # United States | Colorado | Tzulo, Inc.
 23.234.69.21/32 # United States | Colorado | Tzulo, Inc.
-23.234.69.32/32 # United States | Colorado | Tzulo, Inc.
-23.234.69.146/32 # United States | Colorado | Tzulo, Inc.
 23.234.70.146/32 # United States | Colorado | Tzulo, Inc.
 23.234.71.21/32 # United States | Colorado | Tzulo, Inc.
-23.234.71.32/32 # United States | Colorado | Tzulo, Inc.
 23.234.76.102/32 # United States | North Carolina | Tzulo, Inc.
 23.234.76.157/32 # United States | North Carolina | Tzulo, Inc.
 23.234.76.194/32 # United States | North Carolina | Tzulo, Inc.
@@ -424,12 +415,10 @@
 23.234.79.21/32 # United States | North Carolina | Tzulo, Inc.
 23.234.79.32/32 # United States | North Carolina | Tzulo, Inc.
 23.234.79.162/32 # United States | North Carolina | Tzulo, Inc.
-23.234.80.68/32 # United States | Washington | Tzulo, Inc.
 23.234.80.146/32 # United States | Washington | Tzulo, Inc.
 23.234.81.21/32 # United States | Washington | Tzulo, Inc.
 23.234.81.91/32 # United States | Washington | Tzulo, Inc.
 23.234.81.104/32 # United States | Washington | Tzulo, Inc.
-23.234.82.146/32 # United States | Washington | Tzulo, Inc.
 23.234.83.32/32 # United States | Washington | Tzulo, Inc.
 23.234.83.157/32 # United States | Washington | Tzulo, Inc.
 23.234.83.218/32 # United States | Washington | Tzulo, Inc.
@@ -438,7 +427,6 @@
 23.234.89.217/32 # United States | Arizona | Tzulo, Inc.
 23.234.89.218/32 # United States | Arizona | Tzulo, Inc.
 23.234.90.22/32 # United States | Arizona | Tzulo, Inc.
-23.234.90.104/32 # United States | Arizona | Tzulo, Inc.
 23.234.90.148/32 # United States | Arizona | Tzulo, Inc.
 23.234.93.37/32 # United States | California | Tzulo, Inc.
 23.234.93.148/32 # United States | California | Tzulo, Inc.
@@ -461,13 +449,20 @@
 23.234.103.33/32 # United States | Arizona | Tzulo, Inc.
 23.234.103.90/32 # United States | New York | Tzulo, Inc.
 23.234.103.91/32 # United States | New York | Tzulo, Inc.
-23.234.108.123/32 # United States | Georgia | Tzulo, Inc.
 23.234.108.217/32 # United States | Virginia | Tzulo, Inc.
 23.234.109.104/32 # United States | Georgia | Tzulo, Inc.
 23.234.109.195/32 # United States | Georgia | Tzulo, Inc.
 23.234.110.148/32 # United States | Georgia | Tzulo, Inc.
 23.234.111.159/32 # United States | Georgia | Tzulo, Inc.
 23.234.111.195/32 # United States | Georgia | Tzulo, Inc.
+23.234.117.33/32 # United States | Missouri | Tzulo, Inc.
+23.234.117.47/32 # United States | Missouri | Tzulo, Inc.
+23.234.117.91/32 # United States | Missouri | Tzulo, Inc.
+23.234.117.231/32 # United States | Oklahoma | Tzulo, Inc.
+23.234.119.33/32 # United States | Oklahoma | Tzulo, Inc.
+23.234.119.104/32 # United States | Oklahoma | Tzulo, Inc.
+23.234.119.159/32 # United States | Oklahoma | Tzulo, Inc.
+23.234.119.231/32 # United States | Oklahoma | Tzulo, Inc.
 24.65.228.183/32 # Canada | Alberta | Shaw Communications
 24.95.137.46/32 # United States | Ohio | Charter Communications INC
 24.140.135.240/32 # United States | Ohio | Massillon Cable Communications
@@ -578,7 +573,6 @@
 45.38.169.63/32 # Netherlands | North Holland | HOST TELECOM LTD
 45.39.127.27/32 # United States | New York | HOST TELECOM LTD
 45.39.127.83/32 # United States | New York | HOST TELECOM LTD
-45.39.175.103/32 # United States | New York | HOST TELECOM LTD
 45.39.175.132/32 # United States | New York | HOST TELECOM LTD
 45.39.175.181/32 # United States | New York | HOST TELECOM LTD
 45.39.194.77/32 # United States | New York | HOST TELECOM LTD
@@ -750,7 +744,6 @@
 59.96.139.7/32 # India | Maharashtra | Bharat Sanchar Nigam LTD
 59.97.179.240/32 # India | Odisha | Bharat Sanchar Nigam LTD
 59.97.180.183/32 # India | Odisha | Bharat Sanchar Nigam LTD
-59.98.236.222/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
 59.103.100.121/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 59.103.106.96/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 59.110.7.32/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
@@ -1051,7 +1044,6 @@
 103.131.102.153/32 # Bangladesh | Khulna Division | Business Zone Limited
 103.146.111.124/32 # India | Haryana | Crisp Enterprises
 103.160.197.73/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
-103.167.204.168/32 # India | Haryana | Fibre Air Services Private Limited
 103.168.2.82/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.168.3.253/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.170.53.162/32 # India | Delhi | Ani Network Pvt LTD
@@ -1097,6 +1089,10 @@
 104.225.129.171/32 # United States | Florida | Shock Hosting LLC
 104.248.143.242/32 # Germany | Hesse | Digitalocean, LLC
 104.248.177.225/32 # United States | California | Digitalocean, LLC
+104.252.153.117/32 # United States | New York | HOST TELECOM LTD
+104.252.153.126/32 # United States | New York | HOST TELECOM LTD
+104.252.153.190/32 # United States | New York | HOST TELECOM LTD
+104.252.153.242/32 # United States | New York | HOST TELECOM LTD
 104.252.224.108/32 # United States | New York | HOST TELECOM LTD
 104.252.224.122/32 # United States | New York | HOST TELECOM LTD
 104.252.224.209/32 # United States | New York | HOST TELECOM LTD
@@ -1310,6 +1306,10 @@
 135.106.85.26/32 # United States | Massachusetts | GREEN FLOID LLC
 135.106.85.47/32 # United States | Massachusetts | GREEN FLOID LLC
 135.106.85.114/32 # United States | Massachusetts | GREEN FLOID LLC
+135.106.94.28/32 # United States | Wyoming | GREEN FLOID LLC
+135.106.94.153/32 # United States | Wyoming | GREEN FLOID LLC
+135.106.94.239/32 # United States | Wyoming | GREEN FLOID LLC
+135.106.94.244/32 # United States | Wyoming | GREEN FLOID LLC
 135.131.63.200/32 # United States | Wisconsin | TDS TELECOM
 135.237.29.5/32 # United States | District of Columbia | Microsoft Corporation
 136.0.196.210/32 # United States | New Jersey | HOST TELECOM LTD
@@ -1405,7 +1405,6 @@
 142.111.193.132/32 # United States | New York | HOST TELECOM LTD
 142.111.193.250/32 # United States | New York | HOST TELECOM LTD
 142.111.226.28/32 # United States | New York | HOST TELECOM LTD
-142.111.226.37/32 # United States | New York | HOST TELECOM LTD
 142.111.228.2/32 # United States | New Jersey | HOST TELECOM LTD
 142.111.232.48/32 # United States | New York | HOST TELECOM LTD
 142.111.232.227/32 # United States | New York | HOST TELECOM LTD
@@ -1426,7 +1425,6 @@
 142.147.89.228/32 # United States | California | xTom
 142.252.4.39/32 # United States | California | HOST TELECOM LTD
 142.252.4.139/32 # United States | California | HOST TELECOM LTD
-142.252.4.147/32 # United States | California | HOST TELECOM LTD
 142.252.4.221/32 # United States | California | HOST TELECOM LTD
 142.252.8.134/32 # United States | California | HOST TELECOM LTD
 142.252.25.24/32 # United States | California | HOST TELECOM LTD
@@ -1545,6 +1543,10 @@
 153.80.84.87/32 # United States | Mississippi | GREEN FLOID LLC
 153.80.84.108/32 # United States | Mississippi | GREEN FLOID LLC
 153.80.84.142/32 # United States | Mississippi | GREEN FLOID LLC
+153.80.97.82/32 # United States | Rhode Island | GREEN FLOID LLC
+153.80.97.123/32 # United States | Rhode Island | GREEN FLOID LLC
+153.80.97.184/32 # United States | Rhode Island | GREEN FLOID LLC
+153.80.97.230/32 # United States | Rhode Island | GREEN FLOID LLC
 153.80.115.60/32 # United States | Tennessee | GREEN FLOID LLC
 153.80.115.82/32 # United States | Tennessee | GREEN FLOID LLC
 153.80.115.226/32 # United States | Tennessee | GREEN FLOID LLC
@@ -1745,7 +1747,6 @@
 166.88.0.17/32 # United States | California | HOST TELECOM LTD
 166.88.0.106/32 # United States | California | HOST TELECOM LTD
 166.88.0.160/32 # United States | California | HOST TELECOM LTD
-166.88.153.18/32 # United States | California | HOST TELECOM LTD
 166.88.153.100/32 # United States | California | HOST TELECOM LTD
 166.88.153.139/32 # United States | California | HOST TELECOM LTD
 166.88.153.151/32 # United States | California | HOST TELECOM LTD
@@ -1762,7 +1763,6 @@
 166.88.218.66/32 # United States | California | HOST TELECOM LTD
 166.88.218.123/32 # United States | California | HOST TELECOM LTD
 166.88.218.152/32 # United States | California | HOST TELECOM LTD
-166.88.218.175/32 # United States | California | HOST TELECOM LTD
 166.88.219.29/32 # United States | California | HOST TELECOM LTD
 166.88.219.42/32 # United States | California | HOST TELECOM LTD
 166.88.219.45/32 # United States | California | HOST TELECOM LTD
@@ -1859,6 +1859,10 @@
 172.120.117.37/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.117.47/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.117.114/32 # United States | District of Columbia | HOST TELECOM LTD
+172.120.118.51/32 # United States | District of Columbia | HOST TELECOM LTD
+172.120.118.101/32 # United States | District of Columbia | HOST TELECOM LTD
+172.120.118.205/32 # United States | District of Columbia | HOST TELECOM LTD
+172.120.118.231/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.121.84/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.121.148/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.130.56/32 # United States | District of Columbia | HOST TELECOM LTD
@@ -1917,9 +1921,7 @@
 172.120.203.207/32 # United States | Pennsylvania | HOST TELECOM LTD
 172.120.207.119/32 # United States | New Jersey | HOST TELECOM LTD
 172.120.209.140/32 # United States | New Jersey | HOST TELECOM LTD
-172.120.209.218/32 # United States | New Jersey | HOST TELECOM LTD
 172.120.210.139/32 # United States | New Jersey | HOST TELECOM LTD
-172.120.211.13/32 # United States | Texas | HOST TELECOM LTD
 172.120.211.97/32 # United States | Texas | HOST TELECOM LTD
 172.120.211.247/32 # United States | Texas | HOST TELECOM LTD
 172.120.211.254/32 # United States | Texas | HOST TELECOM LTD
@@ -2079,7 +2081,6 @@
 185.208.158.250/32 # Switzerland | Bern | Global data System IT Corporation
 185.209.50.178/32 # United Kingdom | England | Clouvider Limited
 185.213.193.90/32 # United States | District of Columbia | Zenlayer INC
-185.213.193.159/32 # United States | District of Columbia | Zenlayer INC
 185.217.230.188/32 # Italy | Campania | Convergenze S.P.A.
 185.218.138.15/32 # Finland | Mainland Finland | Vlad Cojuhari
 185.218.138.39/32 # Finland | Mainland Finland | Vlad Cojuhari
