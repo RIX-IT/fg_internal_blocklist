@@ -53,10 +53,8 @@
 45.153.163.0/24 # Netherlands | North Holland | NTT America, Inc.
 45.158.44.0/24 # United States | California | Shock Hosting LLC
 45.159.124.0/24 # United States | Pennsylvania | Clouvider Limited
-45.159.125.0/24 # United States | Pennsylvania | Clouvider Limited
 45.159.126.0/24 # United States | Pennsylvania | Clouvider Limited
 45.159.127.0/24 # United States | Pennsylvania | Clouvider Limited
-45.192.33.0/24 # United States | New York | Clouvider Limited
 45.192.36.0/24 # United States | New York | Clouvider Limited
 45.192.38.0/24 # United States | New York | Clouvider Limited
 45.192.39.0/24 # United States | New York | Clouvider Limited
@@ -120,7 +118,6 @@
 103.81.231.0/24 # United States | Virginia | Hostroyale Technologies Pvt LTD
 103.102.246.0/24 # United States | Texas | Hostroyale Technologies Pvt LTD
 103.102.247.0/24 # United States | Texas | Hostroyale Technologies Pvt LTD
-103.151.103.0/24 # United States | California | Clouvider Limited
 103.152.17.0/24 # United States | California | Clouvider Limited
 104.36.50.0/24 # United States | Pennsylvania | Hostroyale Technologies Pvt...
 104.219.170.0/24 # United States | New York | Datacamp Limited
@@ -248,7 +245,6 @@
 173.249.253.0/24 # United States | Illinois | Tzulo, Inc.
 173.249.254.0/24 # United States | Illinois | Tzulo, Inc.
 173.249.255.0/24 # United States | Illinois | Tzulo, Inc.
-176.53.133.0/24 # United States | Maryland | Clouvider Limited
 178.159.93.0/24 # United States | New York | Clouvider Limited
 178.159.95.0/24 # United States | New York | Clouvider Limited
 185.13.225.0/24 # Netherlands | Overijssel | Datacamp Limited
@@ -281,7 +277,6 @@
 193.176.21.0/24 # United States | Florida | GREEN FLOID LLC
 193.176.23.0/24 # United States | Washington | GREEN FLOID LLC
 193.187.109.0/24 # United States | California | Datacamp Limited
-194.32.104.0/24 # United States | New York | GREEN FLOID LLC
 194.59.12.0/24 # United States | New York | Clouvider Limited
 194.87.114.0/24 # Germany | Hesse | Datacamp Limited
 194.104.143.0/24 # United States | Connecticut | Clouvider Limited
@@ -337,7 +332,6 @@
 5.252.190.182/32 # United States | New York | Clouvider Limited
 5.252.190.224/32 # United States | New York | Clouvider Limited
 5.252.190.234/32 # United States | New York | Clouvider Limited
-5.255.115.54/32 # Netherlands | Flevoland | The Infrastructure Group B.V.
 8.217.38.238/32 # Hong Kong | Hong Kong | Alibaba us Technology Co., Ltd.
 9.160.121.209/32 # Belgium | Brussels-Capital | Microsoft Corporation
 13.73.202.182/32 # Australia | New South Wales | Microsoft Corporation
@@ -387,7 +381,6 @@
 23.160.24.68/32 # United States | Colorado | Data Bridge Limited
 23.160.24.217/32 # United States | Colorado | Data Bridge Limited
 23.162.8.81/32 # United States | New York | Jone Broadband LLC
-23.162.40.148/32 # United States | California | Cyber Data LLC
 23.162.40.159/32 # United States | California | Cyber Data LLC
 23.162.40.206/32 # United States | California | Cyber Data LLC
 23.168.216.22/32 # United States | California | Hayashimo LLC
@@ -404,12 +397,10 @@
 23.234.68.32/32 # United States | Colorado | Tzulo, Inc.
 23.234.68.46/32 # United States | New Mexico | Tzulo, Inc.
 23.234.68.157/32 # United States | Colorado | Tzulo, Inc.
-23.234.68.194/32 # United States | Colorado | Tzulo, Inc.
 23.234.69.21/32 # United States | Colorado | Tzulo, Inc.
 23.234.70.146/32 # United States | Colorado | Tzulo, Inc.
 23.234.71.21/32 # United States | Colorado | Tzulo, Inc.
 23.234.76.102/32 # United States | North Carolina | Tzulo, Inc.
-23.234.76.157/32 # United States | North Carolina | Tzulo, Inc.
 23.234.76.194/32 # United States | North Carolina | Tzulo, Inc.
 23.234.78.146/32 # United States | North Carolina | Tzulo, Inc.
 23.234.79.21/32 # United States | North Carolina | Tzulo, Inc.
@@ -450,7 +441,6 @@
 23.234.103.90/32 # United States | New York | Tzulo, Inc.
 23.234.103.91/32 # United States | New York | Tzulo, Inc.
 23.234.108.217/32 # United States | Virginia | Tzulo, Inc.
-23.234.109.104/32 # United States | Georgia | Tzulo, Inc.
 23.234.109.195/32 # United States | Georgia | Tzulo, Inc.
 23.234.110.148/32 # United States | Georgia | Tzulo, Inc.
 23.234.111.159/32 # United States | Georgia | Tzulo, Inc.
@@ -639,11 +629,19 @@
 45.152.227.117/32 # Germany | Berlin | Clouvider Limited
 45.153.227.202/32 # Germany | Berlin | Clouvider Limited
 45.156.129.156/32 # United States | Illinois | Nsec Sistemas Informaticos, S.A.
+45.159.125.137/32 # United States | Indiana | Clouvider Limited
+45.159.125.158/32 # United States | Indiana | Clouvider Limited
+45.159.125.194/32 # United States | Indiana | Clouvider Limited
+45.159.125.204/32 # United States | Indiana | Clouvider Limited
 45.160.73.233/32 # Chile | Santiago Metropolitan Region | Besthost SPA
 45.163.174.183/32 # Brazil | State of São Paulo | Rg Correa Telecomunica oes
 45.165.90.28/32 # Brazil | State of Bahia | Turbozone Internet
 45.192.32.9/32 # United States | New York | Clouvider Limited
 45.192.32.10/32 # United States | New York | Clouvider Limited
+45.192.33.9/32 # United States | New York | Clouvider Limited
+45.192.33.65/32 # United States | New York | Clouvider Limited
+45.192.33.91/32 # United States | New York | Clouvider Limited
+45.192.33.204/32 # United States | New York | Clouvider Limited
 45.192.34.27/32 # United States | New York | Clouvider Limited
 45.192.34.48/32 # United States | New York | Clouvider Limited
 45.192.34.91/32 # United States | New York | Clouvider Limited
@@ -968,7 +966,6 @@
 92.119.163.19/32 # United States | Arizona | Shock Hosting LLC
 92.119.163.49/32 # United States | Arizona | Shock Hosting LLC
 92.119.163.101/32 # United States | Arizona | Shock Hosting LLC
-92.119.163.122/32 # United States | Arizona | Shock Hosting LLC
 92.119.237.144/32 # Albania | Central Albania | Isa.net SH.P.K.
 92.205.26.97/32 # France | Grand Est | Host Europe GmbH
 92.249.61.156/32 # Turkey | Bursa | HOSTING DUNYAM BILISIM TEKNOLOJILERI TICA...
@@ -1043,6 +1040,10 @@
 103.99.197.131/32 # India | Delhi | Maxnet Digital Pvt LTD
 103.131.102.153/32 # Bangladesh | Khulna Division | Business Zone Limited
 103.146.111.124/32 # India | Haryana | Crisp Enterprises
+103.151.103.39/32 # United States | California | Clouvider Limited
+103.151.103.65/32 # United States | California | Clouvider Limited
+103.151.103.88/32 # United States | California | Clouvider Limited
+103.151.103.164/32 # United States | California | Clouvider Limited
 103.160.197.73/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.168.2.82/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.168.3.253/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
@@ -1999,6 +2000,10 @@
 175.107.237.2/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 175.148.31.219/32 # China | Liaoning | China Unicom China1 Backbone
 175.165.87.198/32 # China | Liaoning | China Unicom China1 Backbone
+176.53.133.5/32 # United States | Maryland | Clouvider Limited
+176.53.133.17/32 # United States | Maryland | Clouvider Limited
+176.53.133.151/32 # United States | Maryland | Clouvider Limited
+176.53.133.241/32 # United States | Maryland | Clouvider Limited
 176.65.137.44/32 # Germany | Berlin | KAAL TECH CO., LIMITED
 176.100.130.54/32 # United States | New York | Clouvider Limited
 176.100.131.118/32 # United States | New York | Clouvider Limited
@@ -2146,6 +2151,10 @@
 193.228.131.165/32 # United States | New York | Clouvider Limited
 193.228.131.181/32 # United States | New York | Clouvider Limited
 193.233.126.43/32 # Netherlands | North Holland | Digital Hosting Provider LLC
+194.32.104.15/32 # United States | Florida | GREEN FLOID LLC
+194.32.104.105/32 # United States | Florida | GREEN FLOID LLC
+194.32.104.140/32 # United States | Florida | GREEN FLOID LLC
+194.32.104.204/32 # United States | Florida | GREEN FLOID LLC
 194.35.127.56/32 # United States | District of Columbia | Clouvider Limited
 194.35.127.85/32 # United States | District of Columbia | Clouvider Limited
 194.35.127.175/32 # United States | District of Columbia | Clouvider Limited
