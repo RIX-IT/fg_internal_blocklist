@@ -19,7 +19,6 @@
 23.234.106.0/24 # United States | Texas | Tzulo, Inc.
 23.234.107.0/24 # United States | Texas | Tzulo, Inc.
 23.234.115.0/24 # United States | Utah | Tzulo, Inc.
-23.234.118.0/24 # United States | Missouri | Tzulo, Inc.
 31.59.236.0/24 # Germany | Hesse | Datacamp Limited
 31.59.237.0/24 # Germany | Hesse | Datacamp Limited
 31.59.238.0/24 # Germany | Hesse | Datacamp Limited
@@ -227,7 +226,6 @@
 5.35.44.176/32 # Netherlands | North Holland | SERVERS TECH FZCO
 5.42.209.173/32 # Germany | Berlin | Ivanov Vitaliy Sergeevich
 5.59.95.170/32 # Spain | Catalunya | Acerko Telecom S.L.
-5.59.248.53/32 # Italy | Lazio | Cinzia Tocci Trading AS Lumanex SRL
 5.180.221.108/32 # Japan | Tokyo | Uab Code 00
 5.187.35.26/32 # Netherlands | North Holland | Amarutu Technology LTD
 5.187.35.142/32 # Netherlands | North Holland | Amarutu Technology LTD
@@ -292,14 +290,12 @@
 23.230.192.141/32 # United States | New York | HOST TELECOM LTD
 23.230.237.53/32 # Netherlands | North Holland | HOST TELECOM LTD
 23.230.241.191/32 # United States | New York | HOST TELECOM LTD
-23.234.68.157/32 # United States | Colorado | Tzulo, Inc.
 23.234.79.162/32 # United States | North Carolina | Tzulo, Inc.
 23.234.81.91/32 # United States | Washington | Tzulo, Inc.
 23.234.83.218/32 # United States | Washington | Tzulo, Inc.
 23.234.89.218/32 # United States | Arizona | Tzulo, Inc.
 23.234.93.37/32 # United States | California | Tzulo, Inc.
 23.234.94.33/32 # United States | California | Tzulo, Inc.
-23.234.101.47/32 # United States | New York | Tzulo, Inc.
 23.234.102.217/32 # United States | New York | Tzulo, Inc.
 23.234.103.91/32 # United States | New York | Tzulo, Inc.
 23.234.112.33/32 # United States | Utah | Tzulo, Inc.
@@ -312,10 +308,13 @@
 23.234.113.218/32 # United States | Utah | Tzulo, Inc.
 23.234.114.91/32 # United States | Utah | Tzulo, Inc.
 23.234.114.159/32 # United States | Utah | Tzulo, Inc.
-23.234.114.217/32 # United States | Utah | Tzulo, Inc.
 23.234.116.102/32 # United States | Missouri | Tzulo, Inc.
 23.234.116.229/32 # United States | Missouri | Tzulo, Inc.
 23.234.117.91/32 # United States | Missouri | Tzulo, Inc.
+23.234.118.33/32 # United States | Oklahoma | Tzulo, Inc.
+23.234.118.68/32 # United States | Oklahoma | Tzulo, Inc.
+23.234.118.159/32 # United States | Oklahoma | Tzulo, Inc.
+23.234.118.240/32 # United States | Texas | Tzulo, Inc.
 23.234.119.33/32 # United States | Oklahoma | Tzulo, Inc.
 23.234.119.159/32 # United States | Oklahoma | Tzulo, Inc.
 24.65.228.183/32 # Canada | Alberta | Shaw Communications
@@ -640,7 +639,6 @@
 61.1.228.104/32 # India | Kerala | Bharat Sanchar Nigam LTD
 61.1.236.224/32 # India | Kerala | Bharat Sanchar Nigam LTD
 61.3.16.160/32 # India | Karnataka | Bharat Sanchar Nigam LTD
-61.3.24.95/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 61.4.102.97/32 # Malaysia | Federal Territory of Kuala Lumpur | Gigabit Hos...
 61.53.86.228/32 # China | Henan | China Unicom China1 Backbone
 61.53.91.167/32 # China | Henan | China Unicom China1 Backbone
@@ -939,9 +937,6 @@
 103.99.196.0/32 # India | Delhi | Maxnet Digital Pvt LTD
 103.99.197.131/32 # India | Delhi | Maxnet Digital Pvt LTD
 103.102.246.33/32 # United States | Texas | Hostroyale Technologies Pvt LTD
-103.102.246.103/32 # United States | Texas | Hostroyale Technologies Pvt LTD
-103.102.246.159/32 # United States | Texas | Hostroyale Technologies Pvt LTD
-103.102.247.212/32 # United States | Texas | Hostroyale Technologies Pvt LTD
 103.102.247.217/32 # United States | Texas | Hostroyale Technologies Pvt LTD
 103.131.102.153/32 # Bangladesh | Khulna Division | Business Zone Limited
 103.151.103.39/32 # United States | California | Clouvider Limited
@@ -1547,7 +1542,6 @@
 155.212.66.133/32 # United States | Florida | GREEN FLOID LLC
 155.212.67.167/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.77.26/32 # United States | Washington | GREEN FLOID LLC
-155.212.80.32/32 # Denmark | Denmark | IT HOSTLINE LTD
 155.212.82.252/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.85.43/32 # United States | Washington | GREEN FLOID LLC
 155.212.85.212/32 # United States | Washington | GREEN FLOID LLC
@@ -1584,7 +1578,6 @@
 156.233.1.26/32 # United States | New York | Clouvider Limited
 156.233.1.116/32 # United States | New York | Clouvider Limited
 156.233.1.168/32 # United States | New York | Clouvider Limited
-156.233.53.58/32 # Denmark | Denmark | IT HOSTLINE LTD
 156.233.105.121/32 # United States | New York | Clouvider Limited
 156.233.105.133/32 # United States | New York | Clouvider Limited
 156.233.105.241/32 # United States | New York | Clouvider Limited
@@ -1752,7 +1745,6 @@
 172.86.123.150/32 # United States | Texas | Routerhosting LLC
 172.86.126.62/32 # United States | California | Routerhosting LLC
 172.104.17.154/32 # United States | New Jersey | Akamai Technologies, Inc.
-172.105.158.135/32 # United States | Georgia | Akamai Technologies, Inc.
 172.110.223.38/32 # United States | New Jersey | Reliablesite.net LLC
 172.120.12.184/32 # United States | California | HOST TELECOM LTD
 172.120.17.2/32 # United States | California | HOST TELECOM LTD
