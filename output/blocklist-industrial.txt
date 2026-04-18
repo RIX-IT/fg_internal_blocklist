@@ -286,7 +286,6 @@
 23.234.103.91/32 # United States | New York | Tzulo, Inc.
 23.234.112.212/32 # United States | Utah | Tzulo, Inc.
 23.234.112.218/32 # United States | Utah | Tzulo, Inc.
-23.234.113.33/32 # United States | Utah | Tzulo, Inc.
 23.234.113.159/32 # United States | Utah | Tzulo, Inc.
 23.234.113.212/32 # United States | Utah | Tzulo, Inc.
 23.234.113.218/32 # United States | Utah | Tzulo, Inc.
@@ -454,6 +453,7 @@
 45.137.155.50/32 # United States | Mississippi | GREEN FLOID LLC
 45.138.4.163/32 # Germany | Hesse | Clouvider Limited
 45.138.5.176/32 # Netherlands | Overijssel | Clouvider Limited
+45.138.145.141/32 # Germany | Hesse | Clouvider Limited
 45.139.54.14/32 # Netherlands | South Holland | Shock Hosting LLC
 45.139.54.165/32 # Netherlands | South Holland | Shock Hosting LLC
 45.140.174.7/32 # United States | California | Shock Hosting LLC
@@ -1071,7 +1071,6 @@
 117.210.192.255/32 # India | Rajasthan | Bharat Sanchar Nigam LTD
 117.212.36.244/32 # India | Madhya Pradesh | Bharat Sanchar Nigam LTD
 117.215.49.83/32 # India | Karnataka | Bharat Sanchar Nigam LTD
-117.215.62.97/32 # India | Chhattisgarh | Bharat Sanchar Nigam LTD
 117.217.129.68/32 # India | Andhra Pradesh | Bharat Sanchar Nigam LTD
 117.221.112.151/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.221.165.240/32 # India | Telangana | Bharat Sanchar Nigam LTD
@@ -1232,12 +1231,14 @@
 138.197.170.20/32 # Canada | Ontario | Digitalocean, LLC
 138.204.160.246/32 # Argentina | Buenos Aires | COOPERATIVA UNION DEL SUD
 138.249.105.184/32 # Netherlands | North Holland | Clouvider Limited
+138.249.107.20/32 # Germany | Berlin | Clouvider Limited
 138.249.139.38/32 # United States | California | Clouvider Limited
 138.249.167.28/32 # United States | District of Columbia | Clouvider Limited
 138.249.167.52/32 # United States | District of Columbia | Clouvider Limited
 138.249.167.196/32 # United States | Tennessee | Clouvider Limited
 138.249.170.43/32 # United States | California | Clouvider Limited
 138.249.170.77/32 # United States | California | Clouvider Limited
+138.249.185.233/32 # Germany | Berlin | Clouvider Limited
 138.249.186.131/32 # Netherlands | South Holland | Clouvider Limited
 138.249.188.211/32 # Netherlands | North Holland | Clouvider Limited
 138.249.206.126/32 # United States | New York | Clouvider Limited
@@ -1271,6 +1272,7 @@
 139.180.160.173/32 # Australia | New South Wales | The Constant Company, LLC
 140.205.220.98/32 # China | Zhejiang | Hangzhou Alibaba Advertising CO.,LTD.
 140.235.83.213/32 # Pakistan | Sindh | Cyber Internet Services private Limited
+141.133.105.112/32 # Germany | Berlin | Ivanov Vitaliy Sergeevich
 141.147.8.9/32 # Germany | Hesse | Oracle Corporation
 142.11.206.73/32 # United States | Washington | Hostwinds Llc.
 142.93.226.130/32 # Netherlands | North Holland | Digitalocean, LLC
@@ -1471,22 +1473,30 @@
 154.194.70.108/32 # Germany | Berlin | Clouvider Limited
 154.194.72.251/32 # Germany | Berlin | Clouvider Limited
 154.194.79.93/32 # Germany | Berlin | Clouvider Limited
+154.194.81.194/32 # Germany | Berlin | Clouvider Limited
 154.194.85.139/32 # Germany | Berlin | Clouvider Limited
 154.194.88.55/32 # Germany | Berlin | Clouvider Limited
+154.194.89.126/32 # Germany | Berlin | Clouvider Limited
 154.194.90.54/32 # Germany | Berlin | Clouvider Limited
+154.194.90.164/32 # Germany | Berlin | Clouvider Limited
 154.194.95.3/32 # Germany | Berlin | Clouvider Limited
+154.194.95.48/32 # Germany | Berlin | Clouvider Limited
 154.194.96.151/32 # Germany | Berlin | Clouvider Limited
 154.194.99.195/32 # Germany | Berlin | Clouvider Limited
 154.194.104.160/32 # Germany | Berlin | Clouvider Limited
+154.194.110.227/32 # Germany | Berlin | Clouvider Limited
 154.194.112.50/32 # Germany | Berlin | Clouvider Limited
 154.194.112.90/32 # Germany | Berlin | Clouvider Limited
 154.194.120.229/32 # Germany | Berlin | Clouvider Limited
 154.194.125.100/32 # Germany | Berlin | Clouvider Limited
 154.194.127.5/32 # Germany | Berlin | Clouvider Limited
 154.195.2.179/32 # Germany | Berlin | Clouvider Limited
+154.195.19.156/32 # Germany | Berlin | Clouvider Limited
 154.195.25.56/32 # Germany | Berlin | Clouvider Limited
 154.195.27.3/32 # Germany | Berlin | Clouvider Limited
 154.195.97.80/32 # Germany | Berlin | Clouvider Limited
+154.195.99.27/32 # Germany | Berlin | Clouvider Limited
+154.195.100.54/32 # Germany | Berlin | Clouvider Limited
 154.195.108.161/32 # Germany | Berlin | Clouvider Limited
 154.195.113.77/32 # Germany | Berlin | Clouvider Limited
 154.195.127.86/32 # Germany | Berlin | Clouvider Limited
@@ -1494,6 +1504,7 @@
 154.195.135.216/32 # Germany | Bavaria | Clouvider Limited
 154.195.136.18/32 # Germany | Bavaria | Clouvider Limited
 154.195.140.168/32 # Germany | Bavaria | Clouvider Limited
+154.195.142.216/32 # Germany | Bavaria | Clouvider Limited
 154.195.157.136/32 # Germany | Bavaria | Clouvider Limited
 154.195.163.85/32 # Germany | Bavaria | Clouvider Limited
 154.195.165.239/32 # Germany | Bavaria | Clouvider Limited
@@ -1508,8 +1519,13 @@
 154.196.34.169/32 # Germany | North Rhine-Westphalia | Clouvider Limited
 154.196.42.190/32 # Germany | Hesse | Clouvider Limited
 154.196.48.158/32 # Germany | Hesse | Clouvider Limited
+154.196.53.173/32 # Germany | North Rhine-Westphalia | Clouvider Limited
 154.196.54.202/32 # Germany | Hesse | Clouvider Limited
+154.196.55.227/32 # Germany | North Rhine-Westphalia | Clouvider Limited
 154.196.62.180/32 # Germany | North Rhine-Westphalia | Clouvider Limited
+154.196.69.9/32 # Germany | North Rhine-Westphalia | Clouvider Limited
+154.196.78.47/32 # Germany | North Rhine-Westphalia | Clouvider Limited
+154.196.83.178/32 # Germany | Hesse | Clouvider Limited
 154.211.89.5/32 # Hong Kong | Hong Kong | Tcloudnet
 154.223.222.226/32 # Netherlands | North Holland | Clouvider Limited
 155.2.192.235/32 # United States | New York | Interserver, INC
@@ -1943,6 +1959,7 @@
 185.73.218.191/32 # United States | New York | Clouvider Limited
 185.73.219.156/32 # United States | New York | Clouvider Limited
 185.73.219.215/32 # United States | New York | Clouvider Limited
+185.77.136.203/32 # Germany | Hesse | Clouvider Limited
 185.78.78.138/32 # Germany | Hesse | Clouvider Limited
 185.78.79.234/32 # Germany | Hesse | Clouvider Limited
 185.81.71.37/32 # United States | Maine | Clouvider Limited
@@ -1952,6 +1969,7 @@
 185.94.67.86/32 # United States | Arizona | Clouvider Limited
 185.94.67.134/32 # United States | Arizona | Clouvider Limited
 185.94.67.144/32 # United States | Arizona | Clouvider Limited
+185.97.76.73/32 # Germany | Hesse | Clouvider Limited
 185.98.42.23/32 # United States | Texas | Clouvider Limited
 185.98.42.56/32 # United States | Texas | Clouvider Limited
 185.98.42.92/32 # United States | Texas | Clouvider Limited
@@ -1983,6 +2001,7 @@
 185.217.230.188/32 # Italy | Campania | Convergenze S.P.A.
 185.218.138.15/32 # Finland | Mainland Finland | Vlad Cojuhari
 185.218.138.39/32 # Finland | Mainland Finland | Vlad Cojuhari
+185.238.91.106/32 # Germany | Hesse | Clouvider Limited
 185.238.251.38/32 # United States | California | GWY IT PTY LTD
 185.245.41.180/32 # Hong Kong | Hong Kong | Cloudie Limited
 185.245.183.74/32 # France | Grand Est | Contabo GmbH
