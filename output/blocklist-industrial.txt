@@ -48,7 +48,6 @@
 66.93.7.0/24 # United States | California | Datacamp Limited
 66.93.51.0/24 # United States | Florida | Datacamp Limited
 66.93.52.0/24 # United States | Florida | Datacamp Limited
-66.93.162.0/24 # United States | Arizona | Datacamp Limited
 66.93.163.0/24 # United States | Arizona | Datacamp Limited
 66.93.164.0/24 # United States | Illinois | Datacamp Limited
 66.93.165.0/24 # United States | Illinois | Datacamp Limited
@@ -275,8 +274,6 @@
 23.230.192.141/32 # United States | New York | HOST TELECOM LTD
 23.230.237.53/32 # Netherlands | North Holland | HOST TELECOM LTD
 23.230.241.191/32 # United States | New York | HOST TELECOM LTD
-23.234.112.218/32 # United States | Utah | Tzulo, Inc.
-23.234.113.218/32 # United States | Utah | Tzulo, Inc.
 24.65.228.183/32 # Canada | Alberta | Shaw Communications
 24.95.137.46/32 # United States | Ohio | Charter Communications INC
 24.140.135.240/32 # United States | Ohio | Massillon Cable Communications
@@ -639,6 +636,10 @@
 66.78.45.102/32 # United States | New York | Datacamp Limited
 66.78.45.115/32 # United States | New York | Datacamp Limited
 66.78.45.140/32 # United States | New York | Datacamp Limited
+66.93.162.213/32 # United States | Arizona | Datacamp Limited
+66.93.162.219/32 # United States | Arizona | Datacamp Limited
+66.93.162.229/32 # United States | Arizona | Datacamp Limited
+66.93.162.243/32 # United States | Arizona | Datacamp Limited
 66.112.216.232/32 # United States | California | It Networks INC
 66.167.166.0/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 66.167.166.231/32 # Pakistan | Punjab | Cyber Internet Services private Limited
@@ -695,7 +696,6 @@
 74.0.100.200/32 # United States | Texas | Datacamp Limited
 74.62.9.212/32 # United States | California | Charter Communications INC
 74.124.220.177/32 # United States | New York | Datacamp Limited
-74.124.221.95/32 # United States | New York | Datacamp Limited
 74.124.221.119/32 # United States | New York | Datacamp Limited
 74.129.78.179/32 # United States | Ohio | Charter Communications INC
 74.207.227.9/32 # United States | Georgia | Akamai Technologies, Inc.
@@ -736,7 +736,6 @@
 79.127.217.37/32 # United States | California | Datacamp Limited
 79.127.217.45/32 # United States | California | Datacamp Limited
 79.127.217.50/32 # United States | California | Datacamp Limited
-79.127.217.56/32 # United States | California | Datacamp Limited
 79.132.130.142/32 # Germany | Hesse | Servinga GmbH
 79.133.51.100/32 # Germany | Hesse | Ultahost, Inc.
 79.253.33.28/32 # Germany | Hesse | Deutsche Telekom AG
@@ -793,7 +792,6 @@
 87.249.134.30/32 # United States | Illinois | Datacamp Limited
 87.249.134.35/32 # United States | Illinois | Datacamp Limited
 87.249.134.37/32 # United States | Illinois | Datacamp Limited
-87.249.134.38/32 # United States | Illinois | Datacamp Limited
 88.32.34.78/32 # Italy | Friuli-Venezia Giulia | Telecom Italia S.P.A.
 88.32.188.248/32 # Italy | Lombardy | Telecom Italia S.P.A.
 88.119.174.116/32 # United States | Illinois | Informacines Sistemos Ir Techno...
@@ -1354,7 +1352,6 @@
 144.208.127.143/32 # United States | New York | Shock Hosting LLC
 146.70.117.113/32 # Germany | North Rhine-Westphalia | M Europe SRL
 146.70.166.138/32 # United States | New York | M Europe SRL
-146.70.171.138/32 # United States | New York | M Europe SRL
 146.70.185.11/32 # United States | New York | M Europe SRL
 146.70.185.14/32 # United States | New York | M Europe SRL
 146.70.185.36/32 # United States | New York | M Europe SRL
@@ -1393,14 +1390,12 @@
 151.243.11.23/32 # Germany | Hesse | LLC VASH KREDIT BANK
 151.247.50.159/32 # United States | California | M Europe SRL
 151.247.50.203/32 # United States | California | M Europe SRL
-151.247.120.40/32 # United States | California | Datacamp Limited
 151.247.123.245/32 # United States | California | Datacamp Limited
 151.247.124.27/32 # United States | California | Datacamp Limited
 151.247.125.164/32 # United States | California | Datacamp Limited
 151.247.126.62/32 # United States | California | Datacamp Limited
 151.247.186.236/32 # United States | New York | M Europe SRL
 151.247.188.8/32 # United States | New York | Datacamp Limited
-151.247.188.42/32 # United States | New York | Datacamp Limited
 151.247.221.133/32 # United States | California | Datacamp Limited
 151.247.221.152/32 # United States | California | Datacamp Limited
 151.247.221.174/32 # United States | California | Datacamp Limited
@@ -1707,6 +1702,7 @@
 168.181.229.87/32 # United States | New York | HOST PARA TU VIDA S.A.
 168.181.229.118/32 # United States | New York | HOST PARA TU VIDA S.A.
 168.231.121.209/32 # India | Maharashtra | Hostinger International Limited
+169.40.2.68/32 # Latvia | Vidzeme | SIA VEESP
 169.150.203.30/32 # United States | California | Datacamp Limited
 169.150.203.31/32 # United States | California | Datacamp Limited
 169.150.203.39/32 # United States | California | Datacamp Limited
@@ -1883,7 +1879,6 @@
 173.254.204.72/32 # United States | California | HostPapa
 174.129.205.0/32 # United States | Virginia | Amazon.com, Inc.
 174.171.52.9/32 # United States | Texas | Comcast Cable Communications, LLC
-175.107.0.5/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.0.28/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.0.133/32 # Pakistan | Islamabad Capital Territory | National Telecomm...
 175.107.2.76/32 # Pakistan | Punjab | National Telecommunication Corporation
@@ -2009,6 +2004,7 @@
 187.184.11.171/32 # Mexico | Morelos | Cablemas Telecomunicaciones SA De Cv
 187.190.205.156/32 # Mexico | Jalisco | TOTAL PLAY TELECOMUNICACIONES SA DE CV
 188.166.87.88/32 # Netherlands | North Holland | Digitalocean, LLC
+188.214.34.20/32 # Cyprus | South Cyprus | Edis GmbH
 188.239.19.68/32 # Singapore | Southeast | HUAWEI INTERNATIONAL PTE. LTD.
 190.123.85.29/32 # Argentina | Córdoba | Pogliotti Pogliotti Construcciones S.A.
 190.124.18.155/32 # Honduras | Yoro | Metronet
