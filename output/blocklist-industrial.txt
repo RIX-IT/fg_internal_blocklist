@@ -53,7 +53,6 @@
 66.93.166.0/24 # United States | Illinois | Datacamp Limited
 66.93.167.0/24 # United States | Illinois | Datacamp Limited
 68.235.46.0/24 # United States | Illinois | Tzulo, Inc.
-72.244.46.0/24 # United States | Illinois | Datacamp Limited
 72.244.47.0/24 # United States | Illinois | Datacamp Limited
 74.0.96.0/24 # United States | Texas | Datacamp Limited
 74.0.98.0/24 # United States | Texas | Datacamp Limited
@@ -181,7 +180,6 @@
 200.10.34.0/24 # United States | Oregon | TODAS LAS REDES SA
 208.131.130.0/24 # United States | Utah | THG HOSTING LIMITED
 209.101.200.0/24 # United States | Illinois | Datacamp Limited
-209.101.201.0/24 # United States | Illinois | Datacamp Limited
 209.101.202.0/24 # United States | Illinois | Datacamp Limited
 209.101.203.0/24 # United States | Illinois | Datacamp Limited
 209.101.253.0/24 # United States | Florida | Datacamp Limited
@@ -672,6 +670,10 @@
 72.18.215.108/32 # United States | Missouri | Wholesale Internet, Inc.
 72.153.124.8/32 # United States | Virginia | Microsoft Corporation
 72.224.201.161/32 # United States | New York | Charter Communications INC
+72.244.46.1/32 # United States | Illinois | Datacamp Limited
+72.244.46.9/32 # United States | Illinois | Datacamp Limited
+72.244.46.78/32 # United States | Illinois | Datacamp Limited
+72.244.46.82/32 # United States | Illinois | Datacamp Limited
 72.255.26.8/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 72.255.26.167/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 72.255.32.39/32 # Pakistan | Punjab | Cyber Internet Services private Limited
@@ -686,7 +688,6 @@
 73.235.231.236/32 # United States | California | Comcast Cable Communications,...
 74.0.97.79/32 # United States | Texas | Datacamp Limited
 74.0.97.192/32 # United States | Texas | Datacamp Limited
-74.0.97.199/32 # United States | Texas | Datacamp Limited
 74.0.100.118/32 # United States | Texas | Datacamp Limited
 74.62.9.212/32 # United States | California | Charter Communications INC
 74.124.220.177/32 # United States | New York | Datacamp Limited
@@ -804,7 +805,6 @@
 88.216.187.29/32 # Netherlands | North Holland | Uab Cherry Servers
 88.216.197.45/32 # Republic of Lithuania | Šiaulių apskritis | Uab Cherry Ser...
 88.218.80.18/32 # United States | New York | Clouvider Limited
-89.19.57.147/32 # United States | California | Ws Telecom INC
 89.19.57.163/32 # United States | California | Ws Telecom INC
 89.19.57.184/32 # United States | California | Ws Telecom INC
 89.19.57.249/32 # United States | California | Ws Telecom INC
@@ -1046,7 +1046,6 @@
 117.200.149.210/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
 117.200.211.232/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.204.165.19/32 # India | Chhattisgarh | Bharat Sanchar Nigam LTD
-117.205.88.124/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.205.95.190/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.206.25.54/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.206.68.203/32 # India | Karnataka | Bharat Sanchar Nigam LTD
@@ -1380,14 +1379,12 @@
 149.104.23.176/32 # Hong Kong | Hong Kong | XNNET LLC
 150.136.222.129/32 # United States | Virginia | Oracle Corporation
 150.241.200.198/32 # United States | New York | Datacamp Limited
-150.241.201.222/32 # United States | New York | Datacamp Limited
 151.202.39.46/32 # United States | New York | Verizon Business
 151.241.122.47/32 # United States | New Jersey | Cogent Communications, LLC
 151.243.11.23/32 # Germany | Hesse | LLC VASH KREDIT BANK
 151.247.50.159/32 # United States | California | M Europe SRL
 151.247.50.203/32 # United States | California | M Europe SRL
 151.247.124.27/32 # United States | California | Datacamp Limited
-151.247.125.164/32 # United States | California | Datacamp Limited
 151.247.126.62/32 # United States | California | Datacamp Limited
 151.247.186.236/32 # United States | New York | M Europe SRL
 151.247.188.8/32 # United States | New York | Datacamp Limited
@@ -1520,7 +1517,6 @@
 155.2.190.27/32 # United States | Georgia | THG HOSTING LIMITED
 155.2.190.97/32 # United States | Georgia | THG HOSTING LIMITED
 155.2.190.132/32 # United States | Georgia | THG HOSTING LIMITED
-155.2.190.202/32 # United States | Georgia | THG HOSTING LIMITED
 155.2.192.235/32 # United States | New York | Interserver, INC
 155.138.150.12/32 # Canada | Ontario | The Constant Company, LLC
 155.212.34.213/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
@@ -1899,7 +1895,6 @@
 176.100.148.177/32 # United States | New York | GREEN FLOID LLC
 176.100.149.9/32 # United States | New York | GREEN FLOID LLC
 176.100.149.117/32 # United States | New York | GREEN FLOID LLC
-176.125.228.10/32 # Algeria | Algiers | M Europe SRL
 176.198.21.42/32 # Germany | North Rhine-Westphalia | Vodafone GmbH
 176.235.182.145/32 # Turkey | İstanbul | Superonline Iletisim Hizmetleri A.S.
 177.18.56.142/32 # Brazil | State of Rio Grande do Sul | TELEF NICA BRASIL S.A
@@ -2160,6 +2155,10 @@
 209.101.149.26/32 # United States | Florida | Datacamp Limited
 209.101.150.207/32 # United States | Florida | Datacamp Limited
 209.101.151.255/32 # United States | Florida | Datacamp Limited
+209.101.201.9/32 # United States | Illinois | Datacamp Limited
+209.101.201.111/32 # United States | Illinois | Datacamp Limited
+209.101.201.123/32 # United States | Illinois | Datacamp Limited
+209.101.201.128/32 # United States | Illinois | Datacamp Limited
 209.101.252.138/32 # United States | Florida | Datacamp Limited
 209.141.43.37/32 # United States | Nevada | Frantech Solutions
 209.182.225.147/32 # United States | Washington | Shock Hosting LLC
@@ -2205,6 +2204,7 @@
 216.126.239.225/32 # United States | Utah | Routerhosting LLC
 216.126.239.234/32 # United States | Utah | Routerhosting LLC
 216.158.233.60/32 # United States | New Jersey | Interserver, INC
+216.173.77.117/32 # United States | Florida | SPARKED HOST LLC
 216.180.253.196/32 # United States | New York | Datacamp Limited
 216.185.46.28/32 # United States | California | Datacamp Limited
 216.185.46.230/32 # United States | California | Datacamp Limited
