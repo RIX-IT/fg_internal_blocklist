@@ -369,6 +369,7 @@
 45.11.229.248/32 # Germany | Hesse | Florian Kolb
 45.15.239.89/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 45.15.239.121/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
+45.15.239.163/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 45.38.134.150/32 # Netherlands | North Holland | HOST TELECOM LTD
 45.38.169.63/32 # Netherlands | North Holland | HOST TELECOM LTD
 45.39.127.83/32 # United States | New York | HOST TELECOM LTD
@@ -533,7 +534,6 @@
 46.22.156.31/32 # Germany | Lower Saxony | Tng Stadtnetz GmbH
 46.25.4.108/32 # Spain | Catalunya | Vodafone BB Global
 46.29.167.211/32 # Russia | Moscow | LLC Baxet
-46.225.21.203/32 # Germany | Bavaria | Hetzner Online GmbH
 46.225.191.94/32 # Germany | Bavaria | Hetzner Online GmbH
 46.229.55.63/32 # Ukraine | Poltava Oblast | Oleksandr Melnyk
 47.12.73.195/32 # United States | Wisconsin | Charter Communications LLC
@@ -811,7 +811,6 @@
 89.22.232.150/32 # Sweden | Stockholm County | AEZA GROUP LLC
 89.23.96.126/32 # Russia | Moscow | JSC TIMEWEB
 89.37.63.33/32 # Sweden | Stockholm County | Datacamp Limited
-89.116.56.202/32 # United States | New York | Datacamp Limited
 89.116.56.251/32 # United States | New York | Datacamp Limited
 89.117.79.31/32 # United States | New York | Contabo Inc.
 89.195.5.18/32 # United States | California | Mongodb, Inc.
@@ -915,6 +914,7 @@
 103.151.103.88/32 # United States | California | Clouvider Limited
 103.151.103.164/32 # United States | California | Clouvider Limited
 103.152.16.58/32 # Singapore | Southeast | LEASEWEB SINGAPORE PTE. LTD.
+103.152.16.177/32 # Singapore | Southeast | LEASEWEB SINGAPORE PTE. LTD.
 103.160.197.73/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.168.3.253/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.170.53.162/32 # India | Delhi | Ani Network Pvt LTD
@@ -1118,7 +1118,6 @@
 129.222.109.252/32 # Madagascar | Analamanga | Space Exploration Technologies C...
 129.222.253.214/32 # United States | Georgia | Space Exploration Technologies C...
 129.226.128.168/32 # Hong Kong | Hong Kong | Shenzhen Tencent Computer Systems ...
-129.226.159.39/32 # Singapore | Southeast | Shenzhen Tencent Computer Systems ...
 130.49.5.240/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 130.49.15.99/32 # United States | Washington | GREEN FLOID LLC
 130.49.25.2/32 # United States | Washington | GREEN FLOID LLC
@@ -1232,7 +1231,6 @@
 138.197.170.20/32 # Canada | Ontario | Digitalocean, LLC
 138.199.43.75/32 # United States | Washington | Datacamp Limited
 138.199.43.86/32 # United States | Washington | Datacamp Limited
-138.199.43.99/32 # United States | Washington | Datacamp Limited
 138.204.160.246/32 # Argentina | Buenos Aires | COOPERATIVA UNION DEL SUD
 138.249.86.38/32 # Germany | Berlin | Ivanov Vitaliy Sergeevich
 138.249.105.184/32 # Netherlands | North Holland | Clouvider Limited
@@ -1394,7 +1392,6 @@
 149.28.130.195/32 # Singapore | Southeast | The Constant Company, LLC
 149.28.137.254/32 # Singapore | Southeast | The Constant Company, LLC
 149.40.50.107/32 # United States | Massachusetts | Datacamp Limited
-149.40.50.115/32 # United States | Massachusetts | Datacamp Limited
 149.40.50.120/32 # United States | Massachusetts | Datacamp Limited
 149.86.159.32/32 # Turkey | Konya | GIBIRNET ILETISIM HIZMETLERI SANAYI VE TI...
 149.102.243.100/32 # United States | California | Datacamp Limited
@@ -1406,7 +1403,6 @@
 151.243.11.23/32 # Germany | Hesse | LLC VASH KREDIT BANK
 151.247.50.159/32 # United States | California | M Europe SRL
 151.247.50.203/32 # United States | California | M Europe SRL
-151.247.124.27/32 # United States | California | Datacamp Limited
 151.247.126.62/32 # United States | California | Datacamp Limited
 151.247.186.236/32 # United States | New York | M Europe SRL
 151.247.221.133/32 # United States | California | Datacamp Limited
@@ -1716,16 +1712,17 @@
 168.231.121.209/32 # India | Maharashtra | Hostinger International Limited
 169.40.2.68/32 # Latvia | Vidzeme | SIA VEESP
 169.150.203.30/32 # United States | California | Datacamp Limited
-169.150.203.31/32 # United States | California | Datacamp Limited
 169.150.203.39/32 # United States | California | Datacamp Limited
 169.150.203.40/32 # United States | California | Datacamp Limited
 170.10.224.184/32 # Canada | Nova Scotia | Altima Telecom
 170.79.235.138/32 # Chile | Santiago Metropolitan Region | Tna Solutions SPA
 170.130.165.28/32 # United States | Nevada | Eonix Corporation
+170.168.82.164/32 # Australia | Australian Capital Territory | IT HOSTLINE LTD
 170.168.82.165/32 # Australia | Australian Capital Territory | IT HOSTLINE LTD
 170.168.103.208/32 # Germany | Berlin | GTHost
 170.168.179.64/32 # Australia | Australian Capital Territory | IT HOSTLINE LTD
 170.168.179.70/32 # Australia | Australian Capital Territory | IT HOSTLINE LTD
+170.168.179.186/32 # Australia | Australian Capital Territory | IT HOSTLINE LTD
 170.168.215.39/32 # United States | District of Columbia | GREEN FLOID LLC
 170.168.215.61/32 # United States | District of Columbia | GREEN FLOID LLC
 170.168.215.230/32 # United States | District of Columbia | GREEN FLOID LLC
@@ -1986,9 +1983,11 @@
 185.107.74.40/32 # Sweden | Stockholm County | Partner Hosting LTD
 185.110.128.24/32 # Netherlands | North Holland | Clouvider Limited
 185.110.128.145/32 # Netherlands | North Holland | Clouvider Limited
+185.110.129.78/32 # Netherlands | North Holland | Clouvider Limited
 185.110.129.239/32 # Netherlands | North Holland | Clouvider Limited
 185.110.130.119/32 # Netherlands | North Holland | Clouvider Limited
 185.110.130.208/32 # Netherlands | North Holland | Clouvider Limited
+185.110.131.67/32 # Netherlands | North Holland | Clouvider Limited
 185.121.233.78/32 # Netherlands | North Holland | SERVERS TECH FZCO
 185.135.86.149/32 # Latvia | Vidzeme | Melbikomas Uab
 185.149.146.1/32 # Germany | Hesse | Foton Telecom Cjsc
@@ -2051,6 +2050,7 @@
 193.32.162.10/32 # Romania | Bucharest | UNMANAGED LTD
 193.32.165.15/32 # Australia | Queensland | Clouvider Limited
 193.32.165.18/32 # Australia | Queensland | Clouvider Limited
+193.32.165.181/32 # Australia | Queensland | Clouvider Limited
 193.33.188.81/32 # Germany | Berlin | Clouvider Limited
 193.33.188.136/32 # Germany | Hesse | Clouvider Limited
 193.41.68.93/32 # Netherlands | North Holland | Leaseweb Netherlands B.V.
@@ -2104,6 +2104,7 @@
 194.156.95.222/32 # Germany | Hesse | Clouvider Limited
 194.156.98.155/32 # Hong Kong | Hong Kong | Worktitans B.V.
 194.164.172.158/32 # Spain | Madrid | IONOS SE
+194.213.18.78/32 # United States | Oregon | Clouvider Limited
 194.233.150.49/32 # United States | New York | Datacamp Limited
 194.233.150.159/32 # United States | New York | Datacamp Limited
 195.66.214.79/32 # Ukraine | Kyiv city | Virtual Systems LLC
@@ -2180,7 +2181,6 @@
 209.101.149.26/32 # United States | Florida | Datacamp Limited
 209.101.150.207/32 # United States | Florida | Datacamp Limited
 209.101.151.255/32 # United States | Florida | Datacamp Limited
-209.101.201.9/32 # United States | Illinois | Datacamp Limited
 209.101.201.111/32 # United States | Illinois | Datacamp Limited
 209.101.201.123/32 # United States | Illinois | Datacamp Limited
 209.101.201.128/32 # United States | Illinois | Datacamp Limited
