@@ -47,7 +47,6 @@
 66.93.163.0/24 # United States | Arizona | Datacamp Limited
 66.93.164.0/24 # United States | Illinois | Datacamp Limited
 66.93.165.0/24 # United States | Illinois | Datacamp Limited
-66.93.167.0/24 # United States | Illinois | Datacamp Limited
 68.235.46.0/24 # United States | Illinois | Tzulo, Inc.
 72.244.47.0/24 # United States | Illinois | Datacamp Limited
 74.0.96.0/24 # United States | Texas | Datacamp Limited
@@ -65,7 +64,6 @@
 82.211.8.0/24 # Germany | Rhineland-Palatinate | Firstcolo GmbH
 85.208.11.0/24 # United States | Nevada | Datacamp Limited
 88.151.112.0/24 # United States | New York | Clouvider Limited
-89.19.59.0/24 # United States | Pennsylvania | Ws Telecom INC
 91.247.78.0/24 # United States | Arizona | Clouvider Limited
 94.103.179.0/24 # United States | Connecticut | Clouvider Limited
 94.131.48.0/24 # United States | New York | Gtt Communications Inc.
@@ -308,8 +306,6 @@
 36.150.185.121/32 # China | Beijing | China Mobile Communications Corporation
 36.255.33.178/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 36.255.33.195/32 # Pakistan | Punjab | Cyber Internet Services private Limited
-37.19.200.133/32 # United States | Texas | Datacamp Limited
-37.19.210.11/32 # United States | Colorado | Datacamp Limited
 37.37.6.217/32 # Kuwait | Al Asimah | Mobile Telecommunications Company K.S...
 37.37.34.1/32 # Kuwait | Hawalli | Mobile Telecommunications Company K.S.C.P.
 37.65.160.50/32 # France | Île-de-France | Societe Francaise Du Radiotelepho...
@@ -630,6 +626,9 @@
 66.93.166.49/32 # United States | Arizona | Datacamp Limited
 66.93.166.229/32 # United States | Arizona | Datacamp Limited
 66.93.166.254/32 # United States | Arizona | Datacamp Limited
+66.93.167.14/32 # United States | Arizona | Datacamp Limited
+66.93.167.113/32 # United States | Arizona | Datacamp Limited
+66.93.167.178/32 # United States | Arizona | Datacamp Limited
 66.112.216.232/32 # United States | California | It Networks INC
 66.167.166.0/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 66.167.166.231/32 # Pakistan | Punjab | Cyber Internet Services private Limited
@@ -808,6 +807,10 @@
 88.218.80.18/32 # United States | New York | Clouvider Limited
 89.19.57.184/32 # United States | California | Ws Telecom INC
 89.19.57.249/32 # United States | California | Ws Telecom INC
+89.19.59.36/32 # United States | New York | Ws Telecom INC
+89.19.59.86/32 # United States | New York | Ws Telecom INC
+89.19.59.123/32 # United States | New York | Ws Telecom INC
+89.19.59.185/32 # United States | New York | Ws Telecom INC
 89.22.232.150/32 # Sweden | Stockholm County | AEZA GROUP LLC
 89.23.96.126/32 # Russia | Moscow | JSC TIMEWEB
 89.37.63.33/32 # Sweden | Stockholm County | Datacamp Limited
@@ -891,7 +894,6 @@
 103.13.138.22/32 # Indonesia | South Sulawesi | Pt Era Bangun Indonesia
 103.18.14.86/32 # Pakistan | Khyber Pakhtunkhwa | Cyber Internet Services pr...
 103.18.14.221/32 # Pakistan | Khyber Pakhtunkhwa | Cyber Internet Services pr...
-103.26.82.193/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 103.27.110.232/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.30.76.206/32 # Hong Kong | Hong Kong | XNNET LLC
 103.38.52.102/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
@@ -1228,7 +1230,6 @@
 138.68.171.133/32 # United Kingdom | England | Digitalocean, LLC
 138.124.101.92/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 138.197.170.20/32 # Canada | Ontario | Digitalocean, LLC
-138.199.43.75/32 # United States | Washington | Datacamp Limited
 138.204.160.246/32 # Argentina | Buenos Aires | COOPERATIVA UNION DEL SUD
 138.249.86.38/32 # Germany | Berlin | Ivanov Vitaliy Sergeevich
 138.249.105.184/32 # Netherlands | North Holland | Clouvider Limited
@@ -1367,9 +1368,7 @@
 144.172.117.158/32 # United States | Utah | Routerhosting LLC
 144.208.127.143/32 # United States | New York | Shock Hosting LLC
 146.70.117.113/32 # Germany | North Rhine-Westphalia | M Europe SRL
-146.70.172.170/32 # United States | California | M Europe SRL
 146.70.172.234/32 # United States | California | M Europe SRL
-146.70.172.235/32 # United States | California | M Europe SRL
 146.70.185.11/32 # United States | New York | M Europe SRL
 146.70.185.14/32 # United States | New York | M Europe SRL
 146.70.185.36/32 # United States | New York | M Europe SRL
@@ -1868,7 +1867,6 @@
 172.121.83.30/32 # United States | Florida | HOST TELECOM LTD
 172.121.83.197/32 # United States | Florida | HOST TELECOM LTD
 172.121.83.230/32 # United States | Florida | HOST TELECOM LTD
-172.121.85.23/32 # United States | Florida | HOST TELECOM LTD
 172.121.85.162/32 # United States | Florida | HOST TELECOM LTD
 172.121.241.22/32 # United States | Nevada | Clouvider Limited
 172.121.241.51/32 # United States | Nevada | Clouvider Limited
@@ -1994,7 +1992,6 @@
 185.149.146.118/32 # Germany | Hesse | Foton Telecom Cjsc
 185.149.232.197/32 # United States | Missouri | Heymman Servers Corporation
 185.149.232.221/32 # United States | Missouri | Heymman Servers Corporation
-185.156.46.152/32 # United States | Virginia | Datacamp Limited
 185.165.241.143/32 # Netherlands | South Holland | Worldstream B.V.
 185.180.221.108/32 # Netherlands | South Holland | Worldstream B.V.
 185.190.24.33/32 # Panama | Panama | Internet Solutions Innovations Ltd.
