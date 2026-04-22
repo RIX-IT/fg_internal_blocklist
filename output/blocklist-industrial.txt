@@ -45,7 +45,6 @@
 66.93.51.0/24 # United States | Florida | Datacamp Limited
 66.93.52.0/24 # United States | Florida | Datacamp Limited
 66.93.164.0/24 # United States | Illinois | Datacamp Limited
-66.93.165.0/24 # United States | Illinois | Datacamp Limited
 68.235.46.0/24 # United States | Illinois | Tzulo, Inc.
 72.244.47.0/24 # United States | Illinois | Datacamp Limited
 74.0.96.0/24 # United States | Texas | Datacamp Limited
@@ -65,7 +64,6 @@
 91.247.78.0/24 # United States | Arizona | Clouvider Limited
 94.103.179.0/24 # United States | Connecticut | Clouvider Limited
 94.131.48.0/24 # United States | New York | Gtt Communications Inc.
-94.131.51.0/24 # United States | New York | Gtt Communications Inc.
 94.131.56.0/24 # United States | New York | My Tec SA
 94.143.230.0/24 # United States | New York | Clouvider Limited
 95.164.145.0/24 # United States | New York | Isp life INC
@@ -175,7 +173,6 @@
 2.56.139.148/32 # United States | California | Shock Hosting LLC
 2.56.139.176/32 # United States | California | Shock Hosting LLC
 2.57.151.60/32 # United States | California | Shock Hosting LLC
-2.57.151.104/32 # United States | California | Shock Hosting LLC
 2.57.151.134/32 # United States | California | Shock Hosting LLC
 2.57.151.232/32 # United States | California | Shock Hosting LLC
 4.152.8.159/32 # United States | Virginia | Microsoft Corporation
@@ -616,13 +613,16 @@
 66.78.45.102/32 # United States | New York | Datacamp Limited
 66.78.45.115/32 # United States | New York | Datacamp Limited
 66.78.45.140/32 # United States | New York | Datacamp Limited
-66.93.162.213/32 # United States | Arizona | Datacamp Limited
 66.93.162.219/32 # United States | Arizona | Datacamp Limited
 66.93.162.243/32 # United States | Arizona | Datacamp Limited
 66.93.163.48/32 # United States | Arizona | Datacamp Limited
 66.93.163.54/32 # United States | Arizona | Datacamp Limited
 66.93.163.56/32 # United States | Arizona | Datacamp Limited
 66.93.163.64/32 # United States | Arizona | Datacamp Limited
+66.93.165.6/32 # United States | Arizona | Datacamp Limited
+66.93.165.135/32 # United States | Arizona | Datacamp Limited
+66.93.165.201/32 # United States | Arizona | Datacamp Limited
+66.93.165.211/32 # United States | Arizona | Datacamp Limited
 66.93.166.229/32 # United States | Arizona | Datacamp Limited
 66.93.166.254/32 # United States | Arizona | Datacamp Limited
 66.93.167.14/32 # United States | Arizona | Datacamp Limited
@@ -838,7 +838,6 @@
 91.242.237.220/32 # United States | Arizona | Clouvider Limited
 92.113.146.150/32 # Denmark | Region of Southern Denmark | Webdock.io Aps
 92.119.163.19/32 # United States | Arizona | Shock Hosting LLC
-92.119.163.49/32 # United States | Arizona | Shock Hosting LLC
 92.119.163.101/32 # United States | Arizona | Shock Hosting LLC
 92.119.237.144/32 # Albania | Central Albania | Isa.net SH.P.K.
 92.205.26.97/32 # France | Grand Est | Host Europe GmbH
@@ -851,6 +850,10 @@
 94.131.9.205/32 # France | Île-de-France | Worktitans B.V.
 94.131.49.138/32 # United States | New York | My Tec SA
 94.131.49.174/32 # United States | New York | My Tec SA
+94.131.51.5/32 # United States | New York | My Tec SA
+94.131.51.7/32 # United States | New York | My Tec SA
+94.131.51.71/32 # United States | New York | My Tec SA
+94.131.51.221/32 # United States | New York | My Tec SA
 94.141.122.164/32 # Finland | Mainland Finland | Partner Hosting LTD
 94.154.138.11/32 # Germany | Bavaria | Antennen interessengemeinschaft Gerold...
 94.239.32.162/32 # France | Île-de-France | Bouygues Telecom SA
@@ -1461,12 +1464,14 @@
 154.159.246.112/32 # Kenya | Meru | Airtel Networks Kenya Limited
 154.193.246.158/32 # Hong Kong | Hong Kong | ABCCLOUD SDN.BHD.
 154.194.4.234/32 # Germany | Berlin | Clouvider Limited
+154.194.38.21/32 # Germany | Berlin | Clouvider Limited
 154.194.70.108/32 # Germany | Berlin | Clouvider Limited
 154.194.72.251/32 # Germany | Berlin | Clouvider Limited
 154.194.76.50/32 # Germany | Berlin | Clouvider Limited
 154.194.79.93/32 # Germany | Berlin | Clouvider Limited
 154.194.80.89/32 # Germany | Berlin | Clouvider Limited
 154.194.81.194/32 # Germany | Berlin | Clouvider Limited
+154.194.83.62/32 # Germany | Berlin | Clouvider Limited
 154.194.84.252/32 # Germany | Berlin | Clouvider Limited
 154.194.85.139/32 # Germany | Berlin | Clouvider Limited
 154.194.88.55/32 # Germany | Berlin | Clouvider Limited
@@ -1479,20 +1484,25 @@
 154.194.96.151/32 # Germany | Berlin | Clouvider Limited
 154.194.99.195/32 # Germany | Berlin | Clouvider Limited
 154.194.101.118/32 # Germany | Berlin | Clouvider Limited
+154.194.102.250/32 # Germany | Berlin | Clouvider Limited
 154.194.104.160/32 # Germany | Berlin | Clouvider Limited
 154.194.110.227/32 # Germany | Berlin | Clouvider Limited
 154.194.112.50/32 # Germany | Berlin | Clouvider Limited
 154.194.112.90/32 # Germany | Berlin | Clouvider Limited
 154.194.118.11/32 # Germany | Berlin | Clouvider Limited
 154.194.120.229/32 # Germany | Berlin | Clouvider Limited
+154.194.124.24/32 # Germany | Berlin | Clouvider Limited
 154.194.125.100/32 # Germany | Berlin | Clouvider Limited
 154.194.126.218/32 # Germany | Berlin | Clouvider Limited
 154.194.127.5/32 # Germany | Berlin | Clouvider Limited
 154.195.2.179/32 # Germany | Berlin | Clouvider Limited
 154.195.19.156/32 # Germany | Berlin | Clouvider Limited
+154.195.22.174/32 # Germany | Berlin | Clouvider Limited
 154.195.25.56/32 # Germany | Berlin | Clouvider Limited
 154.195.26.234/32 # Germany | Berlin | Clouvider Limited
 154.195.27.3/32 # Germany | Berlin | Clouvider Limited
+154.195.28.247/32 # Germany | Berlin | Clouvider Limited
+154.195.29.252/32 # Germany | Berlin | Clouvider Limited
 154.195.97.80/32 # Germany | Berlin | Clouvider Limited
 154.195.99.27/32 # Germany | Berlin | Clouvider Limited
 154.195.100.54/32 # Germany | Berlin | Clouvider Limited
@@ -1505,9 +1515,11 @@
 154.195.140.168/32 # Germany | Bavaria | Clouvider Limited
 154.195.142.216/32 # Germany | Bavaria | Clouvider Limited
 154.195.149.23/32 # Germany | Bavaria | Clouvider Limited
+154.195.154.115/32 # Germany | Hesse | Clouvider Limited
 154.195.157.136/32 # Germany | Bavaria | Clouvider Limited
 154.195.163.85/32 # Germany | Bavaria | Clouvider Limited
 154.195.165.239/32 # Germany | Bavaria | Clouvider Limited
+154.195.170.3/32 # Germany | Hesse | Clouvider Limited
 154.195.170.187/32 # Germany | Bavaria | Clouvider Limited
 154.195.170.194/32 # Germany | Hesse | Clouvider Limited
 154.195.175.114/32 # Germany | Bavaria | Clouvider Limited
@@ -1530,7 +1542,6 @@
 154.196.83.178/32 # Germany | Hesse | Clouvider Limited
 154.211.89.5/32 # Hong Kong | Hong Kong | Tcloudnet
 154.223.222.226/32 # Netherlands | North Holland | Clouvider Limited
-155.2.190.27/32 # United States | Georgia | THG HOSTING LIMITED
 155.2.192.235/32 # United States | New York | Interserver, INC
 155.138.150.12/32 # Canada | Ontario | The Constant Company, LLC
 155.212.34.213/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
