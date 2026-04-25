@@ -52,7 +52,6 @@
 142.111.213.0/24 # United States | California | Clouvider Limited
 142.111.231.0/24 # United States | Kansas | Clouvider Limited
 142.111.253.0/24 # United States | California | Clouvider Limited
-142.252.82.0/24 # United States | California | Clouvider Limited
 142.252.84.0/24 # United States | California | Clouvider Limited
 142.252.99.0/24 # United States | California | Clouvider Limited
 142.252.106.0/24 # United States | California | Clouvider Limited
@@ -1226,7 +1225,6 @@
 142.252.8.134/32 # United States | California | HOST TELECOM LTD
 142.252.8.254/32 # United States | California | HOST TELECOM LTD
 142.252.24.42/32 # United States | California | HOST TELECOM LTD
-142.252.24.196/32 # United States | California | HOST TELECOM LTD
 142.252.24.206/32 # United States | California | HOST TELECOM LTD
 142.252.25.60/32 # United States | California | HOST TELECOM LTD
 142.252.59.58/32 # United States | California | HOST TELECOM LTD
@@ -1235,6 +1233,10 @@
 142.252.81.162/32 # United States | California | Clouvider Limited
 142.252.81.201/32 # United States | California | Clouvider Limited
 142.252.81.207/32 # United States | California | Clouvider Limited
+142.252.82.32/32 # United States | California | Clouvider Limited
+142.252.82.123/32 # United States | California | Clouvider Limited
+142.252.82.173/32 # United States | California | Clouvider Limited
+142.252.82.219/32 # United States | California | Clouvider Limited
 142.252.83.14/32 # United States | California | Clouvider Limited
 142.252.83.206/32 # United States | California | Clouvider Limited
 142.252.83.221/32 # United States | California | Clouvider Limited
@@ -1639,7 +1641,6 @@
 166.88.41.2/32 # United States | California | HOST TELECOM LTD
 166.88.41.185/32 # United States | California | HOST TELECOM LTD
 166.88.41.241/32 # United States | California | HOST TELECOM LTD
-166.88.49.101/32 # United States | California | HOST TELECOM LTD
 166.88.49.246/32 # United States | California | HOST TELECOM LTD
 166.88.72.90/32 # United States | California | HOST TELECOM LTD
 166.88.72.149/32 # United States | California | HOST TELECOM LTD
@@ -1649,8 +1650,6 @@
 166.88.143.69/32 # United States | California | HOST TELECOM LTD
 166.88.143.122/32 # United States | California | HOST TELECOM LTD
 166.88.143.129/32 # United States | California | HOST TELECOM LTD
-166.88.143.137/32 # United States | California | HOST TELECOM LTD
-166.88.153.100/32 # United States | California | HOST TELECOM LTD
 166.88.161.14/32 # United States | California | HOST TELECOM LTD
 166.88.161.31/32 # United States | California | HOST TELECOM LTD
 166.88.161.254/32 # United States | California | HOST TELECOM LTD
@@ -1726,7 +1725,6 @@
 172.110.223.38/32 # United States | New Jersey | Reliablesite.net LLC
 172.120.17.2/32 # United States | California | HOST TELECOM LTD
 172.120.17.157/32 # United States | California | HOST TELECOM LTD
-172.120.20.191/32 # United States | California | HOST TELECOM LTD
 172.120.20.244/32 # United States | California | HOST TELECOM LTD
 172.120.21.18/32 # United States | California | HOST TELECOM LTD
 172.120.21.106/32 # United States | California | HOST TELECOM LTD
@@ -1756,7 +1754,6 @@
 172.120.83.79/32 # United States | Washington | HOST TELECOM LTD
 172.120.117.114/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.118.101/32 # United States | District of Columbia | HOST TELECOM LTD
-172.120.118.205/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.118.231/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.121.84/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.130.237/32 # United States | District of Columbia | HOST TELECOM LTD
@@ -1772,7 +1769,6 @@
 172.120.157.233/32 # United States | Washington | HOST TELECOM LTD
 172.120.158.186/32 # United States | New Jersey | HOST TELECOM LTD
 172.120.161.5/32 # United States | Washington | HOST TELECOM LTD
-172.120.161.102/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.162.99/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.162.183/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.164.163/32 # United States | Pennsylvania | HOST TELECOM LTD
@@ -1784,7 +1780,6 @@
 172.120.182.139/32 # United States | Pennsylvania | HOST TELECOM LTD
 172.120.184.110/32 # United States | Illinois | HOST TELECOM LTD
 172.120.184.120/32 # United States | Illinois | HOST TELECOM LTD
-172.120.184.140/32 # United States | Illinois | HOST TELECOM LTD
 172.120.184.171/32 # United States | Illinois | HOST TELECOM LTD
 172.120.185.36/32 # United States | Illinois | HOST TELECOM LTD
 172.120.185.118/32 # United States | Illinois | HOST TELECOM LTD
@@ -1804,7 +1799,6 @@
 172.120.199.207/32 # United States | Pennsylvania | HOST TELECOM LTD
 172.120.202.220/32 # United States | Pennsylvania | HOST TELECOM LTD
 172.120.204.125/32 # United States | Texas | HOST TELECOM LTD
-172.120.205.20/32 # United States | Texas | HOST TELECOM LTD
 172.120.205.120/32 # United States | Texas | HOST TELECOM LTD
 172.120.205.140/32 # United States | Texas | HOST TELECOM LTD
 172.120.207.119/32 # United States | New Jersey | HOST TELECOM LTD
@@ -1833,7 +1827,6 @@
 172.121.83.197/32 # United States | Florida | HOST TELECOM LTD
 172.121.83.230/32 # United States | Florida | HOST TELECOM LTD
 172.121.85.162/32 # United States | Florida | HOST TELECOM LTD
-172.121.241.22/32 # United States | Nevada | Clouvider Limited
 172.121.241.51/32 # United States | Nevada | Clouvider Limited
 172.121.241.105/32 # United States | Nevada | Clouvider Limited
 172.121.241.117/32 # United States | Nevada | Clouvider Limited
