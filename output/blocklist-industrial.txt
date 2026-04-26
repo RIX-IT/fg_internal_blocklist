@@ -1223,7 +1223,6 @@
 142.252.8.254/32 # United States | California | HOST TELECOM LTD
 142.252.24.42/32 # United States | California | HOST TELECOM LTD
 142.252.24.206/32 # United States | California | HOST TELECOM LTD
-142.252.25.60/32 # United States | California | HOST TELECOM LTD
 142.252.59.58/32 # United States | California | HOST TELECOM LTD
 142.252.59.73/32 # United States | California | HOST TELECOM LTD
 142.252.81.13/32 # United States | California | Clouvider Limited
@@ -1259,7 +1258,6 @@
 142.252.236.34/32 # United States | California | Clouvider Limited
 142.252.236.164/32 # United States | California | Clouvider Limited
 142.252.236.192/32 # United States | California | Clouvider Limited
-142.252.236.248/32 # United States | California | Clouvider Limited
 143.105.209.0/32 # Ghana | Greater Accra Region | Space Exploration Technolog...
 143.198.19.135/32 # United States | New Jersey | Digitalocean, LLC
 143.223.148.5/32 # United States | Florida | HyperFiber
@@ -1333,7 +1331,6 @@
 153.80.84.87/32 # United States | Mississippi | GREEN FLOID LLC
 153.80.97.184/32 # United States | Rhode Island | GREEN FLOID LLC
 153.80.97.230/32 # United States | Rhode Island | GREEN FLOID LLC
-153.80.108.20/32 # United States | Florida | GREEN FLOID LLC
 153.80.108.73/32 # United States | Florida | GREEN FLOID LLC
 153.80.108.184/32 # United States | Florida | GREEN FLOID LLC
 153.80.115.226/32 # United States | Tennessee | GREEN FLOID LLC
@@ -1641,7 +1638,6 @@
 166.88.49.246/32 # United States | California | HOST TELECOM LTD
 166.88.72.90/32 # United States | California | HOST TELECOM LTD
 166.88.72.149/32 # United States | California | HOST TELECOM LTD
-166.88.72.163/32 # United States | California | HOST TELECOM LTD
 166.88.76.136/32 # United States | California | HOST TELECOM LTD
 166.88.76.142/32 # United States | California | HOST TELECOM LTD
 166.88.143.69/32 # United States | California | HOST TELECOM LTD
@@ -1718,7 +1714,6 @@
 172.104.17.154/32 # United States | New Jersey | Akamai Technologies, Inc.
 172.110.223.38/32 # United States | New Jersey | Reliablesite.net LLC
 172.120.17.2/32 # United States | California | HOST TELECOM LTD
-172.120.17.157/32 # United States | California | HOST TELECOM LTD
 172.120.20.244/32 # United States | California | HOST TELECOM LTD
 172.120.21.18/32 # United States | California | HOST TELECOM LTD
 172.120.21.106/32 # United States | California | HOST TELECOM LTD
@@ -1749,18 +1744,14 @@
 172.120.117.114/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.118.101/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.118.231/32 # United States | District of Columbia | HOST TELECOM LTD
-172.120.121.84/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.130.237/32 # United States | District of Columbia | HOST TELECOM LTD
-172.120.137.92/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.137.148/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.141.142/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.141.242/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.148.27/32 # United States | District of Columbia | HOST TELECOM LTD
-172.120.155.76/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.155.136/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.157.168/32 # United States | Washington | HOST TELECOM LTD
 172.120.157.204/32 # United States | Washington | HOST TELECOM LTD
-172.120.157.233/32 # United States | Washington | HOST TELECOM LTD
 172.120.158.186/32 # United States | New Jersey | HOST TELECOM LTD
 172.120.161.5/32 # United States | Washington | HOST TELECOM LTD
 172.120.162.99/32 # United States | District of Columbia | HOST TELECOM LTD
@@ -1775,7 +1766,6 @@
 172.120.184.110/32 # United States | Illinois | HOST TELECOM LTD
 172.120.184.120/32 # United States | Illinois | HOST TELECOM LTD
 172.120.184.171/32 # United States | Illinois | HOST TELECOM LTD
-172.120.185.36/32 # United States | Illinois | HOST TELECOM LTD
 172.120.185.118/32 # United States | Illinois | HOST TELECOM LTD
 172.120.185.160/32 # United States | Illinois | HOST TELECOM LTD
 172.120.185.225/32 # United States | Illinois | HOST TELECOM LTD
@@ -1789,12 +1779,10 @@
 172.120.198.221/32 # United States | New Jersey | HOST TELECOM LTD
 172.120.199.8/32 # United States | Pennsylvania | HOST TELECOM LTD
 172.120.199.88/32 # United States | Pennsylvania | HOST TELECOM LTD
-172.120.199.207/32 # United States | Pennsylvania | HOST TELECOM LTD
 172.120.205.140/32 # United States | Texas | HOST TELECOM LTD
 172.120.207.119/32 # United States | New Jersey | HOST TELECOM LTD
 172.120.211.97/32 # United States | Texas | HOST TELECOM LTD
 172.120.211.247/32 # United States | Texas | HOST TELECOM LTD
-172.120.218.27/32 # United States | Texas | HOST TELECOM LTD
 172.120.218.64/32 # United States | Texas | HOST TELECOM LTD
 172.120.234.2/32 # United States | Texas | HOST TELECOM LTD
 172.120.238.175/32 # United States | Texas | HOST TELECOM LTD
@@ -1848,6 +1836,7 @@
 175.165.87.198/32 # China | Liaoning | China Unicom China1 Backbone
 176.53.133.5/32 # United States | Maryland | Clouvider Limited
 176.65.137.44/32 # Germany | Berlin | KAAL TECH CO., LIMITED
+176.65.149.227/32 # Netherlands | Limburg | Pfcloud UG haftungsbeschrankt
 176.100.130.54/32 # United States | New York | Clouvider Limited
 176.100.131.118/32 # United States | New York | Clouvider Limited
 176.100.146.52/32 # United States | New York | GREEN FLOID LLC
