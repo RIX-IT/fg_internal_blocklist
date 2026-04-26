@@ -62,7 +62,6 @@
 142.252.246.0/24 # United States | California | Clouvider Limited
 144.172.91.0/24 # United States | Utah | Routerhosting LLC
 144.172.99.0/24 # United States | New York | Frantech Solutions
-146.70.165.0/24 # United States | New York | M Europe SRL
 148.135.183.0/24 # United States | New York | Datacamp Limited
 151.247.52.0/24 # United States | California | M Europe SRL
 153.80.157.0/24 # United States | Illinois | GREEN FLOID LLC
@@ -139,7 +138,6 @@
 5.42.218.66/32 # United States | New York | Clouvider Limited
 5.42.218.170/32 # United States | New York | Clouvider Limited
 5.42.218.228/32 # United States | New York | Clouvider Limited
-5.57.210.5/32 # United States | Louisiana | Clouvider Limited
 5.57.210.124/32 # United States | Louisiana | Clouvider Limited
 5.57.210.162/32 # United States | Louisiana | Clouvider Limited
 5.57.210.185/32 # United States | Louisiana | Clouvider Limited
@@ -344,7 +342,6 @@
 45.87.124.229/32 # United States | California | Clouvider Limited
 45.87.125.129/32 # United States | California | Clouvider Limited
 45.87.125.145/32 # United States | California | Clouvider Limited
-45.87.125.214/32 # United States | California | Clouvider Limited
 45.87.127.16/32 # United States | California | Clouvider Limited
 45.87.127.182/32 # United States | California | Clouvider Limited
 45.87.127.198/32 # United States | California | Clouvider Limited
@@ -441,7 +438,6 @@
 45.192.33.65/32 # United States | New York | Clouvider Limited
 45.192.33.204/32 # United States | New York | Clouvider Limited
 45.192.34.27/32 # United States | New York | Clouvider Limited
-45.192.34.48/32 # United States | New York | Clouvider Limited
 45.192.34.112/32 # United States | New York | Clouvider Limited
 45.192.35.133/32 # United States | New York | Clouvider Limited
 45.192.36.125/32 # United States | New York | Clouvider Limited
@@ -753,7 +749,6 @@
 91.242.237.118/32 # United States | Arizona | Clouvider Limited
 91.242.237.220/32 # United States | Arizona | Clouvider Limited
 92.113.146.150/32 # Denmark | Region of Southern Denmark | Webdock.io Aps
-92.119.163.19/32 # United States | Arizona | Shock Hosting LLC
 92.119.163.101/32 # United States | Arizona | Shock Hosting LLC
 92.119.237.144/32 # Albania | Central Albania | Isa.net SH.P.K.
 92.205.26.97/32 # France | Grand Est | Host Europe GmbH
@@ -1029,7 +1024,6 @@
 129.222.253.214/32 # United States | Georgia | Space Exploration Technologies C...
 129.226.128.168/32 # Hong Kong | Hong Kong | Shenzhen Tencent Computer Systems ...
 130.49.5.240/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
-130.49.15.99/32 # United States | Washington | GREEN FLOID LLC
 130.49.25.110/32 # United States | Washington | GREEN FLOID LLC
 130.49.25.121/32 # United States | Washington | GREEN FLOID LLC
 130.49.35.49/32 # United States | Washington | GREEN FLOID LLC
@@ -1078,7 +1072,6 @@
 135.106.94.244/32 # United States | Wyoming | GREEN FLOID LLC
 135.106.107.61/32 # United States | Louisiana | GREEN FLOID LLC
 135.106.107.156/32 # United States | Louisiana | GREEN FLOID LLC
-135.106.107.158/32 # United States | Louisiana | GREEN FLOID LLC
 135.131.63.200/32 # United States | Wisconsin | TDS TELECOM
 135.237.29.5/32 # United States | District of Columbia | Microsoft Corporation
 136.0.102.25/32 # United States | New York | HOST TELECOM LTD
@@ -1266,6 +1259,10 @@
 144.172.117.158/32 # United States | Utah | Routerhosting LLC
 144.208.127.143/32 # United States | New York | Shock Hosting LLC
 146.70.117.113/32 # Germany | North Rhine-Westphalia | M Europe SRL
+146.70.165.81/32 # United States | New York | M Europe SRL
+146.70.165.106/32 # United States | New York | M Europe SRL
+146.70.165.107/32 # United States | New York | M Europe SRL
+146.70.165.170/32 # United States | New York | M Europe SRL
 146.70.185.11/32 # United States | New York | M Europe SRL
 146.70.185.14/32 # United States | New York | M Europe SRL
 146.70.185.36/32 # United States | New York | M Europe SRL
@@ -1486,9 +1483,7 @@
 155.212.50.71/32 # United States | Florida | GREEN FLOID LLC
 155.212.50.145/32 # United States | Florida | GREEN FLOID LLC
 155.212.50.148/32 # United States | Florida | GREEN FLOID LLC
-155.212.59.183/32 # United States | Washington | GREEN FLOID LLC
 155.212.59.248/32 # United States | Washington | GREEN FLOID LLC
-155.212.66.36/32 # United States | Florida | GREEN FLOID LLC
 155.212.67.167/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.77.26/32 # United States | Washington | GREEN FLOID LLC
 155.212.82.252/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
@@ -1503,7 +1498,6 @@
 155.212.114.176/32 # United States | Florida | GREEN FLOID LLC
 155.212.115.76/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 155.212.122.8/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
-155.212.125.222/32 # United States | Washington | GREEN FLOID LLC
 155.254.193.70/32 # United States | Texas | Baxet Group Inc.
 155.254.195.81/32 # United States | Texas | Baxet Group Inc.
 156.229.238.87/32 # United States | California | Clouvider Limited
@@ -1520,7 +1514,6 @@
 156.229.255.74/32 # United States | Florida | Clouvider Limited
 156.229.255.216/32 # United States | Florida | Clouvider Limited
 156.229.255.246/32 # United States | Florida | Clouvider Limited
-156.233.0.16/32 # United States | New York | Clouvider Limited
 156.233.0.60/32 # United States | New York | Clouvider Limited
 156.233.0.172/32 # United States | New York | Clouvider Limited
 156.233.1.26/32 # United States | New York | Clouvider Limited
@@ -1627,7 +1620,6 @@
 166.88.215.134/32 # United States | California | HOST TELECOM LTD
 166.88.218.152/32 # United States | California | HOST TELECOM LTD
 166.88.219.29/32 # United States | California | HOST TELECOM LTD
-166.88.219.45/32 # United States | California | HOST TELECOM LTD
 166.88.221.9/32 # United States | New Jersey | HOST TELECOM LTD
 166.88.221.30/32 # United States | California | HOST TELECOM LTD
 166.88.221.39/32 # United States | New Jersey | HOST TELECOM LTD
@@ -1653,7 +1645,6 @@
 170.168.179.186/32 # Australia | Australian Capital Territory | IT HOSTLINE LTD
 170.168.215.61/32 # United States | District of Columbia | GREEN FLOID LLC
 170.168.215.230/32 # United States | District of Columbia | GREEN FLOID LLC
-170.168.230.190/32 # United States | District of Columbia | GREEN FLOID LLC
 170.168.230.208/32 # United States | District of Columbia | GREEN FLOID LLC
 170.168.248.125/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 170.168.250.7/32 # United States | District of Columbia | GREEN FLOID LLC
@@ -1868,7 +1859,6 @@
 185.97.76.73/32 # Germany | Hesse | Clouvider Limited
 185.98.41.3/32 # United States | New York | Clouvider Limited
 185.98.41.45/32 # United States | New York | Clouvider Limited
-185.98.41.52/32 # United States | New York | Clouvider Limited
 185.98.41.230/32 # United States | New York | Clouvider Limited
 185.98.42.23/32 # United States | Texas | Clouvider Limited
 185.98.42.56/32 # United States | Texas | Clouvider Limited
@@ -1969,7 +1959,6 @@
 193.160.216.4/32 # United States | California | Clouvider Limited
 193.160.216.106/32 # United States | California | Clouvider Limited
 193.160.216.248/32 # United States | California | Clouvider Limited
-193.160.217.8/32 # United States | Illinois | Clouvider Limited
 193.160.217.36/32 # United States | Illinois | Clouvider Limited
 193.160.217.74/32 # United States | Illinois | Clouvider Limited
 193.160.217.156/32 # United States | Illinois | Clouvider Limited
@@ -1982,7 +1971,6 @@
 193.176.21.91/32 # United States | Florida | GREEN FLOID LLC
 193.176.23.62/32 # United States | Florida | GREEN FLOID LLC
 193.176.23.129/32 # United States | Florida | GREEN FLOID LLC
-193.176.23.241/32 # United States | Florida | GREEN FLOID LLC
 193.187.108.10/32 # United States | New York | Datacamp Limited
 193.201.127.35/32 # Netherlands | North Holland | Clouvider Limited
 193.228.48.253/32 # United States | Nevada | Clouvider Limited
@@ -2012,7 +2000,6 @@
 194.233.150.159/32 # United States | New York | Datacamp Limited
 195.3.222.251/32 # Poland | Masovian Voivodeship | Mevspace Sp. Z O.O.
 195.66.214.79/32 # Ukraine | Kyiv city | Virtual Systems LLC
-195.69.161.25/32 # United States | Arizona | Clouvider Limited
 195.69.161.102/32 # United States | Arizona | Clouvider Limited
 195.69.162.30/32 # United States | Arizona | Clouvider Limited
 195.69.162.154/32 # United States | Arizona | Clouvider Limited
