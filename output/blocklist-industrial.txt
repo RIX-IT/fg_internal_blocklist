@@ -19,7 +19,6 @@
 45.153.161.0/24 # Netherlands | North Holland | NTT America, Inc.
 45.153.162.0/24 # Netherlands | North Holland | NTT America, Inc.
 45.153.163.0/24 # Netherlands | North Holland | NTT America, Inc.
-45.159.124.0/24 # United States | Pennsylvania | Clouvider Limited
 62.106.69.0/24 # United States | New Jersey | Clouvider Limited
 64.113.0.0/24 # United States | Delaware | Datacamp Limited
 64.226.156.0/24 # Netherlands | North Holland | Leaseweb Netherlands B.V.
@@ -78,7 +77,6 @@
 173.249.254.0/24 # United States | Illinois | Tzulo, Inc.
 173.249.255.0/24 # United States | Illinois | Tzulo, Inc.
 185.13.225.0/24 # Netherlands | Overijssel | Datacamp Limited
-185.68.82.0/24 # United States | District of Columbia | Clouvider Limited
 185.141.119.0/24 # United States | Michigan | Hostroyale Technologies Pvt LTD
 185.241.150.0/24 # Germany | Hesse | Datacamp Limited
 188.255.196.0/24 # Netherlands | North Holland | Datacamp Limited
@@ -129,7 +127,6 @@
 5.252.189.87/32 # United States | New York | Clouvider Limited
 5.252.189.170/32 # United States | New York | Clouvider Limited
 5.252.191.32/32 # United States | New York | Clouvider Limited
-5.252.191.195/32 # United States | New York | Clouvider Limited
 5.252.191.198/32 # United States | New York | Clouvider Limited
 8.217.38.238/32 # Hong Kong | Hong Kong | Alibaba us Technology Co., Ltd.
 9.160.121.209/32 # Belgium | Brussels-Capital | Microsoft Corporation
@@ -388,6 +385,10 @@
 45.156.129.156/32 # United States | Illinois | Nsec Sistemas Informaticos, S.A.
 45.158.44.96/32 # United States | California | Shock Hosting LLC
 45.159.85.220/32 # Germany | Baden-Württemberg | Clouvider Limited
+45.159.124.155/32 # United States | Indiana | Clouvider Limited
+45.159.124.165/32 # United States | Indiana | Clouvider Limited
+45.159.124.177/32 # United States | Indiana | Clouvider Limited
+45.159.124.247/32 # United States | Indiana | Clouvider Limited
 45.159.125.204/32 # United States | Indiana | Clouvider Limited
 45.159.126.11/32 # United States | Indiana | Clouvider Limited
 45.159.127.5/32 # United States | Indiana | Clouvider Limited
@@ -682,6 +683,7 @@
 89.37.63.33/32 # Sweden | Stockholm County | Datacamp Limited
 89.116.56.251/32 # United States | New York | Datacamp Limited
 89.117.79.31/32 # United States | New York | Contabo Inc.
+89.124.96.27/32 # Netherlands | North Holland | SERVERS TECH FZCO
 89.195.5.18/32 # United States | California | Mongodb, Inc.
 89.248.68.37/32 # Germany | Hesse | Clouvider Limited
 89.248.68.114/32 # Germany | Schleswig-Holstein | Clouvider Limited
@@ -956,7 +958,6 @@
 124.29.194.34/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 124.29.194.110/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 124.29.194.137/32 # Pakistan | Punjab | Cyber Internet Services private Limited
-124.29.194.140/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 124.29.214.120/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 124.29.214.156/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 124.220.19.110/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
@@ -1574,7 +1575,6 @@
 172.120.148.27/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.155.136/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.157.168/32 # United States | Washington | HOST TELECOM LTD
-172.120.158.186/32 # United States | New Jersey | HOST TELECOM LTD
 172.120.161.5/32 # United States | Washington | HOST TELECOM LTD
 172.120.162.183/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.176.178/32 # United States | Pennsylvania | HOST TELECOM LTD
@@ -1694,9 +1694,12 @@
 185.68.80.215/32 # United States | New York | Clouvider Limited
 185.68.80.251/32 # United States | New York | Clouvider Limited
 185.68.80.253/32 # United States | New York | Clouvider Limited
-185.68.81.51/32 # United States | New York | Clouvider Limited
 185.68.81.149/32 # United States | New York | Clouvider Limited
 185.68.81.241/32 # United States | New York | Clouvider Limited
+185.68.82.49/32 # United States | New York | Clouvider Limited
+185.68.82.139/32 # United States | New York | Clouvider Limited
+185.68.82.187/32 # United States | New York | Clouvider Limited
+185.68.82.206/32 # United States | New York | Clouvider Limited
 185.68.83.64/32 # United States | New York | Clouvider Limited
 185.68.83.66/32 # United States | New York | Clouvider Limited
 185.68.83.178/32 # United States | New York | Clouvider Limited
