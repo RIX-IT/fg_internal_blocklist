@@ -93,7 +93,6 @@
 2.56.139.117/32 # United States | California | Shock Hosting LLC
 2.56.179.16/32 # United Kingdom | England | Worktitans B.V.
 2.57.148.9/32 # United States | California | Clouvider Limited
-2.57.148.154/32 # United States | California | Clouvider Limited
 2.57.151.232/32 # United States | California | Shock Hosting LLC
 4.152.8.159/32 # United States | Virginia | Microsoft Corporation
 4.152.26.13/32 # United States | Virginia | Microsoft Corporation
@@ -180,7 +179,6 @@
 24.65.228.183/32 # Canada | Alberta | Shaw Communications
 24.95.137.46/32 # United States | Ohio | Charter Communications INC
 24.140.135.240/32 # United States | Ohio | Massillon Cable Communications
-24.144.98.255/32 # United States | New Jersey | Digitalocean, LLC
 24.160.50.28/32 # United States | California | Charter Communications INC
 24.160.110.31/32 # United States | Florida | Charter Communications, INC
 27.9.45.87/32 # China | Chongqing | China Unicom China1 Backbone
@@ -321,6 +319,7 @@
 45.130.184.103/32 # United States | New Jersey | Clouvider Limited
 45.130.185.53/32 # United States | New Jersey | Clouvider Limited
 45.130.186.50/32 # United States | Pennsylvania | Clouvider Limited
+45.130.200.127/32 # Sweden | Stockholm County | Eisenia Ab
 45.132.51.105/32 # Germany | Schleswig-Holstein | Clouvider Limited
 45.132.51.187/32 # Germany | Hesse | Clouvider Limited
 45.132.207.117/32 # Germany | Hesse | Clouvider Limited
@@ -658,6 +657,7 @@
 89.22.232.150/32 # Sweden | Stockholm County | AEZA GROUP LLC
 89.37.63.21/32 # Sweden | Stockholm County | Datacamp Limited
 89.37.63.33/32 # Sweden | Stockholm County | Datacamp Limited
+89.37.63.202/32 # Sweden | Stockholm County | Datacamp Limited
 89.116.56.251/32 # United States | New York | Datacamp Limited
 89.117.79.31/32 # United States | New York | Contabo Inc.
 89.124.96.27/32 # Netherlands | North Holland | SERVERS TECH FZCO
@@ -849,7 +849,6 @@
 110.185.104.180/32 # China | Sichuan | Chinanet Sichuan Telecom Internet Data C...
 111.88.38.183/32 # Pakistan | Sindh | Connect Communication
 111.90.145.48/32 # Malaysia | Federal Territory of Kuala Lumpur | Shinjiru Te...
-111.229.123.18/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
 111.249.67.232/32 # Taiwan | New Taipei City | Chunghwa Telecom Co., Ltd.
 112.74.51.59/32 # China | Guangdong Province | Hangzhou Alibaba Advertising ...
 112.80.248.27/32 # China | Jiangsu | China Unicom China1 Backbone
@@ -964,6 +963,7 @@
 135.106.94.239/32 # United States | Wyoming | GREEN FLOID LLC
 135.106.107.61/32 # United States | Louisiana | GREEN FLOID LLC
 135.131.63.200/32 # United States | Wisconsin | TDS TELECOM
+135.136.19.99/32 # Germany | Hesse | M Europe SRL
 135.237.29.5/32 # United States | District of Columbia | Microsoft Corporation
 136.0.102.25/32 # United States | New York | HOST TELECOM LTD
 136.0.102.40/32 # United States | New York | HOST TELECOM LTD
@@ -1404,7 +1404,6 @@
 165.51.52.41/32 # Tunisia | Monastir | Orange Tunisie
 165.73.180.188/32 # South Africa | Gauteng | HERO TELECOMS PTY LTD
 165.73.183.212/32 # South Africa | Gauteng | HERO TELECOMS PTY LTD
-165.227.20.2/32 # United States | California | Digitalocean, LLC
 165.227.26.253/32 # United States | California | Digitalocean, LLC
 165.227.113.183/32 # United States | New Jersey | Digitalocean, LLC
 165.227.161.101/32 # Germany | Schleswig-Holstein | Digitalocean, LLC
@@ -1463,8 +1462,10 @@
 169.40.2.68/32 # Latvia | Vidzeme | SIA VEESP
 169.150.196.7/32 # Netherlands | North Holland | Datacamp Limited
 169.150.196.10/32 # Netherlands | North Holland | Datacamp Limited
+169.150.196.21/32 # Netherlands | North Holland | Datacamp Limited
 169.150.203.40/32 # United States | California | Datacamp Limited
 170.10.224.184/32 # Canada | Nova Scotia | Altima Telecom
+170.62.100.44/32 # Sweden | Jonkoping County | Datacamp Limited
 170.62.100.179/32 # Sweden | Stockholm County | Datacamp Limited
 170.62.100.199/32 # Sweden | Stockholm County | Datacamp Limited
 170.79.235.138/32 # Chile | Santiago Metropolitan Region | Tna Solutions SPA
@@ -1572,7 +1573,6 @@
 173.41.23.176/32 # United States | Michigan | Charter Communications LLC
 173.59.19.134/32 # United States | Pennsylvania | Verizon Business
 173.76.10.161/32 # United States | Massachusetts | Verizon Business
-173.230.128.104/32 # United States | Georgia | Akamai Technologies, Inc.
 173.232.146.90/32 # United States | Texas | Eonix Corporation
 173.254.204.72/32 # United States | California | HostPapa
 174.129.205.0/32 # United States | Virginia | Amazon.com, Inc.
@@ -1645,6 +1645,7 @@
 185.65.134.209/32 # Netherlands | North Holland | 11 Services Ab
 185.65.134.212/32 # Netherlands | North Holland | 11 Services Ab
 185.65.134.226/32 # Netherlands | North Holland | 11 Services Ab
+185.65.135.176/32 # Sweden | Norrbotten County | 11 Services Ab
 185.68.80.215/32 # United States | New York | Clouvider Limited
 185.68.80.251/32 # United States | New York | Clouvider Limited
 185.68.80.253/32 # United States | New York | Clouvider Limited
@@ -1715,6 +1716,7 @@
 185.208.158.250/32 # Switzerland | Bern | Global data System IT Corporation
 185.209.50.178/32 # United Kingdom | England | Clouvider Limited
 185.209.199.131/32 # Sweden | Västra Götaland County | 11 Services Ab
+185.213.155.241/32 # Germany | Hesse | 11 Services Ab
 185.217.230.188/32 # Italy | Campania | Convergenze S.P.A.
 185.218.138.39/32 # Finland | Mainland Finland | Vlad Cojuhari
 185.238.91.106/32 # Germany | Hesse | Clouvider Limited
@@ -1762,6 +1764,7 @@
 193.32.248.151/32 # Germany | Berlin | 11 Services Ab
 193.32.248.201/32 # Germany | Berlin | 11 Services Ab
 193.32.249.159/32 # Netherlands | North Holland | 11 Services Ab
+193.32.249.164/32 # Netherlands | North Holland | 11 Services Ab
 193.33.188.81/32 # Germany | Berlin | Clouvider Limited
 193.33.188.136/32 # Germany | Hesse | Clouvider Limited
 193.33.188.188/32 # Germany | Berlin | Clouvider Limited
@@ -1801,9 +1804,11 @@
 194.35.127.56/32 # United States | District of Columbia | Clouvider Limited
 194.35.127.85/32 # United States | District of Columbia | Clouvider Limited
 194.35.127.175/32 # United States | District of Columbia | Clouvider Limited
+194.36.25.11/32 # Germany | North Rhine-Westphalia | Owl Limited
 194.59.12.47/32 # United States | New York | Clouvider Limited
 194.59.12.61/32 # United States | New York | Clouvider Limited
 194.59.12.201/32 # United States | New York | Clouvider Limited
+194.76.227.110/32 # Estonia | Harju maakond | Servinga GmbH
 194.104.143.222/32 # United States | Connecticut | Clouvider Limited
 194.104.143.231/32 # United States | Connecticut | Clouvider Limited
 194.104.237.170/32 # United States | Texas | Clouvider Limited
