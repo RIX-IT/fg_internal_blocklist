@@ -49,7 +49,6 @@
 144.172.91.0/24 # United States | Utah | Routerhosting LLC
 144.172.99.0/24 # United States | New York | Frantech Solutions
 148.135.183.0/24 # United States | New York | Datacamp Limited
-151.247.52.0/24 # United States | California | M Europe SRL
 155.2.191.0/24 # United States | South Carolina | Host Universal Pty LTD
 166.1.241.0/24 # United States | Arizona | Clouvider Limited
 166.1.242.0/24 # United States | Arizona | Clouvider Limited
@@ -187,7 +186,6 @@
 27.43.205.174/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.206.164/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.207.70/32 # China | Guangdong Province | China Unicom Guangdong Provin...
-27.123.241.187/32 # India | Delhi | Ani Network Pvt LTD
 27.215.138.121/32 # China | Shandong | China Unicom China1 Backbone
 31.56.117.11/32 # Latvia | Vidzeme | CGI GLOBAL LIMITED
 31.59.121.19/32 # France | Île-de-France | CGI GLOBAL LIMITED
@@ -643,6 +641,7 @@
 87.106.191.217/32 # Germany | Hesse | IONOS SE
 87.120.219.26/32 # United Kingdom | England | GLOBAL CONNECTIVITY SOLUTIONS LLP
 87.242.87.204/32 # Russia | Moscow | Cloud Technologies LLC Trading AS Cloud.ru
+87.247.143.214/32 # Germany | Berlin | Clouvider Limited
 87.247.143.239/32 # Germany | Berlin | Clouvider Limited
 88.32.34.78/32 # Italy | Friuli-Venezia Giulia | Telecom Italia S.P.A.
 88.32.188.248/32 # Italy | Lombardy | Telecom Italia S.P.A.
@@ -752,6 +751,7 @@
 103.96.130.107/32 # Hong Kong | Hong Kong | WUZHOUHULIAN INTERNATIONAL CO., LI...
 103.98.37.32/32 # India | Delhi | NETMAX COMPUTERS
 103.99.196.0/32 # India | Delhi | Maxnet Digital Pvt LTD
+103.131.85.153/32 # Vietnam | Hanoi | TAN THANH AN INTERNATIONAL TRADE DEVELOP...
 103.131.102.153/32 # Bangladesh | Khulna Division | Business Zone Limited
 103.148.140.19/32 # Singapore | Southeast | LEASEWEB SINGAPORE PTE. LTD.
 103.148.140.94/32 # Singapore | Southeast | LEASEWEB SINGAPORE PTE. LTD.
@@ -887,7 +887,6 @@
 117.200.211.232/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.205.95.190/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.206.68.203/32 # India | Karnataka | Bharat Sanchar Nigam LTD
-117.209.15.215/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.209.21.64/32 # India | Meghalaya | Bharat Sanchar Nigam LTD
 117.209.82.188/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.209.91.135/32 # India | Mizoram | Bharat Sanchar Nigam LTD
@@ -899,7 +898,6 @@
 117.221.112.151/32 # India | Kerala | Bharat Sanchar Nigam LTD
 117.221.165.240/32 # India | Telangana | Bharat Sanchar Nigam LTD
 117.235.238.47/32 # India | Delhi | Bharat Sanchar Nigam LTD
-117.242.206.78/32 # India | Delhi | Bharat Sanchar Nigam LTD
 117.242.237.148/32 # India | Delhi | Bharat Sanchar Nigam LTD
 119.15.77.0/32 # Australia | South Australia | SUPERLOOP AUSTRALIA PTY LTD
 119.30.116.37/32 # Pakistan | Punjab | Mobilink Gsm, Pakistan Mobile Communic...
@@ -1162,6 +1160,7 @@
 146.255.186.5/32 # United States | New York | Clouvider Limited
 147.93.156.75/32 # Singapore | Southeast | Contabo Asia Private Limited
 147.135.244.43/32 # France | Hauts-de-France | OVH SAS
+147.182.181.141/32 # United States | New Jersey | Digitalocean, LLC
 149.28.130.195/32 # Singapore | Southeast | The Constant Company, LLC
 149.28.137.254/32 # Singapore | Southeast | The Constant Company, LLC
 149.86.159.32/32 # Turkey | Konya | GIBIRNET ILETISIM HIZMETLERI SANAYI VE TI...
@@ -1173,6 +1172,10 @@
 151.243.11.23/32 # Germany | Hesse | LLC VASH KREDIT BANK
 151.247.50.159/32 # United States | California | M Europe SRL
 151.247.50.203/32 # United States | California | M Europe SRL
+151.247.52.46/32 # United States | California | M Europe SRL
+151.247.52.48/32 # United States | California | M Europe SRL
+151.247.52.63/32 # United States | California | M Europe SRL
+151.247.52.233/32 # United States | California | M Europe SRL
 151.247.186.236/32 # United States | New York | M Europe SRL
 152.42.140.232/32 # Netherlands | North Holland | Digitalocean, LLC
 152.53.90.123/32 # United States | Virginia | Netcup GmbH
@@ -1199,6 +1202,7 @@
 153.80.171.128/32 # Netherlands | South Holland | Ivanov Vitaliy Sergeevich
 153.174.105.176/32 # Japan | Niigata Prefecture | NTT Docomo Business,inc.
 153.242.113.129/32 # Japan | Tokyo | NTT Docomo Business,inc.
+154.8.193.97/32 # China | Beijing | Shenzhen Tencent Computer Systems Compan...
 154.16.168.94/32 # United States | Oregon | Tier.net Technologies LLC
 154.81.196.56/32 # Netherlands | North Holland | HOST TELECOM LTD
 154.81.199.141/32 # Netherlands | North Holland | HOST TELECOM LTD
@@ -1212,8 +1216,10 @@
 154.194.72.103/32 # Germany | Berlin | Clouvider Limited
 154.194.72.251/32 # Germany | Berlin | Clouvider Limited
 154.194.74.89/32 # Germany | Berlin | Clouvider Limited
+154.194.75.167/32 # Germany | Berlin | Clouvider Limited
 154.194.76.50/32 # Germany | Berlin | Clouvider Limited
 154.194.76.211/32 # Germany | Berlin | Clouvider Limited
+154.194.77.38/32 # Germany | Berlin | Clouvider Limited
 154.194.78.79/32 # Germany | Berlin | Clouvider Limited
 154.194.79.38/32 # Germany | Berlin | Clouvider Limited
 154.194.79.93/32 # Germany | Berlin | Clouvider Limited
@@ -1257,6 +1263,7 @@
 154.194.110.227/32 # Germany | Berlin | Clouvider Limited
 154.194.112.50/32 # Germany | Berlin | Clouvider Limited
 154.194.112.90/32 # Germany | Berlin | Clouvider Limited
+154.194.112.102/32 # Germany | Berlin | Clouvider Limited
 154.194.112.148/32 # Germany | Berlin | Clouvider Limited
 154.194.114.61/32 # Germany | Berlin | Clouvider Limited
 154.194.116.118/32 # Germany | Berlin | Clouvider Limited
@@ -1344,6 +1351,7 @@
 154.195.175.138/32 # Germany | Hesse | Clouvider Limited
 154.195.177.248/32 # Germany | Hesse | Clouvider Limited
 154.195.180.83/32 # Germany | Hesse | Clouvider Limited
+154.195.182.216/32 # Germany | Hamburg | Clouvider Limited
 154.195.184.32/32 # Germany | Bavaria | Clouvider Limited
 154.195.185.224/32 # Germany | Hesse | Clouvider Limited
 154.195.186.214/32 # Germany | Hamburg | Clouvider Limited
@@ -1359,9 +1367,11 @@
 154.196.34.169/32 # Germany | North Rhine-Westphalia | Clouvider Limited
 154.196.48.38/32 # Germany | North Rhine-Westphalia | Clouvider Limited
 154.196.48.158/32 # Germany | Hesse | Clouvider Limited
+154.196.52.192/32 # Germany | North Rhine-Westphalia | Clouvider Limited
 154.196.53.173/32 # Germany | North Rhine-Westphalia | Clouvider Limited
 154.196.55.227/32 # Germany | North Rhine-Westphalia | Clouvider Limited
 154.196.57.244/32 # Germany | North Rhine-Westphalia | Clouvider Limited
+154.196.59.80/32 # Germany | North Rhine-Westphalia | Clouvider Limited
 154.196.59.138/32 # Germany | North Rhine-Westphalia | Clouvider Limited
 154.196.59.153/32 # Germany | North Rhine-Westphalia | Clouvider Limited
 154.196.62.180/32 # Germany | North Rhine-Westphalia | Clouvider Limited
@@ -1715,6 +1725,7 @@
 185.77.136.203/32 # Germany | Hesse | Clouvider Limited
 185.77.136.243/32 # Germany | Hesse | Clouvider Limited
 185.77.137.232/32 # Germany | Hesse | Clouvider Limited
+185.78.78.80/32 # Germany | Hesse | Clouvider Limited
 185.78.78.138/32 # Germany | Hesse | Clouvider Limited
 185.78.79.158/32 # Germany | Hesse | Clouvider Limited
 185.78.79.234/32 # Germany | Hesse | Clouvider Limited
@@ -1805,7 +1816,6 @@
 192.3.153.18/32 # United States | New York | HostPapa
 192.109.138.65/32 # Netherlands | Limburg | Colocatel Inc.
 192.177.45.193/32 # United States | Pennsylvania | Clouvider Limited
-192.227.153.50/32 # United States | New York | HostPapa
 192.241.190.181/32 # United States | New Jersey | Digitalocean, LLC
 193.8.75.54/32 # United States | New York | GREEN FLOID LLC
 193.8.75.152/32 # United States | New York | GREEN FLOID LLC
@@ -1950,6 +1960,7 @@
 209.101.253.189/32 # United States | Florida | Datacamp Limited
 209.182.225.147/32 # United States | Washington | Shock Hosting LLC
 210.56.49.72/32 # Hong Kong | Hong Kong | Ctg Server Limited
+212.6.36.19/32 # Germany | Berlin | Clouvider Limited
 212.6.36.129/32 # Germany | Berlin | Clouvider Limited
 212.6.36.204/32 # Germany | Berlin | Clouvider Limited
 212.28.183.214/32 # United States | Missouri | Contabo Inc.
@@ -2002,7 +2013,6 @@
 222.75.122.66/32 # China | Ningxia | No. 1,jin rong Street
 222.85.37.31/32 # China | Henan | No. 1,jin rong Street
 222.138.124.189/32 # China | Henan | China Unicom China1 Backbone
-222.140.140.132/32 # China | Henan | China Unicom China1 Backbone
 223.29.232.120/32 # Pakistan | Sindh | Logon Broadband Pvt. Limited
 223.64.222.188/32 # China | Jiangsu | China Mobile Communications Corporation
 223.123.38.36/32 # Pakistan | Punjab | Cmpak Limited
