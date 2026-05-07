@@ -33,7 +33,6 @@
 103.81.231.0/24 # United States | Virginia | Hostroyale Technologies Pvt LTD
 104.219.170.0/24 # United States | New York | Datacamp Limited
 104.219.171.0/24 # United States | New York | Datacamp Limited
-142.111.231.0/24 # United States | Kansas | Clouvider Limited
 142.111.253.0/24 # United States | California | Clouvider Limited
 142.252.99.0/24 # United States | California | Clouvider Limited
 142.252.110.0/24 # United States | Texas | Clouvider Limited
@@ -46,15 +45,12 @@
 144.172.99.0/24 # United States | New York | Frantech Solutions
 148.135.183.0/24 # United States | New York | Datacamp Limited
 155.2.191.0/24 # United States | South Carolina | Host Universal Pty LTD
-166.1.241.0/24 # United States | Arizona | Clouvider Limited
 166.1.242.0/24 # United States | Arizona | Clouvider Limited
 166.1.244.0/24 # United States | District of Columbia | Clouvider Limited
-166.1.250.0/24 # United States | Arizona | Clouvider Limited
 166.1.251.0/24 # United States | Arizona | Clouvider Limited
 166.1.252.0/24 # United States | Arizona | Clouvider Limited
 166.1.253.0/24 # United States | Maryland | Clouvider Limited
 166.1.254.0/24 # United States | District of Columbia | Clouvider Limited
-166.88.9.0/24 # United States | District of Columbia | Clouvider Limited
 166.88.156.0/24 # United States | New York | Clouvider Limited
 166.88.158.0/24 # United States | Kansas | Clouvider Limited
 172.86.89.0/24 # United States | Texas | Routerhosting LLC
@@ -221,6 +217,7 @@
 34.140.18.145/32 # Belgium | Brussels-Capital | Google LLC
 35.187.161.172/32 # Belgium | Brussels-Capital | Google LLC
 35.187.175.164/32 # Belgium | Brussels-Capital | Google LLC
+35.189.212.71/32 # Belgium | Brussels-Capital | Google LLC
 35.190.208.176/32 # Belgium | Brussels-Capital | Google LLC
 35.195.19.0/32 # Belgium | Brussels-Capital | Google LLC
 35.195.111.74/32 # Belgium | Brussels-Capital | Google LLC
@@ -855,6 +852,7 @@
 109.205.62.130/32 # United States | New York | Clouvider Limited
 109.205.213.203/32 # Azerbaijan | Baku | Interserver, INC
 110.36.30.37/32 # Pakistan | Punjab | Wateen Telecom Limited
+110.37.9.197/32 # Pakistan | Punjab | Wateen Telecom Limited
 110.37.59.113/32 # Pakistan | Punjab | Wateen Telecom Limited
 110.38.214.94/32 # Pakistan | Punjab | Wateen Telecom Limited
 110.38.250.184/32 # Pakistan | Sindh | Galaxy Broadband pvt. Ltd.
@@ -1078,6 +1076,10 @@
 142.111.213.239/32 # United States | California | Clouvider Limited
 142.111.229.145/32 # United States | New York | HOST TELECOM LTD
 142.111.229.191/32 # United States | New York | HOST TELECOM LTD
+142.111.231.60/32 # United States | Kansas | Clouvider Limited
+142.111.231.74/32 # United States | Kansas | Clouvider Limited
+142.111.231.195/32 # United States | Kansas | Clouvider Limited
+142.111.231.246/32 # United States | Kansas | Clouvider Limited
 142.111.232.48/32 # United States | New York | HOST TELECOM LTD
 142.111.232.227/32 # United States | New York | HOST TELECOM LTD
 142.111.233.128/32 # United States | New York | HOST TELECOM LTD
@@ -1474,15 +1476,11 @@
 165.227.179.242/32 # United States | New Jersey | Digitalocean, LLC
 165.245.184.194/32 # Singapore | Southeast | Digitalocean, LLC
 166.1.149.215/32 # United States | Pennsylvania | Clouvider Limited
-166.1.149.216/32 # United States | Pennsylvania | Clouvider Limited
-166.1.159.153/32 # United States | Pennsylvania | Clouvider Limited
-166.1.159.179/32 # United States | Pennsylvania | Clouvider Limited
 166.1.168.88/32 # United States | New York | Clouvider Limited
 166.1.168.129/32 # United States | New York | Clouvider Limited
 166.1.193.203/32 # Germany | Berlin | Clouvider Limited
 166.1.196.134/32 # United States | Pennsylvania | Clouvider Limited
 166.1.196.148/32 # United States | Pennsylvania | Clouvider Limited
-166.1.196.184/32 # United States | Pennsylvania | Clouvider Limited
 166.1.198.83/32 # Germany | Berlin | Clouvider Limited
 166.1.204.116/32 # Germany | Berlin | Clouvider Limited
 166.1.211.37/32 # Germany | Berlin | Clouvider Limited
@@ -1492,6 +1490,10 @@
 166.1.223.121/32 # Germany | Berlin | Clouvider Limited
 166.1.223.133/32 # Germany | Berlin | Clouvider Limited
 166.1.223.177/32 # Germany | Berlin | Clouvider Limited
+166.1.241.68/32 # United States | New York | Clouvider Limited
+166.1.241.97/32 # United States | New York | Clouvider Limited
+166.1.241.123/32 # United States | New York | Clouvider Limited
+166.1.241.166/32 # United States | New York | Clouvider Limited
 166.1.243.7/32 # United States | Arizona | Clouvider Limited
 166.1.243.29/32 # United States | Arizona | Clouvider Limited
 166.1.243.162/32 # United States | Arizona | Clouvider Limited
@@ -1499,10 +1501,18 @@
 166.1.245.159/32 # United States | New York | Clouvider Limited
 166.1.245.237/32 # United States | New York | Clouvider Limited
 166.1.245.250/32 # United States | New York | Clouvider Limited
+166.1.250.196/32 # United States | Arizona | Clouvider Limited
+166.1.250.197/32 # United States | Arizona | Clouvider Limited
+166.1.250.210/32 # United States | Arizona | Clouvider Limited
+166.1.250.213/32 # United States | Arizona | Clouvider Limited
 166.1.255.129/32 # United States | New York | Clouvider Limited
 166.1.255.184/32 # United States | New York | Clouvider Limited
 166.1.255.250/32 # United States | New York | Clouvider Limited
 166.88.0.106/32 # United States | California | HOST TELECOM LTD
+166.88.9.4/32 # United States | New York | Clouvider Limited
+166.88.9.100/32 # United States | New York | Clouvider Limited
+166.88.9.239/32 # United States | New York | Clouvider Limited
+166.88.9.249/32 # United States | New York | Clouvider Limited
 166.88.41.241/32 # United States | California | HOST TELECOM LTD
 166.88.49.246/32 # United States | California | HOST TELECOM LTD
 166.88.72.90/32 # United States | California | HOST TELECOM LTD
@@ -1656,6 +1666,7 @@
 175.107.221.154/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 175.107.233.232/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 175.107.237.2/32 # Pakistan | Punjab | Cyber Internet Services private Limited
+175.107.237.194/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 175.148.31.219/32 # China | Liaoning | China Unicom China1 Backbone
 175.165.87.198/32 # China | Liaoning | China Unicom China1 Backbone
 176.65.149.227/32 # Netherlands | Limburg | Pfcloud UG haftungsbeschrankt
@@ -1928,6 +1939,7 @@
 198.55.98.133/32 # United States | New York | HostPapa
 198.58.117.211/32 # United States | Texas | Akamai Technologies, Inc.
 198.58.118.139/32 # United States | Texas | Akamai Technologies, Inc.
+199.16.59.198/32 # Antigua and Barbuda | Antigua | Cable Wireless Dominica
 199.96.171.54/32 # United States | Kansas | City of Chanute, Kansas
 199.217.98.108/32 # Netherlands | North Holland | Bl Networks
 200.112.219.70/32 # Ecuador | Imbabura | CRAMCOMNET CIA.LTDA.
