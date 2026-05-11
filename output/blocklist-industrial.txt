@@ -17,7 +17,6 @@
 142.111.253.0/24 # United States | California | Clouvider Limited
 142.252.99.0/24 # United States | California | Clouvider Limited
 142.252.110.0/24 # United States | Texas | Clouvider Limited
-142.252.120.0/24 # United States | Texas | Clouvider Limited
 142.252.234.0/24 # United States | Texas | Clouvider Limited
 142.252.242.0/24 # United States | California | Clouvider Limited
 142.252.244.0/24 # United States | California | Clouvider Limited
@@ -52,6 +51,7 @@
 1.92.98.133/32 # China | Beijing | Huawei Cloud Service Data Center
 1.190.205.48/32 # China | Heilongjiang | China Unicom China1 Backbone
 1.220.228.82/32 # Republic of Korea | Unknown | Lg Dacom Corporation
+2.26.252.153/32 # United States | Utah | Kyonix Networks Limited
 2.56.139.117/32 # United States | California | Shock Hosting LLC
 2.56.179.16/32 # United Kingdom | England | Worktitans B.V.
 2.57.148.9/32 # United States | California | Clouvider Limited
@@ -59,7 +59,6 @@
 4.152.8.159/32 # United States | Virginia | Microsoft Corporation
 4.172.1.22/32 # Canada | Ontario | Microsoft Corporation
 4.188.90.255/32 # India | Maharashtra | Microsoft Corporation
-4.225.32.97/32 # Sweden | Gavleborg County | Microsoft Corporation
 4.233.18.149/32 # France | Île-de-France | Microsoft Corporation
 4.255.125.205/32 # United States | District of Columbia | Microsoft Corporation
 5.1.46.5/32 # United States | Nevada | Clouvider Limited
@@ -95,7 +94,6 @@
 15.235.104.73/32 # Canada | Québec | OVH SAS
 15.235.172.219/32 # Singapore | Southeast | OVH SAS
 20.8.1.112/32 # Netherlands | North Holland | Microsoft Corporation
-20.11.183.58/32 # Australia | Victoria | Microsoft Corporation
 20.23.9.218/32 # Netherlands | North Holland | Microsoft Corporation
 20.42.26.130/32 # United States | District of Columbia | Microsoft Corporation
 20.48.25.221/32 # Japan | Tokyo | Microsoft Corporation
@@ -107,7 +105,6 @@
 20.98.171.226/32 # United States | Iowa | Microsoft Corporation
 20.103.187.167/32 # Netherlands | North Holland | Microsoft Corporation
 20.104.170.89/32 # Canada | Québec | Microsoft Corporation
-20.201.33.30/32 # Brazil | State of São Paulo | Microsoft Corporation
 20.201.39.131/32 # Brazil | State of São Paulo | Microsoft Corporation
 20.207.56.175/32 # India | Gujarat | Microsoft Corporation
 20.215.89.29/32 # Poland | Masovian Voivodeship | Microsoft Corporation
@@ -115,7 +112,6 @@
 20.233.241.159/32 # United Arab Emirates | Dubai | Microsoft Corporation
 20.240.18.188/32 # Sweden | Gavleborg County | Microsoft Corporation
 20.246.194.204/32 # United States | District of Columbia | Microsoft Corporation
-20.248.236.164/32 # Australia | New South Wales | Microsoft Corporation
 23.87.233.237/32 # United States | Wisconsin | Charter Communications LLC
 23.99.199.110/32 # United States | Iowa | Microsoft Corporation
 23.230.8.22/32 # Australia | District of Canberra Central | HOST TELECOM LTD
@@ -405,7 +401,6 @@
 49.234.229.91/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
 50.116.2.250/32 # United States | California | Akamai Technologies, Inc.
 50.116.49.131/32 # United States | New Jersey | Akamai Technologies, Inc.
-50.118.198.173/32 # United States | New Jersey | HOST TELECOM LTD
 51.77.199.82/32 # France | Île-de-France | OVH SAS
 51.79.66.183/32 # Canada | Québec | OVH SAS
 51.79.214.125/32 # Singapore | Southeast | OVH SAS
@@ -456,7 +451,6 @@
 62.132.18.20/32 # United States | New York | Bunny Communications
 62.171.160.208/32 # France | Grand Est | Contabo GmbH
 62.171.174.195/32 # France | Grand Est | Contabo GmbH
-62.171.180.14/32 # France | Grand Est | Contabo GmbH
 62.182.102.172/32 # Belarus | Minsk Region | Yedinyye Resheniya LLC
 62.192.139.38/32 # Netherlands | Groningen | Ivanov Vitaliy Sergeevich
 62.234.24.38/32 # China | Beijing | Shenzhen Tencent Computer Systems Compan...
@@ -731,11 +725,8 @@
 104.155.8.7/32 # Belgium | Brussels-Capital | Google LLC
 104.155.127.205/32 # Belgium | Brussels-Capital | Google LLC
 104.164.32.69/32 # Netherlands | North Holland | HOST TELECOM LTD
-104.164.47.145/32 # Netherlands | North Holland | HOST TELECOM LTD
 104.164.153.180/32 # Netherlands | North Holland | HOST TELECOM LTD
-104.164.164.199/32 # United States | New York | HOST TELECOM LTD
 104.164.165.158/32 # Netherlands | North Holland | HOST TELECOM LTD
-104.164.169.16/32 # Netherlands | North Holland | HOST TELECOM LTD
 104.164.205.141/32 # Netherlands | North Holland | HOST TELECOM LTD
 104.165.128.200/32 # United States | Pennsylvania | Clouvider Limited
 104.165.166.181/32 # Netherlands | North Holland | HOST TELECOM LTD
@@ -915,7 +906,6 @@
 135.136.19.99/32 # Germany | Hesse | M Europe SRL
 135.136.19.208/32 # Germany | Hesse | M Europe SRL
 135.136.19.210/32 # Germany | Hesse | M Europe SRL
-135.237.29.5/32 # United States | District of Columbia | Microsoft Corporation
 136.0.102.25/32 # United States | New York | HOST TELECOM LTD
 136.0.102.40/32 # United States | New York | HOST TELECOM LTD
 136.0.196.228/32 # United States | New Jersey | HOST TELECOM LTD
@@ -1064,6 +1054,10 @@
 142.252.107.99/32 # United States | Texas | Clouvider Limited
 142.252.107.125/32 # United States | Texas | Clouvider Limited
 142.252.107.189/32 # United States | Texas | Clouvider Limited
+142.252.120.103/32 # United States | Texas | Clouvider Limited
+142.252.120.181/32 # United States | Texas | Clouvider Limited
+142.252.120.202/32 # United States | Texas | Clouvider Limited
+142.252.120.225/32 # United States | Texas | Clouvider Limited
 142.252.126.212/32 # United States | Texas | Clouvider Limited
 142.252.132.242/32 # United States | California | HOST TELECOM LTD
 142.252.171.110/32 # United States | California | HOST TELECOM LTD
@@ -1491,7 +1485,6 @@
 170.205.31.241/32 # United States | California | Advin Services LLC
 170.245.148.83/32 # Brazil | Santa Catarina | Pinhais Net Telecom Comercio E S...
 171.213.157.240/32 # China | Sichuan | No. 1,jin rong Street
-171.225.145.59/32 # Vietnam | Hanoi | Viettel Group
 172.22.173.171/32 # Unknown | Unknown | Unknown
 172.56.101.37/32 # United States | Florida | T mobile Usa, Inc.
 172.56.232.28/32 # United States | California | T mobile Usa, Inc.
@@ -1566,7 +1559,6 @@
 172.121.77.96/32 # United States | Florida | HOST TELECOM LTD
 172.121.83.30/32 # United States | Florida | HOST TELECOM LTD
 172.121.85.162/32 # United States | Florida | HOST TELECOM LTD
-172.121.241.51/32 # United States | Nevada | Clouvider Limited
 172.121.241.105/32 # United States | Nevada | Clouvider Limited
 172.121.241.117/32 # United States | Nevada | Clouvider Limited
 172.206.192.187/32 # United States | Virginia | Microsoft Corporation
@@ -1930,7 +1922,6 @@
 221.15.27.160/32 # China | Henan | China Unicom China1 Backbone
 221.15.215.235/32 # China | Henan | China Unicom China1 Backbone
 222.75.122.66/32 # China | Ningxia | No. 1,jin rong Street
-222.85.37.31/32 # China | Henan | No. 1,jin rong Street
 223.29.232.120/32 # Pakistan | Sindh | Logon Broadband Pvt. Limited
 223.64.222.188/32 # China | Jiangsu | China Mobile Communications Corporation
 223.123.38.36/32 # Pakistan | Punjab | Cmpak Limited
