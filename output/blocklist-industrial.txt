@@ -35,6 +35,7 @@
 173.249.255.0/24 # United States | Illinois | Tzulo, Inc.
 185.65.134.0/24 # Netherlands | North Holland | 11 Services Ab
 185.141.119.0/24 # United States | Michigan | Hostroyale Technologies Pvt LTD
+185.209.199.0/24 # Sweden | Västra Götaland County | 11 Services Ab
 193.32.249.0/24 # Netherlands | North Holland | 11 Services Ab
 208.131.130.0/24 # United States | Utah | THG HOSTING LIMITED
 216.126.224.0/24 # United States | Utah | Routerhosting LLC
@@ -92,9 +93,7 @@
 20.77.134.145/32 # United Kingdom | England | Microsoft Corporation
 20.84.229.71/32 # United States | Iowa | Microsoft Corporation
 20.98.171.226/32 # United States | Iowa | Microsoft Corporation
-20.103.187.167/32 # Netherlands | North Holland | Microsoft Corporation
 20.201.39.131/32 # Brazil | State of São Paulo | Microsoft Corporation
-20.207.56.175/32 # India | Gujarat | Microsoft Corporation
 20.215.89.29/32 # Poland | Masovian Voivodeship | Microsoft Corporation
 20.219.226.122/32 # India | Maharashtra | Microsoft Corporation
 20.233.241.159/32 # United Arab Emirates | Dubai | Microsoft Corporation
@@ -106,7 +105,6 @@
 23.230.13.197/32 # Australia | District of Canberra Central | HOST TELECOM LTD
 23.230.77.253/32 # United States | New York | HOST TELECOM LTD
 23.230.175.22/32 # Netherlands | North Holland | HOST TELECOM LTD
-23.230.237.53/32 # Netherlands | North Holland | HOST TELECOM LTD
 23.240.192.117/32 # United States | California | Charter Communications INC
 24.65.228.183/32 # Canada | Alberta | Shaw Communications
 24.95.137.46/32 # United States | Ohio | Charter Communications INC
@@ -147,6 +145,7 @@
 34.38.136.113/32 # Belgium | Brussels-Capital | Google LLC
 34.38.141.205/32 # Belgium | Brussels-Capital | Google LLC
 34.38.151.156/32 # Belgium | Brussels-Capital | Google LLC
+34.38.222.209/32 # Belgium | Brussels-Capital | Google LLC
 34.38.246.75/32 # Belgium | Brussels-Capital | Google LLC
 34.53.140.122/32 # Belgium | Brussels-Capital | Google LLC
 34.53.255.101/32 # Belgium | Brussels-Capital | Google LLC
@@ -160,6 +159,7 @@
 34.77.115.57/32 # Belgium | Brussels-Capital | Google LLC
 34.77.124.108/32 # Belgium | Brussels-Capital | Google LLC
 34.77.126.114/32 # Belgium | Brussels-Capital | Google LLC
+34.77.170.195/32 # Belgium | Brussels-Capital | Google LLC
 34.77.200.70/32 # Belgium | Brussels-Capital | Google LLC
 34.78.29.101/32 # Belgium | Brussels-Capital | Google LLC
 34.78.67.197/32 # Belgium | Brussels-Capital | Google LLC
@@ -222,7 +222,6 @@
 43.155.62.54/32 # Hong Kong | Hong Kong | Shenzhen Tencent Computer Systems ...
 43.157.118.169/32 # Germany | Hesse | Shenzhen Tencent Computer Systems Compan...
 43.167.254.189/32 # Japan | Tokyo | Shenzhen Tencent Computer Systems Company ...
-43.212.13.101/32 # Taiwan | Keelung City | Amazon.com, Inc.
 43.225.189.168/32 # United States | Massachusetts | Hostroyale Technologies Pv...
 43.247.135.53/32 # Hong Kong | Hong Kong | XNNET LLC
 44.252.85.168/32 # United States | California | Amazon.com, Inc.
@@ -295,7 +294,6 @@
 45.140.173.63/32 # Australia | New South Wales | Ivanov Vitaliy Sergeevich
 45.140.173.213/32 # Australia | New South Wales | Ivanov Vitaliy Sergeevich
 45.140.174.47/32 # United States | California | Shock Hosting LLC
-45.141.151.147/32 # Turkey | Bursa | HOSTING DUNYAM BILISIM TEKNOLOJILERI TICA...
 45.143.143.126/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 45.143.143.175/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 45.143.143.184/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
@@ -795,7 +793,6 @@
 115.96.178.191/32 # India | Karnataka | HATHWAY CABLE AND DATACOM LIMITED
 116.75.232.69/32 # India | Delhi | HATHWAY CABLE AND DATACOM LIMITED
 116.107.129.238/32 # Vietnam | Yen Bai Province | Viettel Group
-116.140.208.243/32 # China | Beijing | China Unicom China1 Backbone
 116.149.240.90/32 # China | Beijing | China Unicom China1 Backbone
 116.213.178.11/32 # China | Beijing | Beijing Volcano Engine Technology Co., Ltd.
 117.21.40.216/32 # China | Jiangxi | No. 1,jin rong Street
@@ -869,7 +866,6 @@
 130.49.122.156/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 130.49.126.240/32 # United States | Florida | GREEN FLOID LLC
 130.51.175.163/32 # United States | Arkansas | The Computer Works of Arkansas,...
-130.61.73.99/32 # Germany | Hesse | Oracle Corporation
 130.211.64.204/32 # Belgium | Brussels-Capital | Google LLC
 131.159.24.205/32 # Germany | Bavaria | Technical University of Munich
 134.195.91.224/32 # United States | California | Hosthatch, LLC
@@ -962,6 +958,7 @@
 140.205.220.98/32 # China | Zhejiang | Hangzhou Alibaba Advertising CO.,LTD.
 140.235.83.213/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 141.98.255.130/32 # Sweden | Skåne County | 11 Services Ab
+141.98.255.132/32 # Sweden | Skåne County | 11 Services Ab
 141.133.102.145/32 # Germany | Hesse | Ivanov Vitaliy Sergeevich
 141.133.105.112/32 # Germany | Berlin | Ivanov Vitaliy Sergeevich
 141.133.107.18/32 # Germany | Berlin | Ivanov Vitaliy Sergeevich
@@ -1002,7 +999,6 @@
 142.252.8.254/32 # United States | California | HOST TELECOM LTD
 142.252.59.58/32 # United States | California | HOST TELECOM LTD
 142.252.81.201/32 # United States | California | Clouvider Limited
-142.252.81.207/32 # United States | California | Clouvider Limited
 142.252.82.219/32 # United States | California | Clouvider Limited
 142.252.83.206/32 # United States | California | Clouvider Limited
 142.252.84.216/32 # United States | California | Clouvider Limited
@@ -1574,6 +1570,7 @@
 182.113.41.218/32 # China | Henan | China Unicom China1 Backbone
 182.235.148.10/32 # Taiwan | Kaohsiung City | Hoshin Multimedia Center Inc.
 182.254.146.55/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
+183.82.0.230/32 # India | Karnataka | Atria Convergence Technologies Pvt. Ltd.,
 183.208.200.126/32 # China | Jiangsu | China Mobile Communications Corporation
 185.11.61.149/32 # Hong Kong | Hong Kong | Chang Way Technologies Co. Limited
 185.22.153.228/32 # Russia | Moscow | LLC Baxet
@@ -1584,6 +1581,7 @@
 185.39.17.18/32 # United States | Washington | GREEN FLOID LLC
 185.39.17.248/32 # United States | Washington | GREEN FLOID LLC
 185.65.135.176/32 # Sweden | Norrbotten County | 11 Services Ab
+185.65.135.178/32 # Sweden | Stockholm County | 11 Services Ab
 185.65.135.247/32 # Sweden | Stockholm County | 11 Services Ab
 185.65.135.250/32 # Sweden | Stockholm County | 11 Services Ab
 185.68.80.215/32 # United States | New York | Clouvider Limited
@@ -1661,14 +1659,14 @@
 185.208.158.250/32 # Switzerland | Bern | Global data System IT Corporation
 185.209.50.178/32 # United Kingdom | England | Clouvider Limited
 185.209.196.141/32 # Germany | Hesse | 11 Services Ab
+185.209.198.72/32 # Sweden | Stockholm County | 11 Services Ab
 185.209.198.85/32 # Sweden | Stockholm County | 11 Services Ab
+185.209.198.192/32 # Sweden | Västra Götaland County | 11 Services Ab
 185.209.198.205/32 # Sweden | Stockholm County | 11 Services Ab
-185.209.199.102/32 # Sweden | Västra Götaland County | 11 Services Ab
-185.209.199.106/32 # Sweden | Västra Götaland County | 11 Services Ab
-185.209.199.131/32 # Sweden | Västra Götaland County | 11 Services Ab
-185.209.199.136/32 # Sweden | Västra Götaland County | 11 Services Ab
 185.213.154.179/32 # Sweden | Västra Götaland County | 11 Services Ab
+185.213.154.207/32 # Sweden | Västra Götaland County | 11 Services Ab
 185.213.154.212/32 # Sweden | Västra Götaland County | 11 Services Ab
+185.213.154.242/32 # Sweden | Skåne County | 11 Services Ab
 185.213.155.241/32 # Germany | Hesse | 11 Services Ab
 185.217.230.188/32 # Italy | Campania | Convergenze S.P.A.
 185.238.91.106/32 # Germany | Hesse | Clouvider Limited
