@@ -14,6 +14,7 @@
 89.37.63.0/24 # Sweden | Stockholm County | Datacamp Limited
 103.81.230.0/24 # United States | Virginia | Hostroyale Technologies Pvt LTD
 103.81.231.0/24 # United States | Virginia | Hostroyale Technologies Pvt LTD
+107.158.128.0/24 # United States | Nevada | Eonix Corporation
 142.111.253.0/24 # United States | California | Clouvider Limited
 144.172.91.0/24 # United States | Utah | Routerhosting LLC
 144.172.99.0/24 # United States | New York | Frantech Solutions
@@ -27,8 +28,10 @@
 166.88.158.0/24 # United States | Kansas | Clouvider Limited
 169.150.196.0/24 # Netherlands | North Holland | Datacamp Limited
 170.62.100.0/24 # Sweden | Skåne County | Datacamp Limited
+170.130.55.0/24 # United States | Nevada | Eonix Corporation
 172.86.89.0/24 # United States | Texas | Routerhosting LLC
 172.86.113.0/24 # United States | Texas | Routerhosting LLC
+173.232.146.0/24 # United States | Nevada | Eonix Corporation
 173.249.252.0/24 # United States | Illinois | Tzulo, Inc.
 173.249.253.0/24 # United States | Illinois | Tzulo, Inc.
 173.249.254.0/24 # United States | Illinois | Tzulo, Inc.
@@ -129,6 +132,7 @@
 34.9.18.51/32 # United States | Iowa | Google LLC
 34.14.54.83/32 # Belgium | Brussels-Capital | Google LLC
 34.14.85.114/32 # Belgium | Brussels-Capital | Google LLC
+34.14.98.108/32 # Belgium | Brussels-Capital | Google LLC
 34.22.143.173/32 # Belgium | Brussels-Capital | Google LLC
 34.22.146.214/32 # Belgium | Brussels-Capital | Google LLC
 34.22.167.184/32 # Belgium | Brussels-Capital | Google LLC
@@ -177,6 +181,7 @@
 35.205.167.226/32 # Belgium | Brussels-Capital | Google LLC
 35.205.192.149/32 # Belgium | Brussels-Capital | Google LLC
 35.205.234.174/32 # Belgium | Brussels-Capital | Google LLC
+35.205.245.27/32 # Belgium | Brussels-Capital | Google LLC
 35.223.71.244/32 # United States | Iowa | Google LLC
 35.241.159.58/32 # Belgium | Brussels-Capital | Google LLC
 35.241.200.61/32 # Belgium | Brussels-Capital | Google LLC
@@ -529,6 +534,7 @@
 80.73.242.223/32 # United States | Georgia | Clouvider Limited
 80.73.242.238/32 # United States | Georgia | Clouvider Limited
 80.73.244.249/32 # United States | Mississippi | Clouvider Limited
+80.77.25.124/32 # Estonia | Harju maakond | Servinga GmbH
 80.91.86.58/32 # Spain | Madrid | LUMADOCK LTD
 82.117.86.28/32 # United States | New York | Clouvider Limited
 82.117.86.87/32 # United States | New York | Clouvider Limited
@@ -719,8 +725,6 @@
 107.4.24.4/32 # United States | Michigan | Comcast Cable Communications, LLC
 107.129.114.36/32 # United States | Tennessee | AT T Enterprises, LLC
 107.146.83.4/32 # United States | Florida | Charter Communications, INC
-107.158.128.45/32 # United States | Texas | Eonix Corporation
-107.158.128.90/32 # United States | Texas | Eonix Corporation
 107.172.92.122/32 # United States | Georgia | HostPapa
 107.173.135.116/32 # United States | New York | HostPapa
 107.173.241.234/32 # United States | New York | HostPapa
@@ -822,7 +826,6 @@
 120.85.116.209/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.116.248/32 # China | Guangdong Province | China Unicom Guangzhou Network
 121.37.80.227/32 # China | Beijing | Huawei Cloud Service Data Center
-122.97.212.162/32 # China | Jiangsu | CNC Group CHINA1 Jiangsu Province Network
 122.154.50.218/32 # Thailand | Yala Province | Office of INFO.TECH. Admin. for...
 123.10.233.30/32 # China | Henan | China Unicom China1 Backbone
 123.14.45.22/32 # China | Henan | China Unicom China1 Backbone
@@ -1022,6 +1025,7 @@
 142.252.244.205/32 # United States | California | Clouvider Limited
 142.252.246.100/32 # United States | California | Clouvider Limited
 142.252.246.181/32 # United States | California | Clouvider Limited
+143.20.185.214/32 # Romania | Bucharest | Internet Magnate pty LTD
 143.105.209.0/32 # Ghana | Greater Accra Region | Space Exploration Technolog...
 143.198.19.135/32 # United States | New Jersey | Digitalocean, LLC
 143.223.148.5/32 # United States | Florida | HyperFiber
@@ -1429,6 +1433,9 @@
 170.10.224.184/32 # Canada | Nova Scotia | Altima Telecom
 170.79.235.138/32 # Chile | Santiago Metropolitan Region | Tna Solutions SPA
 170.130.165.28/32 # United States | Nevada | Eonix Corporation
+170.130.165.33/32 # United States | Texas | Eonix Corporation
+170.130.165.166/32 # United States | Texas | Eonix Corporation
+170.130.165.189/32 # United States | Texas | Eonix Corporation
 170.168.82.164/32 # Australia | Australian Capital Territory | IT HOSTLINE LTD
 170.168.82.165/32 # Australia | Australian Capital Territory | IT HOSTLINE LTD
 170.168.103.208/32 # Germany | Berlin | GTHost
@@ -1500,9 +1507,10 @@
 172.252.110.98/32 # United States | New York | HOST TELECOM LTD
 173.40.144.163/32 # United States | Louisiana | Charter Communications LLC
 173.41.23.176/32 # United States | Michigan | Charter Communications LLC
+173.44.141.118/32 # United States | District of Columbia | Eonix Corporation
+173.44.141.236/32 # United States | District of Columbia | Eonix Corporation
 173.59.19.134/32 # United States | Pennsylvania | Verizon Business
 173.76.10.161/32 # United States | Massachusetts | Verizon Business
-173.232.146.90/32 # United States | Texas | Eonix Corporation
 173.254.204.72/32 # United States | California | HostPapa
 174.129.205.0/32 # United States | Virginia | Amazon.com, Inc.
 174.171.52.9/32 # United States | Texas | Comcast Cable Communications, LLC
@@ -1736,6 +1744,8 @@
 194.59.12.61/32 # United States | New York | Clouvider Limited
 194.59.12.201/32 # United States | New York | Clouvider Limited
 194.76.227.110/32 # Estonia | Harju maakond | Servinga GmbH
+194.76.227.176/32 # Estonia | Harju maakond | Servinga GmbH
+194.76.227.193/32 # Estonia | Harju maakond | Servinga GmbH
 194.104.143.222/32 # United States | Connecticut | Clouvider Limited
 194.104.143.231/32 # United States | Connecticut | Clouvider Limited
 194.104.237.170/32 # United States | Texas | Clouvider Limited
@@ -1812,7 +1822,6 @@
 212.32.50.106/32 # United States | Nevada | Zayo Bandwidth
 212.42.125.186/32 # Kyrgyzstan | Chuy Province | Extra Line LLC
 212.56.35.232/32 # United States | New York | Contabo Inc.
-212.56.49.93/32 # Canada | Québec | Gtt Communications Inc.
 212.83.137.223/32 # Netherlands | North Holland | SCALEWAY S.A.S.
 212.83.190.143/32 # France | Île-de-France | SCALEWAY S.A.S.
 212.102.255.102/32 # Germany | Hesse | H NEXUS LTD
