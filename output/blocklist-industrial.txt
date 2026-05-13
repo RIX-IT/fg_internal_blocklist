@@ -45,6 +45,7 @@
 1.190.205.48/32 # China | Heilongjiang | China Unicom China1 Backbone
 1.220.228.82/32 # Republic of Korea | Unknown | Lg Dacom Corporation
 2.26.252.153/32 # United States | Utah | Kyonix Networks Limited
+2.27.4.125/32 # Germany | Hesse | Kyonix Networks Limited
 2.56.179.16/32 # United Kingdom | England | Worktitans B.V.
 2.57.148.9/32 # United States | California | Clouvider Limited
 4.152.8.159/32 # United States | Virginia | Microsoft Corporation
@@ -83,14 +84,12 @@
 15.235.104.73/32 # Canada | Québec | OVH SAS
 15.235.172.219/32 # Singapore | Southeast | OVH SAS
 20.8.1.112/32 # Netherlands | North Holland | Microsoft Corporation
-20.23.9.218/32 # Netherlands | North Holland | Microsoft Corporation
 20.42.26.130/32 # United States | District of Columbia | Microsoft Corporation
 20.48.25.221/32 # Japan | Tokyo | Microsoft Corporation
 20.77.134.145/32 # United Kingdom | England | Microsoft Corporation
 20.84.229.71/32 # United States | Iowa | Microsoft Corporation
 20.201.39.131/32 # Brazil | State of São Paulo | Microsoft Corporation
 20.215.89.29/32 # Poland | Masovian Voivodeship | Microsoft Corporation
-20.219.226.122/32 # India | Maharashtra | Microsoft Corporation
 20.233.241.159/32 # United Arab Emirates | Dubai | Microsoft Corporation
 23.87.233.237/32 # United States | Wisconsin | Charter Communications LLC
 23.230.8.22/32 # Australia | District of Canberra Central | HOST TELECOM LTD
@@ -146,7 +145,6 @@
 34.53.128.123/32 # Belgium | Brussels-Capital | Google LLC
 34.53.140.122/32 # Belgium | Brussels-Capital | Google LLC
 34.53.255.101/32 # Belgium | Brussels-Capital | Google LLC
-34.59.48.244/32 # United States | Iowa | Google LLC
 34.62.68.142/32 # Belgium | Brussels-Capital | Google LLC
 34.62.155.17/32 # Belgium | Brussels-Capital | Google LLC
 34.72.90.40/32 # United States | Iowa | Google LLC
@@ -223,6 +221,7 @@
 43.247.135.53/32 # Hong Kong | Hong Kong | XNNET LLC
 44.252.85.168/32 # United States | California | Amazon.com, Inc.
 45.11.180.174/32 # United Kingdom | England | Servinga GmbH
+45.11.183.185/32 # Estonia | Harju maakond | Servinga GmbH
 45.11.229.248/32 # Germany | Hesse | Florian Kolb
 45.15.239.89/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 45.15.239.121/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
@@ -663,6 +662,7 @@
 103.27.110.232/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.30.76.206/32 # Hong Kong | Hong Kong | XNNET LLC
 103.51.144.15/32 # Hong Kong | Hong Kong | Cloudie Limited
+103.69.85.47/32 # Vietnam | Ho Chi Minh | Anzix Joint Stock Company
 103.70.167.3/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.70.167.53/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.74.20.32/32 # Pakistan | Sindh | Galaxy Broadband pvt. Ltd.
@@ -740,7 +740,6 @@
 108.56.233.66/32 # United States | Maryland | Verizon Business
 108.62.161.54/32 # United States | California | Leaseweb Usa, Inc.
 108.93.59.129/32 # United States | Florida | AT T Enterprises, LLC
-108.141.58.143/32 # Netherlands | North Holland | Microsoft Corporation
 108.171.195.163/32 # United States | Utah | Webnx, Inc.
 108.173.230.193/32 # Canada | Alberta | Telus Communications Inc.
 108.181.56.75/32 # United States | Virginia | Psychz Networks
@@ -780,7 +779,6 @@
 112.234.250.153/32 # China | Shandong | China Unicom China1 Backbone
 112.239.121.105/32 # China | Shandong | China Unicom China1 Backbone
 112.255.20.168/32 # China | Shandong | China Unicom China1 Backbone
-113.45.149.56/32 # China | Guangdong Province | Huawei Cloud Service Data Center
 114.185.63.79/32 # Japan | Osaka Prefecture | NTT Docomo Business,inc.
 115.42.75.105/32 # Pakistan | Punjab | Cmpak Limited
 115.55.23.7/32 # China | Henan | China Unicom China1 Backbone
@@ -1662,7 +1660,6 @@
 185.254.75.39/32 # Germany | North Rhine-Westphalia | Owl Limited
 185.254.75.41/32 # Germany | North Rhine-Westphalia | Owl Limited
 185.254.75.52/32 # Germany | North Rhine-Westphalia | Owl Limited
-186.23.141.167/32 # Argentina | Buenos Aires | Telecentro S.A.
 186.235.184.217/32 # Brazil | State of Pernambuco | GFT COMERCIO DE TELEFONIA E...
 187.184.11.171/32 # Mexico | Morelos | Cablemas Telecomunicaciones SA De Cv
 187.190.205.156/32 # Mexico | Jalisco | TOTAL PLAY TELECOMUNICACIONES SA DE CV
@@ -1843,7 +1840,6 @@
 216.151.165.38/32 # United States | Texas | SPARKED HOST LLC
 216.158.233.60/32 # United States | New Jersey | Interserver, INC
 216.173.77.117/32 # United States | Florida | SPARKED HOST LLC
-216.203.21.65/32 # United States | Pennsylvania | Sungard Availability Networ...
 216.234.211.16/32 # Mozambique | Distrito Municipal de KaMpfumo | Space Explor...
 217.24.176.168/32 # Russia | Sverdlovsk Oblast | INSYS LLC
 217.154.47.221/32 # United Kingdom | England | IONOS SE
