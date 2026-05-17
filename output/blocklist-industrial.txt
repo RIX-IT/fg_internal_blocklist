@@ -90,6 +90,7 @@
 14.0.136.205/32 # Hong Kong | Hong Kong | Csl Limited
 14.1.105.214/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 14.167.84.225/32 # Vietnam | Haiphong | Vnpt Corp
+14.224.235.240/32 # Vietnam | Hanoi | Vnpt Corp
 15.188.246.198/32 # France | Île-de-France | Amazon.com, Inc.
 15.235.104.73/32 # Canada | Québec | OVH SAS
 15.235.172.219/32 # Singapore | Southeast | OVH SAS
@@ -115,6 +116,7 @@
 27.43.204.44/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.205.2/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.205.174/32 # China | Guangdong Province | China Unicom Guangdong Provin...
+27.43.206.123/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.207.213.78/32 # China | Shandong | China Unicom China1 Backbone
 27.215.138.121/32 # China | Shandong | China Unicom China1 Backbone
 27.216.16.63/32 # China | Shandong | China Unicom China1 Backbone
@@ -564,7 +566,6 @@
 79.34.1.118/32 # Italy | Emilia-Romagna | Telecom Italia S.P.A.
 79.132.130.142/32 # Germany | Hesse | Servinga GmbH
 79.133.51.100/32 # Germany | Hesse | Ultahost, Inc.
-79.253.33.28/32 # Germany | Hesse | Deutsche Telekom AG
 80.68.148.7/32 # United States | Maryland | Clouvider Limited
 80.68.148.117/32 # United States | Missouri | Clouvider Limited
 80.68.150.188/32 # United States | Pennsylvania | Clouvider Limited
@@ -856,6 +857,7 @@
 120.85.116.248/32 # China | Guangdong Province | China Unicom Guangzhou Network
 121.37.80.227/32 # China | Beijing | Huawei Cloud Service Data Center
 122.154.50.218/32 # Thailand | Yala Province | Office of INFO.TECH. Admin. for...
+122.194.13.111/32 # China | Jiangsu | CNC Group CHINA1 Jiangsu Province Network
 123.10.233.30/32 # China | Henan | China Unicom China1 Backbone
 123.139.57.103/32 # China | Shaanxi | China Unicom China1 Backbone
 124.6.165.86/32 # Philippines | Negros Oriental | Globe Telecom Inc.
@@ -1186,9 +1188,11 @@
 149.28.137.254/32 # Singapore | Southeast | The Constant Company, LLC
 149.86.159.32/32 # Turkey | Konya | GIBIRNET ILETISIM HIZMETLERI SANAYI VE TI...
 149.104.23.176/32 # Hong Kong | Hong Kong | XNNET LLC
+150.241.251.30/32 # United States | New York | Datacamp Limited
 151.202.39.46/32 # United States | New York | Verizon Business
 151.243.11.23/32 # Germany | Hesse | LLC VASH KREDIT BANK
 151.247.122.186/32 # United States | California | Datacamp Limited
+151.247.123.163/32 # United States | California | Datacamp Limited
 152.42.140.232/32 # Netherlands | North Holland | Digitalocean, LLC
 152.67.43.17/32 # Brazil | State of São Paulo | Oracle Corporation
 153.66.137.154/32 # United States | Pennsylvania | Space Exploration Technolog...
@@ -1499,10 +1503,12 @@
 158.247.252.178/32 # Republic of Korea | Unknown | The Constant Company, LLC
 159.65.241.37/32 # United States | New Jersey | Digitalocean, LLC
 159.89.127.165/32 # Canada | Ontario | Digitalocean, LLC
+159.223.125.249/32 # United States | New Jersey | Digitalocean, LLC
 159.223.131.196/32 # United States | New Jersey | Digitalocean, LLC
 160.25.232.62/32 # Vietnam | Ho Chi Minh | VIET DIGITAL TECHNOLOGY LIABILITY ...
 160.191.77.89/32 # Singapore | Southeast | Webhorizon Internet Services
 161.35.91.33/32 # Netherlands | North Holland | Digitalocean, LLC
+161.35.154.160/32 # Netherlands | North Holland | Digitalocean, LLC
 161.35.183.194/32 # United States | New Jersey | Digitalocean, LLC
 162.33.179.247/32 # United States | Illinois | Bl Networks
 162.155.96.170/32 # United States | New York | Charter Communications INC
@@ -1510,6 +1516,7 @@
 162.216.113.66/32 # United States | New Jersey | Interserver, INC
 163.176.138.17/32 # Brazil | State of São Paulo | Oracle Corporation
 164.90.129.126/32 # United States | New Jersey | Digitalocean, LLC
+164.90.199.191/32 # Netherlands | North Holland | Digitalocean, LLC
 164.138.90.2/32 # Russia | Khabarovsk Krai | JSC Redcom lnternet
 164.163.65.245/32 # Brazil | State of Bahia | Knet Internet
 165.16.186.161/32 # South Africa | Gauteng | Sadv pty LTD
@@ -1599,7 +1606,9 @@
 166.88.221.202/32 # United States | California | HOST TELECOM LTD
 166.88.222.151/32 # United States | California | HOST TELECOM LTD
 166.88.222.235/32 # United States | California | HOST TELECOM LTD
+167.99.4.233/32 # United States | New Jersey | Digitalocean, LLC
 167.99.189.156/32 # Canada | Alberta | Digitalocean, LLC
+167.172.38.55/32 # Netherlands | North Holland | Digitalocean, LLC
 167.172.148.92/32 # United States | New Jersey | Digitalocean, LLC
 167.224.160.141/32 # United States | Arkansas | Ozarksgo, LLC
 168.231.121.209/32 # India | Maharashtra | Hostinger International Limited
@@ -2108,7 +2117,9 @@
 207.89.18.26/32 # United States | Virginia | DOJ USMS
 208.79.113.205/32 # United States | Tennessee | Electric Plant Board of the ci...
 209.17.118.17/32 # Singapore | Southeast | LEASEWEB SINGAPORE PTE. LTD.
+209.38.39.144/32 # Netherlands | North Holland | Digitalocean, LLC
 209.38.39.230/32 # Netherlands | North Holland | Digitalocean, LLC
+209.38.111.128/32 # Netherlands | North Holland | Digitalocean, LLC
 209.101.201.88/32 # United States | Illinois | Datacamp Limited
 209.182.225.147/32 # United States | Washington | Shock Hosting LLC
 210.56.49.72/32 # Hong Kong | Hong Kong | Ctg Server Limited
