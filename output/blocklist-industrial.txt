@@ -229,6 +229,7 @@
 38.180.107.76/32 # Singapore | Southeast | M Europe SRL
 38.180.245.207/32 # Germany | Hesse | Leaseweb Deutschland GmbH
 38.246.250.201/32 # Hong Kong | Hong Kong | Netlab Global
+39.65.192.75/32 # China | Shandong | China Unicom China1 Backbone
 39.187.126.220/32 # China | Zhejiang | China Mobile Communications Corporation
 40.27.109.244/32 # United States | New York | M Europe SRL
 40.81.230.77/32 # India | Maharashtra | Microsoft Corporation
@@ -482,6 +483,7 @@
 64.181.165.33/32 # Brazil | State of São Paulo | Oracle Corporation
 66.63.187.154/32 # United States | New York | HostPapa
 66.63.187.232/32 # United States | New York | HostPapa
+66.93.165.186/32 # United States | Illinois | Datacamp Limited
 66.93.167.34/32 # United States | Illinois | Datacamp Limited
 66.112.216.232/32 # United States | California | It Networks INC
 66.167.166.196/32 # Pakistan | Punjab | Cyber Internet Services private Limited
@@ -500,6 +502,7 @@
 68.69.177.111/32 # United States | New Hampshire | OnlyScans LLC
 68.80.165.144/32 # United States | Pennsylvania | Comcast Cable Communication...
 68.178.170.220/32 # Singapore | Southeast | Godaddy.com, LLC
+68.183.31.222/32 # United States | New Jersey | Digitalocean, LLC
 68.183.180.162/32 # Singapore | Southeast | Digitalocean, LLC
 69.10.36.54/32 # United States | New Jersey | Interserver, INC
 69.55.60.123/32 # United States | New Jersey | Digitalocean, LLC
@@ -1045,6 +1048,7 @@
 141.133.125.187/32 # United States | California | Clouvider Limited
 141.133.126.107/32 # United States | District of Columbia | Clouvider Limited
 142.11.206.73/32 # United States | Washington | Hostwinds Llc.
+142.93.140.220/32 # Netherlands | North Holland | Digitalocean, LLC
 142.93.233.37/32 # Netherlands | North Holland | Digitalocean, LLC
 142.111.43.89/32 # United States | New York | HOST TELECOM LTD
 142.111.43.244/32 # United States | New York | HOST TELECOM LTD
@@ -1159,12 +1163,10 @@
 144.172.93.31/32 # United States | Utah | Routerhosting LLC
 144.172.93.94/32 # United States | Utah | Routerhosting LLC
 144.172.94.165/32 # United States | Utah | Routerhosting LLC
-144.172.94.166/32 # United States | Utah | Routerhosting LLC
 144.172.96.91/32 # United States | Utah | Routerhosting LLC
 144.172.96.92/32 # United States | Utah | Routerhosting LLC
 144.172.98.34/32 # United States | Utah | Routerhosting LLC
 144.172.104.44/32 # United States | Utah | Routerhosting LLC
-144.172.105.232/32 # United States | Utah | Routerhosting LLC
 144.172.106.140/32 # United States | Utah | Routerhosting LLC
 144.172.108.238/32 # United States | Utah | Routerhosting LLC
 144.172.109.102/32 # United States | Utah | Routerhosting LLC
@@ -1194,6 +1196,7 @@
 151.247.122.186/32 # United States | California | Datacamp Limited
 151.247.123.163/32 # United States | California | Datacamp Limited
 152.42.140.232/32 # Netherlands | North Holland | Digitalocean, LLC
+152.42.142.154/32 # Netherlands | North Holland | Digitalocean, LLC
 152.67.43.17/32 # Brazil | State of São Paulo | Oracle Corporation
 153.66.137.154/32 # United States | Pennsylvania | Space Exploration Technolog...
 153.80.11.57/32 # United States | Florida | GREEN FLOID LLC
@@ -1486,7 +1489,6 @@
 156.251.25.112/32 # United States | California | Tcloudnet
 157.66.26.209/32 # Vietnam | Ho Chi Minh | TRUMVPS COMPANY LIMITED
 157.100.198.119/32 # Ecuador | Guayas | Telconet S.a
-157.156.24.9/32 # China | Guangdong Province | China Unicom Ip Network China...
 157.173.219.148/32 # India | Maharashtra | Hostinger International Limited
 157.180.40.106/32 # Finland | Mainland Finland | Hetzner Online GmbH
 157.245.55.57/32 # Singapore | Southeast | Digitalocean, LLC
@@ -1517,6 +1519,7 @@
 163.176.138.17/32 # Brazil | State of São Paulo | Oracle Corporation
 164.90.129.126/32 # United States | New Jersey | Digitalocean, LLC
 164.90.199.191/32 # Netherlands | North Holland | Digitalocean, LLC
+164.92.213.204/32 # Netherlands | North Holland | Digitalocean, LLC
 164.138.90.2/32 # Russia | Khabarovsk Krai | JSC Redcom lnternet
 164.163.65.245/32 # Brazil | State of Bahia | Knet Internet
 165.16.186.161/32 # South Africa | Gauteng | Sadv pty LTD
@@ -1608,6 +1611,7 @@
 166.88.222.235/32 # United States | California | HOST TELECOM LTD
 167.99.4.233/32 # United States | New Jersey | Digitalocean, LLC
 167.99.189.156/32 # Canada | Alberta | Digitalocean, LLC
+167.172.33.71/32 # Netherlands | North Holland | Digitalocean, LLC
 167.172.38.55/32 # Netherlands | North Holland | Digitalocean, LLC
 167.172.148.92/32 # United States | New Jersey | Digitalocean, LLC
 167.224.160.141/32 # United States | Arkansas | Ozarksgo, LLC
@@ -1650,8 +1654,6 @@
 172.86.90.221/32 # United States | Texas | Routerhosting LLC
 172.86.91.112/32 # United States | Texas | Routerhosting LLC
 172.86.93.139/32 # Germany | Hesse | Aurologic GmbH
-172.86.117.172/32 # United States | Texas | Routerhosting LLC
-172.86.117.228/32 # United States | Texas | Routerhosting LLC
 172.86.121.20/32 # United States | Texas | Routerhosting LLC
 172.86.121.193/32 # United States | Texas | Routerhosting LLC
 172.86.121.228/32 # United States | Texas | Routerhosting LLC
@@ -1799,6 +1801,7 @@
 175.107.205.142/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 175.107.212.117/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 175.107.221.154/32 # Pakistan | Punjab | Cyber Internet Services private Limited
+175.107.228.128/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 175.107.233.184/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 175.107.237.2/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 175.107.237.194/32 # Pakistan | Punjab | Cyber Internet Services private Limited
@@ -1832,6 +1835,7 @@
 178.16.55.234/32 # United States | New York | Omegatech LTD
 178.17.57.102/32 # Germany | Saxony | GLOBAL CONNECTIVITY SOLUTIONS LLP
 178.47.85.19/32 # Russia | Perm Krai | Pjsc Rostelecom
+178.62.245.197/32 # Netherlands | North Holland | Digitalocean, LLC
 178.104.88.115/32 # Germany | Bavaria | Hetzner Online GmbH
 178.128.31.150/32 # Singapore | Southeast | Digitalocean, LLC
 178.156.176.74/32 # United States | Virginia | Hetzner Online GmbH
@@ -2016,6 +2020,7 @@
 193.176.21.76/32 # United States | Washington | GREEN FLOID LLC
 193.176.23.129/32 # United States | Florida | GREEN FLOID LLC
 193.176.23.182/32 # United States | Washington | GREEN FLOID LLC
+193.187.109.13/32 # United States | California | Datacamp Limited
 193.228.48.38/32 # United States | Nevada | Clouvider Limited
 193.228.48.253/32 # United States | Nevada | Clouvider Limited
 193.228.49.194/32 # United States | Nevada | Clouvider Limited
@@ -2121,6 +2126,7 @@
 209.38.39.230/32 # Netherlands | North Holland | Digitalocean, LLC
 209.38.111.128/32 # Netherlands | North Holland | Digitalocean, LLC
 209.101.201.88/32 # United States | Illinois | Datacamp Limited
+209.101.203.2/32 # United States | Illinois | Datacamp Limited
 209.182.225.147/32 # United States | Washington | Shock Hosting LLC
 210.56.49.72/32 # Hong Kong | Hong Kong | Ctg Server Limited
 212.6.36.19/32 # Germany | Berlin | Clouvider Limited
@@ -2152,7 +2158,6 @@
 216.126.227.254/32 # United States | Utah | Routerhosting LLC
 216.126.236.8/32 # United States | Utah | Routerhosting LLC
 216.126.236.151/32 # United States | Utah | Routerhosting LLC
-216.126.236.167/32 # United States | Utah | Routerhosting LLC
 216.126.239.209/32 # United States | Utah | Routerhosting LLC
 216.126.239.223/32 # United States | Utah | Routerhosting LLC
 216.126.239.225/32 # United States | Utah | Routerhosting LLC
@@ -2160,6 +2165,7 @@
 216.151.165.38/32 # United States | Texas | SPARKED HOST LLC
 216.158.233.60/32 # United States | New Jersey | Interserver, INC
 216.173.77.117/32 # United States | Florida | SPARKED HOST LLC
+216.180.245.68/32 # United States | New York | Datacamp Limited
 216.234.211.16/32 # Mozambique | Distrito Municipal de KaMpfumo | Space Explor...
 217.24.176.168/32 # Russia | Sverdlovsk Oblast | INSYS LLC
 217.154.47.221/32 # United Kingdom | England | IONOS SE
