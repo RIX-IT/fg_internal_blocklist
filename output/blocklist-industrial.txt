@@ -43,6 +43,7 @@
 173.249.254.0/24 # United States | Illinois | Tzulo, Inc.
 173.249.255.0/24 # United States | Illinois | Tzulo, Inc.
 185.65.134.0/24 # Netherlands | North Holland | 11 Services Ab
+185.65.135.0/24 # Sweden | Stockholm County | 11 Services Ab
 185.68.82.0/24 # United States | District of Columbia | Clouvider Limited
 185.141.119.0/24 # United States | Michigan | Hostroyale Technologies Pvt LTD
 185.195.233.0/24 # Sweden | Stockholm County | 11 Services Ab
@@ -99,6 +100,7 @@
 15.235.172.219/32 # Singapore | Southeast | OVH SAS
 20.8.1.112/32 # Netherlands | North Holland | Microsoft Corporation
 20.48.25.221/32 # Japan | Tokyo | Microsoft Corporation
+20.74.212.144/32 # United Arab Emirates | Dubai | Microsoft Corporation
 23.87.233.237/32 # United States | Wisconsin | Charter Communications LLC
 23.230.8.22/32 # Australia | District of Canberra Central | HOST TELECOM LTD
 23.230.8.50/32 # Australia | District of Canberra Central | HOST TELECOM LTD
@@ -109,7 +111,6 @@
 23.230.77.253/32 # United States | New York | HOST TELECOM LTD
 23.230.192.86/32 # United States | New York | HOST TELECOM LTD
 23.240.192.117/32 # United States | California | Charter Communications INC
-24.65.228.183/32 # Canada | Alberta | Shaw Communications
 24.95.137.46/32 # United States | Ohio | Charter Communications INC
 24.140.135.240/32 # United States | Ohio | Massillon Cable Communications
 24.160.50.28/32 # United States | California | Charter Communications INC
@@ -282,6 +283,7 @@
 45.59.125.184/32 # Switzerland | Bern | Routerhosting LLC
 45.59.125.245/32 # Switzerland | Bern | Routerhosting LLC
 45.61.136.81/32 # United States | California | Bl Networks
+45.61.136.94/32 # United States | California | Bl Networks
 45.61.157.192/32 # United States | Nevada | Routerhosting LLC
 45.66.248.112/32 # United States | Georgia | Bluevps Ou
 45.66.249.28/32 # United States | California | Bluevps Ou
@@ -488,13 +490,16 @@
 62.234.24.38/32 # China | Beijing | Shenzhen Tencent Computer Systems Compan...
 64.52.80.62/32 # United States | California | Bl Networks
 64.52.80.82/32 # United States | California | Bl Networks
+64.95.10.14/32 # United States | Texas | Bl Networks
 64.95.10.209/32 # United States | Texas | Bl Networks
-64.181.165.33/32 # Brazil | State of São Paulo | Oracle Corporation
+64.95.12.238/32 # United States | Texas | Bl Networks
+64.95.13.76/32 # United States | Texas | Bl Networks
 66.63.187.154/32 # United States | New York | HostPapa
 66.63.187.232/32 # United States | New York | HostPapa
 66.93.165.186/32 # United States | Illinois | Datacamp Limited
 66.93.167.34/32 # United States | Illinois | Datacamp Limited
 66.112.216.232/32 # United States | California | It Networks INC
+66.116.224.58/32 # India | Maharashtra | Oracle Corporation
 66.167.166.196/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 66.167.166.231/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 66.167.169.97/32 # Pakistan | Punjab | Cyber Internet Services private Limited
@@ -579,6 +584,7 @@
 79.24.125.117/32 # Italy | Lombardy | Telecom Italia S.P.A.
 79.34.1.118/32 # Italy | Emilia-Romagna | Telecom Italia S.P.A.
 79.132.130.142/32 # Germany | Hesse | Servinga GmbH
+79.133.42.185/32 # Germany | Hesse | Ultahost, Inc.
 79.133.51.100/32 # Germany | Hesse | Ultahost, Inc.
 80.68.148.7/32 # United States | Maryland | Clouvider Limited
 80.68.148.117/32 # United States | Missouri | Clouvider Limited
@@ -1175,6 +1181,7 @@
 144.172.96.91/32 # United States | Utah | Routerhosting LLC
 144.172.96.92/32 # United States | Utah | Routerhosting LLC
 144.172.98.34/32 # United States | Utah | Routerhosting LLC
+144.172.99.68/32 # United States | Utah | Routerhosting LLC
 144.172.106.140/32 # United States | Utah | Routerhosting LLC
 144.172.108.238/32 # United States | Utah | Routerhosting LLC
 144.172.109.102/32 # United States | Utah | Routerhosting LLC
@@ -1521,6 +1528,7 @@
 161.35.91.33/32 # Netherlands | North Holland | Digitalocean, LLC
 161.35.154.160/32 # Netherlands | North Holland | Digitalocean, LLC
 161.35.183.194/32 # United States | New Jersey | Digitalocean, LLC
+162.33.179.149/32 # United States | Illinois | Bl Networks
 162.33.179.247/32 # United States | Illinois | Bl Networks
 162.155.96.170/32 # United States | New York | Charter Communications INC
 162.216.5.130/32 # United States | Florida | Hivelocity, Inc.
@@ -1618,6 +1626,7 @@
 166.88.221.202/32 # United States | California | HOST TELECOM LTD
 166.88.222.151/32 # United States | California | HOST TELECOM LTD
 166.88.222.235/32 # United States | California | HOST TELECOM LTD
+167.86.72.220/32 # Germany | Bavaria | Contabo GmbH
 167.99.4.233/32 # United States | New Jersey | Digitalocean, LLC
 167.99.189.156/32 # Canada | Alberta | Digitalocean, LLC
 167.172.33.71/32 # Netherlands | North Holland | Digitalocean, LLC
@@ -1843,6 +1852,7 @@
 178.16.55.234/32 # United States | New York | Omegatech LTD
 178.17.57.102/32 # Germany | Saxony | GLOBAL CONNECTIVITY SOLUTIONS LLP
 178.47.85.19/32 # Russia | Perm Krai | Pjsc Rostelecom
+178.62.232.118/32 # Netherlands | North Holland | Digitalocean, LLC
 178.62.245.197/32 # Netherlands | North Holland | Digitalocean, LLC
 178.104.88.115/32 # Germany | Bavaria | Hetzner Online GmbH
 178.128.31.150/32 # Singapore | Southeast | Digitalocean, LLC
@@ -1878,10 +1888,6 @@
 185.33.86.41/32 # United States | Virginia | Hz Hosting LTD
 185.33.87.61/32 # United States | Virginia | Hz Hosting LTD
 185.39.17.18/32 # United States | Washington | GREEN FLOID LLC
-185.65.135.176/32 # Sweden | Norrbotten County | 11 Services Ab
-185.65.135.178/32 # Sweden | Stockholm County | 11 Services Ab
-185.65.135.247/32 # Sweden | Stockholm County | 11 Services Ab
-185.65.135.250/32 # Sweden | Stockholm County | 11 Services Ab
 185.68.80.94/32 # United States | District of Columbia | Clouvider Limited
 185.68.80.215/32 # United States | New York | Clouvider Limited
 185.68.80.253/32 # United States | New York | Clouvider Limited
@@ -1970,6 +1976,8 @@
 186.235.184.217/32 # Brazil | State of Pernambuco | GFT COMERCIO DE TELEFONIA E...
 187.184.11.171/32 # Mexico | Morelos | Cablemas Telecomunicaciones SA De Cv
 187.190.205.156/32 # Mexico | Jalisco | TOTAL PLAY TELECOMUNICACIONES SA DE CV
+188.166.108.124/32 # Netherlands | North Holland | Digitalocean, LLC
+188.166.109.242/32 # Netherlands | North Holland | Digitalocean, LLC
 188.214.34.20/32 # Cyprus | South Cyprus | Edis GmbH
 188.239.19.68/32 # Singapore | Southeast | HUAWEI INTERNATIONAL PTE. LTD.
 190.109.227.174/32 # Bolivia | La Paz | Cotel Ltda.
