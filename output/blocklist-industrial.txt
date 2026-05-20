@@ -50,6 +50,8 @@
 185.209.198.0/24 # Sweden | Stockholm County | 11 Services Ab
 185.209.199.0/24 # Sweden | Västra Götaland County | 11 Services Ab
 185.213.154.0/24 # Sweden | Västra Götaland County | 11 Services Ab
+185.254.75.0/24 # Germany | North Rhine-Westphalia | Owl Limited
+193.32.248.0/24 # Germany | Berlin | 11 Services Ab
 193.32.249.0/24 # Netherlands | North Holland | 11 Services Ab
 193.138.218.0/24 # Sweden | Skåne County | 11 Services Ab
 208.131.130.0/24 # United States | Utah | THG HOSTING LIMITED
@@ -60,6 +62,7 @@
 1.220.228.82/32 # Republic of Korea | Unknown | Lg Dacom Corporation
 2.26.252.153/32 # United States | Utah | Kyonix Networks Limited
 2.27.4.125/32 # Germany | Hesse | Kyonix Networks Limited
+2.27.54.133/32 # Netherlands | North Holland | Dpkgsoft International Limited
 2.56.139.201/32 # United States | California | Shock Hosting LLC
 2.56.179.16/32 # United Kingdom | England | Worktitans B.V.
 2.57.148.204/32 # United States | California | Clouvider Limited
@@ -100,7 +103,6 @@
 15.235.104.73/32 # Canada | Québec | OVH SAS
 15.235.172.219/32 # Singapore | Southeast | OVH SAS
 20.8.1.112/32 # Netherlands | North Holland | Microsoft Corporation
-20.48.25.221/32 # Japan | Tokyo | Microsoft Corporation
 20.74.212.144/32 # United Arab Emirates | Dubai | Microsoft Corporation
 23.87.233.237/32 # United States | Wisconsin | Charter Communications LLC
 23.230.8.22/32 # Australia | District of Canberra Central | HOST TELECOM LTD
@@ -147,6 +149,7 @@
 34.14.70.198/32 # Belgium | Brussels-Capital | Google LLC
 34.14.85.114/32 # Belgium | Brussels-Capital | Google LLC
 34.14.98.108/32 # Belgium | Brussels-Capital | Google LLC
+34.17.189.246/32 # Italy | Piemont | Google LLC
 34.22.79.7/32 # Republic of Korea | Unknown | Google LLC
 34.22.140.213/32 # Belgium | Brussels-Capital | Google LLC
 34.22.143.173/32 # Belgium | Brussels-Capital | Google LLC
@@ -164,6 +167,7 @@
 34.38.141.205/32 # Belgium | Brussels-Capital | Google LLC
 34.38.151.156/32 # Belgium | Brussels-Capital | Google LLC
 34.38.222.209/32 # Belgium | Brussels-Capital | Google LLC
+34.38.233.16/32 # Belgium | Brussels-Capital | Google LLC
 34.38.246.75/32 # Belgium | Brussels-Capital | Google LLC
 34.53.128.120/32 # Belgium | Brussels-Capital | Google LLC
 34.53.128.123/32 # Belgium | Brussels-Capital | Google LLC
@@ -205,9 +209,11 @@
 34.81.48.36/32 # Taiwan | Keelung City | Google LLC
 34.97.223.230/32 # Japan | Osaka Prefecture | Google LLC
 34.101.180.36/32 # Indonesia | Special Capital Region of Jakarta | Google LLC
+34.130.119.139/32 # Canada | Ontario | Google LLC
 34.140.10.179/32 # Belgium | Brussels-Capital | Google LLC
 34.140.18.145/32 # Belgium | Brussels-Capital | Google LLC
 34.140.209.243/32 # Belgium | Brussels-Capital | Google LLC
+34.155.134.213/32 # France | Île-de-France | Google LLC
 34.156.5.165/32 # United States | California | Google LLC
 34.156.6.119/32 # United States | California | Google LLC
 34.156.46.165/32 # United States | California | Google LLC
@@ -235,6 +241,7 @@
 35.233.50.55/32 # Belgium | Brussels-Capital | Google LLC
 35.233.53.206/32 # Belgium | Brussels-Capital | Google LLC
 35.241.159.58/32 # Belgium | Brussels-Capital | Google LLC
+35.241.164.185/32 # Belgium | Brussels-Capital | Google LLC
 35.241.200.61/32 # Belgium | Brussels-Capital | Google LLC
 36.255.33.195/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 37.37.6.217/32 # Kuwait | Al Asimah | Mobile Telecommunications Company K.S...
@@ -334,6 +341,7 @@
 45.130.186.50/32 # United States | Pennsylvania | Clouvider Limited
 45.130.186.76/32 # United States | Pennsylvania | Clouvider Limited
 45.130.200.109/32 # Sweden | Stockholm County | Eisenia Ab
+45.130.200.123/32 # Sweden | Stockholm County | Eisenia Ab
 45.130.200.127/32 # Sweden | Stockholm County | Eisenia Ab
 45.132.51.187/32 # Germany | Hesse | Clouvider Limited
 45.132.51.244/32 # Germany | Schleswig-Holstein | Clouvider Limited
@@ -838,6 +846,7 @@
 110.39.235.170/32 # Pakistan | Punjab | Wateen Telecom Limited
 110.42.203.56/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
 110.45.186.8/32 # Republic of Korea | Gyeonggi | Lg Dacom Corporation
+110.85.98.24/32 # China | Fujian | Chinanet
 110.92.64.17/32 # Hong Kong | Hong Kong | Hk Kwaifong Group Limited
 110.92.64.117/32 # Hong Kong | Hong Kong | Hk Kwaifong Group Limited
 110.185.104.180/32 # China | Sichuan | Chinanet Sichuan Telecom Internet Data C...
@@ -848,7 +857,6 @@
 112.74.51.59/32 # China | Guangdong Province | Hangzhou Alibaba Advertising ...
 112.80.248.27/32 # China | Jiangsu | China Unicom China1 Backbone
 112.234.250.153/32 # China | Shandong | China Unicom China1 Backbone
-112.255.20.168/32 # China | Shandong | China Unicom China1 Backbone
 114.185.63.79/32 # Japan | Osaka Prefecture | NTT Docomo Business,inc.
 115.42.75.105/32 # Pakistan | Punjab | Cmpak Limited
 115.48.163.164/32 # China | Henan | China Unicom China1 Backbone
@@ -1981,10 +1989,6 @@
 185.244.161.41/32 # United States | Texas | Clouvider Limited
 185.245.41.180/32 # Hong Kong | Hong Kong | Cloudie Limited
 185.245.183.74/32 # France | Grand Est | Contabo GmbH
-185.254.75.30/32 # Germany | North Rhine-Westphalia | Owl Limited
-185.254.75.39/32 # Germany | North Rhine-Westphalia | Owl Limited
-185.254.75.41/32 # Germany | North Rhine-Westphalia | Owl Limited
-185.254.75.52/32 # Germany | North Rhine-Westphalia | Owl Limited
 186.235.184.217/32 # Brazil | State of Pernambuco | GFT COMERCIO DE TELEFONIA E...
 187.184.11.171/32 # Mexico | Morelos | Cablemas Telecomunicaciones SA De Cv
 187.190.205.156/32 # Mexico | Jalisco | TOTAL PLAY TELECOMUNICACIONES SA DE CV
@@ -2016,10 +2020,6 @@
 193.32.165.15/32 # Australia | Queensland | Clouvider Limited
 193.32.165.18/32 # Australia | Queensland | Clouvider Limited
 193.32.165.181/32 # Australia | Queensland | Clouvider Limited
-193.32.248.151/32 # Germany | Berlin | 11 Services Ab
-193.32.248.188/32 # Germany | Berlin | 11 Services Ab
-193.32.248.201/32 # Germany | Berlin | 11 Services Ab
-193.32.248.239/32 # Germany | Berlin | 11 Services Ab
 193.33.188.81/32 # Germany | Berlin | Clouvider Limited
 193.33.188.188/32 # Germany | Berlin | Clouvider Limited
 193.36.231.96/32 # United States | Alabama | Clouvider Limited
