@@ -22,12 +22,14 @@
 88.151.112.0/24 # United States | New York | Clouvider Limited
 89.37.63.0/24 # Sweden | Stockholm County | Datacamp Limited
 91.92.42.0/24 # Bulgaria | Sofia-city | Euro Crypt Eood
+94.143.230.0/24 # United States | New York | Clouvider Limited
 103.81.230.0/24 # United States | Virginia | Hostroyale Technologies Pvt LTD
 103.81.231.0/24 # United States | Virginia | Hostroyale Technologies Pvt LTD
 107.158.128.0/24 # United States | Nevada | Eonix Corporation
 138.249.218.0/24 # United States | New York | Clouvider Limited
 142.111.130.0/24 # United States | New York | HOST TELECOM LTD
 142.252.107.0/24 # United States | Texas | Clouvider Limited
+142.252.110.0/24 # United States | Texas | Clouvider Limited
 142.252.242.0/24 # United States | California | Clouvider Limited
 142.252.244.0/24 # United States | California | Clouvider Limited
 155.2.191.0/24 # United States | South Carolina | Host Universal Pty LTD
@@ -152,7 +154,6 @@
 27.43.205.174/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.206.123/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.207.213.78/32 # China | Shandong | China Unicom China1 Backbone
-27.215.138.121/32 # China | Shandong | China Unicom China1 Backbone
 27.216.16.63/32 # China | Shandong | China Unicom China1 Backbone
 31.56.117.11/32 # Latvia | Vidzeme | CGI GLOBAL LIMITED
 31.59.121.19/32 # France | Île-de-France | CGI GLOBAL LIMITED
@@ -383,6 +384,7 @@
 45.33.54.55/32 # United States | California | Akamai Technologies, Inc.
 45.39.84.211/32 # United States | California | Cloud Software Fzco
 45.39.127.28/32 # United States | New York | HOST TELECOM LTD
+45.39.127.111/32 # United States | New York | HOST TELECOM LTD
 45.39.175.178/32 # United States | New York | HOST TELECOM LTD
 45.39.175.250/32 # United States | New York | HOST TELECOM LTD
 45.39.194.52/32 # United States | New York | HOST TELECOM LTD
@@ -468,6 +470,7 @@
 45.145.43.244/32 # Germany | Hesse | Dataforest GmbH
 45.145.90.156/32 # Germany | Hesse | Clouvider Limited
 45.146.26.74/32 # United States | Rhode Island | Clouvider Limited
+45.146.26.83/32 # United States | Rhode Island | Clouvider Limited
 45.146.26.210/32 # United States | Rhode Island | Clouvider Limited
 45.147.244.243/32 # United States | California | Clouvider Limited
 45.147.245.124/32 # United States | California | Clouvider Limited
@@ -580,6 +583,7 @@
 47.238.107.83/32 # Hong Kong | Hong Kong | Alibaba Cloud LLC
 47.239.197.97/32 # Hong Kong | Hong Kong | Alibaba us Technology Co., Ltd.
 47.251.42.6/32 # United States | California | Alibaba us Technology Co., Ltd.
+47.253.157.29/32 # United States | Virginia | Alibaba us Technology Co., Ltd.
 49.89.41.187/32 # China | Jiangsu | Chinanet
 50.116.49.131/32 # United States | New Jersey | Akamai Technologies, Inc.
 50.118.198.228/32 # United States | New York | HOST TELECOM LTD
@@ -831,10 +835,6 @@
 94.131.9.205/32 # France | Île-de-France | Worktitans B.V.
 94.131.216.244/32 # Ukraine | Kyiv Oblast | BELICOM.NET LLC
 94.141.122.164/32 # Finland | Mainland Finland | Partner Hosting LTD
-94.143.230.19/32 # United States | New York | Clouvider Limited
-94.143.230.122/32 # United States | New York | Clouvider Limited
-94.143.230.172/32 # United States | New York | Clouvider Limited
-94.143.230.227/32 # United States | New York | Clouvider Limited
 94.154.138.11/32 # Germany | Bavaria | Antennen interessengemeinschaft Gerold...
 94.154.172.43/32 # Seychelles | Mahe | Ip Vendetta Inc.
 94.229.214.8/32 # United States | Florida | Datacamp Limited
@@ -874,6 +874,7 @@
 102.205.250.221/32 # Tanzania | Coastal Zone | Savanna Fibre tanzania LTD
 102.206.121.30/32 # Ivory Coast | Yamoussoukro | Atlantique Telecom cote D ivoire
 102.209.13.131/32 # South Africa | Gauteng | Develop Net pty LTD
+102.209.18.34/32 # Kenya | Kiambu | VENNET SOLUTIONS LIMITED
 102.218.85.142/32 # Angola | Luanda Province | Africell Angola S.a
 103.13.138.22/32 # Indonesia | South Sulawesi | Pt Era Bangun Indonesia
 103.27.110.232/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
@@ -910,6 +911,7 @@
 103.181.134.138/32 # Hong Kong | Hong Kong | GNET INC.
 103.181.160.255/32 # India | Delhi | Xpress Net Solution
 103.186.77.82/32 # Pakistan | Punjab | Nasstec Airnet Networks Private Limited
+103.186.77.96/32 # Pakistan | Punjab | Nasstec Airnet Networks Private Limited
 103.189.249.212/32 # Indonesia | Central Java | Pt Berkah Media Kusuma Vision
 103.197.112.63/32 # India | Andhra Pradesh | Railtel Corporation of India Ltd.
 103.217.158.221/32 # Myanmar [Burma] | Shan State | Tah Moe Hnye chan Thar Tun ...
@@ -1375,10 +1377,6 @@
 142.252.106.86/32 # United States | California | Clouvider Limited
 142.252.106.180/32 # United States | California | Clouvider Limited
 142.252.106.202/32 # United States | California | Clouvider Limited
-142.252.110.37/32 # United States | Texas | Clouvider Limited
-142.252.110.119/32 # United States | Texas | Clouvider Limited
-142.252.110.171/32 # United States | Texas | Clouvider Limited
-142.252.110.243/32 # United States | Texas | Clouvider Limited
 142.252.120.103/32 # United States | Texas | Clouvider Limited
 142.252.120.127/32 # United States | Texas | Clouvider Limited
 142.252.120.163/32 # United States | Texas | Clouvider Limited
@@ -2273,6 +2271,7 @@
 180.102.249.146/32 # China | Jiangsu | Chinanet
 180.178.122.131/32 # Australia | Queensland | All Interactive Distribution
 180.178.189.17/32 # Pakistan | Islamabad Capital Territory | FEMO IT SOLUTIONS...
+180.243.219.104/32 # Indonesia | Jambi | Telekomunikasi Indonesia pt
 180.244.187.142/32 # Indonesia | South Sulawesi | Telekomunikasi Indonesia pt
 181.41.206.188/32 # United States | Colorado | Cogent Communications, LLC
 181.91.86.47/32 # Paraguay | Caaguazú | N cleo S.A.
@@ -2398,6 +2397,7 @@
 186.243.239.89/32 # United States | Kentucky | Clouvider Limited
 186.243.240.128/32 # United States | Kentucky | Clouvider Limited
 186.243.242.56/32 # United States | Florida | Clouvider Limited
+186.243.254.39/32 # United States | District of Columbia | Clouvider Limited
 186.246.56.81/32 # United States | District of Columbia | Clouvider Limited
 186.246.57.12/32 # United States | District of Columbia | Clouvider Limited
 186.246.60.3/32 # United States | Florida | Clouvider Limited
