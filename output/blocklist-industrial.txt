@@ -37,9 +37,11 @@
 155.2.191.0/24 # United States | South Carolina | Host Universal Pty LTD
 166.1.168.0/24 # United States | New York | Clouvider Limited
 166.1.242.0/24 # United States | Arizona | Clouvider Limited
+166.1.243.0/24 # United States | Arizona | Clouvider Limited
 166.1.244.0/24 # United States | New York | Clouvider Limited
 166.1.245.0/24 # United States | New York | Clouvider Limited
 166.1.254.0/24 # United States | Arizona | Clouvider Limited
+166.1.255.0/24 # United States | Arizona | Clouvider Limited
 169.150.196.0/24 # Netherlands | North Holland | Datacamp Limited
 170.62.100.0/24 # Sweden | Skåne County | Datacamp Limited
 170.130.55.0/24 # United States | Nevada | Eonix Corporation
@@ -54,6 +56,7 @@
 185.65.135.0/24 # Sweden | Stockholm County | 11 Services Ab
 185.68.82.0/24 # United States | District of Columbia | Clouvider Limited
 185.128.41.0/24 # United States | New York | Clouvider Limited
+185.128.224.0/24 # United States | New York | Clouvider Limited
 185.195.233.0/24 # Sweden | Stockholm County | 11 Services Ab
 185.209.198.0/24 # Sweden | Stockholm County | 11 Services Ab
 185.209.199.0/24 # Sweden | Västra Götaland County | 11 Services Ab
@@ -66,7 +69,6 @@
 194.36.25.0/24 # Germany | Hesse | Owl Limited
 194.76.227.0/24 # Estonia | Harju maakond | Servinga GmbH
 213.139.193.0/24 # United States | Illinois | Clouvider Limited
-216.126.224.0/24 # United States | Utah | Routerhosting LLC
 1.13.249.217/32 # China | Jiangsu | Shenzhen Tencent Computer Systems Compan...
 1.190.205.48/32 # China | Heilongjiang | China Unicom China1 Backbone
 2.26.252.153/32 # United States | Utah | Kyonix Networks Limited
@@ -77,6 +79,7 @@
 2.56.179.16/32 # United Kingdom | England | Worktitans B.V.
 2.57.148.174/32 # United States | California | Clouvider Limited
 2.57.148.204/32 # United States | California | Clouvider Limited
+2.57.151.144/32 # United States | California | Shock Hosting LLC
 2.57.151.203/32 # United States | California | Shock Hosting LLC
 2.57.151.235/32 # United States | California | Shock Hosting LLC
 5.1.46.5/32 # United States | Nevada | Clouvider Limited
@@ -503,7 +506,6 @@
 45.149.235.45/32 # Germany | Berlin | SERV.HOST GROUP LTD
 45.150.112.170/32 # Germany | Berlin | Clouvider Limited
 45.151.91.187/32 # Seychelles | Mahe | Ip Vendetta Inc.
-45.152.138.96/32 # United States | California | Clouvider Limited
 45.152.138.98/32 # United States | New York | Clouvider Limited
 45.152.138.114/32 # United States | California | Clouvider Limited
 45.152.138.126/32 # United States | New York | Clouvider Limited
@@ -565,6 +567,7 @@
 45.192.43.74/32 # United States | New York | Clouvider Limited
 45.192.43.218/32 # United States | New York | Clouvider Limited
 45.192.44.61/32 # United States | New York | Clouvider Limited
+45.192.44.90/32 # United States | New York | Clouvider Limited
 45.192.44.133/32 # United States | New York | Clouvider Limited
 45.192.45.146/32 # United States | New York | Clouvider Limited
 45.192.45.239/32 # United States | New York | Clouvider Limited
@@ -751,6 +754,7 @@
 80.73.242.216/32 # United States | Arizona | Clouvider Limited
 80.73.242.223/32 # United States | Georgia | Clouvider Limited
 80.73.244.89/32 # United States | Mississippi | Clouvider Limited
+80.73.244.192/32 # United States | Mississippi | Clouvider Limited
 80.77.25.87/32 # Estonia | Harju maakond | Servinga GmbH
 80.77.25.120/32 # Estonia | Harju maakond | Servinga GmbH
 80.77.25.124/32 # Estonia | Harju maakond | Servinga GmbH
@@ -863,7 +867,6 @@
 95.181.232.44/32 # Morocco | Rabat-Salé-Kénitra | M Europe SRL
 95.181.238.28/32 # Bahamas | New Providence | M Europe SRL
 95.181.238.95/32 # Bahamas | New Providence | M Europe SRL
-95.214.83.13/32 # United States | Idaho | Clouvider Limited
 95.214.83.57/32 # United States | New York | Clouvider Limited
 95.214.83.86/32 # United States | New York | Clouvider Limited
 95.214.83.108/32 # United States | Idaho | Clouvider Limited
@@ -891,7 +894,6 @@
 102.209.13.131/32 # South Africa | Gauteng | Develop Net pty LTD
 102.209.18.34/32 # Kenya | Kiambu | VENNET SOLUTIONS LIMITED
 102.218.85.142/32 # Angola | Luanda Province | Africell Angola S.a
-103.13.138.22/32 # Indonesia | South Sulawesi | Pt Era Bangun Indonesia
 103.27.110.232/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.30.76.206/32 # Hong Kong | Hong Kong | XNNET LLC
 103.69.85.47/32 # Vietnam | Ho Chi Minh | Anzix Joint Stock Company
@@ -1077,6 +1079,7 @@
 130.49.25.139/32 # United States | Washington | GREEN FLOID LLC
 130.49.25.199/32 # United States | Washington | GREEN FLOID LLC
 130.49.25.227/32 # United States | Washington | GREEN FLOID LLC
+130.49.35.65/32 # United States | Washington | GREEN FLOID LLC
 130.49.35.97/32 # United States | Washington | GREEN FLOID LLC
 130.49.35.172/32 # United States | Washington | GREEN FLOID LLC
 130.49.44.66/32 # United States | Florida | GREEN FLOID LLC
@@ -1180,7 +1183,6 @@
 138.249.131.79/32 # United States | Tennessee | Clouvider Limited
 138.249.139.38/32 # United States | California | Clouvider Limited
 138.249.139.146/32 # United States | California | Clouvider Limited
-138.249.167.28/32 # United States | District of Columbia | Clouvider Limited
 138.249.167.52/32 # United States | District of Columbia | Clouvider Limited
 138.249.167.78/32 # United States | District of Columbia | Clouvider Limited
 138.249.167.205/32 # United States | District of Columbia | Clouvider Limited
@@ -1297,6 +1299,7 @@
 141.133.123.46/32 # United States | Texas | Clouvider Limited
 141.133.123.70/32 # United States | Texas | Clouvider Limited
 141.133.124.84/32 # United States | California | Clouvider Limited
+141.133.124.97/32 # United States | California | Clouvider Limited
 141.133.125.88/32 # United States | California | Clouvider Limited
 141.133.125.187/32 # United States | California | Clouvider Limited
 141.133.126.89/32 # United States | District of Columbia | Clouvider Limited
@@ -1305,6 +1308,7 @@
 142.93.140.220/32 # Netherlands | North Holland | Digitalocean, LLC
 142.93.199.16/32 # United States | New Jersey | Digitalocean, LLC
 142.93.233.37/32 # Netherlands | North Holland | Digitalocean, LLC
+142.111.43.67/32 # United States | New York | HOST TELECOM LTD
 142.111.43.89/32 # United States | New York | HOST TELECOM LTD
 142.111.43.244/32 # United States | New York | HOST TELECOM LTD
 142.111.43.252/32 # United States | New York | HOST TELECOM LTD
@@ -1323,6 +1327,7 @@
 142.111.177.161/32 # United States | New York | HOST TELECOM LTD
 142.111.193.41/32 # United States | New York | HOST TELECOM LTD
 142.111.193.218/32 # United States | New York | HOST TELECOM LTD
+142.111.193.227/32 # United States | New York | HOST TELECOM LTD
 142.111.193.250/32 # United States | New York | HOST TELECOM LTD
 142.111.213.10/32 # United States | California | Clouvider Limited
 142.111.213.31/32 # United States | California | Clouvider Limited
@@ -1352,6 +1357,7 @@
 142.252.8.194/32 # United States | California | HOST TELECOM LTD
 142.252.8.254/32 # United States | California | HOST TELECOM LTD
 142.252.24.107/32 # United States | California | HOST TELECOM LTD
+142.252.24.251/32 # United States | California | HOST TELECOM LTD
 142.252.25.96/32 # United States | California | HOST TELECOM LTD
 142.252.25.205/32 # United States | California | HOST TELECOM LTD
 142.252.43.162/32 # United States | California | HOST TELECOM LTD
@@ -1897,10 +1903,6 @@
 166.1.241.68/32 # United States | New York | Clouvider Limited
 166.1.241.127/32 # United States | New York | Clouvider Limited
 166.1.241.169/32 # United States | New York | Clouvider Limited
-166.1.243.7/32 # United States | Arizona | Clouvider Limited
-166.1.243.29/32 # United States | Arizona | Clouvider Limited
-166.1.243.193/32 # United States | Arizona | Clouvider Limited
-166.1.243.235/32 # United States | Arizona | Clouvider Limited
 166.1.250.135/32 # United States | Arizona | Clouvider Limited
 166.1.250.196/32 # United States | Arizona | Clouvider Limited
 166.1.250.210/32 # United States | Arizona | Clouvider Limited
@@ -1913,10 +1915,6 @@
 166.1.252.208/32 # United States | Arizona | Clouvider Limited
 166.1.253.179/32 # United States | Arizona | Clouvider Limited
 166.1.253.247/32 # United States | Arizona | Clouvider Limited
-166.1.255.45/32 # United States | Arizona | Clouvider Limited
-166.1.255.50/32 # United States | Arizona | Clouvider Limited
-166.1.255.129/32 # United States | New York | Clouvider Limited
-166.1.255.250/32 # United States | New York | Clouvider Limited
 166.88.0.16/32 # United States | California | HOST TELECOM LTD
 166.88.0.106/32 # United States | California | HOST TELECOM LTD
 166.88.9.54/32 # United States | New York | Clouvider Limited
@@ -2032,6 +2030,7 @@
 172.96.7.11/32 # United States | Delaware | M Europe SRL
 172.96.10.220/32 # United States | Missouri | Unreal Servers, LLC
 172.110.223.38/32 # United States | New Jersey | Reliablesite.net LLC
+172.120.12.8/32 # United States | California | HOST TELECOM LTD
 172.120.12.170/32 # United States | California | HOST TELECOM LTD
 172.120.17.78/32 # United States | California | HOST TELECOM LTD
 172.120.17.101/32 # United States | California | HOST TELECOM LTD
@@ -2050,6 +2049,7 @@
 172.120.48.118/32 # United States | Nevada | Clouvider Limited
 172.120.48.119/32 # United States | Nevada | Clouvider Limited
 172.120.48.196/32 # United States | Nevada | Clouvider Limited
+172.120.50.27/32 # United States | Nevada | Clouvider Limited
 172.120.50.58/32 # United States | Nevada | Clouvider Limited
 172.120.50.241/32 # United States | Nevada | Clouvider Limited
 172.120.53.5/32 # United States | New York | Clouvider Limited
@@ -2085,6 +2085,7 @@
 172.120.118.141/32 # United States | Washington | HOST TELECOM LTD
 172.120.118.231/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.121.113/32 # United States | District of Columbia | HOST TELECOM LTD
+172.120.130.45/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.130.79/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.130.212/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.137.165/32 # United States | Washington | HOST TELECOM LTD
@@ -2097,6 +2098,7 @@
 172.120.148.32/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.148.48/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.155.65/32 # United States | Washington | HOST TELECOM LTD
+172.120.157.183/32 # United States | Washington | HOST TELECOM LTD
 172.120.157.244/32 # United States | Washington | HOST TELECOM LTD
 172.120.158.51/32 # United States | District of Columbia | HOST TELECOM LTD
 172.120.158.213/32 # United States | District of Columbia | HOST TELECOM LTD
@@ -2370,13 +2372,8 @@
 185.128.43.49/32 # United States | New York | Clouvider Limited
 185.128.43.91/32 # United States | New York | Clouvider Limited
 185.128.43.221/32 # United States | New York | Clouvider Limited
-185.128.224.27/32 # United States | New York | Clouvider Limited
-185.128.224.156/32 # United States | New York | Clouvider Limited
-185.128.224.253/32 # United States | New York | Clouvider Limited
-185.128.224.254/32 # United States | New York | Clouvider Limited
 185.135.86.149/32 # Latvia | Vidzeme | Melbikomas Uab
 185.141.119.142/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
-185.141.119.169/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
 185.149.146.1/32 # Germany | Hesse | Foton Telecom Cjsc
 185.149.146.118/32 # Germany | Hesse | Foton Telecom Cjsc
 185.156.46.160/32 # United States | Virginia | Datacamp Limited
@@ -2427,6 +2424,7 @@
 186.243.240.128/32 # United States | Kentucky | Clouvider Limited
 186.243.242.56/32 # United States | Florida | Clouvider Limited
 186.243.254.39/32 # United States | District of Columbia | Clouvider Limited
+186.243.255.51/32 # United States | District of Columbia | Clouvider Limited
 186.246.56.81/32 # United States | District of Columbia | Clouvider Limited
 186.246.57.12/32 # United States | District of Columbia | Clouvider Limited
 186.246.60.3/32 # United States | Florida | Clouvider Limited
@@ -2651,14 +2649,15 @@
 213.170.223.157/32 # United States | New York | Ws Telecom INC
 213.209.130.89/32 # Germany | Schleswig-Holstein | Datacamp Limited
 216.9.224.26/32 # United States | New York | Fiba Cloud Operation Company, LLC
+216.126.224.44/32 # United States | Utah | Routerhosting LLC
+216.126.224.118/32 # United States | Utah | Routerhosting LLC
+216.126.224.131/32 # United States | Utah | Routerhosting LLC
+216.126.224.138/32 # United States | Utah | Routerhosting LLC
 216.126.225.79/32 # United States | Utah | Routerhosting LLC
 216.126.227.254/32 # United States | Utah | Routerhosting LLC
 216.126.236.8/32 # United States | Utah | Routerhosting LLC
 216.126.236.151/32 # United States | Utah | Routerhosting LLC
-216.126.239.209/32 # United States | Utah | Routerhosting LLC
 216.126.239.223/32 # United States | Utah | Routerhosting LLC
-216.126.239.225/32 # United States | Utah | Routerhosting LLC
-216.126.239.234/32 # United States | Utah | Routerhosting LLC
 216.151.165.38/32 # United States | Texas | SPARKED HOST LLC
 216.158.226.122/32 # United States | New Jersey | Interserver, INC
 216.158.228.234/32 # United States | New Jersey | Interserver, INC
@@ -2683,5 +2682,4 @@
 223.123.38.36/32 # Pakistan | Punjab | Cmpak Limited
 223.123.42.232/32 # Pakistan | Punjab | Cmpak Limited
 223.123.43.3/32 # Pakistan | Punjab | Cmpak Limited
-223.123.43.5/32 # Pakistan | Punjab | Cmpak Limited
 223.123.72.4/32 # Pakistan | Punjab | Cmpak Limited
