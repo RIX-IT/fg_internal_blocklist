@@ -35,7 +35,6 @@
 104.252.153.0/24 # United States | New York | HOST TELECOM LTD
 107.158.128.0/24 # United States | Nevada | Eonix Corporation
 135.106.85.0/24 # United States | Massachusetts | GREEN FLOID LLC
-138.249.206.0/24 # United States | New York | Clouvider Limited
 138.249.218.0/24 # United States | New York | Clouvider Limited
 142.111.43.0/24 # United States | New York | HOST TELECOM LTD
 142.111.229.0/24 # United States | New York | HOST TELECOM LTD
@@ -450,6 +449,7 @@
 45.66.248.112/32 # United States | Georgia | Bluevps Ou
 45.66.249.28/32 # United States | California | Bluevps Ou
 45.66.249.52/32 # United States | California | Bluevps Ou
+45.71.102.161/32 # Brazil | State of Paraná | Giatech Telecomunica es LTDA Me
 45.76.9.248/32 # United States | New Jersey | The Constant Company, LLC
 45.79.207.65/32 # United States | Georgia | Akamai Technologies, Inc.
 45.79.207.128/32 # United States | Georgia | Akamai Technologies, Inc.
@@ -601,6 +601,7 @@
 45.192.47.34/32 # United States | New York | Clouvider Limited
 45.192.47.54/32 # United States | New York | Clouvider Limited
 45.192.47.61/32 # United States | New York | Clouvider Limited
+45.192.59.22/32 # Canada | Ontario | HOST TELECOM LTD
 45.195.161.88/32 # Canada | Ontario | HOST TELECOM LTD
 45.207.220.12/32 # Hong Kong | Hong Kong | Cognetcloud INC
 45.221.64.224/32 # Seychelles | Mahe | internet security
@@ -701,7 +702,6 @@
 68.67.198.206/32 # United States | California | Datacamp Limited
 68.69.177.101/32 # United States | New Hampshire | OnlyScans LLC
 68.69.177.111/32 # United States | New Hampshire | OnlyScans LLC
-68.80.165.144/32 # United States | Pennsylvania | Comcast Cable Communication...
 68.154.37.66/32 # United States | Virginia | Microsoft Corporation
 68.154.118.248/32 # United States | Virginia | Microsoft Corporation
 68.154.119.217/32 # United States | Virginia | Microsoft Corporation
@@ -715,7 +715,6 @@
 68.235.46.150/32 # United States | Wisconsin | Tzulo, Inc.
 69.10.36.54/32 # United States | New Jersey | Interserver, INC
 69.10.53.26/32 # United States | New Jersey | Interserver, INC
-69.55.60.123/32 # United States | New Jersey | Digitalocean, LLC
 69.67.173.30/32 # Romania | Bucharest | Bl Networks
 69.164.242.142/32 # United States | New York | Interserver, INC
 69.164.242.168/32 # United States | New York | Interserver, INC
@@ -759,6 +758,9 @@
 77.83.7.137/32 # United Kingdom | England | Clouvider Limited
 77.83.39.211/32 # Netherlands | North Holland | KPROHOST LLC
 77.90.153.30/32 # Germany | Schleswig-Holstein | British Telecommunications PLC
+77.91.71.23/32 # Israel | Tel Aviv District | Proline IT Ltd
+77.91.71.24/32 # Israel | Tel Aviv District | Proline IT Ltd
+77.91.71.90/32 # Israel | Tel Aviv District | Proline IT Ltd
 77.95.57.125/32 # Kyrgyzstan | Chuy Province | Extra Line LLC
 77.238.241.203/32 # Netherlands | North Holland | SERVERS TECH FZCO
 77.246.244.16/32 # United States | Indiana | Clouvider Limited
@@ -1037,7 +1039,6 @@
 108.56.233.66/32 # United States | Maryland | Verizon Business
 108.62.161.54/32 # United States | California | Leaseweb Usa, Inc.
 108.181.56.75/32 # United States | Virginia | Psychz Networks
-108.219.170.79/32 # United States | Indiana | AT T Enterprises, LLC
 109.51.26.154/32 # Portugal | Lisbon | NOS COMUNICACOES, S.A.
 109.78.214.65/32 # Ireland | Connacht | Vodafone Ireland Limited
 109.94.216.50/32 # United States | California | Clouvider Limited
@@ -1070,6 +1071,7 @@
 110.85.98.24/32 # China | Fujian | Chinanet
 110.92.64.17/32 # Hong Kong | Hong Kong | Hk Kwaifong Group Limited
 110.92.64.117/32 # Hong Kong | Hong Kong | Hk Kwaifong Group Limited
+110.138.53.217/32 # Indonesia | Jawa Barat | Telekomunikasi Indonesia pt
 110.185.104.180/32 # China | Sichuan | Chinanet Sichuan Telecom Internet Data C...
 111.61.92.78/32 # China | Hebei | China Mobile
 111.90.145.48/32 # Malaysia | Federal Territory of Kuala Lumpur | Shinjiru Te...
@@ -1232,7 +1234,6 @@
 136.234.241.146/32 # United States | Nevada | GREEN FLOID LLC
 136.234.241.147/32 # United States | Nevada | GREEN FLOID LLC
 136.234.242.204/32 # United States | Illinois | GREEN FLOID LLC
-136.234.242.227/32 # United States | Illinois | GREEN FLOID LLC
 136.234.242.242/32 # United States | Illinois | GREEN FLOID LLC
 136.234.244.56/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 136.234.249.3/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
@@ -1246,6 +1247,8 @@
 138.124.101.92/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 138.197.170.20/32 # Canada | Ontario | Digitalocean, LLC
 138.204.160.246/32 # Argentina | Buenos Aires | COOPERATIVA UNION DEL SUD
+138.226.239.45/32 # Vanuatu | Shefa Province | Cloudflare, Inc.
+138.226.239.91/32 # Vanuatu | Shefa Province | Cloudflare, Inc.
 138.249.54.58/32 # Germany | Berlin | Ivanov Vitaliy Sergeevich
 138.249.58.217/32 # Germany | Berlin | Ivanov Vitaliy Sergeevich
 138.249.86.38/32 # Germany | Berlin | Ivanov Vitaliy Sergeevich
@@ -1279,6 +1282,10 @@
 138.249.204.9/32 # United States | District of Columbia | Clouvider Limited
 138.249.204.99/32 # United States | District of Columbia | Clouvider Limited
 138.249.205.247/32 # Canada | Ontario | Clouvider Limited
+138.249.206.77/32 # United States | New York | Clouvider Limited
+138.249.206.115/32 # United States | New York | Clouvider Limited
+138.249.206.119/32 # United States | New York | Clouvider Limited
+138.249.206.187/32 # United States | New York | Clouvider Limited
 138.249.207.12/32 # Canada | Ontario | Clouvider Limited
 138.249.207.86/32 # Canada | Ontario | Clouvider Limited
 138.249.208.8/32 # United States | California | Clouvider Limited
@@ -1606,6 +1613,7 @@
 152.32.157.7/32 # United Kingdom | England | UCLOUD INFORMATION TECHNOLOGY H...
 152.42.140.232/32 # Netherlands | North Holland | Digitalocean, LLC
 152.42.142.154/32 # Netherlands | North Holland | Digitalocean, LLC
+153.67.171.223/32 # Tanzania | Dodoma | Space Exploration Technologies Corpora...
 153.80.11.16/32 # United States | Florida | GREEN FLOID LLC
 153.80.11.57/32 # United States | Florida | GREEN FLOID LLC
 153.80.11.195/32 # United States | Florida | GREEN FLOID LLC
@@ -1651,6 +1659,7 @@
 153.80.158.134/32 # United States | Washington | GREEN FLOID LLC
 153.80.158.179/32 # United States | Washington | GREEN FLOID LLC
 153.80.158.183/32 # United States | Washington | GREEN FLOID LLC
+153.117.40.230/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 153.242.113.129/32 # Japan | Tokyo | NTT Docomo Business,inc.
 154.8.193.97/32 # China | Beijing | Shenzhen Tencent Computer Systems Compan...
 154.81.46.245/32 # United Kingdom | England | IT HOSTLINE LTD
@@ -1965,7 +1974,6 @@
 157.173.219.148/32 # India | Maharashtra | Hostinger International Limited
 157.180.40.106/32 # Finland | Mainland Finland | Hetzner Online GmbH
 157.250.202.204/32 # United States | New Jersey | Interserver, INC
-158.41.234.146/32 # United States | Texas | United Cooperative Services
 158.46.178.73/32 # United States | New York | Clouvider Limited
 158.46.178.192/32 # United States | New York | Clouvider Limited
 158.46.179.26/32 # United States | New York | Clouvider Limited
@@ -2009,7 +2017,6 @@
 165.16.186.161/32 # South Africa | Gauteng | Sadv pty LTD
 165.51.52.41/32 # Tunisia | Monastir | Orange Tunisie
 165.73.183.212/32 # South Africa | Gauteng | HERO TELECOMS PTY LTD
-165.227.26.253/32 # United States | California | Digitalocean, LLC
 165.227.113.183/32 # United States | New Jersey | Digitalocean, LLC
 165.227.179.242/32 # United States | New Jersey | Digitalocean, LLC
 166.1.66.239/32 # United Kingdom | England | Clouvider Limited
@@ -2149,7 +2156,6 @@
 166.88.219.21/32 # United States | California | HOST TELECOM LTD
 166.88.219.29/32 # United States | California | HOST TELECOM LTD
 166.88.219.114/32 # United States | California | HOST TELECOM LTD
-166.88.221.30/32 # United States | California | HOST TELECOM LTD
 166.88.221.38/32 # United States | California | HOST TELECOM LTD
 166.88.221.156/32 # United States | California | HOST TELECOM LTD
 166.88.221.202/32 # United States | California | HOST TELECOM LTD
@@ -2601,6 +2607,7 @@
 185.128.224.253/32 # United States | New York | Clouvider Limited
 185.128.224.254/32 # United States | New York | Clouvider Limited
 185.135.86.149/32 # Latvia | Vidzeme | Melbikomas Uab
+185.136.15.111/32 # Kazakhstan | Almaty Province | Vlad Cojuhari
 185.141.119.142/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
 185.149.146.1/32 # Germany | Hesse | Foton Telecom Cjsc
 185.149.146.118/32 # Germany | Hesse | Foton Telecom Cjsc
@@ -2912,6 +2919,7 @@
 216.180.245.189/32 # United States | New York | Datacamp Limited
 216.219.95.62/32 # United States | California | Interserver, INC
 216.234.211.16/32 # Mozambique | Distrito Municipal de KaMpfumo | Space Explor...
+216.234.211.177/32 # Mozambique | Distrito Municipal de KaMpfumo | Space Explor...
 217.24.176.168/32 # Russia | Sverdlovsk Oblast | INSYS LLC
 217.154.47.221/32 # United Kingdom | England | IONOS SE
 217.160.248.17/32 # Spain | Madrid | IONOS SE
