@@ -35,8 +35,6 @@
 103.81.231.0/24 # United States | Virginia | Hostroyale Technologies Pvt LTD
 104.252.153.0/24 # United States | New York | HOST TELECOM LTD
 107.158.128.0/24 # United States | Nevada | Eonix Corporation
-135.106.85.0/24 # United States | Massachusetts | GREEN FLOID LLC
-138.249.218.0/24 # United States | New York | Clouvider Limited
 142.111.43.0/24 # United States | New York | HOST TELECOM LTD
 142.111.229.0/24 # United States | New York | HOST TELECOM LTD
 142.111.253.0/24 # United States | California | Clouvider Limited
@@ -169,7 +167,6 @@
 24.95.137.46/32 # United States | Ohio | Charter Communications INC
 24.140.135.240/32 # United States | Ohio | Massillon Cable Communications
 24.160.50.28/32 # United States | California | Charter Communications INC
-27.37.82.217/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.204.44/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.205.174/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.206.123/32 # China | Guangdong Province | China Unicom Guangdong Provin...
@@ -235,14 +232,17 @@
 34.52.217.114/32 # Belgium | Brussels-Capital | Google LLC
 34.53.128.120/32 # Belgium | Brussels-Capital | Google LLC
 34.53.128.123/32 # Belgium | Brussels-Capital | Google LLC
+34.53.132.130/32 # Belgium | Brussels-Capital | Google LLC
 34.53.140.122/32 # Belgium | Brussels-Capital | Google LLC
 34.53.142.31/32 # Belgium | Brussels-Capital | Google LLC
 34.53.150.131/32 # Belgium | Brussels-Capital | Google LLC
 34.53.168.96/32 # Belgium | Brussels-Capital | Google LLC
 34.53.174.236/32 # Belgium | Brussels-Capital | Google LLC
 34.53.196.57/32 # Belgium | Brussels-Capital | Google LLC
+34.53.207.91/32 # Belgium | Brussels-Capital | Google LLC
 34.53.210.161/32 # Belgium | Brussels-Capital | Google LLC
 34.53.212.33/32 # Belgium | Brussels-Capital | Google LLC
+34.53.218.255/32 # Belgium | Brussels-Capital | Google LLC
 34.53.230.25/32 # Belgium | Brussels-Capital | Google LLC
 34.53.248.224/32 # Belgium | Brussels-Capital | Google LLC
 34.53.255.101/32 # Belgium | Brussels-Capital | Google LLC
@@ -372,6 +372,8 @@
 35.241.173.189/32 # Belgium | Brussels-Capital | Google LLC
 35.241.200.61/32 # Belgium | Brussels-Capital | Google LLC
 35.247.133.43/32 # Singapore | Southeast | Google LLC
+36.69.63.238/32 # Indonesia | South Sumatra | Telekomunikasi Indonesia pt
+36.80.182.235/32 # Indonesia | East Kalimantan | Telekomunikasi Indonesia pt
 36.137.121.41/32 # China | Beijing | China Mobile
 37.19.200.149/32 # United States | Texas | Datacamp Limited
 37.19.221.138/32 # United States | Texas | Datacamp Limited
@@ -424,7 +426,9 @@
 43.156.83.102/32 # Singapore | Southeast | Shenzhen Tencent Computer Systems ...
 43.157.118.169/32 # Germany | Hesse | Shenzhen Tencent Computer Systems Compan...
 43.225.189.168/32 # United States | Massachusetts | Hostroyale Technologies Pv...
+43.246.217.160/32 # Taiwan | Keelung City | Magna Hosting LTD
 44.252.85.168/32 # United States | California | Amazon.com, Inc.
+45.3.37.38/32 # United States | Virginia | xk Tech GmbH
 45.11.180.174/32 # United Kingdom | England | Servinga GmbH
 45.15.74.63/32 # Canada | Ontario | Clouvider Limited
 45.15.74.86/32 # Canada | Ontario | Clouvider Limited
@@ -727,6 +731,7 @@
 68.220.60.5/32 # United States | California | Microsoft Corporation
 68.220.63.4/32 # United States | California | Microsoft Corporation
 68.235.46.150/32 # United States | Wisconsin | Tzulo, Inc.
+69.5.169.26/32 # Germany | Hesse | Hydra Communications LTD
 69.10.36.54/32 # United States | New Jersey | Interserver, INC
 69.10.53.26/32 # United States | New Jersey | Interserver, INC
 69.67.173.30/32 # Romania | Bucharest | Bl Networks
@@ -880,6 +885,7 @@
 88.218.80.208/32 # United States | New York | Clouvider Limited
 88.218.80.214/32 # United States | New York | Clouvider Limited
 88.218.187.162/32 # Germany | Hesse | Clouvider Limited
+88.229.197.141/32 # Turkey | Samsun | Turk Telekomunikasyon Anonim Sirketi
 89.19.57.245/32 # United States | California | Ws Telecom INC
 89.19.58.221/32 # United States | New York | Ws Telecom INC
 89.19.59.138/32 # United States | New York | Ws Telecom INC
@@ -969,6 +975,7 @@
 103.120.76.182/32 # Indonesia | Banten | Pt Haci Telekomunikasi Indonesia
 103.131.85.153/32 # Vietnam | Hanoi | TAN THANH AN INTERNATIONAL TRADE DEVELOP...
 103.131.102.153/32 # Bangladesh | Khulna Division | Business Zone Limited
+103.132.41.199/32 # Indonesia | Central Java | Pt Kalimasada Inti Sarana
 103.133.24.51/32 # Indonesia | Jawa Barat | PT PHATRIA INTI PERSADA
 103.148.140.19/32 # Singapore | Southeast | LEASEWEB SINGAPORE PTE. LTD.
 103.148.140.94/32 # Singapore | Southeast | LEASEWEB SINGAPORE PTE. LTD.
@@ -985,6 +992,7 @@
 103.159.42.167/32 # India | Delhi | Xpress Net Solution
 103.160.197.68/32 # India | Uttar Pradesh | Userlinks Netcom Pvt. Ltd.
 103.160.197.96/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
+103.166.90.41/32 # Indonesia | Jawa Barat | Pt Regynet Data Solusindo
 103.166.234.71/32 # Indonesia | Central Java | KitaNet
 103.173.7.169/32 # Pakistan | Punjab | Nasstec Airnet Networks Private Limited
 103.173.139.230/32 # Indonesia | Central Java | Pt Serayu Multi Connection
@@ -1017,6 +1025,7 @@
 104.187.62.77/32 # United States | Tennessee | AT T Enterprises, LLC
 104.194.132.28/32 # Netherlands | North Holland | Routerhosting LLC
 104.194.134.4/32 # Netherlands | North Holland | Routerhosting LLC
+104.199.20.65/32 # Belgium | Brussels-Capital | Google LLC
 104.199.48.40/32 # Belgium | Brussels-Capital | Google LLC
 104.199.89.233/32 # Belgium | Brussels-Capital | Google LLC
 104.199.109.3/32 # Belgium | Brussels-Capital | Google LLC
@@ -1089,6 +1098,7 @@
 110.92.64.17/32 # Hong Kong | Hong Kong | Hk Kwaifong Group Limited
 110.92.64.117/32 # Hong Kong | Hong Kong | Hk Kwaifong Group Limited
 110.138.53.217/32 # Indonesia | Jawa Barat | Telekomunikasi Indonesia pt
+110.138.54.184/32 # Indonesia | Jawa Barat | Telekomunikasi Indonesia pt
 110.185.104.180/32 # China | Sichuan | Chinanet Sichuan Telecom Internet Data C...
 111.61.92.78/32 # China | Hebei | China Mobile
 111.90.145.48/32 # Malaysia | Federal Territory of Kuala Lumpur | Shinjiru Te...
@@ -1115,7 +1125,6 @@
 117.175.185.81/32 # China | Guangdong Province | China Mobile
 117.177.102.79/32 # China | Guangdong Province | China Mobile
 117.206.68.203/32 # India | Karnataka | Bharat Sanchar Nigam LTD
-117.217.129.68/32 # India | Andhra Pradesh | Bharat Sanchar Nigam LTD
 117.245.136.9/32 # India | Chandigarh | Bharat Sanchar Nigam LTD
 118.96.34.218/32 # Indonesia | Jawa Barat | Telekomunikasi Indonesia pt
 118.139.167.102/32 # Singapore | Southeast | Godaddy.com, LLC
@@ -1139,6 +1148,7 @@
 123.139.57.103/32 # China | Shaanxi | China Unicom China1 Backbone
 124.29.194.66/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 124.66.72.84/32 # China | Hainan Province | China Unicom China1 Backbone
+124.104.145.228/32 # Philippines | Pangasinan | Philippine Long Distance Teleph...
 124.134.24.50/32 # China | Shandong | China Unicom China1 Backbone
 124.220.19.110/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
 124.220.174.186/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
@@ -1212,6 +1222,10 @@
 135.106.26.239/32 # United States | Montana | GREEN FLOID LLC
 135.106.66.75/32 # United States | Idaho | GREEN FLOID LLC
 135.106.66.137/32 # United States | Idaho | GREEN FLOID LLC
+135.106.85.87/32 # United States | Massachusetts | GREEN FLOID LLC
+135.106.85.108/32 # United States | Massachusetts | GREEN FLOID LLC
+135.106.85.152/32 # United States | Massachusetts | GREEN FLOID LLC
+135.106.85.221/32 # United States | Massachusetts | GREEN FLOID LLC
 135.106.94.136/32 # United States | Wyoming | GREEN FLOID LLC
 135.106.107.61/32 # United States | Louisiana | GREEN FLOID LLC
 135.106.107.212/32 # United States | Florida | GREEN FLOID LLC
@@ -1311,6 +1325,10 @@
 138.249.208.246/32 # United States | California | Clouvider Limited
 138.249.214.207/32 # Germany | Hamburg | Clouvider Limited
 138.249.215.157/32 # United Kingdom | England | Clouvider Limited
+138.249.218.31/32 # United States | New York | Clouvider Limited
+138.249.218.178/32 # United States | New York | Clouvider Limited
+138.249.218.183/32 # United States | New York | Clouvider Limited
+138.249.218.209/32 # United States | New York | Clouvider Limited
 138.249.220.22/32 # Canada | Ontario | Clouvider Limited
 138.249.220.27/32 # Canada | Ontario | Clouvider Limited
 138.249.221.5/32 # Canada | Ontario | Clouvider Limited
@@ -1992,6 +2010,7 @@
 156.251.19.36/32 # Hong Kong | Hong Kong | Tcloudnet
 156.251.25.43/32 # United States | California | Tcloudnet
 156.251.25.112/32 # United States | California | Tcloudnet
+157.20.98.139/32 # Indonesia | Central Java | Pt Konnek Jaya Bersama
 157.20.144.69/32 # Indonesia | Banten | Pt Lintas Network Solusi
 157.66.26.209/32 # Vietnam | Ho Chi Minh | TRUMVPS COMPANY LIMITED
 157.100.198.119/32 # Ecuador | Guayas | Telconet S.a
@@ -2510,6 +2529,7 @@
 176.118.190.27/32 # Netherlands | North Holland | Clouvider Limited
 176.125.230.18/32 # Malta | Northern Region | M Europe SRL
 176.125.242.155/32 # Republic of Moldova | Chisinau | ALEXHOST SRL
+176.202.200.204/32 # Qatar | Doha | Ooredoo Q.S.C.
 176.222.58.244/32 # Germany | Hesse | Clouvider Limited
 176.231.150.223/32 # Israel | Center District | Partner Communications Ltd.
 176.235.182.145/32 # Turkey | İstanbul | Superonline Iletisim Hizmetleri A.S.
@@ -2526,6 +2546,7 @@
 178.62.237.215/32 # Netherlands | North Holland | Digitalocean, LLC
 178.62.245.197/32 # Netherlands | North Holland | Digitalocean, LLC
 178.80.242.121/32 # Saudi Arabia | Eastern Region | Etihad Etisalat, A Joint S...
+178.81.193.238/32 # Saudi Arabia | Eastern Region | Etihad Etisalat, A Joint S...
 178.86.77.72/32 # Saudi Arabia | Makkah Region | Saudi Telecom Company JSC
 178.104.88.115/32 # Germany | Bavaria | Hetzner Online GmbH
 178.105.218.1/32 # Germany | Bavaria | Hetzner Online GmbH
@@ -2561,6 +2582,7 @@
 181.118.47.229/32 # Trinidad and Tobago | Unknown | Digicel Trinidad And Tobag...
 181.127.170.209/32 # Paraguay | Alto Paraná | Telecel S.A.
 181.166.51.117/32 # Argentina | Buenos Aires | Telecom Argentina S.A.
+182.9.2.17/32 # Indonesia | Central Java | Pt. Telekomunikasi Selular
 182.113.41.218/32 # China | Henan | China Unicom China1 Backbone
 182.113.46.52/32 # China | Henan | China Unicom China1 Backbone
 182.119.164.104/32 # China | Henan | China Unicom China1 Backbone
@@ -2726,7 +2748,6 @@
 188.166.108.124/32 # Netherlands | North Holland | Digitalocean, LLC
 188.166.109.242/32 # Netherlands | North Holland | Digitalocean, LLC
 188.214.34.20/32 # Cyprus | South Cyprus | Edis GmbH
-188.239.19.68/32 # Singapore | Southeast | HUAWEI INTERNATIONAL PTE. LTD.
 190.77.112.160/32 # Venezuela | Capital District | Cantv Servicios, Venezuela
 190.89.29.38/32 # Venezuela | Capital District | CORPORACION FIBEX TELECOM, ...
 190.109.227.174/32 # Bolivia | La Paz | Cotel Ltda.
@@ -2736,6 +2757,7 @@
 190.183.248.133/32 # Argentina | Corrientes | Gigared S.A.
 190.196.250.1/32 # Argentina | Santa Fe | MEGALINK S.R.L.
 190.212.211.10/32 # Nicaragua | Managua | TELECOMUNICACIONES DE GUATEMALA, SOC...
+190.221.23.148/32 # Argentina | Santa Cruz Province | Telmex Argentina S.A
 191.37.46.43/32 # Brazil | State of São Paulo | CEDNET PROVEDOR INTERNET
 191.101.127.213/32 # Germany | Hesse | Datacamp Limited
 191.181.75.36/32 # Brazil | State of São Paulo | Claro Nxt Telecomunicacoes LTDA
@@ -2818,7 +2840,6 @@
 194.33.9.141/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 194.33.9.250/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 194.35.127.31/32 # United States | New York | Clouvider Limited
-194.35.127.56/32 # United States | District of Columbia | Clouvider Limited
 194.35.127.163/32 # United States | New York | Clouvider Limited
 194.35.127.204/32 # United States | New York | Clouvider Limited
 194.37.97.164/32 # United States | Texas | M Europe SRL
@@ -2873,6 +2894,7 @@
 200.23.126.6/32 # Mexico | Aguascalientes | SOLUCIONES DE TECNOLOGIA JAH SA ...
 200.23.126.109/32 # Mexico | Aguascalientes | SOLUCIONES DE TECNOLOGIA JAH SA ...
 200.107.104.233/32 # Argentina | Santa Fe | LOS AMORES S.A.
+200.115.96.8/32 # Honduras | Cortés | HONDUVISION SRL
 200.189.31.132/32 # Argentina | Buenos Aires | Space Exploration Technologies ...
 201.182.9.37/32 # Brazil | State of Minas Gerais | GL TELECOM LTDA ME
 202.47.56.221/32 # Pakistan | Punjab | Cyber Internet Services private Limited
@@ -2883,6 +2905,7 @@
 202.155.157.144/32 # Indonesia | Special Capital Region of Jakarta | Pt Deneva
 202.186.199.146/32 # Malaysia | Federal Territory of Kuala Lumpur | TT DOTCOM S...
 203.150.157.116/32 # Thailand | Bangkok | Internet Thailand Company Ltd.
+203.172.179.151/32 # Thailand | Suphan Buri Province | Ministry of Education Emisc
 204.44.70.181/32 # United States | California | HostPapa
 204.168.158.236/32 # Finland | Mainland Finland | Hetzner Online GmbH
 206.72.199.228/32 # United States | New Jersey | Interserver, INC
@@ -2964,12 +2987,15 @@
 217.24.176.168/32 # Russia | Sverdlovsk Oblast | INSYS LLC
 217.154.47.221/32 # United Kingdom | England | IONOS SE
 217.160.248.17/32 # Spain | Madrid | IONOS SE
+217.164.213.54/32 # United Arab Emirates | Sharjah Emirate | EMIRATES TELECOMM...
 217.199.144.35/32 # Kenya | Kiambu | MTN SA
 218.17.66.85/32 # China | Guangdong Province | Chinanet
+218.111.152.89/32 # Malaysia | Johor | TM TECHNOLOGY SERVICES SDN BHD
 219.163.15.58/32 # Japan | Nagasaki Prefecture | NTT Docomo Business,inc.
 221.15.179.187/32 # China | Henan | China Unicom China1 Backbone
 221.15.215.235/32 # China | Henan | China Unicom China1 Backbone
 222.134.172.123/32 # China | Shandong | China Unicom China1 Backbone
+223.25.27.67/32 # Philippines | Calabarzon | Asian Vision Cable Holdings INC
 223.29.232.120/32 # Pakistan | Sindh | Logon Broadband Pvt. Limited
 223.123.35.47/32 # Pakistan | Punjab | Cmpak Limited
 223.123.38.36/32 # Pakistan | Punjab | Cmpak Limited
