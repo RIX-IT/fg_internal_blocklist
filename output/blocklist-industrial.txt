@@ -32,6 +32,7 @@
 65.111.4.0/24 # United States | Virginia | xk Tech GmbH
 65.111.7.0/24 # United States | Virginia | xk Tech GmbH
 65.111.8.0/24 # United States | Virginia | xk Tech GmbH
+65.111.9.0/24 # United States | Virginia | xk Tech GmbH
 65.111.14.0/24 # United States | Virginia | xk Tech GmbH
 67.211.221.0/24 # United States | New Jersey | Interserver, INC
 77.72.84.0/24 # United States | District of Columbia | Clouvider Limited
@@ -53,6 +54,7 @@
 104.207.50.0/24 # United Kingdom | England | xk Tech GmbH
 104.207.53.0/24 # United Kingdom | England | xk Tech GmbH
 104.207.56.0/24 # Germany | Berlin | xk Tech GmbH
+104.207.57.0/24 # Germany | Berlin | xk Tech GmbH
 104.207.62.0/24 # France | Île-de-France | xk Tech GmbH
 104.252.153.0/24 # United States | New York | HOST TELECOM LTD
 107.158.128.0/24 # United States | Nevada | Eonix Corporation
@@ -249,6 +251,7 @@
 34.14.20.55/32 # Belgium | Brussels-Capital | Google LLC
 34.14.42.244/32 # Belgium | Brussels-Capital | Google LLC
 34.14.54.83/32 # Belgium | Brussels-Capital | Google LLC
+34.14.68.142/32 # Belgium | Brussels-Capital | Google LLC
 34.14.70.198/32 # Belgium | Brussels-Capital | Google LLC
 34.14.85.114/32 # Belgium | Brussels-Capital | Google LLC
 34.14.98.108/32 # Belgium | Brussels-Capital | Google LLC
@@ -307,6 +310,7 @@
 34.62.15.171/32 # Belgium | Brussels-Capital | Google LLC
 34.62.32.10/32 # Belgium | Brussels-Capital | Google LLC
 34.62.68.142/32 # Belgium | Brussels-Capital | Google LLC
+34.62.70.216/32 # Belgium | Brussels-Capital | Google LLC
 34.62.70.232/32 # Belgium | Brussels-Capital | Google LLC
 34.62.93.148/32 # Belgium | Brussels-Capital | Google LLC
 34.62.116.151/32 # Belgium | Brussels-Capital | Google LLC
@@ -320,7 +324,9 @@
 34.76.81.217/32 # Belgium | Brussels-Capital | Google LLC
 34.76.117.109/32 # Belgium | Brussels-Capital | Google LLC
 34.76.133.65/32 # Belgium | Brussels-Capital | Google LLC
+34.76.164.45/32 # Belgium | Brussels-Capital | Google LLC
 34.77.27.62/32 # Belgium | Brussels-Capital | Google LLC
+34.77.70.217/32 # Belgium | Brussels-Capital | Google LLC
 34.77.75.2/32 # Belgium | Brussels-Capital | Google LLC
 34.77.109.136/32 # Belgium | Brussels-Capital | Google LLC
 34.77.115.57/32 # Belgium | Brussels-Capital | Google LLC
@@ -431,6 +437,7 @@
 35.231.83.130/32 # United States | South Carolina | Google LLC
 35.233.50.55/32 # Belgium | Brussels-Capital | Google LLC
 35.233.53.206/32 # Belgium | Brussels-Capital | Google LLC
+35.233.57.247/32 # Belgium | Brussels-Capital | Google LLC
 35.233.96.69/32 # Belgium | Brussels-Capital | Google LLC
 35.233.126.185/32 # Belgium | Brussels-Capital | Google LLC
 35.240.0.111/32 # Belgium | Brussels-Capital | Google LLC
@@ -501,6 +508,7 @@
 45.3.35.24/32 # United States | Virginia | xk Tech GmbH
 45.3.35.164/32 # United States | Virginia | xk Tech GmbH
 45.3.35.210/32 # United States | Virginia | xk Tech GmbH
+45.3.35.223/32 # United States | Virginia | xk Tech GmbH
 45.3.36.145/32 # United States | Virginia | xk Tech GmbH
 45.3.36.172/32 # United States | Virginia | xk Tech GmbH
 45.3.37.38/32 # United States | Virginia | xk Tech GmbH
@@ -677,7 +685,6 @@
 45.149.82.201/32 # United States | California | Clouvider Limited
 45.149.82.241/32 # United States | California | Clouvider Limited
 45.149.134.239/32 # United Kingdom | England | Clouvider Limited
-45.149.235.45/32 # Germany | Berlin | SERV.HOST GROUP LTD
 45.150.112.112/32 # Germany | Hesse | Clouvider Limited
 45.150.112.170/32 # Germany | Berlin | Clouvider Limited
 45.151.91.187/32 # Seychelles | Mahe | Ip Vendetta Inc.
@@ -839,6 +846,7 @@
 64.236.201.48/32 # United States | Illinois | Microsoft Corporation
 65.111.0.38/32 # United States | Virginia | xk Tech GmbH
 65.111.0.61/32 # United States | Virginia | xk Tech GmbH
+65.111.0.113/32 # United States | Virginia | xk Tech GmbH
 65.111.0.126/32 # United States | Virginia | xk Tech GmbH
 65.111.2.103/32 # United States | Virginia | xk Tech GmbH
 65.111.2.243/32 # United States | Virginia | xk Tech GmbH
@@ -848,10 +856,6 @@
 65.111.6.164/32 # United States | Virginia | xk Tech GmbH
 65.111.6.194/32 # United States | Virginia | xk Tech GmbH
 65.111.6.232/32 # United States | Virginia | xk Tech GmbH
-65.111.9.0/32 # United States | Virginia | xk Tech GmbH
-65.111.9.52/32 # United States | Virginia | xk Tech GmbH
-65.111.9.77/32 # United States | Virginia | xk Tech GmbH
-65.111.9.177/32 # United States | Virginia | xk Tech GmbH
 65.111.10.204/32 # United States | Virginia | xk Tech GmbH
 65.111.12.9/32 # United States | Virginia | xk Tech GmbH
 65.111.12.215/32 # United States | Virginia | xk Tech GmbH
@@ -885,6 +889,7 @@
 65.111.29.176/32 # France | Île-de-France | xk Tech GmbH
 65.111.30.1/32 # France | Île-de-France | xk Tech GmbH
 65.111.30.142/32 # France | Île-de-France | xk Tech GmbH
+65.111.31.88/32 # France | Île-de-France | xk Tech GmbH
 65.111.31.192/32 # France | Île-de-France | xk Tech GmbH
 66.63.187.154/32 # United States | New York | HostPapa
 66.63.187.232/32 # United States | New York | HostPapa
@@ -1221,6 +1226,7 @@
 104.207.37.162/32 # United States | Virginia | xk Tech GmbH
 104.207.38.4/32 # United States | Virginia | xk Tech GmbH
 104.207.38.155/32 # United States | Virginia | xk Tech GmbH
+104.207.38.197/32 # United States | Virginia | xk Tech GmbH
 104.207.38.214/32 # United States | Virginia | xk Tech GmbH
 104.207.40.243/32 # United States | Virginia | xk Tech GmbH
 104.207.41.55/32 # United States | Virginia | xk Tech GmbH
@@ -1257,10 +1263,6 @@
 104.207.54.119/32 # Germany | Berlin | xk Tech GmbH
 104.207.55.46/32 # Germany | Berlin | xk Tech GmbH
 104.207.55.65/32 # Germany | Berlin | xk Tech GmbH
-104.207.57.49/32 # Germany | Berlin | xk Tech GmbH
-104.207.57.109/32 # Germany | Berlin | xk Tech GmbH
-104.207.57.148/32 # Germany | Berlin | xk Tech GmbH
-104.207.57.194/32 # Germany | Berlin | xk Tech GmbH
 104.207.58.5/32 # Thailand | Bangkok | xk Tech GmbH
 104.207.58.129/32 # Thailand | Bangkok | xk Tech GmbH
 104.207.58.221/32 # Thailand | Bangkok | xk Tech GmbH
@@ -1370,6 +1372,7 @@
 119.30.116.151/32 # Pakistan | Punjab | Mobilink Gsm, Pakistan Mobile Communic...
 119.30.116.183/32 # Pakistan | Punjab | Mobilink Gsm, Pakistan Mobile Communic...
 119.30.117.136/32 # Pakistan | Punjab | Mobilink Gsm, Pakistan Mobile Communic...
+119.118.251.219/32 # China | Liaoning | China Unicom China1 Backbone
 119.179.249.97/32 # China | Shandong | China Unicom China1 Backbone
 119.200.13.201/32 # Republic of Korea | Gyeonggi | Korea Telecom
 120.48.75.127/32 # China | Beijing | Beijing Baidu Netcom Science And Technol...
@@ -1395,6 +1398,7 @@
 125.41.3.78/32 # China | Henan | China Unicom China1 Backbone
 125.47.202.62/32 # China | Henan | CNC Group CHINA1 Henan Province Network
 126.209.76.68/32 # Philippines | Davao Region | Infinivan Inc.
+128.24.160.160/32 # United States | Wyoming | Microsoft Corporation
 129.226.128.168/32 # Hong Kong | Hong Kong | Shenzhen Tencent Computer Systems ...
 130.49.15.24/32 # United States | Washington | GREEN FLOID LLC
 130.49.15.175/32 # United States | Washington | GREEN FLOID LLC
@@ -1962,7 +1966,6 @@
 153.117.32.175/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 153.117.38.184/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 153.117.40.230/32 # Pakistan | Sindh | Cyber Internet Services private Limited
-153.242.113.129/32 # Japan | Tokyo | NTT Docomo Business,inc.
 154.8.193.97/32 # China | Beijing | Shenzhen Tencent Computer Systems Compan...
 154.81.46.245/32 # United Kingdom | England | IT HOSTLINE LTD
 154.81.47.29/32 # United Kingdom | England | IT HOSTLINE LTD
