@@ -62,6 +62,7 @@
 107.158.128.0/24 # United States | Nevada | Eonix Corporation
 130.49.52.0/24 # United States | Florida | GREEN FLOID LLC
 130.49.72.0/24 # United States | Florida | GREEN FLOID LLC
+135.136.19.0/24 # Germany | Hesse | M Europe SRL
 138.249.218.0/24 # United States | New York | Clouvider Limited
 138.249.222.0/24 # United States | New York | Clouvider Limited
 141.133.46.0/24 # United States | Arizona | Clouvider Limited
@@ -174,6 +175,7 @@
 14.0.136.205/32 # Hong Kong | Hong Kong | Csl Limited
 14.1.78.115/32 # Sri Lanka | Western Province | Space Exploration Technolog...
 14.1.105.214/32 # Pakistan | Punjab | Cyber Internet Services private Limited
+14.1.107.154/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 14.102.226.202/32 # United States | New York | Datacamp Limited
 14.102.232.184/32 # United States | New York | Datacamp Limited
 14.167.84.225/32 # Vietnam | Haiphong | Vnpt Corp
@@ -710,7 +712,6 @@
 45.159.126.110/32 # United States | New York | Clouvider Limited
 45.159.126.215/32 # United States | New York | Clouvider Limited
 45.159.126.226/32 # United States | New York | Clouvider Limited
-45.159.127.5/32 # United States | Indiana | Clouvider Limited
 45.159.127.132/32 # United States | New York | Clouvider Limited
 45.159.127.148/32 # United States | New York | Clouvider Limited
 45.159.127.237/32 # United States | New York | Clouvider Limited
@@ -1036,7 +1037,6 @@
 85.193.81.20/32 # Russia | Saint Petersburg | JSC TIMEWEB
 86.38.216.94/32 # United States | Florida | Limestone Networks, Inc.
 86.54.24.25/32 # Latvia | Vidzeme | Noyobzoda Faridduni Saidilhom
-87.4.39.51/32 # Italy | Lombardy | Telecom Italia S.P.A.
 87.70.153.235/32 # Israel | Tel Aviv District | Partner Communications Ltd.
 87.106.164.149/32 # Germany | Berlin | IONOS SE
 87.106.191.217/32 # Germany | Hesse | IONOS SE
@@ -1120,7 +1120,6 @@
 95.214.83.57/32 # United States | New York | Clouvider Limited
 95.214.83.86/32 # United States | New York | Clouvider Limited
 96.9.125.147/32 # Romania | Bucharest | Bl Networks
-96.33.153.139/32 # United States | Louisiana | Charter Communications LLC
 96.62.111.63/32 # United States | New York | Datacamp Limited
 96.126.106.7/32 # United States | New Jersey | Akamai Technologies, Inc.
 97.64.81.119/32 # United States | New York | It Networks INC
@@ -1358,6 +1357,7 @@
 115.48.163.164/32 # China | Henan | China Unicom China1 Backbone
 115.53.208.253/32 # China | Henan | China Unicom China1 Backbone
 115.59.35.110/32 # China | Henan | China Unicom China1 Backbone
+115.190.173.91/32 # China | Beijing | Beijing Volcano Engine Technology Co., Ltd.
 116.107.129.238/32 # Vietnam | Yen Bai Province | Viettel Group
 116.213.178.11/32 # China | Beijing | Beijing Volcano Engine Technology Co., Ltd.
 117.121.133.33/32 # China | Beijing | China Unicom China1 Backbone
@@ -1471,10 +1471,6 @@
 135.106.107.155/32 # United States | Florida | GREEN FLOID LLC
 135.106.107.212/32 # United States | Florida | GREEN FLOID LLC
 135.131.63.200/32 # United States | Wisconsin | TDS TELECOM
-135.136.19.82/32 # Germany | Hesse | M Europe SRL
-135.136.19.99/32 # Germany | Hesse | M Europe SRL
-135.136.19.208/32 # Germany | Hesse | M Europe SRL
-135.136.19.210/32 # Germany | Hesse | M Europe SRL
 135.232.176.179/32 # United States | Illinois | Microsoft Corporation
 135.232.200.26/32 # United States | Illinois | Microsoft Corporation
 136.0.102.25/32 # United States | New York | HOST TELECOM LTD
@@ -3101,6 +3097,7 @@
 190.212.211.10/32 # Nicaragua | Managua | TELECOMUNICACIONES DE GUATEMALA, SOC...
 190.221.23.148/32 # Argentina | Santa Cruz Province | Telmex Argentina S.A
 191.37.46.43/32 # Brazil | State of São Paulo | CEDNET PROVEDOR INTERNET
+191.101.127.120/32 # Germany | Hesse | Datacamp Limited
 191.101.127.213/32 # Germany | Hesse | Datacamp Limited
 192.109.127.29/32 # Germany | Hesse | Datacamp Limited
 192.109.138.65/32 # Netherlands | Limburg | Colocatel Inc.
@@ -3244,7 +3241,6 @@
 197.17.122.127/32 # Tunisia | Ben Arous | OOREDOO TUNISIE SA
 197.91.94.221/32 # South Africa | Western Cape | Dimension Data
 197.186.63.27/32 # Tanzania | Mwanza Region | Airtel Tanzania
-197.186.75.223/32 # Tanzania | Coastal Zone | Airtel Tanzania
 198.50.202.93/32 # Canada | Ontario | OVH SAS
 198.55.98.133/32 # United States | New York | HostPapa
 198.58.118.139/32 # United States | Texas | Akamai Technologies, Inc.
