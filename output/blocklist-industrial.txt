@@ -14,6 +14,7 @@
 23.234.106.0/24 # United States | Texas | Tzulo, Inc.
 23.234.107.0/24 # United States | Texas | Tzulo, Inc.
 31.59.237.0/24 # Germany | Hesse | Datacamp Limited
+31.59.238.0/24 # Germany | Hesse | Datacamp Limited
 31.222.247.0/24 # United States | Wisconsin | Clouvider Limited
 40.27.116.0/24 # United States | New York | M Europe SRL
 40.27.117.0/24 # United States | New York | M Europe SRL
@@ -131,6 +132,7 @@
 194.76.227.0/24 # Estonia | Harju maakond | Servinga GmbH
 212.192.251.0/24 # United States | Massachusetts | Clouvider Limited
 213.166.94.0/24 # United States | New York | Shock Hosting LLC
+213.209.130.0/24 # Germany | Bavaria | Datacamp Limited
 217.181.92.0/24 # Germany | Berlin | xk Tech GmbH
 1.13.249.217/32 # China | Jiangsu | Shenzhen Tencent Computer Systems Compan...
 1.20.173.177/32 # Thailand | Chon Buri Province | Tot Public Company Limited
@@ -240,9 +242,6 @@
 31.56.117.11/32 # Latvia | Vidzeme | CGI GLOBAL LIMITED
 31.57.129.23/32 # Romania | Bucharest | FIVE CYBER HOST SECURITY S.R.L.
 31.59.121.19/32 # France | Île-de-France | CGI GLOBAL LIMITED
-31.59.238.126/32 # Germany | Hesse | Datacamp Limited
-31.59.238.164/32 # Germany | Hesse | Datacamp Limited
-31.59.238.236/32 # Germany | Hesse | Datacamp Limited
 31.76.51.127/32 # Finland | Mainland Finland | Dpkgsoft International Limited
 31.220.109.219/32 # United States | Arizona | Hostinger International Limited
 31.222.242.59/32 # United States | Florida | GREEN FLOID LLC
@@ -665,6 +664,7 @@
 45.140.174.55/32 # United States | California | Shock Hosting LLC
 45.140.174.144/32 # United States | California | Shock Hosting LLC
 45.140.174.239/32 # United States | California | Shock Hosting LLC
+45.140.211.136/32 # Germany | Hesse | Datacamp Limited
 45.141.22.62/32 # France | Grand Est | Contabo GmbH
 45.143.140.160/32 # United Kingdom | England | Clouvider Limited
 45.143.143.126/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
@@ -971,6 +971,7 @@
 77.90.153.30/32 # Germany | Schleswig-Holstein | British Telecommunications PLC
 77.90.178.18/32 # Germany | Bavaria | Datacamp Limited
 77.90.178.172/32 # Germany | Bavaria | Datacamp Limited
+77.90.178.224/32 # Germany | Bavaria | Datacamp Limited
 77.90.178.254/32 # Germany | Bavaria | Datacamp Limited
 77.238.241.203/32 # Netherlands | North Holland | SERVERS TECH FZCO
 77.246.244.16/32 # United States | Indiana | Clouvider Limited
@@ -1117,7 +1118,6 @@
 94.141.122.164/32 # Finland | Mainland Finland | Partner Hosting LTD
 94.154.172.43/32 # Seychelles | Mahe | Ip Vendetta Inc.
 94.229.214.8/32 # United States | Florida | Datacamp Limited
-94.239.32.162/32 # France | Île-de-France | Bouygues Telecom SA
 95.164.123.45/32 # Germany | Hesse | QWINS LTD
 95.164.151.114/32 # United States | New Jersey | Isp life INC
 95.164.206.228/32 # United States | New Jersey | Isp life INC
@@ -1137,7 +1137,6 @@
 98.97.134.11/32 # Argentina | Buenos Aires | Space Exploration Technologies ...
 98.97.172.247/32 # United States | Georgia | Space Exploration Technologies C...
 102.33.122.12/32 # South Africa | Eastern Cape | Metrofibre Networx
-102.64.150.15/32 # Togo | 1st District | Gva Cote D ivoire SAS
 102.89.85.218/32 # Nigeria | Oyo | Mtn Nigeria Communication Limited
 102.129.141.131/32 # United States | New York | Datacamp Limited
 102.135.95.102/32 # Seychelles | Mahe | M Europe SRL
@@ -1311,7 +1310,6 @@
 107.189.26.46/32 # Netherlands | North Holland | Routerhosting LLC
 107.189.27.207/32 # Netherlands | North Holland | Routerhosting LLC
 108.54.90.54/32 # United States | New York | Verizon Business
-108.56.233.66/32 # United States | Maryland | Verizon Business
 108.62.161.54/32 # United States | California | Leaseweb Usa, Inc.
 108.181.56.75/32 # United States | Virginia | Psychz Networks
 109.94.216.50/32 # United States | California | Clouvider Limited
@@ -1737,7 +1735,6 @@
 142.111.130.35/32 # United States | New York | HOST TELECOM LTD
 142.111.130.136/32 # United States | New York | HOST TELECOM LTD
 142.111.176.27/32 # United States | New York | HOST TELECOM LTD
-142.111.176.161/32 # United States | New York | HOST TELECOM LTD
 142.111.176.189/32 # United States | New York | HOST TELECOM LTD
 142.111.176.219/32 # United States | New York | HOST TELECOM LTD
 142.111.177.69/32 # United States | New York | HOST TELECOM LTD
@@ -1859,7 +1856,6 @@
 143.105.209.0/32 # Ghana | Greater Accra Region | Space Exploration Technolog...
 143.198.19.135/32 # United States | New Jersey | Digitalocean, LLC
 143.198.83.148/32 # Singapore | Southeast | Digitalocean, LLC
-143.223.148.5/32 # United States | Florida | HyperFiber
 143.244.47.84/32 # United States | New York | Datacamp Limited
 144.31.38.44/32 # Hong Kong | Hong Kong | Artem Lomakin
 144.31.221.179/32 # Germany | Hesse | Kyonix Networks Limited
@@ -2616,6 +2612,7 @@
 172.120.20.192/32 # United States | California | HOST TELECOM LTD
 172.120.21.9/32 # United States | California | HOST TELECOM LTD
 172.120.21.101/32 # United States | California | HOST TELECOM LTD
+172.120.21.169/32 # United States | California | IT HOSTLINE LTD
 172.120.40.23/32 # United States | California | HOST TELECOM LTD
 172.120.40.64/32 # United States | California | HOST TELECOM LTD
 172.120.40.249/32 # United States | California | HOST TELECOM LTD
@@ -3245,8 +3242,6 @@
 196.251.86.145/32 # Netherlands | North Holland | internet security cheapy.host
 196.251.116.219/32 # Netherlands | North Holland | internet secuirty Nybula
 196.251.118.41/32 # Netherlands | North Holland | internet security Nybula
-197.17.122.127/32 # Tunisia | Ben Arous | OOREDOO TUNISIE SA
-197.186.63.27/32 # Tanzania | Mwanza Region | Airtel Tanzania
 198.50.202.93/32 # Canada | Ontario | OVH SAS
 198.55.98.133/32 # United States | New York | HostPapa
 198.58.118.139/32 # United States | Texas | Akamai Technologies, Inc.
@@ -3330,10 +3325,6 @@
 213.139.195.143/32 # United States | California | Clouvider Limited
 213.139.195.206/32 # United States | California | Clouvider Limited
 213.170.223.157/32 # United States | New York | Ws Telecom INC
-213.209.130.1/32 # Germany | Bavaria | Datacamp Limited
-213.209.130.73/32 # Germany | Bavaria | Datacamp Limited
-213.209.130.89/32 # Germany | Schleswig-Holstein | Datacamp Limited
-213.209.130.248/32 # Germany | Bavaria | Datacamp Limited
 216.9.224.26/32 # United States | New York | Fiba Cloud Operation Company, LLC
 216.126.236.8/32 # United States | Utah | Routerhosting LLC
 216.151.165.38/32 # United States | Texas | SPARKED HOST LLC
