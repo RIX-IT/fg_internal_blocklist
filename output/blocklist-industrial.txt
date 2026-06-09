@@ -48,6 +48,7 @@
 84.201.25.0/24 # Germany | Hesse | Ultahost, Inc.
 89.37.63.0/24 # Sweden | Stockholm County | Datacamp Limited
 91.92.42.0/24 # Bulgaria | Sofia-city | Euro Crypt Eood
+92.60.40.0/24 # Netherlands | Limburg | Owl Limited
 94.143.230.0/24 # United States | New York | Clouvider Limited
 103.81.230.0/24 # United States | Virginia | Hostroyale Technologies Pvt LTD
 103.81.231.0/24 # United States | Virginia | Hostroyale Technologies Pvt LTD
@@ -237,6 +238,7 @@
 31.56.117.11/32 # Latvia | Vidzeme | CGI GLOBAL LIMITED
 31.57.129.23/32 # Romania | Bucharest | FIVE CYBER HOST SECURITY S.R.L.
 31.59.121.19/32 # France | Île-de-France | CGI GLOBAL LIMITED
+31.59.237.104/32 # Germany | Hesse | Datacamp Limited
 31.59.237.126/32 # Germany | Hesse | Datacamp Limited
 31.59.237.199/32 # Germany | Hesse | Datacamp Limited
 31.76.51.127/32 # Finland | Mainland Finland | Dpkgsoft International Limited
@@ -296,6 +298,7 @@
 34.42.132.215/32 # United States | Iowa | Google LLC
 34.47.44.233/32 # Canada | Québec | Google LLC
 34.52.142.250/32 # Belgium | Brussels-Capital | Google LLC
+34.52.165.14/32 # Belgium | Brussels-Capital | Google LLC
 34.52.217.114/32 # Belgium | Brussels-Capital | Google LLC
 34.53.128.120/32 # Belgium | Brussels-Capital | Google LLC
 34.53.128.123/32 # Belgium | Brussels-Capital | Google LLC
@@ -322,6 +325,7 @@
 34.62.70.232/32 # Belgium | Brussels-Capital | Google LLC
 34.62.93.148/32 # Belgium | Brussels-Capital | Google LLC
 34.62.116.151/32 # Belgium | Brussels-Capital | Google LLC
+34.62.130.40/32 # Belgium | Brussels-Capital | Google LLC
 34.62.155.17/32 # Belgium | Brussels-Capital | Google LLC
 34.62.165.3/32 # Belgium | Brussels-Capital | Google LLC
 34.62.168.176/32 # Belgium | Brussels-Capital | Google LLC
@@ -330,6 +334,7 @@
 34.62.233.24/32 # Belgium | Brussels-Capital | Google LLC
 34.72.90.40/32 # United States | Iowa | Google LLC
 34.76.81.217/32 # Belgium | Brussels-Capital | Google LLC
+34.76.86.74/32 # Belgium | Brussels-Capital | Google LLC
 34.76.117.109/32 # Belgium | Brussels-Capital | Google LLC
 34.76.133.65/32 # Belgium | Brussels-Capital | Google LLC
 34.76.164.45/32 # Belgium | Brussels-Capital | Google LLC
@@ -355,6 +360,7 @@
 34.78.251.88/32 # Belgium | Brussels-Capital | Google LLC
 34.79.22.192/32 # Belgium | Brussels-Capital | Google LLC
 34.79.27.213/32 # Belgium | Brussels-Capital | Google LLC
+34.79.28.188/32 # Belgium | Brussels-Capital | Google LLC
 34.79.37.132/32 # Belgium | Brussels-Capital | Google LLC
 34.79.51.36/32 # Belgium | Brussels-Capital | Google LLC
 34.79.84.22/32 # Belgium | Brussels-Capital | Google LLC
@@ -400,6 +406,7 @@
 34.156.137.236/32 # Belgium | Brussels-Capital | Google LLC
 34.156.160.210/32 # United States | California | Google LLC
 34.156.174.138/32 # United States | California | Google LLC
+34.156.179.1/32 # Belgium | Brussels-Capital | Google LLC
 34.156.187.45/32 # Belgium | Brussels-Capital | Google LLC
 34.156.198.64/32 # United States | California | Google LLC
 34.156.223.225/32 # United States | California | Google LLC
@@ -1096,16 +1103,11 @@
 91.247.78.82/32 # United States | New Jersey | Clouvider Limited
 91.247.78.109/32 # United States | New Jersey | Clouvider Limited
 91.247.78.209/32 # United States | New Jersey | Clouvider Limited
-92.60.40.203/32 # Netherlands | Limburg | Owl Limited
-92.60.40.204/32 # Netherlands | Limburg | Owl Limited
-92.60.40.212/32 # Netherlands | Limburg | Owl Limited
-92.60.40.217/32 # Netherlands | Limburg | Owl Limited
 92.119.163.14/32 # United States | Arizona | Shock Hosting LLC
 92.119.163.21/32 # United States | Arizona | Shock Hosting LLC
 93.93.206.149/32 # Germany | Thuringia | Clouvider Limited
 94.103.179.26/32 # United States | Connecticut | Clouvider Limited
 94.103.179.183/32 # United States | Connecticut | Clouvider Limited
-94.131.9.205/32 # France | Île-de-France | Worktitans B.V.
 94.131.216.244/32 # Ukraine | Kyiv Oblast | BELICOM.NET LLC
 94.141.122.164/32 # Finland | Mainland Finland | Partner Hosting LTD
 94.154.172.43/32 # Seychelles | Mahe | Ip Vendetta Inc.
@@ -1216,6 +1218,7 @@
 104.207.33.97/32 # United States | Virginia | xk Tech GmbH
 104.207.33.234/32 # United States | Virginia | xk Tech GmbH
 104.207.34.23/32 # United States | Virginia | xk Tech GmbH
+104.207.34.25/32 # United States | Virginia | xk Tech GmbH
 104.207.34.132/32 # United States | Virginia | xk Tech GmbH
 104.207.34.156/32 # United States | Virginia | xk Tech GmbH
 104.207.36.223/32 # United States | Virginia | xk Tech GmbH
@@ -1333,7 +1336,6 @@
 110.37.59.113/32 # Pakistan | Punjab | Wateen Telecom Limited
 110.39.228.163/32 # Pakistan | Punjab | Wateen Telecom Limited
 110.39.230.2/32 # Pakistan | Punjab | Wateen Telecom Limited
-110.42.203.56/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
 110.85.98.24/32 # China | Fujian | Chinanet
 110.92.64.17/32 # Hong Kong | Hong Kong | Hk Kwaifong Group Limited
 110.92.64.117/32 # Hong Kong | Hong Kong | Hk Kwaifong Group Limited
@@ -2549,6 +2551,7 @@
 169.40.2.68/32 # Latvia | Vidzeme | SIA VEESP
 169.150.201.9/32 # Germany | Hesse | Datacamp Limited
 169.150.201.10/32 # Germany | Hesse | Datacamp Limited
+169.150.201.24/32 # Germany | Hesse | Datacamp Limited
 169.150.201.35/32 # Germany | Hesse | Datacamp Limited
 170.64.146.180/32 # Australia | New South Wales | Digitalocean, LLC
 170.81.1.19/32 # Brazil | Espírito Santo | Windx Telecomunica es
@@ -3099,6 +3102,7 @@
 190.212.211.10/32 # Nicaragua | Managua | TELECOMUNICACIONES DE GUATEMALA, SOC...
 190.221.23.148/32 # Argentina | Santa Cruz Province | Telmex Argentina S.A
 191.37.46.43/32 # Brazil | State of São Paulo | CEDNET PROVEDOR INTERNET
+191.101.127.113/32 # Germany | Hesse | Datacamp Limited
 191.101.127.120/32 # Germany | Hesse | Datacamp Limited
 191.101.127.213/32 # Germany | Hesse | Datacamp Limited
 191.101.127.229/32 # Germany | Hesse | Datacamp Limited
@@ -3154,6 +3158,8 @@
 193.58.177.185/32 # United States | New Mexico | Clouvider Limited
 193.124.16.21/32 # Germany | Hesse | Datacamp Limited
 193.124.16.132/32 # Germany | Hesse | Datacamp Limited
+193.124.16.187/32 # Germany | Hesse | Datacamp Limited
+193.124.16.251/32 # Germany | Hesse | Datacamp Limited
 193.160.216.68/32 # United States | California | Clouvider Limited
 193.160.216.101/32 # United States | California | Clouvider Limited
 193.160.216.108/32 # United States | California | Clouvider Limited
@@ -3241,7 +3247,6 @@
 196.251.86.145/32 # Netherlands | North Holland | internet security cheapy.host
 196.251.116.219/32 # Netherlands | North Holland | internet secuirty Nybula
 196.251.118.41/32 # Netherlands | North Holland | internet security Nybula
-197.10.180.51/32 # Tunisia | Tunis | STE INTERNET SMART SOLUTIONS
 197.17.122.127/32 # Tunisia | Ben Arous | OOREDOO TUNISIE SA
 197.91.94.221/32 # South Africa | Western Cape | Dimension Data
 197.186.63.27/32 # Tanzania | Mwanza Region | Airtel Tanzania
