@@ -18,6 +18,7 @@
 31.222.247.0/24 # United States | Wisconsin | Clouvider Limited
 40.27.116.0/24 # United States | New York | M Europe SRL
 40.27.117.0/24 # United States | New York | M Europe SRL
+40.27.118.0/24 # United States | New York | M Europe SRL
 40.27.119.0/24 # United States | New York | M Europe SRL
 45.3.32.0/24 # United States | Virginia | xk Tech GmbH
 45.3.34.0/24 # United States | Virginia | xk Tech GmbH
@@ -81,6 +82,7 @@
 142.252.133.0/24 # United States | California | HOST TELECOM LTD
 142.252.242.0/24 # United States | California | Clouvider Limited
 144.168.0.0/24 # United States | Delaware | M Europe SRL
+144.168.2.0/24 # United States | Delaware | M Europe SRL
 144.168.3.0/24 # United States | Delaware | M Europe SRL
 151.123.176.0/24 # France | Île-de-France | xk Tech GmbH
 153.80.13.0/24 # United States | Wisconsin | GREEN FLOID LLC
@@ -124,6 +126,7 @@
 191.101.127.0/24 # Germany | Hesse | Datacamp Limited
 193.32.248.0/24 # Germany | Berlin | 11 Services Ab
 193.32.249.0/24 # Netherlands | North Holland | 11 Services Ab
+193.56.28.0/24 # United States | Virginia | xk Tech GmbH
 193.124.16.0/24 # Germany | Hesse | Datacamp Limited
 193.138.218.0/24 # Sweden | Skåne County | 11 Services Ab
 193.228.131.0/24 # United States | New York | Clouvider Limited
@@ -505,10 +508,6 @@
 39.74.189.174/32 # China | Shandong | China Unicom China1 Backbone
 40.27.109.244/32 # United States | New York | M Europe SRL
 40.27.111.16/32 # United States | New York | M Europe SRL
-40.27.118.33/32 # United States | New York | M Europe SRL
-40.27.118.62/32 # United States | New York | M Europe SRL
-40.27.118.85/32 # United States | New York | M Europe SRL
-40.27.118.97/32 # United States | New York | M Europe SRL
 40.76.127.71/32 # United States | District of Columbia | Microsoft Corporation
 40.76.239.35/32 # United States | District of Columbia | Microsoft Corporation
 40.81.42.178/32 # United States | Illinois | Microsoft Corporation
@@ -1315,6 +1314,7 @@
 107.189.27.207/32 # Netherlands | North Holland | Routerhosting LLC
 108.54.90.54/32 # United States | New York | Verizon Business
 108.62.161.54/32 # United States | California | Leaseweb Usa, Inc.
+108.141.61.137/32 # Netherlands | North Holland | Microsoft Corporation
 108.181.56.75/32 # United States | Virginia | Psychz Networks
 109.94.216.50/32 # United States | California | Clouvider Limited
 109.94.216.74/32 # United States | California | Clouvider Limited
@@ -1359,6 +1359,7 @@
 112.209.72.173/32 # Philippines | Metro Manila | Philippine Long Distance Tele...
 112.211.115.246/32 # Philippines | Metro Manila | Philippine Long Distance Tele...
 113.138.81.126/32 # China | Shaanxi | No. 1,jin rong Street
+113.161.116.137/32 # Vietnam | Ho Chi Minh | Vnpt Corp
 113.192.48.85/32 # Indonesia | Central Java | Pt.global Media Data Prima
 113.210.189.178/32 # Malaysia | Johor | Maxis Broadband Sdn.Bhd
 114.10.42.9/32 # Indonesia | Unknown | Pt. Indosat Tbk
@@ -1875,8 +1876,6 @@
 144.168.1.236/32 # United States | Delaware | M Europe SRL
 144.168.1.240/32 # United States | Delaware | M Europe SRL
 144.168.1.255/32 # United States | Delaware | M Europe SRL
-144.168.2.225/32 # United States | Delaware | M Europe SRL
-144.168.2.241/32 # United States | Delaware | M Europe SRL
 144.172.93.31/32 # United States | Utah | Routerhosting LLC
 144.172.94.165/32 # United States | Utah | Routerhosting LLC
 144.172.99.68/32 # United States | Utah | Routerhosting LLC
@@ -2523,6 +2522,7 @@
 166.88.161.74/32 # United States | California | HOST TELECOM LTD
 166.88.168.58/32 # United States | California | HOST TELECOM LTD
 166.88.168.107/32 # United States | California | HOST TELECOM LTD
+166.88.168.250/32 # United States | California | HOST TELECOM LTD
 166.88.175.81/32 # United States | California | HOST TELECOM LTD
 166.88.175.153/32 # United States | California | HOST TELECOM LTD
 166.88.183.46/32 # United States | California | HOST TELECOM LTD
@@ -3158,10 +3158,6 @@
 193.47.32.214/32 # United States | California | Clouvider Limited
 193.53.169.73/32 # United Kingdom | England | Clouvider Limited
 193.53.169.243/32 # United Kingdom | England | Clouvider Limited
-193.56.28.15/32 # United States | Virginia | xk Tech GmbH
-193.56.28.175/32 # United States | Virginia | xk Tech GmbH
-193.56.28.211/32 # United States | Virginia | xk Tech GmbH
-193.56.28.230/32 # United States | Virginia | xk Tech GmbH
 193.58.176.190/32 # United States | North Dakota | Clouvider Limited
 193.58.176.194/32 # United States | North Dakota | Clouvider Limited
 193.58.176.227/32 # United States | North Dakota | Clouvider Limited
@@ -3271,6 +3267,7 @@
 202.70.139.48/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 202.70.139.187/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 202.141.33.217/32 # India | Tamil Nadu | Railtel Corporation of India Ltd.
+202.141.81.210/32 # India | Delhi | Railtel Corporation of India Ltd.
 202.154.191.11/32 # Indonesia | Riau Islands | PT SOLNET INDONESIA
 202.155.157.144/32 # Indonesia | Special Capital Region of Jakarta | Pt Deneva
 202.186.199.146/32 # Malaysia | Federal Territory of Kuala Lumpur | TT DOTCOM S...
