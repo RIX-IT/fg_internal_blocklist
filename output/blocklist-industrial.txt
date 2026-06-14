@@ -69,6 +69,7 @@
 107.158.128.0/24 # United States | Nevada | Eonix Corporation
 130.49.52.0/24 # United States | Florida | GREEN FLOID LLC
 130.49.72.0/24 # United States | Florida | GREEN FLOID LLC
+130.49.85.0/24 # United States | Washington | GREEN FLOID LLC
 135.106.85.0/24 # United States | Massachusetts | GREEN FLOID LLC
 135.136.19.0/24 # Germany | Hesse | M Europe SRL
 138.249.218.0/24 # United States | New York | Clouvider Limited
@@ -186,6 +187,7 @@
 5.226.140.85/32 # United Kingdom | England | Hydra Communications LTD
 5.252.188.222/32 # United States | Nevada | Clouvider Limited
 5.252.189.94/32 # United States | New York | Clouvider Limited
+5.252.189.191/32 # United States | New York | Clouvider Limited
 5.252.189.229/32 # United States | New York | Clouvider Limited
 5.252.190.59/32 # United States | New York | Clouvider Limited
 5.252.190.89/32 # United States | New York | Clouvider Limited
@@ -530,6 +532,7 @@
 37.221.66.27/32 # Republic of Moldova | Chisinau | AVA HOST SRL
 37.221.66.174/32 # Republic of Moldova | Chisinau | AVA HOST SRL
 38.100.105.30/32 # United States | Illinois | Cogent Communications, LLC
+38.100.222.160/32 # Pakistan | Punjab | Z COM NETWORKS
 38.100.223.54/32 # Pakistan | Punjab | Z COM NETWORKS
 38.180.107.76/32 # Singapore | Southeast | M Europe SRL
 38.180.245.207/32 # Germany | Hesse | Leaseweb Deutschland GmbH
@@ -851,6 +854,7 @@
 51.89.212.145/32 # United Kingdom | England | OVH SAS
 52.159.245.149/32 # United States | California | Microsoft Corporation
 52.161.178.108/32 # United States | Wyoming | Microsoft Corporation
+52.176.35.114/32 # United States | Iowa | Microsoft Corporation
 54.39.83.187/32 # Canada | Québec | OVH SAS
 54.46.50.255/32 # Hong Kong | Hong Kong | Amazon.com, Inc.
 54.197.141.245/32 # United States | Virginia | Amazon.com, Inc.
@@ -1153,6 +1157,7 @@
 95.181.238.28/32 # Bahamas | New Providence | M Europe SRL
 95.181.238.95/32 # Bahamas | New Providence | M Europe SRL
 95.182.96.103/32 # France | Île-de-France | CGI GLOBAL LIMITED
+95.214.55.226/32 # Poland | Masovian Voivodeship | Mevspace Sp. Z O.O.
 95.214.83.57/32 # United States | New York | Clouvider Limited
 95.214.83.86/32 # United States | New York | Clouvider Limited
 96.9.125.147/32 # Romania | Bucharest | Bl Networks
@@ -1448,6 +1453,7 @@
 130.49.35.65/32 # United States | Washington | GREEN FLOID LLC
 130.49.35.97/32 # United States | Washington | GREEN FLOID LLC
 130.49.35.172/32 # United States | Washington | GREEN FLOID LLC
+130.49.35.187/32 # United States | Washington | GREEN FLOID LLC
 130.49.42.242/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 130.49.44.66/32 # United States | Florida | GREEN FLOID LLC
 130.49.44.98/32 # United States | Florida | GREEN FLOID LLC
@@ -1458,10 +1464,6 @@
 130.49.61.238/32 # United States | Washington | GREEN FLOID LLC
 130.49.68.144/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 130.49.84.174/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
-130.49.85.117/32 # United States | Washington | GREEN FLOID LLC
-130.49.85.130/32 # United States | Washington | GREEN FLOID LLC
-130.49.85.157/32 # United States | Washington | GREEN FLOID LLC
-130.49.85.235/32 # United States | Washington | GREEN FLOID LLC
 130.49.92.157/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 130.49.94.68/32 # United States | Washington | GREEN FLOID LLC
 130.49.94.88/32 # United States | Washington | GREEN FLOID LLC
@@ -1510,6 +1512,7 @@
 135.106.107.212/32 # United States | Florida | GREEN FLOID LLC
 135.119.77.153/32 # United States | Iowa | Microsoft Corporation
 135.232.176.179/32 # United States | Illinois | Microsoft Corporation
+135.232.177.162/32 # United States | Illinois | Microsoft Corporation
 135.232.200.3/32 # United States | Illinois | Microsoft Corporation
 135.232.200.26/32 # United States | Illinois | Microsoft Corporation
 136.0.102.25/32 # United States | New York | HOST TELECOM LTD
@@ -1995,6 +1998,7 @@
 153.80.158.84/32 # United States | Washington | GREEN FLOID LLC
 153.80.158.179/32 # United States | Washington | GREEN FLOID LLC
 153.80.158.183/32 # United States | Washington | GREEN FLOID LLC
+153.80.158.243/32 # United States | Florida | GREEN FLOID LLC
 153.80.240.216/32 # Netherlands | Limburg | GLOBAL CONNECTIVITY SOLUTIONS LLP
 153.117.6.164/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 153.117.15.196/32 # Pakistan | Punjab | Cyber Internet Services private Limited
@@ -2580,6 +2584,7 @@
 167.172.38.55/32 # Netherlands | North Holland | Digitalocean, LLC
 167.172.122.153/32 # United States | California | Digitalocean, LLC
 167.172.148.92/32 # United States | New Jersey | Digitalocean, LLC
+167.233.91.12/32 # Germany | Bavaria | Hetzner Online GmbH
 168.90.90.50/32 # Brazil | Maranhão | MEGA TELE INFORMATICA
 168.231.121.209/32 # India | Maharashtra | Hostinger International Limited
 169.40.2.68/32 # Latvia | Vidzeme | SIA VEESP
@@ -3198,9 +3203,11 @@
 193.187.109.187/32 # United States | California | Datacamp Limited
 193.228.48.38/32 # United States | Nevada | Clouvider Limited
 193.228.48.50/32 # United States | Nevada | Clouvider Limited
+193.228.49.67/32 # United States | Nevada | Clouvider Limited
 193.228.49.194/32 # United States | Nevada | Clouvider Limited
 193.228.49.211/32 # United States | Nevada | Clouvider Limited
 193.228.50.31/32 # United States | Nevada | Clouvider Limited
+193.228.50.46/32 # United States | Nevada | Clouvider Limited
 193.228.50.73/32 # United States | Nevada | Clouvider Limited
 193.228.50.206/32 # United States | Nevada | Clouvider Limited
 193.228.51.107/32 # United States | Nevada | Clouvider Limited
