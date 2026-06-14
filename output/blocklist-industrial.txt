@@ -75,6 +75,7 @@
 138.249.222.0/24 # United States | New York | Clouvider Limited
 141.133.44.0/24 # United States | Arizona | Clouvider Limited
 141.133.46.0/24 # United States | Arizona | Clouvider Limited
+141.133.83.0/24 # United States | Ohio | Clouvider Limited
 141.133.123.0/24 # United States | Texas | Clouvider Limited
 141.133.125.0/24 # United States | Arizona | Clouvider Limited
 142.111.43.0/24 # United States | New York | HOST TELECOM LTD
@@ -92,6 +93,7 @@
 144.168.1.0/24 # United States | Delaware | M Europe SRL
 144.168.2.0/24 # United States | Delaware | M Europe SRL
 144.168.3.0/24 # United States | Delaware | M Europe SRL
+146.70.117.0/24 # Germany | Hesse | M Europe SRL
 151.123.176.0/24 # France | Île-de-France | xk Tech GmbH
 153.80.13.0/24 # United States | Wisconsin | GREEN FLOID LLC
 153.80.19.0/24 # United States | New Hampshire | GREEN FLOID LLC
@@ -1414,6 +1416,7 @@
 121.37.80.227/32 # China | Beijing | Huawei Cloud Service Data Center
 122.8.189.143/32 # Mexico | Mexico City | HUAWEI INTERNATIONAL PTE. LTD.
 122.96.31.184/32 # China | Jiangsu | China Unicom China1 Backbone
+122.96.31.194/32 # China | Jiangsu | China Unicom China1 Backbone
 122.103.233.210/32 # Japan | Tokyo | Arteria Networks Corporation
 122.154.50.218/32 # Thailand | Yala Province | Office of INFO.TECH. Admin. for...
 122.194.13.111/32 # China | Jiangsu | CNC Group CHINA1 Jiangsu Province Network
@@ -1507,6 +1510,7 @@
 135.106.107.212/32 # United States | Florida | GREEN FLOID LLC
 135.119.77.153/32 # United States | Iowa | Microsoft Corporation
 135.232.176.179/32 # United States | Illinois | Microsoft Corporation
+135.232.200.3/32 # United States | Illinois | Microsoft Corporation
 135.232.200.26/32 # United States | Illinois | Microsoft Corporation
 136.0.102.25/32 # United States | New York | HOST TELECOM LTD
 136.0.102.220/32 # United States | New York | HOST TELECOM LTD
@@ -1725,10 +1729,6 @@
 141.133.82.34/32 # United States | Ohio | Clouvider Limited
 141.133.82.51/32 # United States | Ohio | Clouvider Limited
 141.133.82.83/32 # United States | Ohio | Clouvider Limited
-141.133.83.24/32 # United States | Ohio | Clouvider Limited
-141.133.83.104/32 # United States | Ohio | Clouvider Limited
-141.133.83.167/32 # United States | Ohio | Clouvider Limited
-141.133.83.200/32 # United States | Ohio | Clouvider Limited
 141.133.84.40/32 # United States | New York | Clouvider Limited
 141.133.84.60/32 # United States | New York | Clouvider Limited
 141.133.84.82/32 # United States | New York | Clouvider Limited
@@ -1912,10 +1912,6 @@
 144.208.127.113/32 # United States | Georgia | Shock Hosting LLC
 144.208.127.143/32 # United States | New York | Shock Hosting LLC
 145.132.99.99/32 # United States | Virginia | Microsoft Corporation
-146.70.117.82/32 # Germany | Hesse | M Europe SRL
-146.70.117.93/32 # Germany | Hesse | M Europe SRL
-146.70.117.113/32 # Germany | North Rhine-Westphalia | M Europe SRL
-146.70.117.227/32 # Germany | North Rhine-Westphalia | M Europe SRL
 146.70.211.157/32 # United States | Texas | M Europe SRL
 146.70.232.165/32 # Poland | Kuyavian-Pomeranian Voivodeship | M Europe SRL
 146.103.51.69/32 # United States | New York | Datacamp Limited
@@ -1984,6 +1980,7 @@
 153.80.144.155/32 # United States | Oklahoma | GREEN FLOID LLC
 153.80.144.175/32 # United States | Oklahoma | GREEN FLOID LLC
 153.80.145.63/32 # United States | Oklahoma | GREEN FLOID LLC
+153.80.145.131/32 # United States | Oklahoma | GREEN FLOID LLC
 153.80.145.156/32 # United States | Oklahoma | GREEN FLOID LLC
 153.80.145.193/32 # United States | Oklahoma | GREEN FLOID LLC
 153.80.155.9/32 # United States | Massachusetts | GREEN FLOID LLC
@@ -2334,6 +2331,7 @@
 156.233.0.63/32 # United States | New York | Clouvider Limited
 156.233.0.143/32 # United States | New York | Clouvider Limited
 156.233.0.252/32 # United States | New York | Clouvider Limited
+156.233.1.15/32 # United States | New York | Clouvider Limited
 156.233.1.58/32 # United States | New York | Clouvider Limited
 156.233.1.173/32 # United States | New York | Clouvider Limited
 156.233.100.4/32 # United States | New York | Clouvider Limited
@@ -2661,6 +2659,7 @@
 172.120.50.161/32 # United States | Nevada | Clouvider Limited
 172.120.53.5/32 # United States | New York | Clouvider Limited
 172.120.53.37/32 # United States | New York | Clouvider Limited
+172.120.53.105/32 # United States | Nevada | Clouvider Limited
 172.120.53.237/32 # United States | New York | Clouvider Limited
 172.120.57.59/32 # United States | California | HOST TELECOM LTD
 172.120.57.160/32 # United States | California | HOST TELECOM LTD
