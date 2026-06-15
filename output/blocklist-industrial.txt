@@ -19,6 +19,7 @@
 40.27.118.0/24 # United States | New York | M Europe SRL
 40.27.119.0/24 # United States | New York | M Europe SRL
 45.3.32.0/24 # United States | Virginia | xk Tech GmbH
+45.3.33.0/24 # United States | Virginia | xk Tech GmbH
 45.3.34.0/24 # United States | Virginia | xk Tech GmbH
 45.3.44.0/24 # Spain | Madrid | xk Tech GmbH
 45.3.47.0/24 # France | Île-de-France | xk Tech GmbH
@@ -143,6 +144,7 @@
 194.36.25.0/24 # Germany | Hesse | Owl Limited
 194.76.227.0/24 # Estonia | Harju maakond | Servinga GmbH
 194.104.143.0/24 # United States | Connecticut | Clouvider Limited
+195.69.161.0/24 # United States | Arizona | Clouvider Limited
 213.166.94.0/24 # United States | New York | Shock Hosting LLC
 213.209.130.0/24 # Germany | Bavaria | Datacamp Limited
 217.181.92.0/24 # Germany | Berlin | xk Tech GmbH
@@ -253,6 +255,7 @@
 23.230.77.237/32 # United States | New York | HOST TELECOM LTD
 23.230.192.29/32 # United States | New York | HOST TELECOM LTD
 23.230.192.86/32 # United States | New York | HOST TELECOM LTD
+23.230.241.34/32 # United States | New York | HOST TELECOM LTD
 23.230.241.81/32 # United States | New York | HOST TELECOM LTD
 23.234.78.114/32 # United States | North Carolina | Tzulo, Inc.
 23.234.82.188/32 # United States | Washington | Tzulo, Inc.
@@ -271,6 +274,7 @@
 23.254.166.219/32 # United States | Washington | Hostwinds Llc.
 27.43.204.44/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.206.123/32 # China | Guangdong Province | China Unicom Guangdong Provin...
+27.43.207.224/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.207.213.78/32 # China | Shandong | China Unicom China1 Backbone
 27.216.16.63/32 # China | Shandong | China Unicom China1 Backbone
 31.57.129.23/32 # Romania | Bucharest | FIVE CYBER HOST SECURITY S.R.L.
@@ -559,6 +563,7 @@
 38.246.250.201/32 # Hong Kong | Hong Kong | Netlab Global
 39.65.192.75/32 # China | Shandong | China Unicom China1 Backbone
 39.74.189.174/32 # China | Shandong | China Unicom China1 Backbone
+39.74.228.46/32 # China | Shandong | China Unicom China1 Backbone
 40.27.109.244/32 # United States | New York | M Europe SRL
 40.27.111.16/32 # United States | New York | M Europe SRL
 40.76.127.71/32 # United States | District of Columbia | Microsoft Corporation
@@ -575,10 +580,6 @@
 43.246.217.160/32 # Taiwan | Keelung City | Magna Hosting LTD
 43.255.173.212/32 # Malaysia | Perak | Maxis Broadband Sdn Bhd
 44.252.85.168/32 # United States | California | Amazon.com, Inc.
-45.3.33.6/32 # United States | Virginia | xk Tech GmbH
-45.3.33.68/32 # United States | Virginia | xk Tech GmbH
-45.3.33.163/32 # United States | Virginia | xk Tech GmbH
-45.3.33.200/32 # United States | Virginia | xk Tech GmbH
 45.3.35.24/32 # United States | Virginia | xk Tech GmbH
 45.3.35.164/32 # United States | Virginia | xk Tech GmbH
 45.3.35.210/32 # United States | Virginia | xk Tech GmbH
@@ -596,9 +597,12 @@
 45.3.39.41/32 # United States | Virginia | xk Tech GmbH
 45.3.39.81/32 # United States | Virginia | xk Tech GmbH
 45.3.39.137/32 # United States | Virginia | xk Tech GmbH
+45.3.40.90/32 # Brazil | State of São Paulo | xk Tech GmbH
 45.3.41.76/32 # Brazil | State of São Paulo | xk Tech GmbH
 45.3.41.242/32 # Brazil | State of São Paulo | xk Tech GmbH
+45.3.42.114/32 # United Kingdom | England | xk Tech GmbH
 45.3.42.241/32 # United Kingdom | England | xk Tech GmbH
+45.3.43.59/32 # Germany | Berlin | xk Tech GmbH
 45.3.43.108/32 # Germany | Berlin | xk Tech GmbH
 45.3.45.18/32 # Italy | Lazio | xk Tech GmbH
 45.3.45.21/32 # Italy | Lazio | xk Tech GmbH
@@ -614,6 +618,7 @@
 45.3.53.17/32 # Brazil | State of São Paulo | xk Tech GmbH
 45.3.54.58/32 # United Kingdom | England | xk Tech GmbH
 45.3.54.220/32 # United Kingdom | England | xk Tech GmbH
+45.3.54.222/32 # United Kingdom | England | xk Tech GmbH
 45.3.55.9/32 # Germany | Berlin | xk Tech GmbH
 45.3.55.39/32 # Germany | Berlin | xk Tech GmbH
 45.3.55.164/32 # Germany | Berlin | xk Tech GmbH
@@ -788,6 +793,7 @@
 45.192.35.170/32 # United States | New York | Clouvider Limited
 45.192.35.210/32 # United States | New York | Clouvider Limited
 45.192.35.217/32 # United States | New York | Clouvider Limited
+45.192.36.29/32 # United States | New York | Clouvider Limited
 45.192.36.160/32 # United States | New York | Clouvider Limited
 45.192.36.183/32 # United States | New York | Clouvider Limited
 45.192.36.221/32 # United States | New York | Clouvider Limited
@@ -920,12 +926,14 @@
 65.111.0.61/32 # United States | Virginia | xk Tech GmbH
 65.111.0.113/32 # United States | Virginia | xk Tech GmbH
 65.111.0.126/32 # United States | Virginia | xk Tech GmbH
+65.111.2.92/32 # United States | Virginia | xk Tech GmbH
 65.111.2.103/32 # United States | Virginia | xk Tech GmbH
 65.111.2.236/32 # United States | Virginia | xk Tech GmbH
 65.111.2.243/32 # United States | Virginia | xk Tech GmbH
 65.111.5.110/32 # United States | Virginia | xk Tech GmbH
 65.111.5.251/32 # United States | Virginia | xk Tech GmbH
 65.111.10.64/32 # United States | Virginia | xk Tech GmbH
+65.111.10.65/32 # United States | Virginia | xk Tech GmbH
 65.111.10.204/32 # United States | Virginia | xk Tech GmbH
 65.111.11.68/32 # United States | Virginia | xk Tech GmbH
 65.111.12.9/32 # United States | Virginia | xk Tech GmbH
@@ -946,6 +954,7 @@
 65.111.26.54/32 # Spain | Madrid | xk Tech GmbH
 65.111.26.202/32 # Spain | Madrid | xk Tech GmbH
 65.111.28.213/32 # Italy | Lazio | xk Tech GmbH
+65.111.28.228/32 # Italy | Lazio | xk Tech GmbH
 65.111.28.247/32 # Italy | Lazio | xk Tech GmbH
 65.111.29.48/32 # France | Île-de-France | xk Tech GmbH
 65.111.29.86/32 # France | Île-de-France | xk Tech GmbH
@@ -1292,6 +1301,7 @@
 104.207.33.234/32 # United States | Virginia | xk Tech GmbH
 104.207.36.223/32 # United States | Virginia | xk Tech GmbH
 104.207.36.227/32 # United States | Virginia | xk Tech GmbH
+104.207.36.253/32 # United States | Virginia | xk Tech GmbH
 104.207.37.9/32 # United States | Virginia | xk Tech GmbH
 104.207.37.162/32 # United States | Virginia | xk Tech GmbH
 104.207.38.4/32 # United States | Virginia | xk Tech GmbH
@@ -1307,10 +1317,12 @@
 104.207.42.213/32 # United States | Virginia | xk Tech GmbH
 104.207.43.102/32 # United States | Virginia | xk Tech GmbH
 104.207.43.149/32 # United States | Virginia | xk Tech GmbH
+104.207.43.218/32 # United States | Virginia | xk Tech GmbH
 104.207.44.85/32 # United States | Virginia | xk Tech GmbH
 104.207.44.109/32 # United States | Virginia | xk Tech GmbH
 104.207.44.148/32 # United States | Virginia | xk Tech GmbH
 104.207.45.68/32 # United States | Virginia | xk Tech GmbH
+104.207.45.81/32 # United States | Virginia | xk Tech GmbH
 104.207.45.157/32 # United States | Virginia | xk Tech GmbH
 104.207.45.240/32 # United States | Virginia | xk Tech GmbH
 104.207.46.4/32 # United States | Virginia | xk Tech GmbH
@@ -1730,8 +1742,10 @@
 141.133.48.227/32 # United States | New York | Clouvider Limited
 141.133.50.46/32 # United States | Texas | Clouvider Limited
 141.133.50.56/32 # United States | Texas | Clouvider Limited
+141.133.50.164/32 # United States | Texas | Clouvider Limited
 141.133.51.45/32 # United States | Texas | Clouvider Limited
 141.133.51.95/32 # United States | Texas | Clouvider Limited
+141.133.51.158/32 # United States | Texas | Clouvider Limited
 141.133.51.170/32 # United States | Texas | Clouvider Limited
 141.133.53.52/32 # United States | California | Clouvider Limited
 141.133.53.53/32 # United States | California | Clouvider Limited
@@ -2001,6 +2015,7 @@
 153.80.140.79/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 153.80.142.29/32 # United States | North Carolina | GREEN FLOID LLC
 153.80.142.87/32 # United States | North Carolina | GREEN FLOID LLC
+153.80.142.119/32 # United States | North Carolina | GREEN FLOID LLC
 153.80.143.14/32 # United States | North Carolina | GREEN FLOID LLC
 153.80.143.33/32 # United States | North Carolina | GREEN FLOID LLC
 153.80.143.71/32 # United States | North Carolina | GREEN FLOID LLC
@@ -2332,8 +2347,10 @@
 155.212.92.217/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 155.212.94.6/32 # United States | Washington | GREEN FLOID LLC
 155.212.94.106/32 # United States | Washington | GREEN FLOID LLC
+155.212.94.184/32 # United States | Washington | GREEN FLOID LLC
 155.212.101.242/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 155.212.102.54/32 # United States | Washington | GREEN FLOID LLC
+155.212.102.70/32 # United States | Florida | GREEN FLOID LLC
 155.212.102.200/32 # United States | Washington | GREEN FLOID LLC
 155.212.114.74/32 # United States | Washington | GREEN FLOID LLC
 155.212.114.96/32 # United States | Florida | GREEN FLOID LLC
@@ -2543,6 +2560,7 @@
 166.1.245.98/32 # United States | New York | Clouvider Limited
 166.1.245.191/32 # United States | New York | Clouvider Limited
 166.1.245.202/32 # United States | New York | Clouvider Limited
+166.1.245.234/32 # United States | Massachusetts | Clouvider Limited
 166.1.250.96/32 # United States | New York | Clouvider Limited
 166.1.250.135/32 # United States | New York | Clouvider Limited
 166.1.250.201/32 # United States | New York | Clouvider Limited
@@ -2930,6 +2948,7 @@
 176.100.131.47/32 # United States | New York | Clouvider Limited
 176.100.131.140/32 # United States | New York | Clouvider Limited
 176.100.131.151/32 # United States | New York | Clouvider Limited
+176.100.131.170/32 # United States | New York | Clouvider Limited
 176.100.145.8/32 # United States | New York | GREEN FLOID LLC
 176.100.145.65/32 # United States | New York | GREEN FLOID LLC
 176.100.145.116/32 # United States | New York | GREEN FLOID LLC
@@ -3115,6 +3134,7 @@
 186.65.70.106/32 # Argentina | Chubut Province | Sociedad Cooperativa Popular...
 186.209.203.198/32 # Brazil | Santa Catarina | UNIFIQUE TELECOMUNICACOES S A
 186.243.128.35/32 # United States | District of Columbia | Clouvider Limited
+186.243.128.109/32 # United States | New York | Clouvider Limited
 186.243.141.30/32 # United States | Kentucky | Clouvider Limited
 186.243.142.21/32 # United States | District of Columbia | Clouvider Limited
 186.243.142.51/32 # United States | District of Columbia | Clouvider Limited
@@ -3164,6 +3184,7 @@
 186.243.255.51/32 # United States | District of Columbia | Clouvider Limited
 186.246.56.22/32 # United States | District of Columbia | Clouvider Limited
 186.246.56.81/32 # United States | District of Columbia | Clouvider Limited
+186.246.56.89/32 # United States | District of Columbia | Clouvider Limited
 186.246.57.12/32 # United States | District of Columbia | Clouvider Limited
 186.246.57.35/32 # United States | Illinois | Clouvider Limited
 186.246.57.46/32 # United States | District of Columbia | Clouvider Limited
@@ -3275,6 +3296,7 @@
 193.228.50.31/32 # United States | Nevada | Clouvider Limited
 193.228.50.46/32 # United States | Nevada | Clouvider Limited
 193.228.50.206/32 # United States | Nevada | Clouvider Limited
+193.228.51.54/32 # United States | Nevada | Clouvider Limited
 193.228.51.107/32 # United States | Nevada | Clouvider Limited
 193.228.51.128/32 # United States | Nevada | Clouvider Limited
 193.228.51.182/32 # United States | Nevada | Clouvider Limited
@@ -3314,10 +3336,6 @@
 195.63.31.230/32 # Germany | Berlin | xk Tech GmbH
 195.64.111.248/32 # United Kingdom | Wales | Clouvider Limited
 195.66.214.79/32 # Ukraine | Kyiv city | Virtual Systems LLC
-195.69.161.77/32 # United States | New York | Clouvider Limited
-195.69.161.101/32 # United States | New York | Clouvider Limited
-195.69.161.205/32 # United States | New York | Clouvider Limited
-195.69.161.235/32 # United States | New York | Clouvider Limited
 195.69.162.63/32 # United States | New York | Clouvider Limited
 195.69.162.69/32 # United States | New York | Clouvider Limited
 195.69.162.79/32 # United States | New York | Clouvider Limited
