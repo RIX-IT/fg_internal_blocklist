@@ -55,6 +55,7 @@
 94.143.230.0/24 # United States | New York | Clouvider Limited
 103.81.230.0/24 # United States | Virginia | Hostroyale Technologies Pvt LTD
 103.81.231.0/24 # United States | Virginia | Hostroyale Technologies Pvt LTD
+104.207.34.0/24 # United States | Virginia | xk Tech GmbH
 104.207.35.0/24 # United States | Virginia | xk Tech GmbH
 104.207.39.0/24 # United States | Virginia | xk Tech GmbH
 104.207.50.0/24 # United Kingdom | England | xk Tech GmbH
@@ -67,6 +68,7 @@
 130.49.25.0/24 # United States | Washington | GREEN FLOID LLC
 130.49.85.0/24 # United States | Washington | GREEN FLOID LLC
 130.49.94.0/24 # United States | Florida | GREEN FLOID LLC
+130.49.102.0/24 # United States | Washington | GREEN FLOID LLC
 135.106.85.0/24 # United States | Massachusetts | GREEN FLOID LLC
 135.136.19.0/24 # Germany | Hesse | M Europe SRL
 141.133.10.0/24 # United States | California | Clouvider Limited
@@ -105,6 +107,7 @@
 169.150.201.0/24 # Germany | Hesse | Datacamp Limited
 170.62.100.0/24 # Sweden | Skåne County | Datacamp Limited
 170.130.55.0/24 # United States | Nevada | Eonix Corporation
+172.120.57.0/24 # United States | California | IT HOSTLINE LTD
 172.120.71.0/24 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.83.0/24 # United States | District of Columbia | HOST TELECOM LTD
 172.120.118.0/24 # United States | Washington | HOST TELECOM LTD
@@ -275,6 +278,7 @@
 31.220.109.219/32 # United States | Arizona | Hostinger International Limited
 31.222.242.59/32 # United States | Florida | GREEN FLOID LLC
 31.222.242.125/32 # United States | Florida | GREEN FLOID LLC
+31.222.242.128/32 # United States | New Hampshire | GREEN FLOID LLC
 31.222.242.230/32 # United States | Florida | GREEN FLOID LLC
 31.222.246.243/32 # United Kingdom | England | Clouvider Limited
 31.222.247.23/32 # United States | Wisconsin | Clouvider Limited
@@ -411,6 +415,7 @@
 34.79.51.36/32 # Belgium | Brussels-Capital | Google LLC
 34.79.84.22/32 # Belgium | Brussels-Capital | Google LLC
 34.79.96.216/32 # Belgium | Brussels-Capital | Google LLC
+34.79.105.50/32 # Belgium | Brussels-Capital | Google LLC
 34.79.154.179/32 # Belgium | Brussels-Capital | Google LLC
 34.79.203.198/32 # Belgium | Brussels-Capital | Google LLC
 34.80.244.96/32 # Taiwan | Keelung City | Google LLC
@@ -518,17 +523,20 @@
 35.240.25.178/32 # Belgium | Brussels-Capital | Google LLC
 35.240.35.143/32 # Belgium | Brussels-Capital | Google LLC
 35.240.66.94/32 # Belgium | Brussels-Capital | Google LLC
+35.240.83.122/32 # Belgium | Brussels-Capital | Google LLC
 35.240.107.71/32 # Belgium | Brussels-Capital | Google LLC
 35.241.107.127/32 # Hong Kong | Hong Kong | Google LLC
 35.241.159.58/32 # Belgium | Brussels-Capital | Google LLC
 35.241.164.185/32 # Belgium | Brussels-Capital | Google LLC
 35.241.173.189/32 # Belgium | Brussels-Capital | Google LLC
+35.241.187.223/32 # Belgium | Brussels-Capital | Google LLC
 35.241.198.50/32 # Belgium | Brussels-Capital | Google LLC
 35.241.200.61/32 # Belgium | Brussels-Capital | Google LLC
 35.247.133.43/32 # Singapore | Southeast | Google LLC
 36.69.63.238/32 # Indonesia | South Sumatra | Telekomunikasi Indonesia pt
 36.80.182.235/32 # Indonesia | East Kalimantan | Telekomunikasi Indonesia pt
 36.137.121.41/32 # China | Beijing | China Mobile
+36.150.185.83/32 # China | Beijing | China Mobile Communications Corporation
 36.255.33.217/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 37.19.200.149/32 # United States | Texas | Datacamp Limited
 37.19.221.138/32 # United States | Texas | Datacamp Limited
@@ -732,6 +740,7 @@
 45.146.26.210/32 # United States | Rhode Island | Clouvider Limited
 45.147.245.9/32 # United States | California | Clouvider Limited
 45.147.245.124/32 # United States | California | Clouvider Limited
+45.147.247.17/32 # United States | California | Clouvider Limited
 45.147.247.96/32 # United States | California | Clouvider Limited
 45.147.247.102/32 # United States | California | Clouvider Limited
 45.147.247.166/32 # United States | California | Clouvider Limited
@@ -1193,6 +1202,7 @@
 102.135.95.102/32 # Seychelles | Mahe | M Europe SRL
 102.209.18.34/32 # Kenya | Kiambu | VENNET SOLUTIONS LIMITED
 102.210.104.139/32 # Kenya | Uasin Gishu | MATRUCHHAYA CABLE NETWORK LIMITED
+103.26.86.40/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 103.27.110.232/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.69.85.47/32 # Vietnam | Ho Chi Minh | Anzix Joint Stock Company
 103.70.167.3/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
@@ -1231,6 +1241,7 @@
 103.166.90.41/32 # Indonesia | Jawa Barat | Pt Regynet Data Solusindo
 103.166.234.71/32 # Indonesia | Central Java | KitaNet
 103.173.7.169/32 # Pakistan | Punjab | Nasstec Airnet Networks Private Limited
+103.173.7.252/32 # Pakistan | Punjab | Nasstec Airnet Networks Private Limited
 103.173.139.230/32 # Indonesia | Central Java | Pt Serayu Multi Connection
 103.176.16.12/32 # India | Delhi | Qwistel Network Service Private Limited
 103.181.134.138/32 # Hong Kong | Hong Kong | GNET INC.
@@ -1279,10 +1290,6 @@
 104.207.33.59/32 # United States | Virginia | xk Tech GmbH
 104.207.33.97/32 # United States | Virginia | xk Tech GmbH
 104.207.33.234/32 # United States | Virginia | xk Tech GmbH
-104.207.34.23/32 # United States | Virginia | xk Tech GmbH
-104.207.34.25/32 # United States | Virginia | xk Tech GmbH
-104.207.34.132/32 # United States | Virginia | xk Tech GmbH
-104.207.34.156/32 # United States | Virginia | xk Tech GmbH
 104.207.36.223/32 # United States | Virginia | xk Tech GmbH
 104.207.36.227/32 # United States | Virginia | xk Tech GmbH
 104.207.37.9/32 # United States | Virginia | xk Tech GmbH
@@ -1311,6 +1318,7 @@
 104.207.46.96/32 # United States | Virginia | xk Tech GmbH
 104.207.46.101/32 # United States | Virginia | xk Tech GmbH
 104.207.47.77/32 # United States | Virginia | xk Tech GmbH
+104.207.47.115/32 # United States | Virginia | xk Tech GmbH
 104.207.47.222/32 # United States | Virginia | xk Tech GmbH
 104.207.47.237/32 # United States | Virginia | xk Tech GmbH
 104.207.48.41/32 # Brazil | State of São Paulo | xk Tech GmbH
@@ -1322,6 +1330,7 @@
 104.207.51.107/32 # United Kingdom | England | xk Tech GmbH
 104.207.51.226/32 # United Kingdom | England | xk Tech GmbH
 104.207.52.99/32 # United Kingdom | England | xk Tech GmbH
+104.207.52.111/32 # United Kingdom | England | xk Tech GmbH
 104.207.52.141/32 # United Kingdom | England | xk Tech GmbH
 104.207.52.254/32 # United Kingdom | England | xk Tech GmbH
 104.207.54.11/32 # Germany | Berlin | xk Tech GmbH
@@ -1493,10 +1502,6 @@
 130.49.72.184/32 # United States | Florida | GREEN FLOID LLC
 130.49.84.174/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 130.49.92.157/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
-130.49.102.4/32 # United States | Washington | GREEN FLOID LLC
-130.49.102.144/32 # United States | Washington | GREEN FLOID LLC
-130.49.102.150/32 # United States | Washington | GREEN FLOID LLC
-130.49.102.215/32 # United States | Washington | GREEN FLOID LLC
 130.49.110.44/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 130.49.110.65/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 130.49.117.51/32 # United States | Washington | GREEN FLOID LLC
@@ -1845,6 +1850,7 @@
 142.252.81.91/32 # United States | California | Clouvider Limited
 142.252.81.219/32 # United States | California | Clouvider Limited
 142.252.82.6/32 # United States | California | Clouvider Limited
+142.252.82.50/32 # United States | California | Clouvider Limited
 142.252.82.208/32 # United States | California | Clouvider Limited
 142.252.84.125/32 # United States | California | Clouvider Limited
 142.252.84.165/32 # United States | California | Clouvider Limited
@@ -2713,10 +2719,6 @@
 172.120.53.37/32 # United States | New York | Clouvider Limited
 172.120.53.105/32 # United States | Nevada | Clouvider Limited
 172.120.53.237/32 # United States | New York | Clouvider Limited
-172.120.57.59/32 # United States | California | HOST TELECOM LTD
-172.120.57.160/32 # United States | California | HOST TELECOM LTD
-172.120.57.227/32 # United States | California | HOST TELECOM LTD
-172.120.57.232/32 # United States | California | HOST TELECOM LTD
 172.120.60.28/32 # United States | California | HOST TELECOM LTD
 172.120.60.198/32 # United States | California | HOST TELECOM LTD
 172.120.61.117/32 # United States | California | HOST TELECOM LTD
@@ -2911,6 +2913,7 @@
 175.107.3.195/32 # Pakistan | Punjab | National Telecommunication Corporation
 175.107.205.51/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 175.107.212.117/32 # Pakistan | Sindh | Cyber Internet Services private Limited
+175.107.217.21/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 175.107.224.148/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 175.107.228.128/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 175.107.233.107/32 # Pakistan | Punjab | Cyber Internet Services private Limited
@@ -3382,6 +3385,7 @@
 207.175.68.243/32 # United States | California | Google LLC
 207.175.82.239/32 # United States | California | Google LLC
 207.175.92.183/32 # United States | California | Google LLC
+207.175.99.90/32 # Belgium | Brussels-Capital | Google LLC
 207.180.29.33/32 # United States | Delaware | IPXO LLC
 209.17.118.17/32 # Singapore | Southeast | LEASEWEB SINGAPORE PTE. LTD.
 209.38.39.144/32 # Netherlands | North Holland | Digitalocean, LLC
