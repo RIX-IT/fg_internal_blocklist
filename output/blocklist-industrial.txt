@@ -21,6 +21,7 @@
 45.3.32.0/24 # United States | Virginia | xk Tech GmbH
 45.3.33.0/24 # United States | Virginia | xk Tech GmbH
 45.3.34.0/24 # United States | Virginia | xk Tech GmbH
+45.3.37.0/24 # United States | Virginia | xk Tech GmbH
 45.3.44.0/24 # Spain | Madrid | xk Tech GmbH
 45.3.47.0/24 # France | Île-de-France | xk Tech GmbH
 45.3.49.0/24 # United States | Virginia | xk Tech GmbH
@@ -60,6 +61,7 @@
 104.207.35.0/24 # United States | Virginia | xk Tech GmbH
 104.207.39.0/24 # United States | Virginia | xk Tech GmbH
 104.207.50.0/24 # United Kingdom | England | xk Tech GmbH
+104.207.52.0/24 # United Kingdom | England | xk Tech GmbH
 104.207.53.0/24 # United Kingdom | England | xk Tech GmbH
 104.207.56.0/24 # Germany | Berlin | xk Tech GmbH
 104.207.57.0/24 # Germany | Berlin | xk Tech GmbH
@@ -155,6 +157,7 @@
 2.26.252.153/32 # United States | Utah | Kyonix Networks Limited
 2.27.4.125/32 # Germany | Hesse | Kyonix Networks Limited
 2.27.54.133/32 # Netherlands | North Holland | Dpkgsoft International Limited
+2.56.139.169/32 # United States | California | Shock Hosting LLC
 2.56.139.201/32 # United States | California | Shock Hosting LLC
 2.56.139.244/32 # United States | California | Shock Hosting LLC
 2.56.179.16/32 # United Kingdom | England | Worktitans B.V.
@@ -200,6 +203,7 @@
 8.210.246.133/32 # Hong Kong | Hong Kong | Alibaba us Technology Co., Ltd.
 8.217.38.238/32 # Hong Kong | Hong Kong | Alibaba us Technology Co., Ltd.
 8.228.20.126/32 # United States | Nevada | Google LLC
+8.230.25.12/32 # Republic of Korea | Unknown | Google LLC
 13.55.151.90/32 # Australia | New South Wales | Amazon.com, Inc.
 13.83.166.249/32 # United States | California | Microsoft Corporation
 13.140.140.94/32 # Germany | Hesse | Contabo GmbH
@@ -586,10 +590,6 @@
 45.3.35.223/32 # United States | Virginia | xk Tech GmbH
 45.3.36.145/32 # United States | Virginia | xk Tech GmbH
 45.3.36.172/32 # United States | Virginia | xk Tech GmbH
-45.3.37.38/32 # United States | Virginia | xk Tech GmbH
-45.3.37.152/32 # United States | Virginia | xk Tech GmbH
-45.3.37.194/32 # United States | Virginia | xk Tech GmbH
-45.3.37.210/32 # United States | Virginia | xk Tech GmbH
 45.3.38.59/32 # United States | Virginia | xk Tech GmbH
 45.3.38.102/32 # United States | Virginia | xk Tech GmbH
 45.3.38.118/32 # United States | Virginia | xk Tech GmbH
@@ -597,6 +597,7 @@
 45.3.39.41/32 # United States | Virginia | xk Tech GmbH
 45.3.39.81/32 # United States | Virginia | xk Tech GmbH
 45.3.39.137/32 # United States | Virginia | xk Tech GmbH
+45.3.39.248/32 # United States | Virginia | xk Tech GmbH
 45.3.40.90/32 # Brazil | State of São Paulo | xk Tech GmbH
 45.3.41.76/32 # Brazil | State of São Paulo | xk Tech GmbH
 45.3.41.242/32 # Brazil | State of São Paulo | xk Tech GmbH
@@ -606,7 +607,9 @@
 45.3.43.108/32 # Germany | Berlin | xk Tech GmbH
 45.3.45.18/32 # Italy | Lazio | xk Tech GmbH
 45.3.45.21/32 # Italy | Lazio | xk Tech GmbH
+45.3.45.228/32 # Italy | Lazio | xk Tech GmbH
 45.3.46.55/32 # Canada | Ontario | xk Tech GmbH
+45.3.46.128/32 # Canada | Ontario | xk Tech GmbH
 45.3.46.252/32 # Canada | Ontario | xk Tech GmbH
 45.3.48.29/32 # United States | Virginia | xk Tech GmbH
 45.3.48.62/32 # United States | Virginia | xk Tech GmbH
@@ -617,6 +620,7 @@
 45.3.52.118/32 # Brazil | State of São Paulo | xk Tech GmbH
 45.3.53.17/32 # Brazil | State of São Paulo | xk Tech GmbH
 45.3.54.58/32 # United Kingdom | England | xk Tech GmbH
+45.3.54.151/32 # United Kingdom | England | xk Tech GmbH
 45.3.54.220/32 # United Kingdom | England | xk Tech GmbH
 45.3.54.222/32 # United Kingdom | England | xk Tech GmbH
 45.3.55.9/32 # Germany | Berlin | xk Tech GmbH
@@ -677,6 +681,7 @@
 45.88.102.116/32 # United States | New York | Clouvider Limited
 45.88.103.5/32 # United States | New York | Clouvider Limited
 45.88.103.94/32 # United States | New York | Clouvider Limited
+45.88.103.115/32 # United States | New York | Clouvider Limited
 45.88.103.175/32 # United States | New York | Clouvider Limited
 45.93.61.36/32 # Germany | Berlin | Clouvider Limited
 45.93.61.149/32 # Germany | Berlin | Clouvider Limited
@@ -941,6 +946,7 @@
 65.111.12.216/32 # United States | Virginia | xk Tech GmbH
 65.111.13.6/32 # United States | Virginia | xk Tech GmbH
 65.111.13.78/32 # United States | Virginia | xk Tech GmbH
+65.111.13.254/32 # United States | Virginia | xk Tech GmbH
 65.111.15.23/32 # United States | Virginia | xk Tech GmbH
 65.111.15.167/32 # United States | Virginia | xk Tech GmbH
 65.111.15.237/32 # United States | Virginia | xk Tech GmbH
@@ -1315,6 +1321,7 @@
 104.207.41.121/32 # United States | Virginia | xk Tech GmbH
 104.207.41.171/32 # United States | Virginia | xk Tech GmbH
 104.207.42.213/32 # United States | Virginia | xk Tech GmbH
+104.207.42.216/32 # United States | Virginia | xk Tech GmbH
 104.207.43.102/32 # United States | Virginia | xk Tech GmbH
 104.207.43.149/32 # United States | Virginia | xk Tech GmbH
 104.207.43.218/32 # United States | Virginia | xk Tech GmbH
@@ -1335,16 +1342,13 @@
 104.207.47.237/32 # United States | Virginia | xk Tech GmbH
 104.207.48.41/32 # Brazil | State of São Paulo | xk Tech GmbH
 104.207.49.22/32 # Brazil | State of São Paulo | xk Tech GmbH
+104.207.49.104/32 # Brazil | State of São Paulo | xk Tech GmbH
 104.207.49.122/32 # Brazil | State of São Paulo | xk Tech GmbH
 104.207.49.135/32 # Brazil | State of São Paulo | xk Tech GmbH
 104.207.51.16/32 # United Kingdom | England | xk Tech GmbH
 104.207.51.18/32 # United Kingdom | England | xk Tech GmbH
 104.207.51.107/32 # United Kingdom | England | xk Tech GmbH
 104.207.51.226/32 # United Kingdom | England | xk Tech GmbH
-104.207.52.99/32 # United Kingdom | England | xk Tech GmbH
-104.207.52.111/32 # United Kingdom | England | xk Tech GmbH
-104.207.52.141/32 # United Kingdom | England | xk Tech GmbH
-104.207.52.254/32 # United Kingdom | England | xk Tech GmbH
 104.207.54.11/32 # Germany | Berlin | xk Tech GmbH
 104.207.54.119/32 # Germany | Berlin | xk Tech GmbH
 104.207.55.46/32 # Germany | Berlin | xk Tech GmbH
@@ -1354,6 +1358,7 @@
 104.207.58.221/32 # Thailand | Bangkok | xk Tech GmbH
 104.207.59.155/32 # Canada | Ontario | xk Tech GmbH
 104.207.61.67/32 # Canada | Ontario | xk Tech GmbH
+104.207.61.236/32 # Canada | Ontario | xk Tech GmbH
 104.207.61.251/32 # Canada | Ontario | xk Tech GmbH
 104.207.63.35/32 # France | Île-de-France | xk Tech GmbH
 104.207.63.83/32 # France | Île-de-France | xk Tech GmbH
@@ -1717,6 +1722,7 @@
 141.133.6.3/32 # United States | Arizona | Clouvider Limited
 141.133.6.20/32 # United States | Arizona | Clouvider Limited
 141.133.6.111/32 # United States | Arizona | Clouvider Limited
+141.133.6.206/32 # United States | Arizona | Clouvider Limited
 141.133.7.61/32 # United States | California | Clouvider Limited
 141.133.7.97/32 # United States | California | Clouvider Limited
 141.133.7.109/32 # United States | California | Clouvider Limited
@@ -1979,6 +1985,7 @@
 151.123.178.220/32 # France | Île-de-France | xk Tech GmbH
 151.123.178.223/32 # France | Île-de-France | xk Tech GmbH
 151.123.178.230/32 # France | Île-de-France | xk Tech GmbH
+151.241.122.63/32 # United States | New Jersey | Cogent Communications, LLC
 151.247.22.25/32 # United States | New Jersey | CANADA INC.
 151.247.122.186/32 # United States | California | Datacamp Limited
 151.247.123.163/32 # United States | California | Datacamp Limited
@@ -2002,6 +2009,7 @@
 153.80.84.23/32 # United States | Mississippi | GREEN FLOID LLC
 153.80.84.24/32 # United States | Mississippi | GREEN FLOID LLC
 153.80.84.244/32 # United States | Florida | GREEN FLOID LLC
+153.80.97.107/32 # United States | Rhode Island | GREEN FLOID LLC
 153.80.97.134/32 # United States | Florida | GREEN FLOID LLC
 153.80.97.137/32 # United States | Florida | GREEN FLOID LLC
 153.80.97.141/32 # United States | Florida | GREEN FLOID LLC
@@ -3461,6 +3469,7 @@
 217.181.90.162/32 # Germany | Berlin | xk Tech GmbH
 217.181.91.156/32 # Germany | Berlin | xk Tech GmbH
 217.181.91.169/32 # Germany | Berlin | xk Tech GmbH
+217.181.91.208/32 # Germany | Berlin | xk Tech GmbH
 217.217.253.235/32 # Singapore | Southeast | Contabo Asia Private Limited
 218.17.66.85/32 # China | Guangdong Province | Chinanet
 218.111.152.89/32 # Malaysia | Johor | TM TECHNOLOGY SERVICES SDN BHD
