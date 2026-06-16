@@ -53,6 +53,7 @@
 65.111.2.0/24 # United States | Virginia | xk Tech GmbH
 65.111.3.0/24 # United States | Virginia | xk Tech GmbH
 65.111.4.0/24 # United States | Virginia | xk Tech GmbH
+65.111.5.0/24 # United States | Virginia | xk Tech GmbH
 65.111.6.0/24 # United States | Virginia | xk Tech GmbH
 65.111.7.0/24 # United States | Virginia | xk Tech GmbH
 65.111.8.0/24 # United States | Virginia | xk Tech GmbH
@@ -127,6 +128,7 @@
 141.133.49.0/24 # United States | Texas | Clouvider Limited
 141.133.51.0/24 # United States | Texas | Clouvider Limited
 141.133.52.0/24 # United States | California | Clouvider Limited
+141.133.78.0/24 # United States | Illinois | Clouvider Limited
 141.133.83.0/24 # United States | Ohio | Clouvider Limited
 141.133.84.0/24 # United States | New York | Clouvider Limited
 141.133.122.0/24 # United States | Texas | Clouvider Limited
@@ -222,6 +224,7 @@
 193.176.21.0/24 # United States | Washington | GREEN FLOID LLC
 193.228.131.0/24 # United States | New York | Clouvider Limited
 194.36.25.0/24 # Germany | Hesse | Owl Limited
+194.59.12.0/24 # United States | New York | Clouvider Limited
 194.76.227.0/24 # Estonia | Harju maakond | Servinga GmbH
 194.104.143.0/24 # United States | Connecticut | Clouvider Limited
 195.63.31.0/24 # Germany | Berlin | xk Tech GmbH
@@ -669,6 +672,7 @@
 45.3.36.86/32 # United States | Virginia | xk Tech GmbH
 45.3.36.145/32 # United States | Virginia | xk Tech GmbH
 45.3.36.172/32 # United States | Virginia | xk Tech GmbH
+45.3.36.191/32 # United States | Virginia | xk Tech GmbH
 45.3.40.90/32 # Brazil | State of São Paulo | xk Tech GmbH
 45.3.42.48/32 # United Kingdom | England | xk Tech GmbH
 45.3.42.95/32 # United Kingdom | England | xk Tech GmbH
@@ -676,6 +680,7 @@
 45.3.42.241/32 # United Kingdom | England | xk Tech GmbH
 45.3.45.18/32 # Italy | Lazio | xk Tech GmbH
 45.3.45.21/32 # Italy | Lazio | xk Tech GmbH
+45.3.45.201/32 # Italy | Lazio | xk Tech GmbH
 45.3.45.228/32 # Italy | Lazio | xk Tech GmbH
 45.3.46.55/32 # Canada | Ontario | xk Tech GmbH
 45.3.46.93/32 # Canada | Ontario | xk Tech GmbH
@@ -734,6 +739,7 @@
 45.87.124.76/32 # United States | California | Clouvider Limited
 45.87.125.50/32 # United States | California | Clouvider Limited
 45.87.125.85/32 # United States | California | Clouvider Limited
+45.87.125.116/32 # United States | California | Clouvider Limited
 45.87.125.228/32 # United States | California | Clouvider Limited
 45.87.127.44/32 # United States | California | Clouvider Limited
 45.87.127.66/32 # United States | New York | Clouvider Limited
@@ -857,6 +863,7 @@
 45.159.127.132/32 # United States | New York | Clouvider Limited
 45.159.127.148/32 # United States | New York | Clouvider Limited
 45.159.127.237/32 # United States | New York | Clouvider Limited
+45.192.32.194/32 # United States | New York | Clouvider Limited
 45.192.32.211/32 # United States | New York | Clouvider Limited
 45.192.35.165/32 # United States | New York | Clouvider Limited
 45.192.35.170/32 # United States | New York | Clouvider Limited
@@ -986,10 +993,6 @@
 64.236.145.84/32 # United States | Illinois | Microsoft Corporation
 64.236.201.48/32 # United States | Illinois | Microsoft Corporation
 64.236.201.50/32 # United States | Illinois | Microsoft Corporation
-65.111.5.44/32 # United States | Virginia | xk Tech GmbH
-65.111.5.110/32 # United States | Virginia | xk Tech GmbH
-65.111.5.212/32 # United States | Virginia | xk Tech GmbH
-65.111.5.251/32 # United States | Virginia | xk Tech GmbH
 65.111.10.64/32 # United States | Virginia | xk Tech GmbH
 65.111.10.65/32 # United States | Virginia | xk Tech GmbH
 65.111.10.204/32 # United States | Virginia | xk Tech GmbH
@@ -1008,6 +1011,7 @@
 65.111.22.119/32 # United Kingdom | England | xk Tech GmbH
 65.111.22.140/32 # United Kingdom | England | xk Tech GmbH
 65.111.22.235/32 # United Kingdom | England | xk Tech GmbH
+65.111.23.55/32 # United Kingdom | England | xk Tech GmbH
 65.111.23.119/32 # United Kingdom | England | xk Tech GmbH
 65.111.23.130/32 # United Kingdom | England | xk Tech GmbH
 65.111.23.220/32 # United Kingdom | England | xk Tech GmbH
@@ -1360,6 +1364,7 @@
 104.207.36.227/32 # United States | Virginia | xk Tech GmbH
 104.207.36.253/32 # United States | Virginia | xk Tech GmbH
 104.207.37.9/32 # United States | Virginia | xk Tech GmbH
+104.207.37.32/32 # United States | Virginia | xk Tech GmbH
 104.207.37.162/32 # United States | Virginia | xk Tech GmbH
 104.207.38.4/32 # United States | Virginia | xk Tech GmbH
 104.207.38.155/32 # United States | Virginia | xk Tech GmbH
@@ -1439,6 +1444,7 @@
 109.94.216.50/32 # United States | California | Clouvider Limited
 109.94.216.74/32 # United States | California | Clouvider Limited
 109.94.216.243/32 # United States | California | Clouvider Limited
+109.94.218.100/32 # United States | Georgia | Clouvider Limited
 109.94.219.207/32 # United Kingdom | England | Clouvider Limited
 109.104.153.203/32 # Netherlands | North Holland | Brainstorm Network, INC
 109.105.210.85/32 # United States | Texas | Zenlayer INC
@@ -1583,6 +1589,7 @@
 135.106.66.97/32 # United States | Idaho | GREEN FLOID LLC
 135.106.66.137/32 # United States | Idaho | GREEN FLOID LLC
 135.106.66.207/32 # United States | Idaho | GREEN FLOID LLC
+135.106.94.75/32 # United States | Wyoming | GREEN FLOID LLC
 135.106.94.136/32 # United States | Wyoming | GREEN FLOID LLC
 135.106.94.232/32 # United States | Wyoming | GREEN FLOID LLC
 135.106.107.61/32 # United States | Louisiana | GREEN FLOID LLC
@@ -1687,9 +1694,11 @@
 138.249.168.242/32 # Canada | Ontario | Clouvider Limited
 138.249.169.4/32 # Canada | Ontario | Clouvider Limited
 138.249.169.14/32 # Canada | Ontario | Clouvider Limited
+138.249.169.168/32 # Canada | Ontario | Clouvider Limited
 138.249.170.7/32 # United States | California | Clouvider Limited
 138.249.170.13/32 # United States | California | Clouvider Limited
 138.249.170.82/32 # United States | California | Clouvider Limited
+138.249.170.131/32 # United States | California | Clouvider Limited
 138.249.185.164/32 # Germany | Berlin | Clouvider Limited
 138.249.185.233/32 # Germany | Berlin | Clouvider Limited
 138.249.190.30/32 # Germany | Hamburg | Clouvider Limited
@@ -1760,6 +1769,7 @@
 141.133.48.41/32 # United States | New York | Clouvider Limited
 141.133.48.69/32 # United States | New York | Clouvider Limited
 141.133.48.227/32 # United States | New York | Clouvider Limited
+141.133.48.238/32 # United States | New York | Clouvider Limited
 141.133.50.46/32 # United States | Texas | Clouvider Limited
 141.133.50.56/32 # United States | Texas | Clouvider Limited
 141.133.50.164/32 # United States | Texas | Clouvider Limited
@@ -1769,10 +1779,6 @@
 141.133.77.14/32 # United States | Arizona | Clouvider Limited
 141.133.77.63/32 # United States | Arizona | Clouvider Limited
 141.133.77.91/32 # United States | Arizona | Clouvider Limited
-141.133.78.31/32 # United States | Illinois | Clouvider Limited
-141.133.78.140/32 # United States | Illinois | Clouvider Limited
-141.133.78.143/32 # United States | Illinois | Clouvider Limited
-141.133.78.174/32 # United States | Illinois | Clouvider Limited
 141.133.79.44/32 # United States | Illinois | Clouvider Limited
 141.133.79.122/32 # United States | Illinois | Clouvider Limited
 141.133.79.214/32 # United States | Illinois | Clouvider Limited
@@ -1782,6 +1788,7 @@
 141.133.80.175/32 # United States | Arizona | Clouvider Limited
 141.133.81.19/32 # United States | Arizona | Clouvider Limited
 141.133.81.78/32 # United States | Arizona | Clouvider Limited
+141.133.81.213/32 # United States | Arizona | Clouvider Limited
 141.133.82.28/32 # United States | Ohio | Clouvider Limited
 141.133.82.34/32 # United States | Ohio | Clouvider Limited
 141.133.82.51/32 # United States | Ohio | Clouvider Limited
@@ -3240,6 +3247,7 @@
 186.243.142.132/32 # United States | Illinois | Clouvider Limited
 186.243.142.152/32 # United States | Illinois | Clouvider Limited
 186.243.144.16/32 # United States | District of Columbia | Clouvider Limited
+186.243.144.253/32 # United States | New York | Clouvider Limited
 186.243.145.43/32 # United States | District of Columbia | Clouvider Limited
 186.243.145.159/32 # United States | District of Columbia | Clouvider Limited
 186.243.145.253/32 # United States | District of Columbia | Clouvider Limited
@@ -3293,6 +3301,7 @@
 186.243.242.5/32 # United States | Florida | Clouvider Limited
 186.243.242.54/32 # United States | New York | Clouvider Limited
 186.243.242.56/32 # United States | Florida | Clouvider Limited
+186.243.242.244/32 # United States | New York | Clouvider Limited
 186.243.250.62/32 # Germany | Hesse | HOST TELECOM LTD
 186.243.254.39/32 # United States | District of Columbia | Clouvider Limited
 186.243.255.14/32 # United States | District of Columbia | Clouvider Limited
@@ -3425,10 +3434,6 @@
 194.35.127.163/32 # United States | New York | Clouvider Limited
 194.35.127.204/32 # United States | New York | Clouvider Limited
 194.37.97.164/32 # United States | Texas | M Europe SRL
-194.59.12.104/32 # United States | New York | Clouvider Limited
-194.59.12.204/32 # United States | New York | Clouvider Limited
-194.59.12.214/32 # United States | New York | Clouvider Limited
-194.59.12.237/32 # United States | New York | Clouvider Limited
 194.60.76.114/32 # United Kingdom | England | Clouvider Limited
 194.60.76.163/32 # United Kingdom | England | Clouvider Limited
 194.61.89.82/32 # Armenia | Yerevan | Arpinet LLC
