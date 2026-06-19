@@ -169,7 +169,6 @@
 142.111.213.0/24 # United States | California | Clouvider Limited
 142.111.226.0/24 # United States | New York | HOST TELECOM LTD
 142.111.253.0/24 # United States | California | Clouvider Limited
-142.252.8.0/24 # United States | California | HOST TELECOM LTD
 142.252.43.0/24 # United States | California | HOST TELECOM LTD
 142.252.81.0/24 # United States | California | Clouvider Limited
 142.252.83.0/24 # United States | California | Clouvider Limited
@@ -238,6 +237,7 @@
 172.120.205.0/24 # United States | Texas | IT HOSTLINE LTD
 172.121.58.0/24 # United Kingdom | England | IT HOSTLINE LTD
 172.121.59.0/24 # United Kingdom | England | IT HOSTLINE LTD
+172.121.67.0/24 # United Kingdom | England | IT HOSTLINE LTD
 172.252.170.0/24 # United States | New York | HOST TELECOM LTD
 173.232.146.0/24 # United States | Nevada | Eonix Corporation
 173.249.252.0/24 # United States | Illinois | Tzulo, Inc.
@@ -272,6 +272,7 @@
 193.32.249.0/24 # Netherlands | North Holland | 11 Services Ab
 193.36.231.0/24 # United States | New Jersey | Clouvider Limited
 193.56.28.0/24 # United States | Virginia | xk Tech GmbH
+193.58.176.0/24 # United States | North Dakota | Clouvider Limited
 193.124.16.0/24 # Germany | Hesse | Datacamp Limited
 193.138.218.0/24 # Sweden | Skåne County | 11 Services Ab
 193.160.216.0/24 # United States | Illinois | Clouvider Limited
@@ -1441,6 +1442,7 @@
 104.207.40.243/32 # United States | Virginia | xk Tech GmbH
 104.207.43.102/32 # United States | Virginia | xk Tech GmbH
 104.207.43.149/32 # United States | Virginia | xk Tech GmbH
+104.207.43.172/32 # United States | Virginia | xk Tech GmbH
 104.207.43.218/32 # United States | Virginia | xk Tech GmbH
 104.207.44.85/32 # United States | Virginia | xk Tech GmbH
 104.207.44.109/32 # United States | Virginia | xk Tech GmbH
@@ -1916,6 +1918,10 @@
 142.252.4.6/32 # United States | California | HOST TELECOM LTD
 142.252.4.67/32 # United States | California | HOST TELECOM LTD
 142.252.4.238/32 # United States | Kansas | HOST TELECOM LTD
+142.252.8.134/32 # United States | California | HOST TELECOM LTD
+142.252.8.169/32 # United States | California | HOST TELECOM LTD
+142.252.8.181/32 # United States | California | HOST TELECOM LTD
+142.252.8.194/32 # United States | California | HOST TELECOM LTD
 142.252.24.107/32 # United States | California | HOST TELECOM LTD
 142.252.24.251/32 # United States | California | HOST TELECOM LTD
 142.252.25.26/32 # United States | California | HOST TELECOM LTD
@@ -2751,6 +2757,7 @@
 166.88.211.171/32 # United States | California | HOST TELECOM LTD
 166.88.211.183/32 # United States | California | HOST TELECOM LTD
 166.88.211.201/32 # United States | California | HOST TELECOM LTD
+166.88.215.26/32 # United States | California | HOST TELECOM LTD
 166.88.215.56/32 # United States | California | HOST TELECOM LTD
 166.88.215.111/32 # United States | California | HOST TELECOM LTD
 166.88.215.253/32 # United States | California | HOST TELECOM LTD
@@ -2983,10 +2990,6 @@
 172.121.48.196/32 # United Kingdom | England | IT HOSTLINE LTD
 172.121.52.33/32 # United States | Nevada | HOST TELECOM LTD
 172.121.52.240/32 # United States | Nevada | HOST TELECOM LTD
-172.121.67.52/32 # United States | Nevada | HOST TELECOM LTD
-172.121.67.77/32 # United States | Nevada | HOST TELECOM LTD
-172.121.67.204/32 # United States | Nevada | HOST TELECOM LTD
-172.121.67.223/32 # United States | Nevada | HOST TELECOM LTD
 172.121.77.56/32 # United Kingdom | England | IT HOSTLINE LTD
 172.121.77.215/32 # United States | Florida | HOST TELECOM LTD
 172.121.77.220/32 # United States | Florida | HOST TELECOM LTD
@@ -3060,6 +3063,7 @@
 176.100.149.46/32 # United States | New York | GREEN FLOID LLC
 176.100.149.127/32 # United States | New York | GREEN FLOID LLC
 176.100.149.248/32 # United States | New York | GREEN FLOID LLC
+176.118.38.23/32 # Canada | Québec | Clouvider Limited
 176.118.38.56/32 # Canada | Ontario | Clouvider Limited
 176.118.38.113/32 # Canada | Québec | Clouvider Limited
 176.118.190.27/32 # Netherlands | North Holland | Clouvider Limited
@@ -3379,10 +3383,6 @@
 193.47.32.214/32 # United States | California | Clouvider Limited
 193.53.169.73/32 # United Kingdom | England | Clouvider Limited
 193.53.169.243/32 # United Kingdom | England | Clouvider Limited
-193.58.176.190/32 # United States | North Dakota | Clouvider Limited
-193.58.176.194/32 # United States | North Dakota | Clouvider Limited
-193.58.176.207/32 # United States | North Dakota | Clouvider Limited
-193.58.176.227/32 # United States | North Dakota | Clouvider Limited
 193.58.177.42/32 # United States | New Mexico | Clouvider Limited
 193.58.177.43/32 # United States | New Mexico | Clouvider Limited
 193.58.177.114/32 # United States | New Mexico | Clouvider Limited
