@@ -246,6 +246,7 @@
 142.111.246.0/24 # United States | New York | HOST TELECOM LTD
 142.111.253.0/24 # United States | California | Clouvider Limited
 142.111.254.0/24 # United States | California | HOST TELECOM LTD
+142.252.4.0/24 # United States | Kansas | HOST TELECOM LTD
 142.252.8.0/24 # United States | California | HOST TELECOM LTD
 142.252.25.0/24 # United States | California | HOST TELECOM LTD
 142.252.43.0/24 # United States | California | HOST TELECOM LTD
@@ -299,6 +300,7 @@
 155.212.102.0/24 # United States | Florida | GREEN FLOID LLC
 155.212.114.0/24 # United States | Florida | GREEN FLOID LLC
 156.229.238.0/24 # United States | California | Clouvider Limited
+156.229.244.0/24 # United States | Florida | Clouvider Limited
 156.229.245.0/24 # United States | California | Clouvider Limited
 156.229.246.0/24 # United States | California | Clouvider Limited
 156.229.254.0/24 # United States | Florida | Clouvider Limited
@@ -381,8 +383,10 @@
 172.120.177.0/24 # United States | Pennsylvania | HOST TELECOM LTD
 172.120.184.0/24 # United States | Illinois | IT HOSTLINE LTD
 172.120.185.0/24 # United States | Illinois | IT HOSTLINE LTD
+172.120.189.0/24 # United States | Illinois | IT HOSTLINE LTD
 172.120.194.0/24 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.195.0/24 # United States | Pennsylvania | IT HOSTLINE LTD
+172.120.196.0/24 # United States | Pennsylvania | IT HOSTLINE LTD
 172.120.198.0/24 # United States | Pennsylvania | IT HOSTLINE LTD
 172.120.199.0/24 # United Kingdom | England | IT HOSTLINE LTD
 172.120.204.0/24 # United States | Texas | IT HOSTLINE LTD
@@ -764,6 +768,7 @@
 34.78.240.28/32 # Belgium | Brussels-Capital | Google LLC
 34.78.247.203/32 # Belgium | Brussels-Capital | Google LLC
 34.78.251.88/32 # Belgium | Brussels-Capital | Google LLC
+34.79.6.17/32 # Belgium | Brussels-Capital | Google LLC
 34.79.22.57/32 # Belgium | Brussels-Capital | Google LLC
 34.79.22.192/32 # Belgium | Brussels-Capital | Google LLC
 34.79.27.213/32 # Belgium | Brussels-Capital | Google LLC
@@ -1634,6 +1639,7 @@
 117.205.172.8/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 117.245.136.9/32 # India | Chandigarh | Bharat Sanchar Nigam LTD
 118.96.34.218/32 # Indonesia | Jawa Barat | Telekomunikasi Indonesia pt
+118.114.19.190/32 # China | Sichuan | Chinanet
 118.139.167.102/32 # Singapore | Southeast | Godaddy.com, LLC
 119.30.116.151/32 # Pakistan | Punjab | Mobilink Gsm, Pakistan Mobile Communic...
 119.30.116.183/32 # Pakistan | Punjab | Mobilink Gsm, Pakistan Mobile Communic...
@@ -1903,10 +1909,6 @@
 142.111.247.67/32 # United States | New York | HOST TELECOM LTD
 142.111.247.75/32 # United States | New York | HOST TELECOM LTD
 142.190.156.42/32 # United States | Alabama | Uniti Fiber Holdings Inc.
-142.252.4.6/32 # United States | California | HOST TELECOM LTD
-142.252.4.67/32 # United States | California | HOST TELECOM LTD
-142.252.4.219/32 # United States | Kansas | HOST TELECOM LTD
-142.252.4.238/32 # United States | Kansas | HOST TELECOM LTD
 142.252.24.63/32 # United States | California | HOST TELECOM LTD
 142.252.24.107/32 # United States | California | HOST TELECOM LTD
 142.252.24.229/32 # United States | California | HOST TELECOM LTD
@@ -2413,10 +2415,6 @@
 156.229.237.175/32 # Canada | Ontario | Clouvider Limited
 156.229.237.214/32 # Canada | Ontario | Clouvider Limited
 156.229.237.220/32 # Canada | Ontario | Clouvider Limited
-156.229.244.87/32 # United States | Florida | Clouvider Limited
-156.229.244.94/32 # United States | Florida | Clouvider Limited
-156.229.244.100/32 # United States | Florida | Clouvider Limited
-156.229.244.128/32 # United States | Florida | Clouvider Limited
 156.234.58.194/32 # Hong Kong | Hong Kong | YANCY LIMITED
 156.238.236.130/32 # Hong Kong | Hong Kong | Cognetcloud INC
 156.241.144.66/32 # Hong Kong | Hong Kong | AROSSCLOUD INC.
@@ -2668,17 +2666,9 @@
 172.120.182.17/32 # United States | Pennsylvania | IT HOSTLINE LTD
 172.120.182.61/32 # United States | Pennsylvania | HOST TELECOM LTD
 172.120.182.182/32 # United States | Pennsylvania | HOST TELECOM LTD
-172.120.189.110/32 # United States | Illinois | HOST TELECOM LTD
-172.120.189.212/32 # United States | Illinois | HOST TELECOM LTD
-172.120.189.215/32 # United States | Illinois | IT HOSTLINE LTD
-172.120.189.225/32 # United States | Illinois | IT HOSTLINE LTD
 172.120.190.95/32 # United States | Illinois | HOST TELECOM LTD
 172.120.190.188/32 # United States | Illinois | HOST TELECOM LTD
 172.120.190.202/32 # United States | Illinois | HOST TELECOM LTD
-172.120.196.36/32 # United States | Pennsylvania | IT HOSTLINE LTD
-172.120.196.56/32 # United States | Pennsylvania | HOST TELECOM LTD
-172.120.196.65/32 # United States | Pennsylvania | IT HOSTLINE LTD
-172.120.196.149/32 # United States | Pennsylvania | HOST TELECOM LTD
 172.120.202.37/32 # United States | Pennsylvania | HOST TELECOM LTD
 172.120.202.53/32 # United States | Pennsylvania | HOST TELECOM LTD
 172.120.202.68/32 # United States | Pennsylvania | HOST TELECOM LTD
@@ -2692,6 +2682,7 @@
 172.120.209.65/32 # United States | Texas | HOST TELECOM LTD
 172.120.209.131/32 # United States | Texas | HOST TELECOM LTD
 172.120.210.139/32 # United Kingdom | England | IT HOSTLINE LTD
+172.120.210.144/32 # United Kingdom | England | IT HOSTLINE LTD
 172.120.210.192/32 # United States | Texas | HOST TELECOM LTD
 172.120.211.90/32 # United States | Texas | HOST TELECOM LTD
 172.120.211.117/32 # United States | Texas | IT HOSTLINE LTD
@@ -2953,6 +2944,7 @@
 186.243.235.115/32 # United States | Kentucky | Clouvider Limited
 186.243.237.11/32 # United States | Kentucky | Clouvider Limited
 186.243.237.33/32 # United States | District of Columbia | Clouvider Limited
+186.243.237.91/32 # United States | District of Columbia | Clouvider Limited
 186.243.237.127/32 # United States | District of Columbia | Clouvider Limited
 186.243.239.89/32 # United States | Kentucky | Clouvider Limited
 186.243.239.152/32 # United States | New York | Clouvider Limited
