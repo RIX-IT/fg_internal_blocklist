@@ -514,6 +514,7 @@
 186.243.189.0/24 # United States | District of Columbia | Clouvider Limited
 186.243.191.0/24 # United States | Florida | Clouvider Limited
 186.243.192.0/24
+186.243.194.0/24
 186.243.198.0/24 # United States | New York | Clouvider Limited
 186.243.233.0/24
 186.243.234.0/24 # United States | Illinois | Clouvider Limited
@@ -616,7 +617,6 @@
 13.83.166.249/32 # United States | California | Microsoft Corporation
 13.140.140.94/32 # Germany | Hesse | Contabo GmbH
 13.201.207.191/32 # India | Maharashtra | Amazon.com, Inc.
-14.0.136.205/32 # Hong Kong | Hong Kong | Csl Limited
 14.1.78.115/32 # Sri Lanka | Western Province | Space Exploration Technolog...
 14.1.104.56/32
 14.1.104.241/32
@@ -666,7 +666,6 @@
 20.236.100.1/32 # United States | Illinois | Microsoft Corporation
 20.244.58.210/32 # India | Maharashtra | Microsoft Corporation
 20.253.66.44/32 # United States | District of Columbia | Microsoft Corporation
-23.27.3.231/32 # United States | California | EGIHosting
 23.137.255.66/32 # United States | Washington | Incognet LLC
 23.146.236.244/32 # United States | Florida | QUANTUM
 23.159.216.203/32 # United States | California | Byte Node LLC
@@ -1258,6 +1257,7 @@
 45.230.206.220/32 # Argentina | Chaco | GEO S.A.
 45.232.153.173/32 # Argentina | Chaco | VICENTE CLAUDIO ORLANDO
 46.101.110.51/32 # Germany | Hesse | Digitalocean, LLC
+46.101.229.179/32
 46.236.108.12/32 # Sweden | Västerbotten County | Bredband Ab
 47.77.219.184/32 # United States | California | Alibaba us Technology Co., Ltd.
 47.93.54.134/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
@@ -1974,6 +1974,7 @@
 138.249.207.86/32 # Canada | Ontario | Clouvider Limited
 138.249.207.202/32
 138.249.207.226/32 # Canada | Ontario | Clouvider Limited
+138.249.208.19/32
 138.249.208.133/32 # United States | California | Clouvider Limited
 138.249.208.160/32 # United States | California | Clouvider Limited
 138.249.208.246/32 # United States | California | Clouvider Limited
@@ -2134,10 +2135,13 @@
 152.69.213.235/32 # Singapore | Southeast | Oracle Corporation
 152.234.160.52/32
 152.234.162.15/32
+152.234.167.59/32
 152.234.168.22/32
 152.234.168.71/32
 152.234.169.61/32
+152.234.171.34/32
 152.234.173.62/32
+152.234.175.226/32
 152.234.175.229/32
 153.67.171.223/32 # Tanzania | Dodoma | Space Exploration Technologies Corpora...
 153.75.83.32/32 # United States | Utah | Routerhosting LLC
@@ -2977,18 +2981,22 @@
 177.1.48.46/32
 177.1.49.4/32
 177.1.50.221/32
+177.1.52.32/32
 177.1.55.122/32
 177.1.56.24/32
 177.1.57.49/32
+177.1.57.53/32
 177.1.59.29/32
 177.1.62.96/32
 177.185.78.39/32 # Brazil | State of Minas Gerais | NORTETEL TELECOMUNICACOES...
 177.202.196.11/32
 177.202.198.208/32
 177.202.199.22/32
+177.202.199.43/32
 177.202.200.44/32
 177.202.203.25/32
 177.202.205.22/32
+177.202.205.62/32
 177.202.207.254/32
 178.16.52.58/32 # Germany | Hesse | Omegatech LTD
 178.16.54.87/32 # Netherlands | North Holland | Omegatech LTD
@@ -3101,8 +3109,12 @@
 186.209.203.198/32 # Brazil | Santa Catarina | UNIFIQUE TELECOMUNICACOES S A
 186.240.176.13/32
 186.240.177.25/32
+186.240.177.200/32
+186.240.180.87/32
 186.240.182.18/32
+186.240.182.79/32
 186.240.184.76/32
+186.240.186.59/32
 186.240.186.70/32
 186.240.186.171/32
 186.241.74.94/32 # United States | Florida | AROSSCLOUD INC.
@@ -3122,10 +3134,6 @@
 186.243.185.79/32 # United States | Illinois | Clouvider Limited
 186.243.185.92/32 # United States | Illinois | Clouvider Limited
 186.243.185.103/32 # United States | Illinois | Clouvider Limited
-186.243.194.45/32 # United States | New York | Clouvider Limited
-186.243.194.47/32 # United States | New York | Clouvider Limited
-186.243.194.57/32 # United States | New York | Clouvider Limited
-186.243.194.193/32 # United States | New York | Clouvider Limited
 186.243.205.32/32 # Germany | Hesse | HOST TELECOM LTD
 186.243.208.54/32 # Germany | Hesse | HOST TELECOM LTD
 186.243.208.245/32
@@ -3142,24 +3150,35 @@
 186.246.73.23/32 # United Kingdom | England | IT HOSTLINE LTD
 186.246.73.169/32
 187.52.192.24/32
+187.52.192.149/32
 187.52.193.193/32
 187.52.195.12/32
+187.52.197.35/32
+187.52.199.70/32
 187.52.200.85/32
 187.52.200.162/32
 187.52.203.69/32
+187.52.203.81/32
 187.52.205.31/32
+187.52.205.123/32
 187.52.206.25/32
+187.52.207.23/32
 187.120.23.204/32 # Brazil | State of Rio de Janeiro | GOLDEN LINK
 187.122.59.206/32 # Brazil | State of São Paulo | Claro Nxt Telecomunicacoes LTDA
 187.126.32.180/32
 187.126.33.5/32
+187.126.33.20/32
 187.126.33.30/32
 187.126.35.2/32
+187.126.37.28/32
 187.126.37.207/32
 187.126.39.53/32
 187.126.40.128/32
 187.126.41.44/32
+187.126.41.47/32
+187.126.43.6/32
 187.126.43.25/32
+187.126.47.8/32
 187.126.47.19/32
 187.126.47.31/32
 187.147.176.45/32 # Mexico | Yucatan | UNINET
@@ -3258,15 +3277,26 @@
 200.107.104.233/32 # Argentina | Santa Fe | LOS AMORES S.A.
 200.115.96.8/32 # Honduras | Cortés | HONDUVISION SRL
 200.189.31.132/32 # Argentina | Buenos Aires | Space Exploration Technologies ...
+200.225.160.42/32
+200.225.162.183/32
+200.225.163.187/32
 200.225.164.212/32
 200.225.165.11/32
+200.225.165.48/32
 200.225.167.10/32
 200.225.167.45/32
+200.225.168.49/32
 200.225.173.30/32
+200.225.174.124/32
 200.225.175.16/32
+200.225.175.47/32
+200.225.176.6/32
 201.4.98.11/32
+201.4.99.24/32
 201.4.111.34/32
 201.4.113.4/32
+201.4.113.54/32
+201.4.127.11/32
 201.4.127.19/32
 201.150.26.246/32 # Brazil | Pará | JATIMNET TELECOM
 201.182.9.37/32 # Brazil | State of Minas Gerais | GL TELECOM LTDA ME
