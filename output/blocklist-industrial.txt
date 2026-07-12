@@ -392,7 +392,6 @@
 169.150.196.0/24 # Netherlands | North Holland | Datacamp Limited
 169.150.201.0/24 # Germany | Hesse | Datacamp Limited
 170.62.100.0/24 # Sweden | Skåne County | Datacamp Limited
-170.130.55.0/24 # United States | Nevada | Eonix Corporation
 170.168.215.0/24 # United States | District of Columbia | GREEN FLOID LLC
 170.168.230.0/24 # United States | District of Columbia | GREEN FLOID LLC
 170.168.250.0/24 # United States | District of Columbia | GREEN FLOID LLC
@@ -781,6 +780,7 @@
 34.53.210.161/32 # Belgium | Brussels-Capital | Google LLC
 34.53.212.33/32 # Belgium | Brussels-Capital | Google LLC
 34.53.218.255/32 # Belgium | Brussels-Capital | Google LLC
+34.53.229.229/32
 34.53.230.25/32 # Belgium | Brussels-Capital | Google LLC
 34.53.248.224/32 # Belgium | Brussels-Capital | Google LLC
 34.62.11.132/32 # Belgium | Brussels-Capital | Google LLC
@@ -876,6 +876,7 @@
 34.79.51.36/32 # Belgium | Brussels-Capital | Google LLC
 34.79.84.22/32 # Belgium | Brussels-Capital | Google LLC
 34.79.92.129/32 # Belgium | Brussels-Capital | Google LLC
+34.79.97.136/32
 34.79.105.50/32 # Belgium | Brussels-Capital | Google LLC
 34.79.114.241/32 # Belgium | Brussels-Capital | Google LLC
 34.79.119.36/32
@@ -1012,7 +1013,6 @@
 35.205.27.164/32
 35.205.50.71/32 # Belgium | Brussels-Capital | Google LLC
 35.205.118.227/32
-35.205.148.57/32 # Belgium | Brussels-Capital | Google LLC
 35.205.149.55/32 # Belgium | Brussels-Capital | Google LLC
 35.205.160.38/32
 35.205.169.201/32 # Belgium | Brussels-Capital | Google LLC
@@ -1039,6 +1039,7 @@
 35.233.87.238/32 # Belgium | Brussels-Capital | Google LLC
 35.233.96.69/32 # Belgium | Brussels-Capital | Google LLC
 35.233.110.252/32
+35.233.115.233/32
 35.233.120.125/32 # Belgium | Brussels-Capital | Google LLC
 35.233.122.65/32
 35.233.126.185/32 # Belgium | Brussels-Capital | Google LLC
@@ -1142,6 +1143,7 @@
 45.71.102.161/32 # Brazil | State of Paraná | Giatech Telecomunica es LTDA Me
 45.76.9.248/32 # United States | New Jersey | The Constant Company, LLC
 45.76.202.230/32 # Japan | Tokyo | The Constant Company, LLC
+45.79.162.207/32
 45.79.207.65/32 # United States | Georgia | Akamai Technologies, Inc.
 45.84.178.26/32 # United States | Florida | GREEN FLOID LLC
 45.84.178.171/32 # United States | Florida | GREEN FLOID LLC
@@ -1305,6 +1307,7 @@
 57.159.30.22/32 # India | Maharashtra | Microsoft Corporation
 58.68.255.45/32 # China | Beijing | People.Cn CO
 58.144.143.27/32 # China | Chongqing | China Unicom China1 Backbone
+58.240.204.224/32
 59.92.68.138/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
 59.96.138.161/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.110.7.32/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
@@ -1437,7 +1440,6 @@
 79.132.130.142/32 # Germany | Hesse | Servinga GmbH
 79.133.42.185/32 # Germany | Hesse | Ultahost, Inc.
 79.133.51.100/32 # Germany | Hesse | Ultahost, Inc.
-80.241.193.143/32 # Germany | Hesse | 1 1 Versatel GmbH
 80.242.62.41/32
 81.16.140.16/32 # United Kingdom | England | Clouvider Limited
 81.16.140.83/32
@@ -1588,7 +1590,6 @@
 103.120.76.182/32 # Indonesia | Banten | Pt Haci Telekomunikasi Indonesia
 103.132.41.199/32 # Indonesia | Central Java | Pt Kalimasada Inti Sarana
 103.133.24.51/32 # Indonesia | Jawa Barat | PT PHATRIA INTI PERSADA
-103.149.90.71/32 # Hong Kong | Hong Kong | Cognetcloud INC
 103.150.36.36/32 # Taiwan | Taichung City | Hostinginside LTD
 103.152.9.19/32 # Philippines | Cavite | Citi Cableworld Inc.
 103.160.197.68/32 # India | Uttar Pradesh | Userlinks Netcom Pvt. Ltd.
@@ -1635,6 +1636,7 @@
 104.199.13.133/32 # Belgium | Brussels-Capital | Google LLC
 104.199.20.65/32 # Belgium | Brussels-Capital | Google LLC
 104.199.37.122/32 # Belgium | Brussels-Capital | Google LLC
+104.199.39.24/32
 104.199.48.40/32 # Belgium | Brussels-Capital | Google LLC
 104.199.53.57/32 # Belgium | Brussels-Capital | Google LLC
 104.199.56.112/32 # Belgium | Brussels-Capital | Google LLC
@@ -1898,6 +1900,7 @@
 137.184.230.2/32 # United States | California | Digitalocean, LLC
 138.2.74.160/32 # Singapore | Southeast | Oracle Corporation
 138.2.113.226/32 # Republic of Korea | Gangwon | Oracle Corporation
+138.68.59.226/32
 138.124.101.92/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 138.197.87.21/32 # United States | Florida | Digitalocean, LLC
 138.226.239.44/32 # Vanuatu | Shefa Province | Cloudflare, Inc.
@@ -2073,6 +2076,7 @@
 144.31.221.197/32 # Germany | Hesse | Kyonix Networks Limited
 144.48.130.65/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 144.48.130.147/32 # Pakistan | Sindh | Cyber Internet Services private Limited
+144.48.130.200/32
 144.48.135.10/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 144.172.92.249/32 # United States | Utah | Routerhosting LLC
 144.172.99.68/32 # United States | Utah | Routerhosting LLC
@@ -2101,7 +2105,6 @@
 149.147.140.29/32 # Kuwait | Hawalli | Mobile Telecommunications Company K.S.C.P.
 150.95.81.97/32 # Thailand | Bangkok | GMO Z.COM PTE. LTD.
 150.230.8.53/32 # Australia | New South Wales | Oracle Corporation
-150.241.251.30/32 # United States | New York | Datacamp Limited
 151.115.147.146/32 # France | Île-de-France | Scaleway SAS
 151.123.177.79/32 # France | Île-de-France | xk Tech GmbH
 151.123.177.110/32 # France | Île-de-France | xk Tech GmbH
@@ -2110,7 +2113,6 @@
 151.241.122.63/32 # United States | New Jersey | Cogent Communications, LLC
 151.241.122.108/32 # United States | New Jersey | Cogent Communications, LLC
 151.247.22.25/32 # United States | New Jersey | CANADA INC.
-151.247.123.163/32 # United States | California | Datacamp Limited
 151.247.193.174/32 # France | Île-de-France | CANADA INC.
 152.32.130.136/32 # Hong Kong | Hong Kong | UCLOUD INFORMATION TECHNOLOGY HK L...
 152.32.157.7/32 # United Kingdom | England | UCLOUD INFORMATION TECHNOLOGY H...
@@ -2705,9 +2707,11 @@
 158.247.214.28/32 # Republic of Korea | Unknown | The Constant Company, LLC
 158.247.252.178/32 # Republic of Korea | Unknown | The Constant Company, LLC
 159.65.143.47/32 # Singapore | Southeast | Digitalocean, LLC
+159.65.228.55/32
 159.65.241.37/32 # United States | New Jersey | Digitalocean, LLC
 159.89.80.242/32 # United States | New Jersey | Digitalocean, LLC
 159.89.133.65/32 # United States | California | Digitalocean, LLC
+159.89.141.114/32
 159.223.119.46/32 # United States | New Jersey | Digitalocean, LLC
 159.223.125.249/32 # United States | New Jersey | Digitalocean, LLC
 159.223.132.86/32 # United States | New Jersey | Digitalocean, LLC
@@ -2860,6 +2864,10 @@
 170.64.213.210/32 # Australia | New South Wales | Digitalocean, LLC
 170.81.1.19/32 # Brazil | Espírito Santo | Windx Telecomunica es
 170.106.74.215/32 # United States | California | Shenzhen Tencent Computer Sys...
+170.130.55.19/32
+170.130.55.184/32
+170.130.55.200/32
+170.130.55.249/32
 170.130.165.28/32 # United States | Nevada | Eonix Corporation
 170.130.165.33/32 # United States | Texas | Eonix Corporation
 170.130.165.166/32 # United States | Texas | Eonix Corporation
@@ -2877,7 +2885,6 @@
 172.86.89.51/32 # United States | Texas | Routerhosting LLC
 172.86.89.186/32 # United States | Texas | Routerhosting LLC
 172.86.93.139/32 # Germany | Hesse | Aurologic GmbH
-172.96.5.192/32 # United States | Delaware | M Europe SRL
 172.96.10.220/32 # United States | Missouri | Unreal Servers, LLC
 172.120.157.79/32 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.157.183/32 # United States | Washington | HOST TELECOM LTD
@@ -2943,7 +2950,6 @@
 175.107.228.128/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 175.107.237.218/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 175.165.87.53/32 # China | Liaoning | China Unicom China1 Backbone
-176.52.142.125/32 # Chile | Santiago Metropolitan Region | HUAWEI INTERNATIONA...
 176.118.38.23/32 # Canada | Québec | Clouvider Limited
 176.118.38.56/32 # Canada | Ontario | Clouvider Limited
 176.118.38.113/32 # Canada | Québec | Clouvider Limited
@@ -3331,14 +3337,12 @@
 204.168.158.236/32 # Finland | Mainland Finland | Hetzner Online GmbH
 206.72.199.228/32 # United States | New Jersey | Interserver, INC
 206.72.199.230/32 # United States | New Jersey | Interserver, INC
-206.135.161.54/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 206.135.161.118/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 206.135.170.190/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 206.135.170.210/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 206.135.171.34/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 206.135.172.46/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 206.135.174.55/32 # Pakistan | Punjab | Cyber Internet Services private Limited
-206.168.201.229/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 206.189.97.184/32 # Netherlands | North Holland | Digitalocean, LLC
 206.238.114.75/32 # Singapore | Southeast | Tcloudnet
 206.238.114.178/32 # Singapore | Southeast | Tcloudnet
@@ -3396,7 +3400,6 @@
 216.158.226.122/32 # United States | New Jersey | Interserver, INC
 216.158.226.222/32 # United States | New Jersey | Interserver, INC
 216.158.228.234/32 # United States | New Jersey | Interserver, INC
-216.180.245.68/32 # United States | New York | Datacamp Limited
 216.219.95.62/32 # United States | California | Interserver, INC
 216.234.211.177/32 # Mozambique | Distrito Municipal de KaMpfumo | Space Explor...
 217.154.159.73/32 # Germany | Baden-Württemberg | IONOS SE
