@@ -702,6 +702,7 @@
 34.14.14.251/32 # Belgium | Brussels-Capital | Google LLC
 34.14.20.55/32 # Belgium | Brussels-Capital | Google LLC
 34.14.42.244/32 # Belgium | Brussels-Capital | Google LLC
+34.14.46.52/32
 34.14.49.26/32
 34.14.61.95/32 # Belgium | Brussels-Capital | Google LLC
 34.14.64.204/32 # Belgium | Brussels-Capital | Google LLC
@@ -716,6 +717,7 @@
 34.22.121.102/32 # Belgium | Brussels-Capital | Google LLC
 34.22.124.27/32 # Belgium | Brussels-Capital | Google LLC
 34.22.126.94/32 # Belgium | Brussels-Capital | Google LLC
+34.22.127.203/32
 34.22.133.214/32
 34.22.140.213/32 # Belgium | Brussels-Capital | Google LLC
 34.22.162.137/32 # Belgium | Brussels-Capital | Google LLC
@@ -729,7 +731,6 @@
 34.34.45.191/32 # Netherlands | North Holland | Google LLC
 34.34.133.168/32 # Belgium | Brussels-Capital | Google LLC
 34.34.146.226/32
-34.34.149.10/32 # Belgium | Brussels-Capital | Google LLC
 34.38.7.103/32 # Belgium | Brussels-Capital | Google LLC
 34.38.14.136/32 # Belgium | Brussels-Capital | Google LLC
 34.38.29.195/32 # Belgium | Brussels-Capital | Google LLC
@@ -765,7 +766,6 @@
 34.53.139.89/32 # Belgium | Brussels-Capital | Google LLC
 34.53.139.213/32 # Belgium | Brussels-Capital | Google LLC
 34.53.142.31/32 # Belgium | Brussels-Capital | Google LLC
-34.53.150.131/32 # Belgium | Brussels-Capital | Google LLC
 34.53.157.140/32 # Belgium | Brussels-Capital | Google LLC
 34.53.168.96/32 # Belgium | Brussels-Capital | Google LLC
 34.53.174.236/32 # Belgium | Brussels-Capital | Google LLC
@@ -838,6 +838,7 @@
 34.77.0.234/32
 34.77.50.46/32 # Belgium | Brussels-Capital | Google LLC
 34.77.58.37/32 # Belgium | Brussels-Capital | Google LLC
+34.77.59.115/32
 34.77.70.217/32 # Belgium | Brussels-Capital | Google LLC
 34.77.75.2/32 # Belgium | Brussels-Capital | Google LLC
 34.77.104.23/32 # Belgium | Brussels-Capital | Google LLC
@@ -994,7 +995,6 @@
 35.195.47.116/32 # Belgium | Brussels-Capital | Google LLC
 35.195.54.43/32
 35.195.60.87/32
-35.195.76.170/32 # Belgium | Brussels-Capital | Google LLC
 35.195.94.136/32 # Belgium | Brussels-Capital | Google LLC
 35.195.95.115/32
 35.195.130.61/32 # Belgium | Brussels-Capital | Google LLC
@@ -1315,6 +1315,7 @@
 61.4.102.97/32 # Malaysia | Federal Territory of Kuala Lumpur | Gigabit Hos...
 61.52.75.249/32 # China | Henan | China Unicom China1 Backbone
 61.135.185.29/32 # China | Beijing | China Unicom Beijing Province Network
+61.137.148.215/32
 61.139.76.99/32 # China | Sichuan | Chinanet Sichuan Telecom Internet Data C...
 61.146.235.54/32 # China | Guangdong Province | Chinanet
 61.184.21.201/32 # China | Hubei | China Telecom
@@ -1484,7 +1485,6 @@
 85.121.52.46/32 # Germany | Hesse | M Europe SRL
 85.121.126.242/32 # Netherlands | South Holland | M Europe SRL
 85.155.228.197/32 # Albania | Central Albania | ANDREW KRISTULI
-85.193.81.20/32 # Russia | Saint Petersburg | JSC TIMEWEB
 85.203.54.241/32
 86.38.216.94/32 # United States | Florida | Limestone Networks, Inc.
 86.54.24.25/32 # Latvia | Vidzeme | Noyobzoda Faridduni Saidilhom
@@ -2229,7 +2229,6 @@
 154.194.96.25/32 # Germany | Berlin | Clouvider Limited
 154.194.96.38/32 # Germany | Berlin | Clouvider Limited
 154.194.97.33/32 # Germany | Berlin | Clouvider Limited
-154.194.97.84/32 # Germany | Berlin | Clouvider Limited
 154.194.97.124/32
 154.194.97.185/32 # Germany | Berlin | Clouvider Limited
 154.194.99.24/32 # Germany | Berlin | Clouvider Limited
@@ -2283,7 +2282,6 @@
 154.195.1.53/32 # Germany | Berlin | Clouvider Limited
 154.195.1.188/32 # Germany | Berlin | Clouvider Limited
 154.195.1.207/32
-154.195.3.157/32 # Germany | Berlin | Clouvider Limited
 154.195.3.165/32 # Germany | Berlin | Clouvider Limited
 154.195.6.241/32 # Germany | Berlin | Clouvider Limited
 154.195.6.252/32 # Germany | Berlin | Clouvider Limited
@@ -2294,7 +2292,6 @@
 154.195.16.184/32 # Germany | Berlin | Clouvider Limited
 154.195.17.71/32 # Germany | Berlin | Clouvider Limited
 154.195.17.82/32 # Germany | Berlin | Clouvider Limited
-154.195.17.157/32 # Germany | Berlin | Clouvider Limited
 154.195.17.168/32 # Germany | Berlin | Clouvider Limited
 154.195.18.163/32 # Germany | Berlin | Clouvider Limited
 154.195.19.58/32 # Germany | Berlin | Clouvider Limited
@@ -2458,7 +2455,6 @@
 154.195.187.11/32
 154.195.187.89/32 # Germany | Hesse | Clouvider Limited
 154.195.187.126/32 # Germany | Hesse | Clouvider Limited
-154.195.188.160/32 # Germany | Hesse | Clouvider Limited
 154.195.189.37/32 # Germany | Hesse | Clouvider Limited
 154.195.189.137/32 # Germany | Hesse | Clouvider Limited
 154.195.189.146/32
@@ -3188,10 +3184,8 @@
 194.163.183.39/32 # France | Grand Est | Contabo GmbH
 194.164.57.119/32
 194.164.172.158/32 # Spain | Madrid | IONOS SE
-194.213.18.78/32 # United States | Oregon | Clouvider Limited
 194.233.70.227/32 # Singapore | Southeast | Contabo Asia Private Limited
 195.3.222.251/32 # Poland | Masovian Voivodeship | Mevspace Sp. Z O.O.
-195.22.245.159/32 # Republic of Moldova | Chisinau | ORANGE MOLDOVA S.A.
 195.49.212.189/32 # Kazakhstan | Almaty Province | Ps Internet Company LLP
 195.64.111.8/32 # United Kingdom | Wales | Clouvider Limited
 195.64.111.112/32
