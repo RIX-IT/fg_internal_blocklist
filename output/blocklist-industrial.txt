@@ -268,7 +268,6 @@
 142.111.213.0/24 # United States | California | Clouvider Limited
 142.111.226.0/24 # United States | New York | HOST TELECOM LTD
 142.111.228.0/24 # United States | New York | HOST TELECOM LTD
-142.111.229.0/24 # United States | New York | HOST TELECOM LTD
 142.111.231.0/24 # United States | California | Clouvider Limited
 142.111.232.0/24 # United States | New York | HOST TELECOM LTD
 142.111.233.0/24 # United States | New York | HOST TELECOM LTD
@@ -327,7 +326,6 @@
 153.80.144.0/24 # United States | Oklahoma | GREEN FLOID LLC
 153.80.145.0/24 # United States | Oklahoma | GREEN FLOID LLC
 153.80.155.0/24 # United States | Florida | GREEN FLOID LLC
-153.80.156.0/24
 153.80.157.0/24 # United States | Utah | GREEN FLOID LLC
 153.80.158.0/24 # United States | Florida | GREEN FLOID LLC
 154.223.212.0/24
@@ -393,7 +391,6 @@
 170.62.100.0/24 # Sweden | Skåne County | Datacamp Limited
 170.168.215.0/24 # United States | District of Columbia | GREEN FLOID LLC
 170.168.230.0/24 # United States | District of Columbia | GREEN FLOID LLC
-170.168.250.0/24 # United States | District of Columbia | GREEN FLOID LLC
 172.120.12.0/24 # United States | California | HOST TELECOM LTD
 172.120.17.0/24 # United States | California | HOST TELECOM LTD
 172.120.20.0/24
@@ -405,7 +402,6 @@
 172.120.48.0/24 # United States | Nevada | Clouvider Limited
 172.120.50.0/24 # United States | New York | Clouvider Limited
 172.120.53.0/24 # United States | Nevada | Clouvider Limited
-172.120.57.0/24 # United States | California | IT HOSTLINE LTD
 172.120.60.0/24 # United Kingdom | England | IT HOSTLINE LTD
 172.120.61.0/24 # United States | California | IT HOSTLINE LTD
 172.120.63.0/24 # United States | California | IT HOSTLINE LTD
@@ -690,7 +686,6 @@
 27.43.206.123/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.207.224/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.215.48.230/32 # China | Shandong | China Unicom China1 Backbone
-27.216.16.63/32 # China | Shandong | China Unicom China1 Backbone
 31.57.129.23/32 # Romania | Bucharest | FIVE CYBER HOST SECURITY S.R.L.
 31.76.51.127/32 # Finland | Mainland Finland | Dpkgsoft International Limited
 31.76.87.40/32
@@ -1571,7 +1566,6 @@
 103.73.58.190/32 # Philippines | Antique | Barbaza Multi purpose Cooperative
 103.74.20.130/32 # Pakistan | Sindh | Galaxy Broadband pvt. Ltd.
 103.74.20.165/32 # Pakistan | Sindh | Galaxy Broadband pvt. Ltd.
-103.75.199.78/32 # Germany | Hesse | Bitcommand LLC
 103.96.130.107/32 # Hong Kong | Hong Kong | WUZHOUHULIAN INTERNATIONAL CO., LI...
 103.98.37.105/32 # India | Delhi | NETMAX COMPUTERS
 103.99.196.2/32 # India | Delhi | Maxnet Digital Pvt LTD
@@ -1729,6 +1723,7 @@
 111.61.92.78/32 # China | Hebei | China Mobile
 111.90.145.48/32 # Malaysia | Federal Territory of Kuala Lumpur | Shinjiru Te...
 111.90.159.202/32 # Malaysia | Federal Territory of Kuala Lumpur | Shinjiru Te...
+111.228.6.20/32
 112.18.182.218/32 # China | Guangdong Province | China Mobile
 112.80.248.27/32 # China | Jiangsu | China Unicom China1 Backbone
 112.134.222.145/32 # Sri Lanka | Western Province | Sri Lanka Telecom LTD
@@ -2054,6 +2049,10 @@
 142.111.177.69/32 # United States | New York | HOST TELECOM LTD
 142.111.177.130/32 # United States | New York | HOST TELECOM LTD
 142.111.177.161/32 # United States | New York | HOST TELECOM LTD
+142.111.229.65/32
+142.111.229.92/32
+142.111.229.132/32
+142.111.229.157/32
 142.190.156.42/32 # United States | Alabama | Uniti Fiber Holdings Inc.
 143.44.185.100/32 # Philippines | Davao del Norte | Comclark Network Technolog...
 143.105.129.85/32 # Guyana | Demerara-Mahaica | Space Exploration Technologies...
@@ -2134,6 +2133,10 @@
 153.80.140.79/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 153.80.140.80/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 153.80.140.191/32
+153.80.156.31/32
+153.80.156.124/32
+153.80.156.215/32
+153.80.156.237/32
 153.80.160.15/32
 153.80.160.44/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 153.80.240.216/32 # Netherlands | Limburg | GLOBAL CONNECTIVITY SOLUTIONS LLP
@@ -2150,6 +2153,7 @@
 153.117.40.230/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 153.117.41.44/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 153.117.41.236/32 # Pakistan | Sindh | Cyber Internet Services private Limited
+154.53.46.72/32
 154.81.46.110/32 # United Kingdom | England | IT HOSTLINE LTD
 154.81.46.245/32 # United Kingdom | England | IT HOSTLINE LTD
 154.81.47.29/32 # United Kingdom | England | IT HOSTLINE LTD
@@ -2195,7 +2199,6 @@
 154.194.78.111/32 # Germany | Berlin | Clouvider Limited
 154.194.78.117/32 # Germany | Berlin | Clouvider Limited
 154.194.78.215/32 # Germany | Berlin | Clouvider Limited
-154.194.79.38/32 # Germany | Berlin | Clouvider Limited
 154.194.79.39/32 # Germany | Berlin | Clouvider Limited
 154.194.80.19/32 # Germany | Berlin | Clouvider Limited
 154.194.80.112/32
@@ -2219,7 +2222,6 @@
 154.194.91.242/32 # Germany | Berlin | Clouvider Limited
 154.194.91.248/32 # Germany | Berlin | Clouvider Limited
 154.194.92.5/32 # Germany | Berlin | Clouvider Limited
-154.194.93.67/32 # Germany | Berlin | Clouvider Limited
 154.194.93.251/32 # Germany | Berlin | Clouvider Limited
 154.194.94.177/32 # Germany | Berlin | Clouvider Limited
 154.194.94.185/32
@@ -2775,7 +2777,6 @@
 166.1.223.54/32 # Germany | Berlin | Clouvider Limited
 166.1.223.93/32 # Germany | Berlin | Clouvider Limited
 166.1.224.69/32 # Germany | Berlin | Clouvider Limited
-166.88.49.115/32 # United States | California | HOST TELECOM LTD
 166.88.49.146/32 # United States | California | HOST TELECOM LTD
 166.88.49.201/32 # United States | California | HOST TELECOM LTD
 166.88.49.221/32 # United States | California | HOST TELECOM LTD
@@ -2816,6 +2817,10 @@
 170.168.223.127/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 170.168.223.163/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 170.168.238.137/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
+170.168.250.89/32
+170.168.250.92/32
+170.168.250.122/32
+170.168.250.230/32
 170.187.147.110/32 # United States | Georgia | Akamai Technologies, Inc.
 170.239.36.173/32 # Brazil | State of Bahia | CONECT TELECOM
 171.36.7.44/32 # China | Guangxi | China Unicom China1 Backbone
@@ -2825,6 +2830,10 @@
 172.86.89.186/32 # United States | Texas | Routerhosting LLC
 172.86.93.139/32 # Germany | Hesse | Aurologic GmbH
 172.96.10.220/32 # United States | Missouri | Unreal Servers, LLC
+172.120.57.59/32
+172.120.57.158/32
+172.120.57.227/32
+172.120.57.232/32
 172.120.157.79/32 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.157.183/32 # United States | Washington | HOST TELECOM LTD
 172.120.157.239/32 # United States | Washington | HOST TELECOM LTD
@@ -3177,7 +3186,6 @@
 194.60.76.163/32 # United Kingdom | England | Clouvider Limited
 194.60.76.226/32 # United Kingdom | England | Clouvider Limited
 194.61.89.82/32 # Armenia | Yerevan | Arpinet LLC
-194.87.114.232/32 # Germany | Hesse | Datacamp Limited
 194.88.98.89/32 # Germany | Hesse | Hydra Communications LTD
 194.156.95.11/32 # Germany | Berlin | Clouvider Limited
 194.156.95.65/32 # Germany | Berlin | Clouvider Limited
