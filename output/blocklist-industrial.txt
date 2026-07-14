@@ -213,9 +213,7 @@
 136.234.142.0/24 # United States | Texas | GREEN FLOID LLC
 136.234.143.0/24 # United States | Texas | GREEN FLOID LLC
 136.234.239.0/24 # United States | District of Columbia | GREEN FLOID LLC
-136.234.240.0/24
 136.234.241.0/24 # United States | Nevada | GREEN FLOID LLC
-136.234.242.0/24
 138.249.131.0/24 # United States | New York | Clouvider Limited
 138.249.139.0/24
 138.249.167.0/24 # United States | District of Columbia | Clouvider Limited
@@ -263,8 +261,6 @@
 142.111.112.0/24 # United States | New York | HOST TELECOM LTD
 142.111.121.0/24 # United States | California | Clouvider Limited
 142.111.128.0/24 # United States | New York | HOST TELECOM LTD
-142.111.176.0/24 # United States | New York | HOST TELECOM LTD
-142.111.193.0/24 # United States | New York | HOST TELECOM LTD
 142.111.213.0/24 # United States | California | Clouvider Limited
 142.111.226.0/24 # United States | New York | HOST TELECOM LTD
 142.111.228.0/24 # United States | New York | HOST TELECOM LTD
@@ -333,7 +329,6 @@
 155.212.41.0/24 # United States | Washington | GREEN FLOID LLC
 155.212.50.0/24 # United States | Washington | GREEN FLOID LLC
 155.212.59.0/24 # United States | Washington | GREEN FLOID LLC
-155.212.66.0/24 # United States | Washington | GREEN FLOID LLC
 155.212.77.0/24 # United States | Washington | GREEN FLOID LLC
 155.212.85.0/24 # United States | Washington | GREEN FLOID LLC
 155.212.94.0/24 # United States | Washington | GREEN FLOID LLC
@@ -437,7 +432,6 @@
 172.120.204.0/24 # United States | Texas | IT HOSTLINE LTD
 172.120.205.0/24 # United States | Texas | IT HOSTLINE LTD
 172.120.207.0/24 # United States | Texas | IT HOSTLINE LTD
-172.120.209.0/24
 172.120.210.0/24 # United Kingdom | England | IT HOSTLINE LTD
 172.120.211.0/24 # United States | Texas | IT HOSTLINE LTD
 172.120.218.0/24 # United States | Texas | IT HOSTLINE LTD
@@ -687,6 +681,7 @@
 27.43.207.224/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.215.48.230/32 # China | Shandong | China Unicom China1 Backbone
 31.57.129.23/32 # Romania | Bucharest | FIVE CYBER HOST SECURITY S.R.L.
+31.59.160.12/32
 31.76.51.127/32 # Finland | Mainland Finland | Dpkgsoft International Limited
 31.76.87.40/32
 31.220.109.219/32 # United States | Arizona | Hostinger International Limited
@@ -782,7 +777,6 @@
 34.62.70.216/32 # Belgium | Brussels-Capital | Google LLC
 34.62.70.232/32 # Belgium | Brussels-Capital | Google LLC
 34.62.88.108/32 # Belgium | Brussels-Capital | Google LLC
-34.62.93.148/32 # Belgium | Brussels-Capital | Google LLC
 34.62.98.87/32 # Belgium | Brussels-Capital | Google LLC
 34.62.100.183/32 # Belgium | Brussels-Capital | Google LLC
 34.62.103.217/32 # Belgium | Brussels-Capital | Google LLC
@@ -913,7 +907,6 @@
 34.140.134.247/32 # Belgium | Brussels-Capital | Google LLC
 34.140.166.174/32 # Belgium | Brussels-Capital | Google LLC
 34.140.174.12/32 # Belgium | Brussels-Capital | Google LLC
-34.140.209.243/32 # Belgium | Brussels-Capital | Google LLC
 34.140.230.252/32 # Belgium | Brussels-Capital | Google LLC
 34.140.232.213/32 # Belgium | Brussels-Capital | Google LLC
 34.140.248.64/32 # Belgium | Brussels-Capital | Google LLC
@@ -990,7 +983,6 @@
 35.195.47.116/32 # Belgium | Brussels-Capital | Google LLC
 35.195.54.43/32
 35.195.60.87/32
-35.195.94.136/32 # Belgium | Brussels-Capital | Google LLC
 35.195.95.115/32
 35.195.130.61/32 # Belgium | Brussels-Capital | Google LLC
 35.195.135.74/32 # Belgium | Brussels-Capital | Google LLC
@@ -1870,6 +1862,14 @@
 136.234.139.6/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 136.234.139.15/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 136.234.139.77/32
+136.234.240.84/32
+136.234.240.128/32
+136.234.240.145/32
+136.234.240.217/32
+136.234.242.101/32
+136.234.242.125/32
+136.234.242.218/32
+136.234.242.242/32
 136.234.244.34/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 136.234.244.56/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 136.234.249.3/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
@@ -2045,10 +2045,18 @@
 142.111.130.35/32 # United States | New York | HOST TELECOM LTD
 142.111.130.136/32 # United States | New York | HOST TELECOM LTD
 142.111.130.171/32 # United States | New York | HOST TELECOM LTD
+142.111.176.27/32
+142.111.176.36/32
+142.111.176.84/32
+142.111.176.110/32
 142.111.177.14/32 # United States | New York | HOST TELECOM LTD
 142.111.177.69/32 # United States | New York | HOST TELECOM LTD
 142.111.177.130/32 # United States | New York | HOST TELECOM LTD
 142.111.177.161/32 # United States | New York | HOST TELECOM LTD
+142.111.193.48/32
+142.111.193.99/32
+142.111.193.218/32
+142.111.193.227/32
 142.111.229.65/32
 142.111.229.92/32
 142.111.229.132/32
@@ -2585,6 +2593,10 @@
 155.212.55.202/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 155.212.63.30/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 155.212.63.74/32
+155.212.66.82/32
+155.212.66.113/32
+155.212.66.168/32
+155.212.66.243/32
 155.212.74.7/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 155.212.74.98/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 155.212.74.216/32
@@ -2817,7 +2829,6 @@
 170.168.223.127/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 170.168.223.163/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 170.168.238.137/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
-170.168.250.89/32
 170.168.250.92/32
 170.168.250.122/32
 170.168.250.230/32
@@ -2837,7 +2848,6 @@
 172.120.157.79/32 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.157.183/32 # United States | Washington | HOST TELECOM LTD
 172.120.157.239/32 # United States | Washington | HOST TELECOM LTD
-172.120.157.244/32 # United States | Washington | HOST TELECOM LTD
 172.120.182.6/32 # United States | Pennsylvania | HOST TELECOM LTD
 172.120.182.17/32 # United States | Pennsylvania | IT HOSTLINE LTD
 172.120.182.61/32 # United States | Pennsylvania | HOST TELECOM LTD
@@ -2847,13 +2857,16 @@
 172.120.190.188/32 # United States | Illinois | HOST TELECOM LTD
 172.120.190.202/32 # United States | Illinois | HOST TELECOM LTD
 172.120.202.37/32 # United States | Pennsylvania | HOST TELECOM LTD
-172.120.202.53/32 # United States | Pennsylvania | HOST TELECOM LTD
 172.120.202.68/32 # United States | Pennsylvania | HOST TELECOM LTD
 172.120.202.214/32 # United States | Pennsylvania | IT HOSTLINE LTD
 172.120.203.15/32
 172.120.203.118/32 # United States | Texas | HOST TELECOM LTD
 172.120.203.208/32 # United Kingdom | England | IT HOSTLINE LTD
 172.120.203.253/32 # United States | Texas | HOST TELECOM LTD
+172.120.209.24/32
+172.120.209.35/32
+172.120.209.131/32
+172.120.209.230/32
 172.120.248.2/32 # United States | California | HOST TELECOM LTD
 172.120.248.88/32 # United Kingdom | England | IT HOSTLINE LTD
 172.120.248.106/32 # United States | California | HOST TELECOM LTD
@@ -2884,6 +2897,7 @@
 173.214.173.23/32 # United States | New Jersey | Interserver, INC
 173.214.173.25/32 # United States | New Jersey | Interserver, INC
 173.232.146.90/32
+173.249.37.183/32
 175.103.49.98/32
 175.107.2.62/32
 175.107.3.195/32 # Pakistan | Punjab | National Telecommunication Corporation
@@ -2967,7 +2981,6 @@
 179.64.71.248/32 # Ghana | Greater Accra Region | Space Exploration Technolog...
 179.107.188.250/32 # Brazil | State of Bahia | Speed Servi os De Internet LTDA
 180.102.249.133/32 # China | Jiangsu | Chinanet
-180.102.249.146/32 # China | Jiangsu | Chinanet
 180.178.122.131/32 # Australia | Queensland | All Interactive Distribution
 180.178.189.17/32 # Pakistan | Islamabad Capital Territory | FEMO IT SOLUTIONS...
 180.243.219.104/32 # Indonesia | Jambi | Telekomunikasi Indonesia pt
@@ -2986,6 +2999,7 @@
 182.123.254.99/32 # China | Henan | China Unicom China1 Backbone
 182.127.101.117/32 # China | Henan | China Unicom China1 Backbone
 183.11.141.158/32 # China | Guangdong Province | Chinanet
+183.80.149.165/32
 183.222.14.9/32 # China | Sichuan | China Mobile
 185.11.61.149/32 # Hong Kong | Hong Kong | Chang Way Technologies Co. Limited
 185.22.153.228/32 # Russia | Moscow | LLC Baxet
@@ -3317,7 +3331,6 @@
 209.159.157.68/32 # United States | New Jersey | Interserver, INC
 209.182.225.121/32 # United States | Washington | Shock Hosting LLC
 210.56.49.72/32 # Hong Kong | Hong Kong | Ctg Server Limited
-212.6.36.19/32 # Germany | Berlin | Clouvider Limited
 212.6.36.58/32
 212.43.147.168/32 # United States | New Jersey | Podaon Sia
 212.43.153.127/32 # United States | New Jersey | Podaon Sia
@@ -3368,6 +3381,7 @@
 223.123.44.120/32 # Pakistan | Punjab | Cmpak Limited
 223.123.71.49/32 # Pakistan | Khyber Pakhtunkhwa | Cmpak Limited
 223.123.72.223/32 # Pakistan | Punjab | Cmpak Limited
+223.123.124.126/32
 223.123.125.10/32 # Pakistan | Punjab | Cmpak Limited
 223.123.125.178/32 # Pakistan | Punjab | Cmpak Limited
 223.206.7.211/32 # Thailand | Bangkok | Triple T Broadband Public Company Lim...
