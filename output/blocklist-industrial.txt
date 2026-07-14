@@ -86,7 +86,6 @@
 45.159.127.0/24 # United States | New York | Clouvider Limited
 45.192.32.0/24 # United States | New York | Clouvider Limited
 45.192.33.0/24 # United States | New York | Clouvider Limited
-45.192.34.0/24 # United States | New York | Clouvider Limited
 45.192.35.0/24 # United States | New York | Clouvider Limited
 45.192.36.0/24 # United States | New York | Clouvider Limited
 45.192.37.0/24 # United States | New York | Clouvider Limited
@@ -225,7 +224,6 @@
 138.249.237.0/24
 138.249.238.0/24 # United States | California | Clouvider Limited
 138.249.239.0/24 # United States | New York | Clouvider Limited
-141.98.255.0/24
 141.133.3.0/24 # United States | New York | Clouvider Limited
 141.133.4.0/24 # United States | Arizona | Clouvider Limited
 141.133.5.0/24 # United States | Arizona | Clouvider Limited
@@ -352,7 +350,6 @@
 166.1.159.0/24 # United States | Pennsylvania | Clouvider Limited
 166.1.168.0/24 # United States | New York | Clouvider Limited
 166.1.196.0/24 # United States | Pennsylvania | Clouvider Limited
-166.1.241.0/24 # United States | Arizona | Clouvider Limited
 166.1.242.0/24 # United States | Arizona | Clouvider Limited
 166.1.243.0/24 # United States | Arizona | Clouvider Limited
 166.1.244.0/24 # United States | Virginia | Clouvider Limited
@@ -365,7 +362,6 @@
 166.88.9.0/24 # United States | New York | Clouvider Limited
 166.88.41.0/24 # United States | California | HOST TELECOM LTD
 166.88.72.0/24 # United States | California | HOST TELECOM LTD
-166.88.76.0/24 # United States | California | HOST TELECOM LTD
 166.88.143.0/24 # United States | California | HOST TELECOM LTD
 166.88.156.0/24 # United States | Nevada | Clouvider Limited
 166.88.158.0/24 # United States | Nevada | Clouvider Limited
@@ -404,7 +400,6 @@
 172.120.118.0/24 # United States | Washington | HOST TELECOM LTD
 172.120.121.0/24 # United States | Washington | IT HOSTLINE LTD
 172.120.130.0/24 # United States | District of Columbia | HOST TELECOM LTD
-172.120.137.0/24 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.138.0/24 # United States | Washington | IT HOSTLINE LTD
 172.120.141.0/24 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.148.0/24 # United States | District of Columbia | IT HOSTLINE LTD
@@ -451,7 +446,6 @@
 173.249.253.0/24 # United States | Illinois | Tzulo, Inc.
 173.249.254.0/24 # United States | Illinois | Tzulo, Inc.
 173.249.255.0/24 # United States | Illinois | Tzulo, Inc.
-175.107.233.0/24
 176.53.133.0/24 # United States | Maryland | Clouvider Limited
 176.100.130.0/24 # United States | New York | Clouvider Limited
 176.100.131.0/24 # United States | New York | Clouvider Limited
@@ -678,6 +672,9 @@
 31.59.160.12/32
 31.76.51.127/32 # Finland | Mainland Finland | Dpkgsoft International Limited
 31.76.87.40/32
+31.77.168.99/32
+31.77.168.186/32
+31.77.168.190/32
 31.220.109.219/32 # United States | Arizona | Hostinger International Limited
 31.222.246.85/32
 31.222.246.207/32 # United Kingdom | England | Clouvider Limited
@@ -1219,6 +1216,10 @@
 45.156.129.168/32 # United States | Illinois | Nsec Sistemas Informaticos, S.A.
 45.159.85.25/32 # Germany | Baden-Württemberg | Clouvider Limited
 45.159.85.161/32 # Germany | Hesse | Clouvider Limited
+45.192.34.117/32
+45.192.34.119/32
+45.192.34.134/32
+45.192.34.202/32
 45.192.59.7/32 # Canada | Ontario | HOST TELECOM LTD
 45.192.59.14/32 # Canada | Ontario | HOST TELECOM LTD
 45.192.59.22/32 # Canada | Ontario | HOST TELECOM LTD
@@ -1557,7 +1558,6 @@
 103.74.20.165/32 # Pakistan | Sindh | Galaxy Broadband pvt. Ltd.
 103.96.130.107/32 # Hong Kong | Hong Kong | WUZHOUHULIAN INTERNATIONAL CO., LI...
 103.98.37.105/32 # India | Delhi | NETMAX COMPUTERS
-103.99.196.2/32 # India | Delhi | Maxnet Digital Pvt LTD
 103.110.19.89/32 # India | Haryana | ANJANI BROADBAND SOLUTIONS PVT.LTD.
 103.115.199.16/32 # Pakistan | Punjab | Z COM NETWORKS
 103.116.136.194/32 # India | Uttar Pradesh | R G TECHNOSOLUTIONS PVT LTD
@@ -1567,6 +1567,7 @@
 103.133.24.51/32 # Indonesia | Jawa Barat | PT PHATRIA INTI PERSADA
 103.150.36.36/32 # Taiwan | Taichung City | Hostinginside LTD
 103.152.9.19/32 # Philippines | Cavite | Citi Cableworld Inc.
+103.153.3.85/32
 103.160.197.68/32 # India | Uttar Pradesh | Userlinks Netcom Pvt. Ltd.
 103.160.197.96/32 # India | Haryana | Userlinks Netcom Pvt. Ltd.
 103.160.197.220/32 # India | Uttar Pradesh | Userlinks Netcom Pvt. Ltd.
@@ -1587,6 +1588,7 @@
 103.196.163.240/32 # Pakistan | Sindh | Connect Communication
 103.197.112.90/32 # India | Tamil Nadu | Railtel Corporation of India Ltd.
 103.203.88.212/32 # Pakistan | Sindh | Logon Broadband Pvt. Limited
+103.203.88.238/32
 103.213.112.61/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 103.213.112.127/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 103.216.198.137/32 # United Kingdom | England | M247 Europe SRL
@@ -1987,6 +1989,10 @@
 140.205.220.98/32 # China | Zhejiang | Hangzhou Alibaba Advertising CO.,LTD.
 141.11.88.108/32 # United States | New Jersey | Royalehosting BV
 141.98.199.231/32 # Singapore | Southeast | Xtom Pty LTD
+141.98.255.133/32
+141.98.255.135/32
+141.98.255.136/32
+141.98.255.141/32
 141.133.23.24/32
 141.133.24.46/32 # Germany | Berlin | Ivanov Vitaliy Sergeevich
 141.133.24.83/32 # Germany | Berlin | Ivanov Vitaliy Sergeevich
@@ -2120,6 +2126,7 @@
 152.234.164.35/32
 152.234.167.59/32
 152.234.168.22/32
+152.234.168.62/32
 152.234.168.71/32
 152.234.168.72/32
 152.234.169.61/32
@@ -2151,6 +2158,7 @@
 153.117.9.152/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 153.117.13.45/32 # Pakistan | Punjab | Cyber Internet Services (private) Limited
 153.117.14.15/32 # Pakistan | Punjab | Cyber Internet Services private Limited
+153.117.15.40/32
 153.117.15.196/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 153.117.32.175/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 153.117.32.246/32 # Pakistan | Punjab | Cyber Internet Services (private) Limited
@@ -2786,6 +2794,10 @@
 166.1.223.54/32 # Germany | Berlin | Clouvider Limited
 166.1.223.93/32 # Germany | Berlin | Clouvider Limited
 166.1.224.69/32 # Germany | Berlin | Clouvider Limited
+166.1.241.32/32
+166.1.241.87/32
+166.1.241.138/32
+166.1.241.169/32
 166.1.245.191/32
 166.1.245.234/32
 166.1.245.237/32
@@ -2797,12 +2809,15 @@
 166.88.49.146/32 # United States | California | HOST TELECOM LTD
 166.88.49.201/32 # United States | California | HOST TELECOM LTD
 166.88.49.221/32 # United States | California | HOST TELECOM LTD
+166.88.76.32/32
+166.88.76.104/32
+166.88.76.105/32
+166.88.76.225/32
 166.88.153.8/32
 166.88.153.108/32
 166.88.153.139/32
 166.88.153.169/32
 166.88.218.166/32 # United States | California | HOST TELECOM LTD
-166.88.218.175/32 # United States | California | HOST TELECOM LTD
 166.88.218.229/32 # United States | California | HOST TELECOM LTD
 166.88.218.252/32 # United States | California | HOST TELECOM LTD
 166.88.219.18/32 # United States | California | HOST TELECOM LTD
@@ -2853,6 +2868,10 @@
 172.120.57.158/32
 172.120.57.227/32
 172.120.57.232/32
+172.120.137.31/32
+172.120.137.53/32
+172.120.137.226/32
+172.120.137.233/32
 172.120.157.79/32 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.157.183/32 # United States | Washington | HOST TELECOM LTD
 172.120.157.239/32 # United States | Washington | HOST TELECOM LTD
@@ -2867,7 +2886,6 @@
 172.120.182.6/32 # United States | Pennsylvania | HOST TELECOM LTD
 172.120.182.17/32 # United States | Pennsylvania | IT HOSTLINE LTD
 172.120.182.61/32 # United States | Pennsylvania | HOST TELECOM LTD
-172.120.182.182/32 # United States | Pennsylvania | HOST TELECOM LTD
 172.120.190.95/32 # United States | Illinois | HOST TELECOM LTD
 172.120.190.185/32 # United States | Illinois | IT HOSTLINE LTD
 172.120.190.188/32 # United States | Illinois | HOST TELECOM LTD
@@ -2881,10 +2899,8 @@
 172.120.209.35/32
 172.120.209.131/32
 172.120.209.230/32
-172.120.248.2/32 # United States | California | HOST TELECOM LTD
 172.120.248.88/32 # United Kingdom | England | IT HOSTLINE LTD
 172.120.248.122/32 # United States | California | HOST TELECOM LTD
-172.121.48.130/32 # United States | Nevada | HOST TELECOM LTD
 172.121.48.134/32 # United States | Nevada | HOST TELECOM LTD
 172.121.48.196/32 # United Kingdom | England | IT HOSTLINE LTD
 172.174.118.44/32 # United States | Virginia | Microsoft Corporation
@@ -2923,6 +2939,10 @@
 175.107.217.29/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 175.107.224.148/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 175.107.228.128/32 # Pakistan | Punjab | Cyber Internet Services private Limited
+175.107.233.41/32
+175.107.233.107/32
+175.107.233.143/32
+175.107.233.230/32
 175.107.237.218/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 175.165.87.53/32 # China | Liaoning | China Unicom China1 Backbone
 176.118.38.23/32 # Canada | Québec | Clouvider Limited
@@ -2943,9 +2963,11 @@
 177.1.49.4/32
 177.1.49.68/32
 177.1.50.221/32
+177.1.51.58/32
 177.1.52.32/32
 177.1.55.109/32
 177.1.55.122/32
+177.1.56.18/32
 177.1.56.24/32
 177.1.57.49/32
 177.1.57.53/32
@@ -2957,6 +2979,7 @@
 177.185.78.39/32 # Brazil | State of Minas Gerais | NORTETEL TELECOMUNICACOES...
 177.202.192.30/32
 177.202.196.11/32
+177.202.196.36/32
 177.202.196.51/32
 177.202.198.208/32
 177.202.199.22/32
@@ -3033,7 +3056,6 @@
 185.97.76.9/32 # Germany | Hesse | Clouvider Limited
 185.97.76.148/32 # Germany | Hesse | Clouvider Limited
 185.97.76.161/32 # Germany | Hesse | Clouvider Limited
-185.100.157.74/32 # Sweden | Stockholm County | Partner Hosting LTD
 185.101.201.140/32 # Canada | Alberta | Clouvider Limited
 185.101.202.81/32 # Canada | Alberta | Clouvider Limited
 185.101.202.216/32 # Canada | Alberta | Clouvider Limited
@@ -3053,6 +3075,7 @@
 185.178.231.253/32 # Spain | Catalunya | Servinga GmbH
 185.180.141.67/32 # United States | Illinois | Zenlayer INC
 185.180.221.108/32 # Netherlands | South Holland | Worldstream B.V.
+185.184.222.56/32
 185.198.234.10/32 # Netherlands | North Holland | Royalehosting BV
 185.208.158.250/32 # Switzerland | Bern | Global data System IT Corporation
 185.214.165.7/32 # United Kingdom | England | Clouvider Limited
@@ -3077,6 +3100,7 @@
 186.240.176.70/32
 186.240.177.25/32
 186.240.177.200/32
+186.240.179.132/32
 186.240.179.140/32
 186.240.180.87/32
 186.240.181.64/32
@@ -3124,8 +3148,10 @@
 187.52.193.193/32
 187.52.195.12/32
 187.52.195.16/32
+187.52.197.25/32
 187.52.197.35/32
 187.52.199.70/32
+187.52.200.19/32
 187.52.200.85/32
 187.52.200.155/32
 187.52.200.162/32
@@ -3143,8 +3169,10 @@
 187.126.33.20/32
 187.126.33.30/32
 187.126.35.2/32
+187.126.35.32/32
 187.126.35.42/32
 187.126.37.28/32
+187.126.37.42/32
 187.126.37.207/32
 187.126.39.53/32
 187.126.39.56/32
@@ -3158,6 +3186,7 @@
 187.126.45.147/32
 187.126.47.8/32
 187.126.47.19/32
+187.126.47.29/32
 187.126.47.31/32
 187.147.176.45/32 # Mexico | Yucatan | UNINET
 188.137.243.165/32 # United States | New Jersey | Podaon Sia
@@ -3237,6 +3266,7 @@
 195.245.111.34/32 # United Kingdom | England | Clouvider Limited
 195.245.111.37/32
 195.245.111.161/32 # United Kingdom | England | Clouvider Limited
+196.190.133.180/32
 196.229.189.59/32 # Tunisia | Sfax | Orange Tunisie
 196.251.84.144/32 # Netherlands | North Holland | internet security cheapyhost
 196.251.86.145/32 # Netherlands | North Holland | internet security cheapy.host
@@ -3270,10 +3300,12 @@
 200.225.176.6/32
 200.225.184.15/32
 200.225.187.41/32
+200.225.190.44/32
 200.225.190.52/32
 201.4.97.47/32
 201.4.98.11/32
 201.4.99.24/32
+201.4.99.36/32
 201.4.101.34/32
 201.4.110.249/32
 201.4.111.30/32
@@ -3281,6 +3313,7 @@
 201.4.112.13/32
 201.4.113.4/32
 201.4.113.54/32
+201.4.114.27/32
 201.4.123.58/32
 201.4.125.43/32
 201.4.127.11/32
