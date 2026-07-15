@@ -587,7 +587,6 @@
 5.183.129.254/32 # Canada | Newfoundland and Labrador | GREEN FLOID LLC
 5.226.140.85/32 # United Kingdom | England | Hydra Communications LTD
 8.209.91.142/32 # Germany | Hesse | Alibaba us Technology Co., Ltd.
-8.210.246.133/32 # Hong Kong | Hong Kong | Alibaba us Technology Co., Ltd.
 8.217.38.238/32 # Hong Kong | Hong Kong | Alibaba us Technology Co., Ltd.
 8.219.249.218/32 # Singapore | Southeast | Alibaba us Technology Co., Ltd.
 8.228.20.126/32 # United States | Nevada | Google LLC
@@ -668,6 +667,7 @@
 27.43.206.123/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.43.207.224/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.215.48.230/32 # China | Shandong | China Unicom China1 Backbone
+27.215.179.89/32
 31.57.129.23/32 # Romania | Bucharest | FIVE CYBER HOST SECURITY S.R.L.
 31.59.160.12/32
 31.76.51.127/32 # Finland | Mainland Finland | Dpkgsoft International Limited
@@ -1280,6 +1280,7 @@
 52.159.245.149/32 # United States | California | Microsoft Corporation
 52.161.178.108/32 # United States | Wyoming | Microsoft Corporation
 52.176.35.114/32 # United States | Iowa | Microsoft Corporation
+54.38.81.191/32
 54.39.83.187/32 # Canada | Québec | OVH SAS
 54.46.50.255/32 # Hong Kong | Hong Kong | Amazon.com, Inc.
 54.197.141.245/32 # United States | Virginia | Amazon.com, Inc.
@@ -1579,6 +1580,7 @@
 103.173.7.252/32 # Pakistan | Punjab | Nasstec Airnet Networks Private Limited
 103.173.139.230/32 # Indonesia | Central Java | Pt Serayu Multi Connection
 103.174.243.226/32 # India | Delhi | Qwistel Network Service Private Limited
+103.175.16.104/32
 103.176.16.12/32 # India | Delhi | Qwistel Network Service Private Limited
 103.181.134.138/32 # Hong Kong | Hong Kong | GNET INC.
 103.181.160.51/32 # India | Delhi | Xpress Net Solution
@@ -1834,6 +1836,7 @@
 135.106.94.136/32 # United States | Wyoming | GREEN FLOID LLC
 135.106.94.232/32 # United States | Wyoming | GREEN FLOID LLC
 135.119.77.153/32 # United States | Iowa | Microsoft Corporation
+135.136.21.45/32
 135.136.36.96/32
 135.232.122.168/32 # United States | Virginia | Microsoft Corporation
 135.232.176.179/32 # United States | Illinois | Microsoft Corporation
@@ -1968,6 +1971,7 @@
 138.249.231.50/32 # United Kingdom | England | Clouvider Limited
 138.249.231.220/32
 138.249.233.251/32 # Germany | Hesse | Clouvider Limited
+139.59.147.236/32
 139.84.156.79/32 # India | Karnataka | The Constant Company, LLC
 139.84.170.230/32 # India | Uttar Pradesh | The Constant Company, LLC
 139.135.41.152/32 # Pakistan | Punjab | Cyber Internet Services private Limited
@@ -2947,6 +2951,7 @@
 175.107.233.143/32
 175.107.233.230/32
 175.107.237.218/32 # Pakistan | Punjab | Cyber Internet Services private Limited
+175.148.155.190/32
 175.165.87.53/32 # China | Liaoning | China Unicom China1 Backbone
 176.118.38.23/32 # Canada | Québec | Clouvider Limited
 176.118.38.56/32 # Canada | Ontario | Clouvider Limited
@@ -3092,7 +3097,9 @@
 185.178.231.253/32 # Spain | Catalunya | Servinga GmbH
 185.180.221.108/32 # Netherlands | South Holland | Worldstream B.V.
 185.184.222.56/32
+185.184.222.69/32
 185.184.222.93/32
+185.184.222.144/32
 185.198.234.10/32 # Netherlands | North Holland | Royalehosting BV
 185.208.158.250/32 # Switzerland | Bern | Global data System IT Corporation
 185.214.165.7/32 # United Kingdom | England | Clouvider Limited
@@ -3272,6 +3279,8 @@
 194.33.9.141/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 194.33.9.248/32 # Canada | Québec | Ivanov Vitaliy Sergeevich
 194.33.9.250/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
+194.36.27.24/32
+194.36.27.135/32
 194.36.27.198/32
 194.60.76.58/32
 194.60.76.114/32 # United Kingdom | England | Clouvider Limited
