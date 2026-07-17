@@ -623,7 +623,6 @@
 20.55.127.231/32 # United States | District of Columbia | Microsoft Corporation
 20.55.214.64/32 # United States | Virginia | Microsoft Corporation
 20.62.204.23/32 # United States | District of Columbia | Microsoft Corporation
-20.74.212.144/32 # United Arab Emirates | Dubai | Microsoft Corporation
 20.80.108.164/32 # United States | Iowa | Microsoft Corporation
 20.87.107.163/32 # South Africa | Gauteng | Microsoft Corporation
 20.98.23.162/32 # United States | Illinois | Microsoft Corporation
@@ -689,6 +688,7 @@
 34.14.68.99/32 # Belgium | Brussels-Capital | Google LLC
 34.14.68.142/32 # Belgium | Brussels-Capital | Google LLC
 34.14.74.124/32 # Belgium | Brussels-Capital | Google LLC
+34.14.94.225/32
 34.14.127.61/32 # Belgium | Brussels-Capital | Google LLC
 34.17.189.246/32 # Italy | Piemont | Google LLC
 34.17.193.238/32 # Italy | Piemont | Google LLC
@@ -1292,6 +1292,7 @@
 59.92.68.138/32 # India | Tamil Nadu | Bharat Sanchar Nigam LTD
 59.96.138.161/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 59.110.7.32/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
+59.180.162.107/32
 60.28.38.66/32 # China | Tianjin | China Unicom China1 Backbone
 60.28.124.21/32 # China | Tianjin | CNC Group CHINA1 Tianjin Province Network
 60.29.226.181/32 # China | Tianjin | CNC Group CHINA1 Tianjin Province Network
@@ -1354,7 +1355,6 @@
 65.111.31.192/32 # France | Île-de-France | xk Tech GmbH
 66.78.40.107/32 # United States | Washington | Aokigahara SRL
 66.94.102.4/32 # United States | New York | Contabo Inc.
-66.116.224.58/32 # India | Maharashtra | Oracle Corporation
 66.167.169.134/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 66.179.94.117/32 # United States | Pennsylvania | IONOS SE
 66.228.55.212/32 # United States | Texas | Akamai Technologies, Inc.
@@ -1416,7 +1416,6 @@
 77.247.127.172/32 # United States | Virginia | Clouvider Limited
 78.138.9.253/32 # Spain | Catalunya | Servinga GmbH
 79.132.130.142/32 # Germany | Hesse | Servinga GmbH
-79.133.42.185/32 # Germany | Hesse | Ultahost, Inc.
 79.133.51.100/32 # Germany | Hesse | Ultahost, Inc.
 80.242.62.41/32
 81.16.140.16/32 # United Kingdom | England | Clouvider Limited
@@ -1467,6 +1466,7 @@
 85.90.196.155/32 # Romania | Ilfov | GREEN FLOID LLC
 85.121.52.46/32 # Germany | Hesse | M Europe SRL
 85.121.126.242/32 # Netherlands | South Holland | M Europe SRL
+85.137.53.71/32
 85.155.228.197/32 # Albania | Central Albania | ANDREW KRISTULI
 85.203.54.199/32
 85.203.54.241/32
@@ -1549,6 +1549,7 @@
 102.209.18.34/32 # Kenya | Kiambu | VENNET SOLUTIONS LIMITED
 102.210.104.139/32 # Kenya | Uasin Gishu | MATRUCHHAYA CABLE NETWORK LIMITED
 103.9.77.44/32
+103.26.83.47/32
 103.26.86.40/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 103.27.110.232/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.72.1.205/32 # Pakistan | Sindh | FIBERISH PVT LTD
@@ -2158,8 +2159,10 @@
 153.117.14.15/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 153.117.15.40/32
 153.117.15.196/32 # Pakistan | Punjab | Cyber Internet Services private Limited
+153.117.28.170/32
 153.117.32.175/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 153.117.32.246/32 # Pakistan | Punjab | Cyber Internet Services (private) Limited
+153.117.37.208/32
 153.117.38.184/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 153.117.40.230/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 153.117.41.44/32 # Pakistan | Sindh | Cyber Internet Services private Limited
@@ -2831,7 +2834,6 @@
 167.71.45.210/32 # Germany | Hesse | Digitalocean, LLC
 167.71.205.43/32 # Singapore | Southeast | Digitalocean, LLC
 167.71.207.50/32
-167.86.72.220/32 # Germany | Bavaria | Contabo GmbH
 167.86.80.37/32 # Germany | Hamburg | Contabo GmbH
 167.99.152.208/32 # United States | New Jersey | Digitalocean, LLC
 167.99.164.142/32 # United States | California | Digitalocean, LLC
@@ -3010,8 +3012,6 @@
 178.49.198.211/32 # Russia | Novosibirsk Oblast | Novotelecom Ltd.
 178.62.39.8/32 # United Kingdom | England | Digitalocean, LLC
 178.62.219.228/32 # Netherlands | North Holland | Digitalocean, LLC
-178.62.232.118/32 # Netherlands | North Holland | Digitalocean, LLC
-178.62.237.215/32 # Netherlands | North Holland | Digitalocean, LLC
 178.80.242.121/32 # Saudi Arabia | Eastern Region | Etihad Etisalat, A Joint S...
 178.81.193.238/32 # Saudi Arabia | Eastern Region | Etihad Etisalat, A Joint S...
 178.86.77.72/32 # Saudi Arabia | Makkah Region | Saudi Telecom Company JSC
@@ -3218,9 +3218,6 @@
 187.147.176.45/32 # Mexico | Yucatan | UNINET
 188.137.243.165/32 # United States | New Jersey | Podaon Sia
 188.166.5.133/32 # Netherlands | North Brabant | Digitalocean, LLC
-188.166.77.172/32 # Netherlands | North Holland | Digitalocean, LLC
-188.166.108.124/32 # Netherlands | North Holland | Digitalocean, LLC
-188.166.109.242/32 # Netherlands | North Holland | Digitalocean, LLC
 188.166.123.111/32 # Netherlands | Gelderland | Digitalocean, LLC
 188.214.34.20/32 # Cyprus | South Cyprus | Edis GmbH
 189.139.139.224/32
