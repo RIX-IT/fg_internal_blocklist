@@ -545,7 +545,6 @@
 194.36.25.0/24 # Germany | Hesse | Owl Limited
 194.36.27.0/24
 194.59.12.0/24 # United States | New York | Clouvider Limited
-194.76.227.0/24 # Estonia | Harju maakond | Servinga GmbH
 194.104.143.0/24 # United States | Connecticut | Clouvider Limited
 194.126.179.0/24
 195.63.31.0/24 # Germany | Berlin | xk Tech GmbH
@@ -717,7 +716,6 @@
 34.38.10.60/32
 34.38.14.136/32 # Belgium | Brussels-Capital | Google LLC
 34.38.29.195/32 # Belgium | Brussels-Capital | Google LLC
-34.38.45.152/32 # Belgium | Brussels-Capital | Google LLC
 34.38.82.62/32 # Belgium | Brussels-Capital | Google LLC
 34.38.108.190/32 # Belgium | Brussels-Capital | Google LLC
 34.38.142.0/32
@@ -742,6 +740,7 @@
 34.52.196.211/32 # Belgium | Brussels-Capital | Google LLC
 34.52.197.198/32
 34.52.217.114/32 # Belgium | Brussels-Capital | Google LLC
+34.52.225.205/32
 34.52.248.137/32 # Belgium | Brussels-Capital | Google LLC
 34.53.128.120/32 # Belgium | Brussels-Capital | Google LLC
 34.53.130.184/32 # Belgium | Brussels-Capital | Google LLC
@@ -775,6 +774,7 @@
 34.62.139.132/32 # Belgium | Brussels-Capital | Google LLC
 34.62.150.88/32 # Belgium | Brussels-Capital | Google LLC
 34.62.153.46/32 # Belgium | Brussels-Capital | Google LLC
+34.62.155.41/32
 34.62.159.42/32
 34.62.159.140/32 # Belgium | Brussels-Capital | Google LLC
 34.62.163.168/32
@@ -821,6 +821,7 @@
 34.77.59.115/32
 34.77.70.217/32 # Belgium | Brussels-Capital | Google LLC
 34.77.75.2/32 # Belgium | Brussels-Capital | Google LLC
+34.77.84.247/32
 34.77.104.23/32 # Belgium | Brussels-Capital | Google LLC
 34.77.109.136/32 # Belgium | Brussels-Capital | Google LLC
 34.77.189.74/32 # Belgium | Brussels-Capital | Google LLC
@@ -865,6 +866,7 @@
 34.79.177.119/32
 34.79.203.198/32 # Belgium | Brussels-Capital | Google LLC
 34.79.245.36/32 # Belgium | Brussels-Capital | Google LLC
+34.79.252.9/32
 34.79.255.4/32 # Belgium | Brussels-Capital | Google LLC
 34.80.244.96/32 # Taiwan | Keelung City | Google LLC
 34.81.48.36/32 # Taiwan | Keelung City | Google LLC
@@ -884,9 +886,9 @@
 34.131.94.151/32 # India | Delhi | Google LLC
 34.131.227.149/32 # India | Delhi | Google LLC
 34.140.5.45/32 # Belgium | Brussels-Capital | Google LLC
-34.140.10.179/32 # Belgium | Brussels-Capital | Google LLC
 34.140.24.170/32 # Belgium | Brussels-Capital | Google LLC
 34.140.36.143/32 # Belgium | Brussels-Capital | Google LLC
+34.140.40.149/32
 34.140.63.233/32 # Belgium | Brussels-Capital | Google LLC
 34.140.71.136/32 # Belgium | Brussels-Capital | Google LLC
 34.140.89.172/32
@@ -973,7 +975,6 @@
 35.195.56.13/32
 35.195.60.87/32
 35.195.95.115/32
-35.195.130.61/32 # Belgium | Brussels-Capital | Google LLC
 35.195.135.74/32 # Belgium | Brussels-Capital | Google LLC
 35.195.143.121/32 # Belgium | Brussels-Capital | Google LLC
 35.195.174.116/32 # Belgium | Brussels-Capital | Google LLC
@@ -995,7 +996,6 @@
 35.205.180.138/32 # Belgium | Brussels-Capital | Google LLC
 35.205.184.47/32 # Belgium | Brussels-Capital | Google LLC
 35.205.185.65/32
-35.205.197.135/32 # Belgium | Brussels-Capital | Google LLC
 35.205.212.129/32 # Belgium | Brussels-Capital | Google LLC
 35.205.212.180/32 # Belgium | Brussels-Capital | Google LLC
 35.205.213.150/32
@@ -1008,7 +1008,6 @@
 35.233.1.82/32 # Belgium | Brussels-Capital | Google LLC
 35.233.9.113/32 # Belgium | Brussels-Capital | Google LLC
 35.233.48.91/32 # Belgium | Brussels-Capital | Google LLC
-35.233.53.206/32 # Belgium | Brussels-Capital | Google LLC
 35.233.57.247/32 # Belgium | Brussels-Capital | Google LLC
 35.233.72.55/32 # Belgium | Brussels-Capital | Google LLC
 35.233.87.238/32 # Belgium | Brussels-Capital | Google LLC
@@ -1024,6 +1023,7 @@
 35.240.35.143/32 # Belgium | Brussels-Capital | Google LLC
 35.240.39.241/32 # Belgium | Brussels-Capital | Google LLC
 35.240.66.94/32 # Belgium | Brussels-Capital | Google LLC
+35.240.69.154/32
 35.240.83.112/32 # Belgium | Brussels-Capital | Google LLC
 35.240.83.122/32 # Belgium | Brussels-Capital | Google LLC
 35.240.90.108/32 # Belgium | Brussels-Capital | Google LLC
@@ -1619,6 +1619,7 @@
 104.199.53.57/32 # Belgium | Brussels-Capital | Google LLC
 104.199.56.112/32 # Belgium | Brussels-Capital | Google LLC
 104.199.60.162/32 # Belgium | Brussels-Capital | Google LLC
+104.199.63.36/32
 104.199.85.58/32 # Belgium | Brussels-Capital | Google LLC
 104.199.109.3/32 # Belgium | Brussels-Capital | Google LLC
 104.207.36.32/32 # United States | Virginia | xk Tech GmbH
@@ -1713,6 +1714,7 @@
 111.20.172.234/32
 111.90.145.48/32 # Malaysia | Federal Territory of Kuala Lumpur | Shinjiru Te...
 111.90.159.202/32 # Malaysia | Federal Territory of Kuala Lumpur | Shinjiru Te...
+111.92.153.72/32
 111.228.6.20/32
 112.18.182.218/32 # China | Guangdong Province | China Mobile
 112.80.248.27/32 # China | Jiangsu | China Unicom China1 Backbone
@@ -1729,6 +1731,7 @@
 114.10.42.134/32 # Indonesia | Special Capital Region of Jakarta | Pt. Indosa...
 114.218.58.178/32 # China | Jiangsu | China Telecom
 115.48.163.164/32 # China | Henan | China Unicom China1 Backbone
+115.55.50.234/32
 115.57.246.139/32
 115.190.155.149/32 # China | Beijing | Beijing Volcano Engine Technology Co., Ltd.
 115.190.173.91/32 # China | Beijing | Beijing Volcano Engine Technology Co., Ltd.
@@ -3040,6 +3043,7 @@
 182.119.164.104/32 # China | Henan | China Unicom China1 Backbone
 182.119.229.196/32 # China | Henan | China Unicom China1 Backbone
 182.123.254.99/32 # China | Henan | China Unicom China1 Backbone
+182.126.95.115/32
 182.126.95.188/32
 182.127.101.117/32 # China | Henan | China Unicom China1 Backbone
 182.240.8.90/32
@@ -3225,6 +3229,7 @@
 190.183.247.54/32 # Argentina | Misiónes | Gigared S.A.
 190.183.248.133/32 # Argentina | Corrientes | Gigared S.A.
 190.196.250.1/32 # Argentina | Santa Fe | MEGALINK S.R.L.
+190.196.253.27/32
 190.196.253.32/32 # Argentina | Santa Fe | MEGALINK S.R.L.
 190.196.253.109/32
 190.196.253.113/32 # Argentina | Santa Fe | MEGALINK S.R.L.
@@ -3266,6 +3271,9 @@
 194.60.76.163/32 # United Kingdom | England | Clouvider Limited
 194.60.76.226/32 # United Kingdom | England | Clouvider Limited
 194.61.89.82/32 # Armenia | Yerevan | Arpinet LLC
+194.76.227.150/32
+194.76.227.178/32
+194.76.227.190/32
 194.88.98.89/32 # Germany | Hesse | Hydra Communications LTD
 194.156.95.11/32 # Germany | Berlin | Clouvider Limited
 194.156.95.65/32 # Germany | Berlin | Clouvider Limited
@@ -3393,6 +3401,7 @@
 207.56.229.19/32 # Japan | Tokyo | Hong Kong Communications International Co....
 207.148.90.40/32 # Japan | Tokyo | The Constant Company, LLC
 207.175.2.130/32 # United States | California | Google LLC
+207.175.27.220/32
 207.175.35.35/32 # United States | California | Google LLC
 207.175.39.223/32
 207.175.40.92/32 # United States | California | Google LLC
