@@ -151,6 +151,7 @@
 92.119.163.0/24 # United States | Arizona | Shock Hosting LLC
 94.103.179.0/24 # United States | Connecticut | Clouvider Limited
 94.143.230.0/24 # United States | New York | Clouvider Limited
+94.156.232.0/24
 95.214.83.0/24 # United States | New York | Clouvider Limited
 103.81.230.0/24 # United States | Virginia | Hostroyale Technologies Pvt LTD
 103.81.231.0/24 # United States | Virginia | Hostroyale Technologies Pvt LTD
@@ -650,7 +651,6 @@
 23.227.196.107/32 # United States | Illinois | Hivelocity, Inc.
 23.234.78.114/32 # United States | North Carolina | Tzulo, Inc.
 23.234.82.188/32 # United States | Washington | Tzulo, Inc.
-23.234.90.163/32 # United States | Arizona | Tzulo, Inc.
 23.234.92.100/32 # United States | California | Tzulo, Inc.
 23.234.94.242/32 # United States | California | Tzulo, Inc.
 23.234.100.66/32 # United States | New York | Tzulo, Inc.
@@ -691,7 +691,6 @@
 34.14.127.61/32 # Belgium | Brussels-Capital | Google LLC
 34.17.189.246/32 # Italy | Piemont | Google LLC
 34.17.193.238/32 # Italy | Piemont | Google LLC
-34.22.79.7/32 # Republic of Korea | Unknown | Google LLC
 34.22.118.52/32 # Belgium | Brussels-Capital | Google LLC
 34.22.121.102/32 # Belgium | Brussels-Capital | Google LLC
 34.22.124.27/32 # Belgium | Brussels-Capital | Google LLC
@@ -704,7 +703,6 @@
 34.22.188.91/32 # Belgium | Brussels-Capital | Google LLC
 34.22.189.17/32
 34.22.194.124/32 # Belgium | Brussels-Capital | Google LLC
-34.22.197.158/32 # Belgium | Brussels-Capital | Google LLC
 34.22.227.201/32 # Belgium | Brussels-Capital | Google LLC
 34.32.125.212/32 # Germany | Berlin | Google LLC
 34.32.167.29/32 # Netherlands | North Holland | Google LLC
@@ -726,6 +724,7 @@
 34.38.218.1/32 # Belgium | Brussels-Capital | Google LLC
 34.38.233.16/32 # Belgium | Brussels-Capital | Google LLC
 34.38.235.10/32 # Belgium | Brussels-Capital | Google LLC
+34.38.245.206/32
 34.38.245.207/32 # Belgium | Brussels-Capital | Google LLC
 34.38.247.137/32 # Belgium | Brussels-Capital | Google LLC
 34.38.251.251/32 # Belgium | Brussels-Capital | Google LLC
@@ -741,7 +740,6 @@
 34.52.217.114/32 # Belgium | Brussels-Capital | Google LLC
 34.52.225.205/32
 34.52.248.137/32 # Belgium | Brussels-Capital | Google LLC
-34.53.128.120/32 # Belgium | Brussels-Capital | Google LLC
 34.53.130.184/32 # Belgium | Brussels-Capital | Google LLC
 34.53.132.130/32 # Belgium | Brussels-Capital | Google LLC
 34.53.139.89/32 # Belgium | Brussels-Capital | Google LLC
@@ -762,6 +760,7 @@
 34.62.14.111/32
 34.62.32.10/32 # Belgium | Brussels-Capital | Google LLC
 34.62.55.22/32
+34.62.68.91/32
 34.62.70.216/32 # Belgium | Brussels-Capital | Google LLC
 34.62.88.108/32 # Belgium | Brussels-Capital | Google LLC
 34.62.98.87/32 # Belgium | Brussels-Capital | Google LLC
@@ -860,7 +859,6 @@
 34.79.119.43/32
 34.79.130.36/32 # Belgium | Brussels-Capital | Google LLC
 34.79.151.47/32 # Belgium | Brussels-Capital | Google LLC
-34.79.154.179/32 # Belgium | Brussels-Capital | Google LLC
 34.79.161.174/32 # Belgium | Brussels-Capital | Google LLC
 34.79.177.119/32
 34.79.203.198/32 # Belgium | Brussels-Capital | Google LLC
@@ -868,7 +866,6 @@
 34.79.252.9/32
 34.79.255.4/32 # Belgium | Brussels-Capital | Google LLC
 34.80.244.96/32 # Taiwan | Keelung City | Google LLC
-34.81.48.36/32 # Taiwan | Keelung City | Google LLC
 34.85.90.42/32 # Japan | Tokyo | Google LLC
 34.87.209.116/32 # Australia | New South Wales | Google LLC
 34.92.174.236/32 # Hong Kong | Hong Kong | Google LLC
@@ -876,8 +873,6 @@
 34.93.252.126/32 # India | Maharashtra | Google LLC
 34.94.97.27/32 # United States | California | Google LLC
 34.95.207.129/32 # Brazil | State of São Paulo | Google LLC
-34.97.223.230/32 # Japan | Osaka Prefecture | Google LLC
-34.101.180.36/32 # Indonesia | Special Capital Region of Jakarta | Google LLC
 34.104.174.231/32 # Japan | Tokyo | Google LLC
 34.106.134.233/32 # United States | Utah | Google LLC
 34.106.185.111/32 # United States | Utah | Google LLC
@@ -911,18 +906,18 @@
 34.156.16.197/32 # Belgium | Brussels-Capital | Google LLC
 34.156.17.250/32 # United States | California | Google LLC
 34.156.24.156/32 # Belgium | Brussels-Capital | Google LLC
-34.156.46.165/32 # United States | California | Google LLC
+34.156.30.191/32
 34.156.73.176/32 # United States | California | Google LLC
 34.156.88.134/32
 34.156.96.134/32 # United States | California | Google LLC
 34.156.97.129/32 # Belgium | Brussels-Capital | Google LLC
+34.156.113.103/32
 34.156.134.73/32 # Belgium | Brussels-Capital | Google LLC
 34.156.137.236/32 # Belgium | Brussels-Capital | Google LLC
 34.156.140.80/32 # Belgium | Brussels-Capital | Google LLC
 34.156.143.149/32 # Belgium | Brussels-Capital | Google LLC
 34.156.146.136/32 # Belgium | Brussels-Capital | Google LLC
 34.156.157.240/32
-34.156.160.210/32 # United States | California | Google LLC
 34.156.172.163/32 # Belgium | Brussels-Capital | Google LLC
 34.156.174.138/32 # United States | California | Google LLC
 34.156.174.198/32 # Belgium | Brussels-Capital | Google LLC
@@ -1064,6 +1059,7 @@
 39.74.189.174/32 # China | Shandong | China Unicom China1 Backbone
 39.74.228.46/32 # China | Shandong | China Unicom China1 Backbone
 39.90.149.223/32 # China | Shandong | China Unicom China1 Backbone
+39.98.174.28/32
 40.76.127.71/32 # United States | District of Columbia | Microsoft Corporation
 40.76.239.35/32 # United States | District of Columbia | Microsoft Corporation
 40.81.42.178/32 # United States | Illinois | Microsoft Corporation
@@ -1242,7 +1238,9 @@
 45.230.206.220/32 # Argentina | Chaco | GEO S.A.
 45.232.153.173/32 # Argentina | Chaco | VICENTE CLAUDIO ORLANDO
 46.8.96.254/32
+46.99.143.50/32
 46.101.110.51/32 # Germany | Hesse | Digitalocean, LLC
+46.101.143.60/32
 46.101.229.179/32
 46.236.108.12/32 # Sweden | Västerbotten County | Bredband Ab
 47.77.219.184/32 # United States | California | Alibaba us Technology Co., Ltd.
@@ -1481,7 +1479,6 @@
 87.120.93.195/32 # Germany | Hesse | H NEXUS LTD
 87.120.219.26/32 # United Kingdom | England | GLOBAL CONNECTIVITY SOLUTIONS LLP
 87.247.143.184/32
-87.249.134.20/32 # United States | Illinois | Datacamp Limited
 87.251.25.42/32 # Yemen | Aden Governorate | Space Exploration Technologies ...
 88.32.34.78/32 # Italy | Friuli-Venezia Giulia | Telecom Italia S.P.A.
 88.32.188.248/32 # Italy | Lombardy | Telecom Italia S.P.A.
@@ -1523,10 +1520,6 @@
 94.141.122.164/32 # Finland | Mainland Finland | Partner Hosting LTD
 94.154.43.46/32 # Turkey | Bursa | Pitline LTD
 94.154.172.43/32 # Seychelles | Mahe | Ip Vendetta Inc.
-94.156.232.243/32 # Germany | Hesse | H NEXUS LTD
-94.156.232.245/32 # Germany | Hesse | H NEXUS LTD
-94.156.232.246/32 # Germany | Hesse | H NEXUS LTD
-94.156.232.247/32
 95.173.197.195/32 # Hong Kong | Hong Kong | Datacamp Limited
 95.181.232.44/32 # Morocco | Rabat-Salé-Kénitra | M Europe SRL
 95.181.238.28/32 # Bahamas | New Providence | M Europe SRL
@@ -1848,7 +1841,6 @@
 136.0.213.87/32 # United States | New Jersey | Interserver, INC
 136.0.213.149/32 # United States | New Jersey | Interserver, INC
 136.107.205.204/32 # United States | District of Columbia | Google LLC
-136.118.31.152/32 # United States | Oregon | Google LLC
 136.158.41.248/32 # Philippines | Metro Manila | Comclark Network Technology Corp
 136.158.60.69/32 # Philippines | Bulacan | Comclark Network Technology Corp
 136.158.124.40/32 # Philippines | Tarlac | Comclark Network Technology Corp
@@ -3029,7 +3021,6 @@
 180.178.189.17/32 # Pakistan | Islamabad Capital Territory | FEMO IT SOLUTIONS...
 180.243.219.104/32 # Indonesia | Jambi | Telekomunikasi Indonesia pt
 180.244.187.139/32 # Indonesia | South Sulawesi | Telekomunikasi Indonesia pt
-181.41.206.188/32 # United States | Colorado | Cogent Communications, LLC
 181.91.86.47/32 # Paraguay | Caaguazú | N cleo S.A.
 181.110.191.85/32 # Argentina | Chaco | Telecom Argentina S.A.
 181.166.51.117/32 # Argentina | Buenos Aires | Telecom Argentina S.A.
