@@ -646,18 +646,13 @@
 20.253.66.44/32 # United States | District of Columbia | Microsoft Corporation
 23.137.255.66/32 # United States | Washington | Incognet LLC
 23.146.236.244/32 # United States | Florida | QUANTUM
-23.159.216.203/32 # United States | California | Byte Node LLC
 23.160.24.175/32 # United States | Colorado | Data Bridge Limited
 23.227.196.107/32 # United States | Illinois | Hivelocity, Inc.
 23.234.78.114/32 # United States | North Carolina | Tzulo, Inc.
 23.234.82.188/32 # United States | Washington | Tzulo, Inc.
-23.234.92.100/32 # United States | California | Tzulo, Inc.
 23.234.94.242/32 # United States | California | Tzulo, Inc.
-23.234.100.66/32 # United States | New York | Tzulo, Inc.
 23.234.101.51/32 # United States | New York | Tzulo, Inc.
-23.234.102.78/32 # United States | New York | Tzulo, Inc.
 23.234.111.229/32 # United States | Georgia | Tzulo, Inc.
-23.234.115.66/32 # United States | Utah | Tzulo, Inc.
 23.239.3.62/32 # United States | California | Akamai Technologies, Inc.
 23.254.166.219/32 # United States | Washington | Hostwinds Llc.
 27.8.19.149/32
@@ -705,10 +700,12 @@
 34.32.167.29/32 # Netherlands | North Holland | Google LLC
 34.34.45.191/32 # Netherlands | North Holland | Google LLC
 34.34.133.168/32 # Belgium | Brussels-Capital | Google LLC
+34.34.140.168/32
 34.34.146.226/32
 34.38.7.103/32 # Belgium | Brussels-Capital | Google LLC
 34.38.10.60/32
 34.38.14.136/32 # Belgium | Brussels-Capital | Google LLC
+34.38.18.117/32
 34.38.29.195/32 # Belgium | Brussels-Capital | Google LLC
 34.38.82.62/32 # Belgium | Brussels-Capital | Google LLC
 34.38.108.190/32 # Belgium | Brussels-Capital | Google LLC
@@ -763,7 +760,6 @@
 34.62.98.87/32 # Belgium | Brussels-Capital | Google LLC
 34.62.100.183/32 # Belgium | Brussels-Capital | Google LLC
 34.62.103.217/32 # Belgium | Brussels-Capital | Google LLC
-34.62.116.151/32 # Belgium | Brussels-Capital | Google LLC
 34.62.130.40/32 # Belgium | Brussels-Capital | Google LLC
 34.62.132.173/32
 34.62.139.132/32 # Belgium | Brussels-Capital | Google LLC
@@ -899,6 +895,7 @@
 34.156.17.250/32 # United States | California | Google LLC
 34.156.24.156/32 # Belgium | Brussels-Capital | Google LLC
 34.156.30.191/32
+34.156.42.220/32
 34.156.88.134/32
 34.156.96.134/32 # United States | California | Google LLC
 34.156.97.129/32 # Belgium | Brussels-Capital | Google LLC
@@ -943,7 +940,6 @@
 35.187.103.145/32 # Belgium | Brussels-Capital | Google LLC
 35.187.162.71/32 # Belgium | Brussels-Capital | Google LLC
 35.187.164.45/32 # Belgium | Brussels-Capital | Google LLC
-35.187.164.234/32 # Belgium | Brussels-Capital | Google LLC
 35.187.166.132/32 # Belgium | Brussels-Capital | Google LLC
 35.187.167.70/32 # Belgium | Brussels-Capital | Google LLC
 35.187.172.245/32
@@ -1232,6 +1228,7 @@
 47.239.197.97/32 # Hong Kong | Hong Kong | Alibaba us Technology Co., Ltd.
 47.245.139.220/32 # Germany | Hesse | Alibaba us Technology Co., Ltd.
 47.251.42.6/32 # United States | California | Alibaba us Technology Co., Ltd.
+47.251.59.80/32
 47.253.157.29/32 # United States | Virginia | Alibaba us Technology Co., Ltd.
 47.254.233.252/32
 48.193.44.21/32 # Indonesia | Special Capital Region of Jakarta | Microsoft ...
@@ -1277,6 +1274,7 @@
 60.211.98.44/32 # China | Shandong | China Unicom China1 Backbone
 61.4.102.97/32 # Malaysia | Federal Territory of Kuala Lumpur | Gigabit Hos...
 61.52.75.249/32 # China | Henan | China Unicom China1 Backbone
+61.71.128.166/32
 61.135.185.29/32 # China | Beijing | China Unicom Beijing Province Network
 61.137.148.215/32
 61.139.76.99/32 # China | Sichuan | Chinanet Sichuan Telecom Internet Data C...
@@ -1502,7 +1500,6 @@
 94.154.172.43/32 # Seychelles | Mahe | Ip Vendetta Inc.
 95.173.197.195/32 # Hong Kong | Hong Kong | Datacamp Limited
 95.181.232.44/32 # Morocco | Rabat-Salé-Kénitra | M Europe SRL
-95.181.238.28/32 # Bahamas | New Providence | M Europe SRL
 95.181.238.95/32 # Bahamas | New Providence | M Europe SRL
 95.182.91.103/32 # United States | California | Cloud Software Fzco
 95.182.92.196/32 # United States | California | Cloud Software Fzco
@@ -1813,6 +1810,7 @@
 135.106.94.232/32 # United States | Wyoming | GREEN FLOID LLC
 135.119.77.153/32 # United States | Iowa | Microsoft Corporation
 135.136.21.45/32
+135.136.36.84/32
 135.136.36.96/32
 135.232.122.168/32 # United States | Virginia | Microsoft Corporation
 135.232.176.179/32 # United States | Illinois | Microsoft Corporation
@@ -2138,6 +2136,7 @@
 153.117.37.208/32
 153.117.38.184/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 153.117.40.230/32 # Pakistan | Sindh | Cyber Internet Services private Limited
+153.117.40.233/32
 153.117.41.44/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 153.117.41.236/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 153.117.127.109/32
@@ -2693,6 +2692,7 @@
 165.227.15.105/32 # United States | California | Digitalocean, LLC
 165.227.113.183/32 # United States | New Jersey | Digitalocean, LLC
 165.227.153.132/32 # Germany | Hesse | Digitalocean, LLC
+165.227.156.35/32
 166.1.65.120/32 # United Kingdom | England | Clouvider Limited
 166.1.66.239/32 # United Kingdom | England | Clouvider Limited
 166.1.82.230/32 # United Kingdom | England | Clouvider Limited
@@ -2918,7 +2918,6 @@
 175.107.233.230/32
 175.107.237.218/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 175.148.155.190/32
-175.165.87.53/32 # China | Liaoning | China Unicom China1 Backbone
 176.118.38.23/32 # Canada | Québec | Clouvider Limited
 176.118.38.56/32 # Canada | Ontario | Clouvider Limited
 176.118.38.113/32 # Canada | Québec | Clouvider Limited
@@ -2926,7 +2925,6 @@
 176.118.190.49/32 # Netherlands | North Holland | Clouvider Limited
 176.118.190.73/32 # Netherlands | North Holland | Clouvider Limited
 176.118.190.178/32
-176.125.230.18/32 # Malta | Northern Region | M Europe SRL
 176.125.242.155/32 # Republic of Moldova | Chisinau | ALEXHOST SRL
 176.125.252.215/32 # Italy | Apulia | Open Fiber S.P.A.
 176.202.200.204/32 # Qatar | Doha | Ooredoo Q.S.C.
@@ -3011,7 +3009,6 @@
 181.214.206.103/32 # Netherlands | Frisia | Gtt Communications Inc.
 182.9.2.17/32 # Indonesia | Central Java | Pt. Telekomunikasi Selular
 182.72.33.206/32 # India | Maharashtra | Bharti Airtel Limited
-182.113.46.52/32 # China | Henan | China Unicom China1 Backbone
 182.117.8.135/32
 182.117.42.205/32 # China | Henan | China Unicom China1 Backbone
 182.119.164.104/32 # China | Henan | China Unicom China1 Backbone
@@ -3019,7 +3016,6 @@
 182.123.254.99/32 # China | Henan | China Unicom China1 Backbone
 182.126.95.115/32
 182.126.95.188/32
-182.127.101.117/32 # China | Henan | China Unicom China1 Backbone
 182.240.8.90/32
 183.11.141.158/32 # China | Guangdong Province | Chinanet
 183.80.149.165/32
@@ -3054,7 +3050,6 @@
 185.141.119.142/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
 185.149.146.1/32 # Germany | Hesse | Foton Telecom Cjsc
 185.149.146.118/32 # Germany | Hesse | Foton Telecom Cjsc
-185.156.46.160/32 # United States | Virginia | Datacamp Limited
 185.158.248.135/32 # Romania | Bucharest | M247 Europe SRL
 185.177.72.49/32 # France | Île-de-France | Bucklog SARL
 185.178.231.6/32 # Spain | Catalunya | Servinga GmbH
