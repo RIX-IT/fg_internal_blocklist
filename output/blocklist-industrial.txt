@@ -219,6 +219,7 @@
 138.249.167.0/24 # United States | District of Columbia | Clouvider Limited
 138.249.204.0/24 # United States | New York | Clouvider Limited
 138.249.206.0/24 # United States | New York | Clouvider Limited
+138.249.208.0/24
 138.249.218.0/24 # United States | New York | Clouvider Limited
 138.249.222.0/24 # United States | New York | Clouvider Limited
 138.249.223.0/24 # United States | New York | Clouvider Limited
@@ -1026,6 +1027,7 @@
 36.255.33.83/32
 36.255.33.217/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 37.19.200.149/32 # United States | Texas | Datacamp Limited
+37.19.221.150/32
 37.19.221.174/32 # United States | Texas | Datacamp Limited
 37.202.157.107/32 # Iran | West Azerbaijan Province | Aria Shatel Pjsc
 37.221.66.27/32 # Republic of Moldova | Chisinau | AVA HOST SRL
@@ -1357,6 +1359,8 @@
 68.220.60.5/32 # United States | California | Microsoft Corporation
 68.220.61.6/32 # United States | California | Microsoft Corporation
 68.220.63.4/32 # United States | California | Microsoft Corporation
+68.235.46.14/32
+68.235.46.44/32
 68.235.46.150/32 # United States | Wisconsin | Tzulo, Inc.
 69.5.169.26/32 # Germany | Hesse | Hydra Communications LTD
 69.5.169.115/32 # Germany | Hesse | Hydra Communications LTD
@@ -1368,7 +1372,6 @@
 69.164.247.149/32 # United States | New York | Interserver, INC
 69.164.254.149/32 # United States | New Jersey | Interserver, INC
 69.164.254.172/32 # United States | New Jersey | Interserver, INC
-72.11.154.226/32 # United States | New York | HostPapa
 72.255.3.64/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 72.255.3.150/32
 72.255.18.71/32
@@ -1512,7 +1515,6 @@
 95.182.92.196/32 # United States | California | Cloud Software Fzco
 95.182.96.103/32 # France | Île-de-France | CGI GLOBAL LIMITED
 95.214.55.226/32 # Poland | Masovian Voivodeship | Mevspace Sp. Z O.O.
-96.9.125.147/32 # Romania | Bucharest | Bl Networks
 97.74.230.245/32 # United States | Arizona | Godaddy.com, LLC
 97.179.142.202/32 # United States | Nebraska | Verizon Business
 97.233.177.153/32 # United States | Nebraska | Verizon Business
@@ -1929,10 +1931,6 @@
 138.249.207.86/32 # Canada | Ontario | Clouvider Limited
 138.249.207.202/32
 138.249.207.226/32 # Canada | Ontario | Clouvider Limited
-138.249.208.19/32
-138.249.208.160/32 # United States | California | Clouvider Limited
-138.249.208.196/32
-138.249.208.246/32 # United States | California | Clouvider Limited
 138.249.209.79/32 # Germany | Berlin | Clouvider Limited
 138.249.209.171/32
 138.249.215.86/32
@@ -1963,7 +1961,6 @@
 139.135.59.170/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.135.60.103/32
 139.135.146.91/32 # Philippines | Bulacan | Comclark Network Technology Corp
-139.162.7.152/32 # Singapore | Southeast | Akamai Technologies, Inc.
 139.180.160.173/32 # Australia | New South Wales | The Constant Company, LLC
 140.205.220.98/32 # China | Zhejiang | Hangzhou Alibaba Advertising CO.,LTD.
 141.11.88.108/32 # United States | New Jersey | Royalehosting BV
@@ -2099,6 +2096,7 @@
 152.234.162.15/32
 152.234.164.26/32
 152.234.164.35/32
+152.234.164.73/32
 152.234.167.33/32
 152.234.167.59/32
 152.234.168.22/32
@@ -2907,6 +2905,7 @@
 173.214.173.25/32 # United States | New Jersey | Interserver, INC
 173.232.146.90/32
 173.249.37.183/32
+173.249.39.143/32
 175.11.74.21/32
 175.103.49.98/32
 175.107.2.62/32
@@ -2969,6 +2968,7 @@
 177.202.199.13/32
 177.202.199.22/32
 177.202.199.43/32
+177.202.199.86/32
 177.202.200.26/32
 177.202.200.44/32
 177.202.200.52/32
@@ -3084,6 +3084,7 @@
 186.240.177.25/32
 186.240.177.200/32
 186.240.177.205/32
+186.240.179.42/32
 186.240.179.132/32
 186.240.179.140/32
 186.240.180.40/32
@@ -3138,7 +3139,9 @@
 187.52.195.3/32
 187.52.195.12/32
 187.52.195.16/32
+187.52.195.97/32
 187.52.197.25/32
+187.52.197.27/32
 187.52.197.35/32
 187.52.199.56/32
 187.52.199.70/32
@@ -3174,6 +3177,7 @@
 187.126.39.56/32
 187.126.40.22/32
 187.126.40.45/32
+187.126.40.121/32
 187.126.40.128/32
 187.126.41.37/32
 187.126.41.44/32
@@ -3357,7 +3361,6 @@
 203.172.179.151/32 # Thailand | Suphan Buri Province | Ministry of Education Emisc
 203.186.186.218/32 # Hong Kong | Hong Kong | Hong Kong Broadband Network Limited
 204.44.70.181/32 # United States | California | HostPapa
-204.168.158.236/32 # Finland | Mainland Finland | Hetzner Online GmbH
 206.72.199.228/32 # United States | New Jersey | Interserver, INC
 206.72.199.230/32 # United States | New Jersey | Interserver, INC
 206.135.161.118/32 # Pakistan | Punjab | Cyber Internet Services private Limited
