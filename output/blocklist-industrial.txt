@@ -123,7 +123,6 @@
 65.111.27.0/24 # Thailand | Bangkok | xk Tech GmbH
 65.111.28.0/24 # Italy | Lazio | xk Tech GmbH
 65.111.29.0/24 # France | Île-de-France | xk Tech GmbH
-68.235.46.0/24
 77.72.84.0/24 # United States | District of Columbia | Clouvider Limited
 77.83.4.0/24 # United States | California | Clouvider Limited
 77.83.5.0/24 # United States | New York | Clouvider Limited
@@ -231,6 +230,7 @@
 138.249.237.0/24
 138.249.238.0/24 # United States | California | Clouvider Limited
 138.249.239.0/24 # United States | New York | Clouvider Limited
+141.98.255.0/24
 141.133.3.0/24 # United States | New York | Clouvider Limited
 141.133.4.0/24 # United States | Arizona | Clouvider Limited
 141.133.5.0/24 # United States | Arizona | Clouvider Limited
@@ -313,6 +313,7 @@
 146.255.186.0/24 # United States | New York | Clouvider Limited
 151.123.176.0/24 # France | Île-de-France | xk Tech GmbH
 151.123.178.0/24 # France | Île-de-France | xk Tech GmbH
+151.247.126.0/24
 153.80.11.0/24 # United States | Florida | GREEN FLOID LLC
 153.80.13.0/24 # United States | Florida | GREEN FLOID LLC
 153.80.19.0/24 # United States | New Hampshire | GREEN FLOID LLC
@@ -529,6 +530,7 @@
 186.246.125.0/24 # United States | Florida | Clouvider Limited
 186.246.127.0/24 # United States | New York | Clouvider Limited
 187.126.41.0/24
+190.196.253.0/24
 191.101.127.0/24 # Germany | Hesse | Datacamp Limited
 192.144.16.0/24 # United States | California | Clouvider Limited
 192.177.18.0/24 # United States | Nevada | Clouvider Limited
@@ -561,6 +563,7 @@
 194.36.25.0/24 # Germany | Hesse | Owl Limited
 194.36.27.0/24
 194.59.12.0/24 # United States | New York | Clouvider Limited
+194.60.76.0/24
 194.104.143.0/24 # United States | Connecticut | Clouvider Limited
 194.126.179.0/24
 195.63.31.0/24 # Germany | Berlin | xk Tech GmbH
@@ -582,6 +585,7 @@
 1.201.126.244/32
 2.56.113.3/32
 2.56.179.16/32 # United Kingdom | England | Worktitans B.V.
+2.192.228.189/32
 3.19.75.136/32 # United States | Ohio | Amazon.com, Inc.
 3.81.24.122/32 # United States | Virginia | Amazon.com, Inc.
 4.154.22.6/32 # United States | Washington | Microsoft Corporation
@@ -1064,6 +1068,7 @@
 39.74.228.46/32 # China | Shandong | China Unicom China1 Backbone
 39.90.149.223/32 # China | Shandong | China Unicom China1 Backbone
 39.98.174.28/32
+40.27.108.77/32
 40.76.127.71/32 # United States | District of Columbia | Microsoft Corporation
 40.76.239.35/32 # United States | District of Columbia | Microsoft Corporation
 40.81.42.178/32 # United States | Illinois | Microsoft Corporation
@@ -1366,6 +1371,9 @@
 65.111.31.121/32 # France | Île-de-France | xk Tech GmbH
 65.111.31.192/32 # France | Île-de-France | xk Tech GmbH
 66.78.40.107/32 # United States | Washington | Aokigahara SRL
+66.93.165.55/32
+66.93.166.93/32
+66.93.167.75/32
 66.179.94.117/32 # United States | Pennsylvania | IONOS SE
 66.228.55.212/32 # United States | Texas | Akamai Technologies, Inc.
 67.211.221.72/32 # United States | New Jersey | Interserver, INC
@@ -1374,7 +1382,6 @@
 67.211.221.124/32 # United States | New Jersey | Interserver, INC
 67.217.57.240/32 # United States | New Jersey | Interserver, INC
 67.217.228.55/32 # United States | California | Bl Networks
-68.69.177.101/32 # United States | New Hampshire | OnlyScans LLC
 68.154.37.66/32 # United States | Virginia | Microsoft Corporation
 68.154.118.246/32 # United States | Virginia | Microsoft Corporation
 68.154.118.248/32 # United States | Virginia | Microsoft Corporation
@@ -1387,6 +1394,10 @@
 68.220.60.5/32 # United States | California | Microsoft Corporation
 68.220.61.6/32 # United States | California | Microsoft Corporation
 68.220.63.4/32 # United States | California | Microsoft Corporation
+68.235.46.14/32
+68.235.46.38/32
+68.235.46.76/32
+68.235.46.150/32
 69.5.169.26/32 # Germany | Hesse | Hydra Communications LTD
 69.5.169.115/32 # Germany | Hesse | Hydra Communications LTD
 69.10.53.26/32 # United States | New Jersey | Interserver, INC
@@ -1406,6 +1417,18 @@
 72.255.32.67/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 72.255.59.153/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 72.255.59.166/32 # Pakistan | Punjab | Cyber Internet Services private Limited
+74.0.96.174/32
+74.0.97.64/32
+74.0.97.217/32
+74.0.97.237/32
+74.0.98.217/32
+74.0.98.235/32
+74.0.98.246/32
+74.0.98.248/32
+74.0.100.198/32
+74.0.101.41/32
+74.0.102.168/32
+74.0.103.85/32
 74.208.51.44/32
 74.208.181.249/32 # United States | Missouri | IONOS SE
 74.244.85.161/32 # Senegal | Dakar Region | Space Exploration Technologies Co...
@@ -1480,6 +1503,8 @@
 85.203.54.92/32
 85.203.54.199/32
 85.203.54.241/32
+85.208.11.37/32
+85.208.11.91/32
 85.239.240.32/32
 86.38.216.94/32 # United States | Florida | Limestone Networks, Inc.
 86.54.24.25/32 # Latvia | Vidzeme | Noyobzoda Faridduni Saidilhom
@@ -1533,6 +1558,10 @@
 94.141.122.164/32 # Finland | Mainland Finland | Partner Hosting LTD
 94.154.43.46/32 # Turkey | Bursa | Pitline LTD
 94.154.172.43/32 # Seychelles | Mahe | Ip Vendetta Inc.
+94.229.214.6/32
+94.229.214.168/32
+94.229.219.147/32
+95.164.151.249/32
 95.173.197.195/32 # Hong Kong | Hong Kong | Datacamp Limited
 95.182.91.103/32 # United States | California | Cloud Software Fzco
 95.182.92.196/32 # United States | California | Cloud Software Fzco
@@ -1547,6 +1576,9 @@
 102.33.122.12/32 # South Africa | Eastern Cape | Metrofibre Networx
 102.89.85.218/32 # Nigeria | Oyo | Mtn Nigeria Communication Limited
 102.104.10.186/32 # Tunisia | Tunis | OOREDOO TUNISIE SA
+102.129.141.77/32
+102.129.141.135/32
+102.129.141.197/32
 102.135.95.102/32 # Seychelles | Mahe | M Europe SRL
 102.209.18.34/32 # Kenya | Kiambu | VENNET SOLUTIONS LIMITED
 102.210.104.139/32 # Kenya | Uasin Gishu | MATRUCHHAYA CABLE NETWORK LIMITED
@@ -1787,7 +1819,6 @@
 124.104.145.228/32 # Philippines | Pangasinan | Philippine Long Distance Teleph...
 124.134.24.50/32 # China | Shandong | China Unicom China1 Backbone
 124.222.137.114/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
-124.222.253.248/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
 125.41.227.231/32 # China | Henan | China Unicom China1 Backbone
 125.47.223.78/32 # China | Henan | CNC Group CHINA1 Henan Province Network
 126.209.76.68/32 # Philippines | Davao Region | Infinivan Inc.
@@ -1804,6 +1835,7 @@
 130.49.31.17/32 # United Kingdom | Northern Ireland | Ivanov Vitaliy Sergeevich
 130.49.42.41/32
 130.49.42.242/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
+130.49.51.44/32
 130.49.51.225/32
 130.49.51.254/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 130.49.60.139/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
@@ -1865,6 +1897,7 @@
 136.158.126.66/32 # Philippines | Nueva Ecija | Comclark Network Technology Corp
 136.234.130.74/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 136.234.130.91/32
+136.234.130.189/32
 136.234.133.6/32
 136.234.133.26/32
 136.234.133.214/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
@@ -1984,12 +2017,10 @@
 139.59.147.236/32
 139.84.156.79/32 # India | Karnataka | The Constant Company, LLC
 139.84.170.230/32 # India | Uttar Pradesh | The Constant Company, LLC
-139.135.41.152/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.135.42.210/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.135.43.167/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.135.44.215/32
 139.135.45.151/32 # Pakistan | Punjab | Cyber Internet Services private Limited
-139.135.45.157/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.135.46.57/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.135.59.170/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.135.60.103/32
@@ -1998,10 +2029,6 @@
 140.205.220.98/32 # China | Zhejiang | Hangzhou Alibaba Advertising CO.,LTD.
 141.11.88.108/32 # United States | New Jersey | Royalehosting BV
 141.98.199.231/32 # Singapore | Southeast | Xtom Pty LTD
-141.98.255.133/32
-141.98.255.135/32
-141.98.255.136/32
-141.98.255.141/32
 141.133.23.24/32
 141.133.24.46/32 # Germany | Berlin | Ivanov Vitaliy Sergeevich
 141.133.24.83/32 # Germany | Berlin | Ivanov Vitaliy Sergeevich
@@ -2122,8 +2149,24 @@
 151.123.177.223/32 # France | Île-de-France | xk Tech GmbH
 151.241.122.63/32 # United States | New Jersey | Cogent Communications, LLC
 151.241.122.108/32 # United States | New Jersey | Cogent Communications, LLC
+151.241.171.110/32
+151.241.171.163/32
 151.247.22.25/32 # United States | New Jersey | CANADA INC.
+151.247.120.96/32
+151.247.121.131/32
+151.247.122.90/32
+151.247.122.107/32
+151.247.123.17/32
+151.247.124.20/32
+151.247.124.100/32
+151.247.124.242/32
+151.247.124.249/32
+151.247.125.192/32
+151.247.184.78/32
+151.247.184.94/32
+151.247.188.2/32
 151.247.193.174/32 # France | Île-de-France | CANADA INC.
+151.247.221.229/32
 152.32.130.136/32 # Hong Kong | Hong Kong | UCLOUD INFORMATION TECHNOLOGY HK L...
 152.32.157.7/32 # United Kingdom | England | UCLOUD INFORMATION TECHNOLOGY H...
 152.42.252.134/32 # Singapore | Southeast | Digitalocean, LLC
@@ -2182,6 +2225,7 @@
 153.117.14.15/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 153.117.15.40/32
 153.117.15.196/32 # Pakistan | Punjab | Cyber Internet Services private Limited
+153.117.27.8/32
 153.117.28.170/32
 153.117.29.88/32
 153.117.32.175/32 # Pakistan | Punjab | Cyber Internet Services private Limited
@@ -2686,6 +2730,7 @@
 154.209.138.161/32
 154.209.138.198/32
 154.209.139.55/32 # United Kingdom | England | IT HOSTLINE LTD
+154.209.139.91/32
 154.209.139.113/32 # United Kingdom | England | IT HOSTLINE LTD
 154.209.139.133/32
 154.209.140.4/32
@@ -2757,6 +2802,7 @@
 156.246.220.109/32
 156.246.220.128/32 # United Kingdom | England | IT HOSTLINE LTD
 156.246.220.220/32
+156.246.221.180/32
 156.246.221.209/32 # United Kingdom | England | IT HOSTLINE LTD
 156.246.221.226/32 # United Kingdom | England | IT HOSTLINE LTD
 156.246.222.46/32 # United Kingdom | England | IT HOSTLINE LTD
@@ -2993,6 +3039,10 @@
 172.86.89.51/32 # United States | Texas | Routerhosting LLC
 172.86.89.186/32 # United States | Texas | Routerhosting LLC
 172.86.93.139/32 # Germany | Hesse | Aurologic GmbH
+172.96.4.186/32
+172.96.6.58/32
+172.96.6.112/32
+172.96.7.34/32
 172.96.10.220/32 # United States | Missouri | Unreal Servers, LLC
 172.120.57.59/32
 172.120.57.158/32
@@ -3113,6 +3163,7 @@
 177.185.78.39/32 # Brazil | State of Minas Gerais | NORTETEL TELECOMUNICACOES...
 177.202.192.30/32
 177.202.192.65/32
+177.202.195.47/32
 177.202.198.208/32
 177.202.200.26/32
 177.202.200.44/32
@@ -3216,6 +3267,8 @@
 185.226.93.120/32 # Turkey | İstanbul | BIG CORE LLC
 185.226.196.17/32 # United States | California | Zenlayer INC
 185.226.198.4/32 # United States | California | Nsec - Sistemas Informaticos,...
+185.228.193.76/32
+185.228.195.13/32
 185.238.90.47/32 # Germany | Hesse | Clouvider Limited
 185.238.90.148/32 # Germany | Hesse | Clouvider Limited
 185.238.91.11/32 # Germany | Hesse | Clouvider Limited
@@ -3283,6 +3336,7 @@
 186.243.213.13/32 # United Kingdom | England | IT HOSTLINE LTD
 186.243.213.77/32 # United Kingdom | England | HOST TELECOM LTD
 186.243.213.151/32
+186.243.213.156/32
 186.243.250.62/32 # Germany | Hesse | HOST TELECOM LTD
 186.246.73.23/32 # United Kingdom | England | IT HOSTLINE LTD
 186.246.73.104/32
@@ -3359,10 +3413,6 @@
 190.183.247.54/32 # Argentina | Misiónes | Gigared S.A.
 190.183.248.133/32 # Argentina | Corrientes | Gigared S.A.
 190.196.250.1/32 # Argentina | Santa Fe | MEGALINK S.R.L.
-190.196.253.27/32
-190.196.253.32/32 # Argentina | Santa Fe | MEGALINK S.R.L.
-190.196.253.109/32
-190.196.253.113/32 # Argentina | Santa Fe | MEGALINK S.R.L.
 190.212.205.42/32 # Nicaragua | Managua | TELECOMUNICACIONES DE GUATEMALA, SOC...
 190.212.211.10/32 # Nicaragua | Managua | TELECOMUNICACIONES DE GUATEMALA, SOC...
 190.221.23.148/32 # Argentina | Santa Cruz Province | Telmex Argentina S.A
@@ -3392,10 +3442,6 @@
 194.33.9.141/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
 194.33.9.248/32 # Canada | Québec | Ivanov Vitaliy Sergeevich
 194.33.9.250/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
-194.60.76.58/32
-194.60.76.114/32 # United Kingdom | England | Clouvider Limited
-194.60.76.163/32 # United Kingdom | England | Clouvider Limited
-194.60.76.226/32 # United Kingdom | England | Clouvider Limited
 194.61.89.82/32 # Armenia | Yerevan | Arpinet LLC
 194.76.227.150/32
 194.76.227.178/32
@@ -3436,6 +3482,7 @@
 199.91.221.42/32 # Netherlands | North Holland | Bl Networks
 199.217.98.108/32 # Netherlands | North Holland | Bl Networks
 199.231.191.245/32 # United States | New Jersey | Interserver, INC
+200.10.34.3/32
 200.23.126.109/32 # Mexico | Aguascalientes | SOLUCIONES DE TECNOLOGIA JAH SA ...
 200.107.104.233/32 # Argentina | Santa Fe | LOS AMORES S.A.
 200.115.96.8/32 # Honduras | Cortés | HONDUVISION SRL
@@ -3450,6 +3497,7 @@
 200.225.162.90/32
 200.225.162.183/32
 200.225.163.187/32
+200.225.163.204/32
 200.225.163.208/32
 200.225.164.212/32
 200.225.165.11/32
@@ -3569,6 +3617,13 @@
 207.244.224.96/32
 208.109.242.93/32
 209.17.118.17/32 # Singapore | Southeast | LEASEWEB SINGAPORE PTE. LTD.
+209.101.149.75/32
+209.101.151.33/32
+209.101.151.115/32
+209.101.201.226/32
+209.101.202.199/32
+209.101.203.71/32
+209.101.252.84/32
 209.145.53.180/32
 209.182.225.121/32 # United States | Washington | Shock Hosting LLC
 210.56.49.72/32 # Hong Kong | Hong Kong | Ctg Server Limited
@@ -3604,7 +3659,6 @@
 217.181.91.169/32 # Germany | Berlin | xk Tech GmbH
 217.181.91.208/32 # Germany | Berlin | xk Tech GmbH
 217.217.253.235/32 # Singapore | Southeast | Contabo Asia Private Limited
-218.17.66.85/32 # China | Guangdong Province | Chinanet
 218.111.152.89/32 # Malaysia | Johor | TM TECHNOLOGY SERVICES SDN BHD
 221.1.97.226/32 # China | Shandong | China Unicom China1 Backbone
 221.15.8.85/32 # China | Henan | China Unicom China1 Backbone
