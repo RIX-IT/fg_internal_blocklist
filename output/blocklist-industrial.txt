@@ -140,6 +140,7 @@
 77.83.4.0/24 # United States | California | Clouvider Limited
 77.83.5.0/24 # United States | New York | Clouvider Limited
 77.83.6.0/24 # United States | California | Clouvider Limited
+77.83.7.0/24 # Unknown | Unknown | Unknown
 77.90.178.0/24 # Germany | Bavaria | Datacamp Limited
 77.91.71.0/24 # Israel | Tel Aviv District | Proline IT Ltd
 77.246.244.0/24 # United States | Indiana | Clouvider Limited
@@ -159,7 +160,6 @@
 88.214.49.0/24 # United States | Washington | GREEN FLOID LLC
 88.218.80.0/24 # United States | California | Clouvider Limited
 89.37.63.0/24 # Sweden | Stockholm County | Datacamp Limited
-91.92.42.0/24 # Bulgaria | Sofia-city | Euro Crypt Eood
 91.242.237.0/24 # United States | Pennsylvania | Clouvider Limited
 91.247.78.0/24 # United States | New Jersey | Clouvider Limited
 92.60.40.0/24 # Netherlands | Limburg | Owl Limited
@@ -1085,6 +1085,7 @@
 36.255.33.217/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 37.19.210.24/32 # Unknown | Unknown | Unknown
 37.19.221.150/32 # United States | Texas | Datacamp Limited
+37.19.221.180/32 # Unknown | Unknown | Unknown
 37.202.157.107/32 # Iran | West Azerbaijan Province | Aria Shatel Pjsc
 37.221.66.27/32 # Republic of Moldova | Chisinau | AVA HOST SRL
 37.221.66.174/32 # Republic of Moldova | Chisinau | AVA HOST SRL
@@ -1259,6 +1260,7 @@
 45.153.227.130/32 # Germany | Land Berlin | Clouvider Limited
 45.153.227.136/32 # Germany | Land Berlin | Clouvider Limited
 45.155.250.248/32 # Sweden | Stockholm County | Glesys Ab
+45.156.128.149/32 # Unknown | Unknown | Unknown
 45.156.128.159/32 # Netherlands | Provincie Noord-Holland | NSEC - Sistemas In...
 45.156.128.172/32 # Netherlands | Provincie Noord-Holland | NSEC - Sistemas In...
 45.156.129.108/32 # United States | Illinois | Nsec Sistemas Informaticos, S.A.
@@ -1427,10 +1429,6 @@
 66.93.167.252/32 # Unknown | Unknown | Unknown
 66.179.94.117/32 # United States | Pennsylvania | IONOS SE
 66.228.55.212/32 # United States | Texas | Akamai Technologies, Inc.
-67.211.221.72/32 # United States | New Jersey | Interserver, INC
-67.211.221.98/32 # United States | New Jersey | Interserver, INC
-67.211.221.112/32 # United States | New Jersey | Interserver, INC
-67.211.221.124/32 # United States | New Jersey | Interserver, INC
 67.217.57.240/32 # United States | New Jersey | Interserver, INC
 67.217.228.55/32 # United States | California | Bl Networks
 68.154.37.66/32 # United States | Virginia | Microsoft Corporation
@@ -1440,7 +1438,6 @@
 68.168.222.148/32 # United States | New Jersey | Interserver, INC
 68.183.75.179/32 # Germany | Hesse | Digitalocean, LLC
 68.183.209.26/32 # Germany | Hesse | Digitalocean, LLC
-68.183.223.113/32 # Germany | Hesse | Digitalocean, LLC
 68.220.59.208/32 # United States | California | Microsoft Corporation
 68.220.60.5/32 # United States | California | Microsoft Corporation
 68.220.61.6/32 # United States | California | Microsoft Corporation
@@ -1448,19 +1445,16 @@
 68.235.46.14/32 # United States | Illinois | Tzulo, Inc.
 68.235.46.38/32 # United States | Illinois | Tzulo, Inc.
 68.235.46.76/32 # United States | Illinois | Tzulo, Inc.
+68.235.46.206/32 # Unknown | Unknown | Unknown
 69.5.169.26/32 # Germany | Hesse | Hydra Communications LTD
 69.5.169.115/32 # Germany | Hesse | Hydra Communications LTD
-69.10.53.26/32 # United States | New Jersey | Interserver, INC
 69.67.172.20/32 # Romania | Bucharest | Bl Networks
 69.67.173.30/32 # Romania | Bucharest | Bl Networks
-69.164.242.142/32 # United States | New York | Interserver, INC
-69.164.242.168/32 # United States | New York | Interserver, INC
 69.164.254.149/32 # United States | New Jersey | Interserver, INC
 69.164.254.172/32 # United States | New Jersey | Interserver, INC
 72.255.3.64/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 72.255.3.150/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 72.255.18.71/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
-72.255.19.22/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 72.255.19.51/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 72.255.19.172/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 72.255.19.177/32 # Pakistan | Sindh | Cyber Internet Services private Limited
@@ -1475,10 +1469,6 @@
 74.244.135.80/32 # Argentina | Buenos Aires | Space Exploration Technologies ...
 75.35.242.215/32 # United States | Georgia | AT T Enterprises, LLC
 76.164.199.140/32 # United States | Virginia | Ame Hosting LLC
-77.83.7.13/32 # United Kingdom | England | Clouvider Limited
-77.83.7.93/32 # United Kingdom | England | Clouvider Limited
-77.83.7.126/32 # United Kingdom | England | Clouvider Limited
-77.83.7.137/32 # United Kingdom | England | Clouvider Limited
 77.83.39.211/32 # Netherlands | North Holland | KPROHOST LLC
 77.90.153.30/32 # Germany | Schleswig-Holstein | British Telecommunications PLC
 77.238.241.203/32 # Netherlands | North Holland | SERVERS TECH FZCO
@@ -1487,6 +1477,7 @@
 78.138.9.253/32 # Spain | Catalunya | Servinga GmbH
 79.132.130.142/32 # Germany | Hesse | Servinga GmbH
 79.133.51.100/32 # Germany | Hesse | Ultahost, Inc.
+80.87.206.229/32 # Unknown | Unknown | Unknown
 80.242.62.10/32 # Unknown | Unknown | Unknown
 80.242.62.41/32 # Germany | Land Berlin | Clouvider Limited
 81.16.140.16/32 # United Kingdom | England | Clouvider Limited
@@ -1575,6 +1566,7 @@
 89.248.68.73/32 # Germany | Schleswig-Holstein | Clouvider Limited
 90.238.138.44/32 # Sweden | Östergötland County | Telia Company Ab
 91.90.122.43/32 # Liechtenstein | Oberland | M Europe SRL
+91.92.42.131/32 # Unknown | Unknown | Unknown
 91.92.243.129/32 # United States | New York | Omegatech LTD
 91.92.243.160/32 # United States | New York | Omegatech LTD
 91.98.229.246/32 # Germany | Bavaria | Hetzner Online GmbH
@@ -1843,6 +1835,7 @@
 123.5.188.77/32 # China | Henan | China Unicom China1 Backbone
 123.8.154.112/32 # China | Henan Sheng | China Unicom China169 Backbone
 123.9.244.4/32 # China | Henan | China Unicom China1 Backbone
+123.11.4.54/32 # Unknown | Unknown | Unknown
 123.134.46.226/32 # China | Shandong | China Unicom China1 Backbone
 123.139.57.103/32 # China | Shaanxi | China Unicom China1 Backbone
 123.148.240.18/32 # Unknown | Unknown | Unknown
@@ -1909,7 +1902,6 @@
 132.196.80.211/32 # United States | Iowa | Microsoft Corporation
 134.33.68.247/32 # United States | Arizona | Microsoft Corporation
 134.195.91.224/32 # United States | California | Hosthatch, LLC
-134.199.149.1/32 # Australia | New South Wales | Digitalocean, LLC
 134.199.153.166/32 # Australia | New South Wales | Digitalocean, LLC
 134.199.156.104/32 # Australia | New South Wales | Digitalocean, LLC
 134.209.6.108/32 # United States | California | Digitalocean, LLC
@@ -1930,6 +1922,7 @@
 136.0.213.37/32 # United States | New Jersey | Interserver, INC
 136.0.213.87/32 # United States | New Jersey | Interserver, INC
 136.0.213.149/32 # United States | New Jersey | Interserver, INC
+136.37.0.69/32 # Unknown | Unknown | Unknown
 136.107.205.204/32 # United States | District of Columbia | Google LLC
 136.158.41.248/32 # Philippines | Metro Manila | Comclark Network Technology Corp
 136.158.60.69/32 # Philippines | Bulacan | Comclark Network Technology Corp
@@ -2090,7 +2083,6 @@
 141.133.32.3/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 141.133.32.25/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 141.133.32.135/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
-141.133.33.28/32 # Canada | Ontario | GREEN FLOID LLC
 141.133.33.73/32 # Canada | Ontario | GREEN FLOID LLC
 141.133.33.151/32 # Canada | Ontario | GREEN FLOID LLC
 141.133.34.3/32 # Canada | Ontario | GREEN FLOID LLC
@@ -2914,9 +2906,6 @@
 163.245.221.130/32 # United States | New Jersey | Interserver, INC
 163.245.221.252/32 # United States | New Jersey | Interserver, INC
 163.245.222.73/32 # United States | New Jersey | Interserver, INC
-163.245.222.128/32 # United States | New Jersey | Interserver, INC
-163.245.222.157/32 # United States | New Jersey | Interserver, INC
-163.245.222.193/32 # United States | New Jersey | Interserver, INC
 164.90.129.126/32 # United States | New Jersey | Digitalocean, LLC
 164.90.213.182/32 # Germany | Hesse | Digitalocean, LLC
 164.163.25.163/32 # Brazil | State of Pernambuco | TURBONET CE
@@ -3634,7 +3623,6 @@
 203.172.179.151/32 # Thailand | Suphan Buri Province | Ministry of Education Emisc
 203.186.186.218/32 # Hong Kong | Hong Kong | Hong Kong Broadband Network Limited
 204.44.70.181/32 # United States | California | HostPapa
-206.72.199.228/32 # United States | New Jersey | Interserver, INC
 206.72.199.230/32 # United States | New Jersey | Interserver, INC
 206.135.170.190/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 206.135.171.34/32 # Pakistan | Punjab | Cyber Internet Services private Limited
@@ -3722,7 +3710,6 @@
 216.9.224.26/32 # United States | New York | Fiba Cloud Operation Company, LLC
 216.158.226.122/32 # United States | New Jersey | Interserver, INC
 216.158.226.222/32 # United States | New Jersey | Interserver, INC
-216.219.95.62/32 # United States | California | Interserver, INC
 216.234.211.177/32 # Mozambique | Distrito Municipal de KaMpfumo | Space Explor...
 217.154.159.73/32 # Germany | Baden-Württemberg | IONOS SE
 217.160.248.17/32 # Spain | Madrid | IONOS SE
