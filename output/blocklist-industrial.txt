@@ -29,6 +29,7 @@
 31.222.245.0/24 # United States | California | Clouvider Limited
 31.222.247.0/24 # United States | Wisconsin | Clouvider Limited
 31.222.249.0/24 # United States | Florida | GREEN FLOID LLC
+37.19.221.0/24 # United States | Texas | Datacamp Limited
 37.140.255.0/24 # United States | Indiana | Clouvider Limited
 40.27.108.0/24 # United States | New York | M247 Europe SRL
 40.27.116.0/24 # United States | New York | M Europe SRL
@@ -711,7 +712,11 @@
 23.227.196.107/32 # United States | Illinois | Hivelocity, Inc.
 23.234.77.157/32 # United States | North Carolina | Tzulo, Inc.
 23.234.81.23/32 # United States | Washington | Tzulo, Inc.
+23.234.89.50/32 # United States | Arizona | Tzulo, Inc.
+23.234.91.57/32 # United States | Arizona | Tzulo, Inc.
 23.234.91.209/32 # United States | Arizona | Tzulo, Inc.
+23.234.112.75/32 # United States | Utah | Tzulo, Inc.
+23.234.115.99/32 # United States | Utah | Tzulo, Inc.
 23.239.3.62/32 # United States | California | Akamai Technologies, Inc.
 27.8.19.149/32 # China | Chongqing Shi | China Unicom China169 Backbone
 27.43.207.224/32 # China | Guangdong Province | China Unicom Guangdong Provin...
@@ -1086,11 +1091,6 @@
 36.255.33.159/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 36.255.33.217/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 37.19.200.132/32 # United States | Texas | Datacamp Limited
-37.19.210.24/32 # United States | Colorado | Datacamp Limited
-37.19.221.133/32 # United States | Texas | Datacamp Limited
-37.19.221.150/32 # United States | Texas | Datacamp Limited
-37.19.221.162/32 # United States | Texas | Datacamp Limited
-37.19.221.180/32 # United States | Texas | Datacamp Limited
 37.202.157.107/32 # Iran | West Azerbaijan Province | Aria Shatel Pjsc
 37.221.66.27/32 # Republic of Moldova | Chisinau | AVA HOST SRL
 37.221.66.174/32 # Republic of Moldova | Chisinau | AVA HOST SRL
@@ -1196,6 +1196,8 @@
 45.133.219.33/32 # United Kingdom | England | Clouvider Limited
 45.133.219.83/32 # United Kingdom | England | Clouvider Limited
 45.133.219.146/32 # United Kingdom | England | Clouvider Limited
+45.134.142.216/32 # United States | Florida | Datacamp Limited
+45.134.142.231/32 # United States | Florida | Datacamp Limited
 45.135.34.9/32 # United Kingdom | England | Clouvider Limited
 45.135.34.140/32 # United Kingdom | England | Clouvider Limited
 45.135.34.178/32 # United Kingdom | England | Clouvider Limited
@@ -1619,6 +1621,7 @@
 103.26.83.47/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
 103.26.86.40/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 103.27.110.232/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
+103.70.77.226/32 # Hong Kong | Hong Kong | Netsec Limited
 103.72.1.205/32 # Pakistan | Sindh | FIBERISH PVT LTD
 103.73.58.190/32 # Philippines | Antique | Barbaza Multi purpose Cooperative
 103.74.20.130/32 # Pakistan | Sindh | Galaxy Broadband pvt. Ltd.
@@ -1628,7 +1631,6 @@
 103.96.130.107/32 # Hong Kong | Hong Kong | WUZHOUHULIAN INTERNATIONAL CO., LI...
 103.98.37.105/32 # India | Delhi | NETMAX COMPUTERS
 103.110.19.89/32 # India | Haryana | ANJANI BROADBAND SOLUTIONS PVT.LTD.
-103.115.199.16/32 # Pakistan | Punjab | Z COM NETWORKS
 103.116.136.194/32 # India | Uttar Pradesh | R G TECHNOSOLUTIONS PVT LTD
 103.116.137.167/32 # India | Uttar Pradesh | R G TECHNOSOLUTIONS PVT LTD
 103.120.76.182/32 # Indonesia | Banten | Pt Haci Telekomunikasi Indonesia
@@ -1662,6 +1664,7 @@
 103.203.88.238/32 # Pakistan | Sindh | Logon Broadband Pvt. Limited
 103.213.112.61/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 103.213.112.127/32 # Pakistan | Punjab | Cyber Internet Services private Limited
+103.213.112.219/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 103.216.198.137/32 # United Kingdom | England | M247 Europe SRL
 103.217.158.221/32 # Myanmar [Burma] | Shan State | Tah Moe Hnye chan Thar Tun ...
 103.219.153.248/32 # Netherlands | North Holland | HOSTSLIM OU
@@ -1854,6 +1857,7 @@
 126.209.76.68/32 # Philippines | Davao Region | Infinivan Inc.
 128.24.160.160/32 # United States | Wyoming | Microsoft Corporation
 129.212.187.46/32 # United States | Georgia | Digitalocean, LLC
+129.212.220.110/32 # Netherlands | Provincie Noord-Holland | Digitalocean, LLC
 129.226.128.168/32 # Hong Kong | Hong Kong | Shenzhen Tencent Computer Systems ...
 130.49.14.54/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 130.49.14.91/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
@@ -1912,6 +1916,7 @@
 135.136.36.52/32 # United States | Florida | M247 Europe SRL
 135.136.36.84/32 # United States | Florida | M247 Europe SRL
 135.136.36.96/32 # United States | Florida | M247 Europe SRL
+135.136.36.108/32 # United States | Florida | M247 Europe SRL
 135.232.122.168/32 # United States | Virginia | Microsoft Corporation
 135.232.176.179/32 # United States | Illinois | Microsoft Corporation
 135.232.177.162/32 # United States | Illinois | Microsoft Corporation
@@ -3407,6 +3412,7 @@
 187.126.39.36/32 # United States | Nevada | Clouvider Limited
 187.126.39.53/32 # United States | Nevada | Clouvider Limited
 187.126.39.56/32 # United States | Nevada | Clouvider Limited
+187.126.39.84/32 # United States | Nevada | Clouvider Limited
 187.126.43.6/32 # United States | Ohio | Clouvider Limited
 187.126.43.25/32 # United States | Ohio | Clouvider Limited
 187.126.43.32/32 # United States | Ohio | Clouvider Limited
@@ -3422,6 +3428,7 @@
 188.137.243.165/32 # United States | New Jersey | Podaon Sia
 188.166.123.111/32 # Netherlands | Gelderland | Digitalocean, LLC
 188.214.34.20/32 # Cyprus | South Cyprus | Edis GmbH
+188.255.156.80/32 # United States | California | Cnserver LLC
 189.139.139.224/32 # Mexico | Estado de Mexico | UNINET
 190.77.112.160/32 # Venezuela | Capital District | Cantv Servicios, Venezuela
 190.89.29.38/32 # Venezuela | Capital District | CORPORACION FIBEX TELECOM, ...
