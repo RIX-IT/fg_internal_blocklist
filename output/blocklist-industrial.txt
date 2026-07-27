@@ -277,7 +277,6 @@
 141.133.124.0/24 # United States | Arizona | Clouvider Limited
 141.133.125.0/24 # United States | Arizona | Clouvider Limited
 141.133.126.0/24 # United States | New Jersey | Clouvider Limited
-142.111.3.0/24 # United States | New York | HOST TELECOM LTD
 142.111.43.0/24 # United States | New York | HOST TELECOM LTD
 142.111.112.0/24 # United States | New York | HOST TELECOM LTD
 142.111.121.0/24 # United States | California | Clouvider Limited
@@ -463,6 +462,7 @@
 172.120.234.0/24 # United States | Texas | IT HOSTLINE LTD
 172.120.238.0/24 # United States | Texas | IT HOSTLINE LTD
 172.120.239.0/24 # United States | Texas | IT HOSTLINE LTD
+172.120.248.0/24 # United States | California | IT HOSTLINE LTD
 172.120.254.0/24 # United States | California | IT HOSTLINE LTD
 172.120.255.0/24 # United States | California | IT HOSTLINE LTD
 172.121.42.0/24 # United States | California | IT HOSTLINE LTD
@@ -698,6 +698,7 @@
 20.119.78.151/32 # United States | Virginia | Microsoft Corporation
 20.127.214.162/32 # United States | District of Columbia | Microsoft Corporation
 20.161.44.182/32 # United States | Virginia | Microsoft Corporation
+20.161.58.229/32 # United States | Virginia | Microsoft Corporation
 20.161.71.49/32 # United States | Virginia | Microsoft Corporation
 20.163.32.235/32 # United States | Arizona | Microsoft Corporation
 20.168.109.197/32 # United States | Arizona | Microsoft Corporation
@@ -707,9 +708,10 @@
 20.236.100.1/32 # United States | Illinois | Microsoft Corporation
 20.244.58.210/32 # India | Maharashtra | Microsoft Corporation
 20.253.66.44/32 # United States | District of Columbia | Microsoft Corporation
-23.146.236.244/32 # United States | Florida | QUANTUM
 23.159.216.243/32 # United States | Colorado | Byte Node LLC
+23.160.24.29/32 # United States | Colorado | Data Bridge Limited
 23.162.40.109/32 # United States | Kentucky | Cyber Data LLC
+23.168.216.176/32 # United States | California | Hayashimo LLC
 23.227.196.107/32 # United States | Illinois | Hivelocity, Inc.
 23.234.77.157/32 # United States | North Carolina | Tzulo, Inc.
 23.234.81.23/32 # United States | Washington | Tzulo, Inc.
@@ -1779,7 +1781,6 @@
 110.185.104.180/32 # China | Sichuan | Chinanet Sichuan Telecom Internet Data C...
 111.20.172.234/32 # China | Beijing | China Mobile
 111.90.145.48/32 # Malaysia | Federal Territory of Kuala Lumpur | Shinjiru Te...
-111.90.159.202/32 # Malaysia | Federal Territory of Kuala Lumpur | Shinjiru Te...
 111.92.153.72/32 # Pakistan | Sindh | Logon Broadband Pvt. Limited
 111.228.6.20/32 # China | Beijing | China Telecom
 112.18.182.218/32 # China | Guangdong Province | China Mobile
@@ -2120,6 +2121,10 @@
 141.147.191.120/32 # Japan | Tokyo | Oracle Corporation
 142.11.206.73/32 # United States | Washington | Hostwinds Llc.
 142.93.242.144/32 # United States | New Jersey | Digitalocean, LLC
+142.111.3.24/32 # United States | Utah | IT HOSTLINE LTD
+142.111.3.121/32 # United States | Utah | IT HOSTLINE LTD
+142.111.3.243/32 # United States | Utah | IT HOSTLINE LTD
+142.111.3.252/32 # United States | Utah | IT HOSTLINE LTD
 142.111.128.72/32 # United States | Utah | IT HOSTLINE LTD
 142.111.128.82/32 # United States | Utah | IT HOSTLINE LTD
 142.111.128.208/32 # United States | Utah | IT HOSTLINE LTD
@@ -3113,10 +3118,6 @@
 172.120.209.35/32 # United States | Texas | IT HOSTLINE LTD
 172.120.209.131/32 # United States | Texas | IT HOSTLINE LTD
 172.120.209.230/32 # United States | Texas | IT HOSTLINE LTD
-172.120.248.88/32 # United Kingdom | England | IT HOSTLINE LTD
-172.120.248.122/32 # United States | California | HOST TELECOM LTD
-172.120.248.182/32 # United States | California | IT HOSTLINE LTD
-172.120.248.235/32 # United States | California | IT HOSTLINE LTD
 172.121.48.89/32 # United States | Nevada | IT HOSTLINE LTD
 172.121.48.196/32 # United Kingdom | England | IT HOSTLINE LTD
 172.121.48.209/32 # United States | Nevada | IT HOSTLINE LTD
@@ -3297,7 +3298,6 @@
 185.214.165.87/32 # United Kingdom | England | Clouvider Limited
 185.214.165.103/32 # United Kingdom | England | Clouvider Limited
 185.216.117.3/32 # Hong Kong | Hong Kong | Law's Cloud Infrastructure Limited
-185.226.93.120/32 # Turkey | İstanbul | BIG CORE LLC
 185.226.196.17/32 # United States | California | Zenlayer INC
 185.226.198.4/32 # United States | California | Nsec - Sistemas Informaticos,...
 185.228.193.76/32 # United States | New York | Gtt Communications Inc.
@@ -3601,7 +3601,6 @@
 202.57.27.73/32 # Indonesia | East Java | Pt Wahyu Adidaya Network
 202.63.202.196/32 # Pakistan | Sindh | FIBERISH PVT LTD
 202.63.209.77/32 # Pakistan | Sindh | FALCON BROADBAND (PRIVATE) LIMITED
-202.70.139.48/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 202.70.139.187/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 202.111.42.66/32 # China | Jiangsu Sheng | China Telecom Next Generation Carr...
 202.141.33.217/32 # India | Tamil Nadu | Railtel Corporation of India Ltd.
@@ -3660,6 +3659,7 @@
 209.101.202.251/32 # United States | Illinois | Datacamp Limited
 209.101.202.254/32 # United States | Illinois | Datacamp Limited
 209.101.203.71/32 # United States | Illinois | Datacamp Limited
+209.101.203.103/32 # United States | Illinois | Datacamp Limited
 209.101.203.129/32 # United States | Illinois | Datacamp Limited
 209.101.203.239/32 # United States | Illinois | Datacamp Limited
 209.101.252.84/32 # United States | Florida | Datacamp Limited
