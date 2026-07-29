@@ -463,7 +463,6 @@
 172.120.234.0/24 # United States | Texas | IT HOSTLINE LTD
 172.120.238.0/24 # United States | Texas | IT HOSTLINE LTD
 172.120.239.0/24 # United States | Texas | IT HOSTLINE LTD
-172.120.248.0/24 # United States | California | IT HOSTLINE LTD
 172.120.254.0/24 # United States | California | IT HOSTLINE LTD
 172.120.255.0/24 # United States | California | IT HOSTLINE LTD
 172.121.42.0/24 # United States | California | IT HOSTLINE LTD
@@ -713,10 +712,13 @@
 23.168.216.176/32 # United States | California | Hayashimo LLC
 23.227.196.107/32 # United States | Illinois | Hivelocity, Inc.
 23.234.77.157/32 # United States | North Carolina | Tzulo, Inc.
+23.234.78.49/32 # United States | North Carolina | Tzulo, Inc.
 23.234.79.61/32 # United States | North Carolina | Tzulo, Inc.
 23.234.80.21/32 # United States | Washington | Tzulo, Inc.
 23.234.80.191/32 # United States | Washington | Tzulo, Inc.
 23.234.81.23/32 # United States | Washington | Tzulo, Inc.
+23.234.81.46/32 # United States | Washington | Tzulo, Inc.
+23.234.81.114/32 # United States | Washington | Tzulo, Inc.
 23.234.82.165/32 # United States | Washington | Tzulo, Inc.
 23.234.83.67/32 # United States | Washington | Tzulo, Inc.
 23.234.83.145/32 # United States | Washington | Tzulo, Inc.
@@ -727,13 +729,20 @@
 23.234.91.57/32 # United States | Arizona | Tzulo, Inc.
 23.234.91.209/32 # United States | Arizona | Tzulo, Inc.
 23.234.92.124/32 # United States | California | Tzulo, Inc.
+23.234.94.90/32 # United States | California | Tzulo, Inc.
 23.234.103.227/32 # United States | New York | Tzulo, Inc.
 23.234.108.73/32 # United States | Georgia | Tzulo, Inc.
 23.234.108.217/32 # United States | Georgia | Tzulo, Inc.
+23.234.108.242/32 # United States | Georgia | Tzulo, Inc.
+23.234.110.149/32 # United States | Georgia | Tzulo, Inc.
+23.234.111.60/32 # United States | Georgia | Tzulo, Inc.
+23.234.111.170/32 # United States | Georgia | Tzulo, Inc.
 23.234.111.200/32 # United States | Georgia | Tzulo, Inc.
 23.234.112.75/32 # United States | Utah | Tzulo, Inc.
 23.234.112.87/32 # United States | Utah | Tzulo, Inc.
+23.234.114.124/32 # United States | Utah | Tzulo, Inc.
 23.234.115.99/32 # United States | Utah | Tzulo, Inc.
+23.234.116.230/32 # United States | Missouri | Tzulo, Inc.
 23.234.117.169/32 # United States | Missouri | Tzulo, Inc.
 23.239.3.62/32 # United States | California | Akamai Technologies, Inc.
 27.8.19.149/32 # China | Chongqing Shi | China Unicom China169 Backbone
@@ -1450,6 +1459,7 @@
 66.93.167.252/32 # United States | Illinois | Datacamp Limited
 66.179.94.117/32 # United States | Pennsylvania | IONOS SE
 66.228.55.212/32 # United States | Texas | Akamai Technologies, Inc.
+67.207.88.37/32 # United States | New Jersey | Digitalocean, LLC
 67.217.57.240/32 # United States | New Jersey | Interserver, INC
 67.217.228.55/32 # United States | California | Bl Networks
 68.154.37.66/32 # United States | Virginia | Microsoft Corporation
@@ -1650,11 +1660,11 @@
 103.166.90.41/32 # Indonesia | Jawa Barat | Pt Regynet Data Solusindo
 103.166.234.71/32 # Indonesia | Central Java | KitaNet
 103.173.7.252/32 # Pakistan | Punjab | Nasstec Airnet Networks Private Limited
+103.174.242.230/32 # India | Delhi | Xpress Net Solution
 103.174.243.226/32 # India | Delhi | Qwistel Network Service Private Limited
 103.175.16.104/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
 103.176.16.12/32 # India | Delhi | Qwistel Network Service Private Limited
 103.181.134.138/32 # Hong Kong | Hong Kong | GNET INC.
-103.181.160.51/32 # India | Delhi | Xpress Net Solution
 103.181.160.55/32 # India | Haryana | Xpress Net Solution
 103.186.23.55/32 # Pakistan | Sindh | Connect Communication
 103.186.77.86/32 # Pakistan | Punjab | Nasstec Airnet Networks Private Limited
@@ -1739,6 +1749,7 @@
 106.13.122.198/32 # China | Beijing | Beijing Baidu Netcom Science And Technol...
 106.126.3.56/32 # China | Guangdong Province | Quanzhou
 106.126.3.78/32 # China | Guangdong Province | Quanzhou
+107.148.158.113/32 # United States | New Jersey | Interserver, INC
 107.148.158.118/32 # United States | New Jersey | Interserver, INC
 107.148.158.248/32 # United States | New Jersey | Interserver, INC
 107.149.184.181/32 # Germany | Hesse | PEG TECH INC
@@ -1765,7 +1776,6 @@
 109.177.26.80/32 # United Arab Emirates | Abu Dhabi Emirate | EMIRATES TELECO...
 109.196.111.12/32 # Germany | Free and Hanseatic City of Hamburg | Scalaxy B.V.
 109.205.213.203/32 # Azerbaijan | Baku | Interserver, INC
-109.224.242.28/32 # Turkey | Hatay | High Speed For Internet Services L.L.C
 109.230.199.172/32 # Sweden | Stockholm County | Glesys Ab
 110.36.71.51/32 # Pakistan | Punjab | Wateen Telecom Limited
 110.36.77.94/32 # Pakistan | Punjab | Wateen Telecom Limited
@@ -2163,6 +2173,7 @@
 144.172.106.140/32 # United States | Utah | Routerhosting LLC
 144.172.115.212/32 # United States | Utah | Routerhosting LLC
 144.172.117.158/32 # United States | Utah | Routerhosting LLC
+145.63.135.124/32 # United States | New Jersey | Podaon Sia
 145.132.99.99/32 # United States | Virginia | Microsoft Corporation
 146.70.165.171/32 # United States | New York | M247 Europe SRL
 146.70.168.71/32 # United States | New York | M247 Europe SRL
@@ -2224,6 +2235,7 @@
 152.32.130.136/32 # Hong Kong | Hong Kong | UCLOUD INFORMATION TECHNOLOGY HK L...
 152.42.252.134/32 # Singapore | Southeast | Digitalocean, LLC
 152.69.213.235/32 # Singapore | Southeast | Oracle Corporation
+152.233.51.32/32 # United Kingdom | England | Datacamp Limited
 152.234.161.12/32 # United States | New York | Clouvider Limited
 152.234.161.225/32 # United States | New York | Clouvider Limited
 152.234.162.15/32 # Germany | Free and Hanseatic City of Hamburg | Ivanov Vita...
@@ -3126,6 +3138,10 @@
 172.120.209.35/32 # United States | Texas | IT HOSTLINE LTD
 172.120.209.131/32 # United States | Texas | IT HOSTLINE LTD
 172.120.209.230/32 # United States | Texas | IT HOSTLINE LTD
+172.120.248.28/32 # United States | California | IT HOSTLINE LTD
+172.120.248.122/32 # United States | California | IT HOSTLINE LTD
+172.120.248.182/32 # United States | California | IT HOSTLINE LTD
+172.120.248.235/32 # United States | California | IT HOSTLINE LTD
 172.121.48.89/32 # United States | Nevada | IT HOSTLINE LTD
 172.121.48.196/32 # United Kingdom | England | IT HOSTLINE LTD
 172.121.48.209/32 # United States | Nevada | IT HOSTLINE LTD
@@ -3284,6 +3300,7 @@
 185.135.86.149/32 # Latvia | Vidzeme | Melbikomas Uab
 185.136.15.110/32 # Kazakhstan | Almaty Province | Vlad Cojuhari
 185.136.15.111/32 # Kazakhstan | Almaty Province | Vlad Cojuhari
+185.141.119.133/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
 185.141.119.137/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
 185.141.119.142/32 # United States | Michigan | Hostroyale Technologies Pvt LTD
 185.149.146.1/32 # Germany | Hesse | Foton Telecom Cjsc
@@ -3508,7 +3525,6 @@
 200.10.35.23/32 # United States | Oregon | TODAS LAS REDES SA
 200.10.35.35/32 # United States | Oregon | TODAS LAS REDES SA
 200.115.96.8/32 # Honduras | Cortés | HONDUVISION SRL
-200.189.31.132/32 # Argentina | Buenos Aires | Space Exploration Technologies ...
 200.225.160.4/32 # United States | New York | Clouvider Limited
 200.225.160.42/32 # United States | New York | Clouvider Limited
 200.225.160.56/32 # United States | New York | Clouvider Limited
@@ -3678,6 +3694,7 @@
 212.6.36.58/32 # Germany | Land Berlin | Clouvider Limited
 212.6.36.76/32 # Germany | Land Berlin | Clouvider Limited
 212.43.147.168/32 # United States | New Jersey | Podaon Sia
+212.43.147.242/32 # United States | New Jersey | Podaon Sia
 212.43.153.127/32 # United States | New Jersey | Podaon Sia
 212.56.54.52/32 # United States | New Jersey | Krypt Technologies
 212.56.54.58/32 # United States | New Jersey | Krypt Technologies
