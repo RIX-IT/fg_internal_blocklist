@@ -103,7 +103,6 @@
 45.192.46.0/24 # United States | New York | Clouvider Limited
 45.192.47.0/24 # United States | New York | Clouvider Limited
 46.149.140.0/24 # United States | Texas | GREEN FLOID LLC
-46.149.141.0/24 # United States | District of Columbia | GREEN FLOID LLC
 50.118.198.0/24 # United States | New York | HOST TELECOM LTD
 62.106.69.0/24 # United States | California | Clouvider Limited
 65.111.0.0/24 # United States | Virginia | xk Tech GmbH
@@ -126,6 +125,7 @@
 65.111.27.0/24 # Thailand | Bangkok | xk Tech GmbH
 65.111.28.0/24 # Italy | Lazio | xk Tech GmbH
 65.111.29.0/24 # France | Île-de-France | xk Tech GmbH
+66.93.161.0/24 # United States | Texas | M247 Europe SRL
 66.93.163.0/24 # United States | Arizona | Datacamp Limited
 66.93.165.0/24 # United States | Illinois | Datacamp Limited
 68.235.46.0/24 # United States | Illinois | Tzulo, Inc.
@@ -357,12 +357,10 @@
 153.80.156.0/24 # United States | Indiana | GREEN FLOID LLC
 153.80.157.0/24 # United States | Utah | GREEN FLOID LLC
 153.80.158.0/24 # United States | Florida | GREEN FLOID LLC
-154.223.212.0/24 # Canada | Ontario | Clouvider Limited
 155.2.191.0/24 # United States | South Carolina | Host Universal Pty LTD
 155.212.41.0/24 # United States | Washington | GREEN FLOID LLC
 155.212.50.0/24 # United States | Washington | GREEN FLOID LLC
 155.212.59.0/24 # United States | Washington | GREEN FLOID LLC
-155.212.66.0/24 # United States | Washington | GREEN FLOID LLC
 155.212.77.0/24 # United States | Washington | GREEN FLOID LLC
 155.212.85.0/24 # United States | Washington | GREEN FLOID LLC
 155.212.94.0/24 # United States | Washington | GREEN FLOID LLC
@@ -410,6 +408,7 @@
 170.62.100.0/24 # Sweden | Skåne County | Datacamp Limited
 170.168.215.0/24 # United States | District of Columbia | GREEN FLOID LLC
 170.168.230.0/24 # United States | District of Columbia | GREEN FLOID LLC
+172.96.5.0/24 # United States | Pennsylvania | M247 Europe SRL
 172.120.12.0/24 # United States | California | HOST TELECOM LTD
 172.120.17.0/24 # United States | California | HOST TELECOM LTD
 172.120.20.0/24 # United States | California | IT HOSTLINE LTD
@@ -638,7 +637,6 @@
 5.104.72.224/32 # Netherlands | North Holland | Clouvider Limited
 5.129.252.94/32 # Russia | Moscow | JSC TIMEWEB
 5.180.221.108/32 # Japan | Tokyo | Uab Code 00
-5.183.129.37/32 # Canada | Québec | GREEN FLOID LLC
 5.183.129.166/32 # Canada | Québec | GREEN FLOID LLC
 5.183.129.254/32 # Canada | Newfoundland and Labrador | GREEN FLOID LLC
 5.226.140.85/32 # United Kingdom | England | Hydra Communications LTD
@@ -664,7 +662,6 @@
 14.1.107.219/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 15.188.246.198/32 # France | Île-de-France | Amazon.com, Inc.
 15.235.172.219/32 # Singapore | Southeast | OVH SAS
-18.136.252.254/32 # Singapore | Southeast | Amazon.com, Inc.
 18.213.136.216/32 # United States | Virginia | Amazon.com, Inc.
 20.15.228.213/32 # United States | Iowa | Microsoft Corporation
 20.25.10.66/32 # United States | District of Columbia | Microsoft Corporation
@@ -1149,7 +1146,9 @@
 40.27.109.237/32 # United States | New York | M247 Europe SRL
 40.27.110.115/32 # United States | New York | M247 Europe SRL
 40.27.111.0/32 # United States | New York | M247 Europe SRL
+40.27.111.15/32 # United States | New York | M247 Europe SRL
 40.27.111.215/32 # United States | New York | M247 Europe SRL
+40.27.111.227/32 # United States | New York | M247 Europe SRL
 40.76.127.71/32 # United States | District of Columbia | Microsoft Corporation
 40.76.239.35/32 # United States | District of Columbia | Microsoft Corporation
 40.81.42.178/32 # United States | Illinois | Microsoft Corporation
@@ -1186,7 +1185,6 @@
 45.11.180.174/32 # United Kingdom | England | Servinga GmbH
 45.11.181.19/32 # Romania | Bucharest | M247 Europe SRL
 45.15.74.63/32 # Canada | Ontario | Clouvider Limited
-45.15.74.86/32 # Canada | Ontario | Clouvider Limited
 45.15.74.200/32 # Canada | Ontario | Clouvider Limited
 45.15.74.222/32 # Canada | Ontario | Clouvider Limited
 45.43.37.254/32 # Taiwan | Taipei | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
@@ -1277,7 +1275,6 @@
 45.143.152.19/32 # United Kingdom | England | GREEN FLOID LLC
 45.143.152.156/32 # United Kingdom | England | GREEN FLOID LLC
 45.143.152.160/32 # United Kingdom | England | GREEN FLOID LLC
-45.143.153.41/32 # United Kingdom | England | GREEN FLOID LLC
 45.143.153.42/32 # United Kingdom | England | GREEN FLOID LLC
 45.143.153.160/32 # United Kingdom | England | GREEN FLOID LLC
 45.143.153.253/32 # United Kingdom | England | GREEN FLOID LLC
@@ -1345,6 +1342,10 @@
 46.101.110.51/32 # Germany | Hesse | Digitalocean, LLC
 46.101.143.60/32 # Germany | Hessen | Digitalocean, LLC
 46.101.229.179/32 # Germany | Hessen | Digitalocean, LLC
+46.149.141.10/32 # United States | District of Columbia | GREEN FLOID LLC
+46.149.141.58/32 # United States | District of Columbia | GREEN FLOID LLC
+46.149.141.76/32 # United States | District of Columbia | GREEN FLOID LLC
+46.149.141.163/32 # United States | District of Columbia | GREEN FLOID LLC
 47.77.219.184/32 # United States | California | Alibaba us Technology Co., Ltd.
 47.82.69.222/32 # Hong Kong | Hong Kong | Alibaba (US) Technology Co., Ltd.
 47.93.54.134/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
@@ -1467,12 +1468,9 @@
 66.93.160.67/32 # United States | Texas | M247 Europe SRL
 66.93.160.183/32 # United States | Texas | M247 Europe SRL
 66.93.160.184/32 # United States | Texas | M247 Europe SRL
-66.93.161.33/32 # United States | Texas | M247 Europe SRL
-66.93.161.125/32 # United States | Texas | M247 Europe SRL
-66.93.161.189/32 # United States | Texas | M247 Europe SRL
-66.93.161.233/32 # United States | Texas | M247 Europe SRL
 66.93.162.7/32 # United States | Arizona | Datacamp Limited
 66.93.162.37/32 # United States | Arizona | Datacamp Limited
+66.93.162.110/32 # United States | Arizona | Datacamp Limited
 66.93.162.230/32 # United States | Arizona | Datacamp Limited
 66.93.164.103/32 # United States | Illinois | Datacamp Limited
 66.93.164.134/32 # United States | Illinois | Datacamp Limited
@@ -1484,8 +1482,10 @@
 66.93.166.218/32 # United States | Illinois | Datacamp Limited
 66.93.167.75/32 # United States | Illinois | Datacamp Limited
 66.93.167.218/32 # United States | Illinois | Datacamp Limited
+66.93.167.244/32 # United States | Illinois | Datacamp Limited
 66.93.167.252/32 # United States | Illinois | Datacamp Limited
 66.179.94.117/32 # United States | Pennsylvania | IONOS SE
+66.228.47.200/32 # United States | New Jersey | Akamai Technologies, Inc.
 66.228.55.212/32 # United States | Texas | Akamai Technologies, Inc.
 67.207.88.37/32 # United States | New Jersey | Digitalocean, LLC
 67.217.57.240/32 # United States | New Jersey | Interserver, INC
@@ -1590,7 +1590,6 @@
 86.54.24.25/32 # Latvia | Vidzeme | Noyobzoda Faridduni Saidilhom
 86.160.26.5/32 # United Kingdom | England | British Telecommunications Limited
 87.70.153.235/32 # Israel | Tel Aviv District | Partner Communications Ltd.
-87.106.164.149/32 # Germany | Berlin | IONOS SE
 87.106.191.217/32 # Germany | Hesse | IONOS SE
 87.120.93.174/32 # Germany | Hesse | H NEXUS LTD
 87.120.93.195/32 # Germany | Hesse | H NEXUS LTD
@@ -1605,7 +1604,6 @@
 88.216.197.45/32 # Republic of Lithuania | Šiaulių apskritis | Uab Cherry Ser...
 88.218.187.26/32 # Germany | Hesse | Clouvider Limited
 88.218.187.55/32 # Germany | Hesse | Clouvider Limited
-88.218.187.162/32 # Germany | Hesse | Clouvider Limited
 88.229.197.141/32 # Turkey | Samsun | Turk Telekomunikasyon Anonim Sirketi
 89.37.172.155/32 # United Kingdom | England | Hydra Communications LTD
 89.43.132.200/32 # Syria | Rif Dimashq Governorate | High Speed For Internet ...
@@ -1640,12 +1638,16 @@
 94.141.122.164/32 # Finland | Mainland Finland | Partner Hosting LTD
 94.154.43.46/32 # Turkey | Bursa | Pitline LTD
 94.154.172.43/32 # Seychelles | Mahe | Ip Vendetta Inc.
+94.229.219.27/32 # United States | Florida | Datacamp Limited
 94.229.219.147/32 # United States | Florida | Datacamp Limited
 95.155.151.113/32 # Netherlands | Provincie Limburg | Layer7 Technologies INC
 95.164.145.36/32 # United States | New York | Isp4life INC
+95.164.145.149/32 # United States | New York | Isp4life INC
 95.164.145.207/32 # United States | New York | Isp4life INC
 95.164.150.13/32 # United States | New York | Isp4life INC
+95.164.151.130/32 # United States | New York | Isp4life INC
 95.164.151.249/32 # United States | New York | Isp4life INC
+95.164.195.182/32 # United States | New York | Gtt Communications Inc.
 95.173.197.195/32 # Hong Kong | Hong Kong | Datacamp Limited
 95.182.91.103/32 # United States | California | Cloud Software Fzco
 95.182.92.196/32 # United States | California | Cloud Software Fzco
@@ -1658,6 +1660,7 @@
 101.99.89.137/32 # Malaysia | Federal Territory of Kuala Lumpur | Shinjiru Te...
 101.127.144.191/32 # Singapore | Southwest | Starhub Ltd.
 102.33.122.12/32 # South Africa | Eastern Cape | Metrofibre Networx
+102.69.167.9/32 # Tanzania | Dar es Salaam | Flashnet Technologies Limited
 102.89.85.218/32 # Nigeria | Oyo | Mtn Nigeria Communication Limited
 102.104.10.186/32 # Tunisia | Tunis | OOREDOO TUNISIE SA
 102.135.95.102/32 # Seychelles | Mahe | M Europe SRL
@@ -1679,7 +1682,6 @@
 103.102.247.115/32 # United States | Texas | Hostroyale Technologies Pvt LTD
 103.110.19.89/32 # India | Haryana | ANJANI BROADBAND SOLUTIONS PVT.LTD.
 103.116.136.194/32 # India | Uttar Pradesh | R G TECHNOSOLUTIONS PVT LTD
-103.116.137.167/32 # India | Uttar Pradesh | R G TECHNOSOLUTIONS PVT LTD
 103.120.76.182/32 # Indonesia | Banten | Pt Haci Telekomunikasi Indonesia
 103.132.41.199/32 # Indonesia | Central Java | Pt Kalimasada Inti Sarana
 103.133.24.51/32 # Indonesia | Jawa Barat | PT PHATRIA INTI PERSADA
@@ -1772,7 +1774,6 @@
 104.207.61.236/32 # Canada | Ontario | xk Tech GmbH
 104.207.61.251/32 # Canada | Ontario | xk Tech GmbH
 104.225.129.171/32 # United States | Florida | Shock Hosting LLC
-104.244.79.113/32 # Switzerland | Bern | Frantech Solutions
 104.248.130.183/32 # Germany | Hesse | Digitalocean, LLC
 104.248.189.25/32 # United States | California | Digitalocean, LLC
 104.252.224.76/32 # United States | New York | IT HOSTLINE LTD
@@ -1855,7 +1856,6 @@
 117.121.133.33/32 # China | Beijing | China Unicom China1 Backbone
 117.172.226.189/32 # China | Beijing | China Mobile
 117.175.185.81/32 # China | Guangdong Province | China Mobile
-117.177.102.79/32 # China | Guangdong Province | China Mobile
 117.187.124.156/32 # China | Guangdong Sheng | China Mobile
 117.205.172.8/32 # India | Karnataka | Bharat Sanchar Nigam LTD
 118.31.220.210/32 # China | Zhejiang Sheng | Hangzhou Alibaba Advertising CO.,...
@@ -2069,7 +2069,6 @@
 138.249.168.238/32 # Canada | Ontario | Clouvider Limited
 138.249.168.242/32 # Canada | Ontario | Clouvider Limited
 138.249.169.4/32 # Canada | Ontario | Clouvider Limited
-138.249.169.14/32 # Canada | Ontario | Clouvider Limited
 138.249.169.168/32 # Canada | Ontario | Clouvider Limited
 138.249.169.183/32 # Canada | Ontario | Clouvider Limited
 138.249.170.7/32 # United States | California | Clouvider Limited
@@ -2088,7 +2087,6 @@
 138.249.209.79/32 # Germany | Berlin | Clouvider Limited
 138.249.209.171/32 # Germany | Brandenburg | Clouvider Limited
 138.249.220.22/32 # Canada | Ontario | Clouvider Limited
-138.249.220.27/32 # Canada | Ontario | Clouvider Limited
 138.249.220.211/32 # Canada | Ontario | Clouvider Limited
 138.249.221.5/32 # Canada | Ontario | Clouvider Limited
 138.249.221.24/32 # Canada | Ontario | Clouvider Limited
@@ -2132,7 +2130,6 @@
 141.133.29.91/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 141.133.29.99/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 141.133.30.50/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
-141.133.30.87/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 141.133.31.5/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 141.133.31.151/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 141.133.32.3/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
@@ -2151,7 +2148,6 @@
 141.133.96.204/32 # Canada | Alberta | GREEN FLOID LLC
 141.133.96.250/32 # Canada | Alberta | GREEN FLOID LLC
 141.133.97.102/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
-141.133.97.121/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 141.133.98.3/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 141.133.98.7/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 141.133.99.2/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
@@ -2276,6 +2272,7 @@
 151.247.186.4/32 # United States | California | M247 Europe SRL
 151.247.186.88/32 # United States | California | M247 Europe SRL
 151.247.186.175/32 # United States | California | M247 Europe SRL
+151.247.187.56/32 # United States | California | M247 Europe SRL
 151.247.187.182/32 # United States | California | M247 Europe SRL
 151.247.193.174/32 # France | Île-de-France | CANADA INC.
 152.32.130.136/32 # Hong Kong | Hong Kong | UCLOUD INFORMATION TECHNOLOGY HK L...
@@ -2372,7 +2369,6 @@
 154.81.55.155/32 # United Kingdom | England | IT HOSTLINE LTD
 154.82.84.227/32 # Hong Kong | Hong Kong | Tcloudnet
 154.90.58.164/32 # Singapore | Southeast | Kaopu Cloud Hk Limited
-154.94.62.93/32 # Canada | Ontario | Clouvider Limited
 154.94.62.126/32 # Canada | Ontario | Clouvider Limited
 154.94.62.135/32 # Canada | Ontario | Clouvider Limited
 154.94.62.140/32 # Canada | Ontario | Clouvider Limited
@@ -2849,9 +2845,12 @@
 154.209.140.49/32 # United Kingdom | England | IT HOSTLINE LTD
 154.209.140.60/32 # United Kingdom | England | IT HOSTLINE LTD
 154.217.255.126/32 # Hong Kong | Hong Kong | AROSSCLOUD INC.
+154.223.212.25/32 # Canada | Ontario | Clouvider Limited
+154.223.212.34/32 # Canada | Ontario | Clouvider Limited
+154.223.212.96/32 # Canada | Ontario | Clouvider Limited
+154.223.212.240/32 # Canada | Ontario | Clouvider Limited
 154.223.213.47/32 # Canada | Québec | Clouvider Limited
 154.223.213.103/32 # Canada | Québec | Clouvider Limited
-154.223.214.108/32 # Canada | Québec | Clouvider Limited
 154.223.214.110/32 # Canada | Québec | Clouvider Limited
 154.223.215.16/32 # Canada | Ontario | Clouvider Limited
 154.223.215.101/32 # Canada | Ontario | Clouvider Limited
@@ -2864,6 +2863,10 @@
 155.212.55.202/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 155.212.63.30/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 155.212.63.74/32 # United Kingdom | Northern Ireland | Ivanov Vitaliy Sergeevich
+155.212.66.82/32 # United States | Washington | GREEN FLOID LLC
+155.212.66.113/32 # United States | Washington | GREEN FLOID LLC
+155.212.66.168/32 # United States | Washington | GREEN FLOID LLC
+155.212.66.181/32 # United States | Washington | GREEN FLOID LLC
 155.212.74.7/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 155.212.74.98/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 155.212.74.216/32 # United Kingdom | Northern Ireland | Ivanov Vitaliy Sergeevich
@@ -2872,7 +2875,6 @@
 155.212.81.71/32 # United Kingdom | Northern Ireland | Ivanov Vitaliy Sergeevich
 155.212.81.114/32 # United Kingdom | Northern Ireland | Ivanov Vitaliy Sergeevich
 155.212.92.36/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
-155.212.92.54/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 155.212.92.110/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 155.212.92.217/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 155.212.101.2/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
@@ -2894,7 +2896,6 @@
 156.229.175.56/32 # Canada | Ontario | Clouvider Limited
 156.229.175.136/32 # Canada | Ontario | Clouvider Limited
 156.229.175.181/32 # Canada | Ontario | Clouvider Limited
-156.229.237.8/32 # Canada | Ontario | Clouvider Limited
 156.229.237.175/32 # Canada | Ontario | Clouvider Limited
 156.229.237.214/32 # Canada | Ontario | Clouvider Limited
 156.229.237.220/32 # Canada | Ontario | Clouvider Limited
@@ -3006,14 +3007,12 @@
 166.1.156.237/32 # United Kingdom | England | Clouvider Limited
 166.1.166.8/32 # United Kingdom | England | Clouvider Limited
 166.1.166.82/32 # United Kingdom | England | Clouvider Limited
-166.1.167.172/32 # United Kingdom | England | Clouvider Limited
 166.1.169.68/32 # United Kingdom | England | Clouvider Limited
 166.1.170.248/32 # United Kingdom | England | Clouvider Limited
 166.1.172.105/32 # United Kingdom | England | Clouvider Limited
 166.1.172.175/32 # United Kingdom | England | Clouvider Limited
 166.1.174.198/32 # United Kingdom | England | Clouvider Limited
 166.1.176.114/32 # United Kingdom | England | Clouvider Limited
-166.1.177.101/32 # United Kingdom | England | Clouvider Limited
 166.1.177.160/32 # United Kingdom | England | Clouvider Limited
 166.1.178.42/32 # United Kingdom | England | Clouvider Limited
 166.1.180.58/32 # United Kingdom | England | Clouvider Limited
@@ -3109,6 +3108,7 @@
 167.233.91.12/32 # Germany | Bavaria | Hetzner Online GmbH
 167.250.111.134/32 # United States | New York | WhiteLabelColo
 168.90.96.33/32 # United States | New York | networksdelmanana.com
+168.90.96.96/32 # United States | New York | networksdelmanana.com
 168.90.96.117/32 # United States | New York | networksdelmanana.com
 168.113.5.12/32 # United Kingdom | England | Wireless Ltd
 168.113.23.25/32 # United Kingdom | Scotland | Wireless Ltd
@@ -3147,17 +3147,16 @@
 172.86.89.51/32 # United States | Texas | Routerhosting LLC
 172.86.89.186/32 # United States | Texas | Routerhosting LLC
 172.86.93.139/32 # Germany | Hesse | Aurologic GmbH
+172.96.4.80/32 # United States | Pennsylvania | M247 Europe SRL
 172.96.4.139/32 # United States | Pennsylvania | M247 Europe SRL
 172.96.4.168/32 # United States | Pennsylvania | M247 Europe SRL
 172.96.4.186/32 # United States | Pennsylvania | M247 Europe SRL
-172.96.5.17/32 # United States | Pennsylvania | M247 Europe SRL
-172.96.5.26/32 # United States | Pennsylvania | M247 Europe SRL
-172.96.5.90/32 # United States | Pennsylvania | M247 Europe SRL
 172.96.6.58/32 # United States | Pennsylvania | M247 Europe SRL
 172.96.6.81/32 # United States | Pennsylvania | M247 Europe SRL
 172.96.6.112/32 # United States | Pennsylvania | M247 Europe SRL
 172.96.6.254/32 # United States | Pennsylvania | M247 Europe SRL
 172.96.7.34/32 # United States | Pennsylvania | M247 Europe SRL
+172.96.7.99/32 # United States | Pennsylvania | M247 Europe SRL
 172.96.7.107/32 # United States | Pennsylvania | M247 Europe SRL
 172.120.57.59/32 # United States | California | IT HOSTLINE LTD
 172.120.57.158/32 # United States | California | IT HOSTLINE LTD
@@ -3531,7 +3530,6 @@
 193.233.198.132/32 # Germany | Hesse | Digital Hosting Provider LLC
 193.239.237.100/32 # United States | Illinois | Clouvider Limited
 194.26.136.68/32 # United Kingdom | Northern Ireland | Clouvider Limited
-194.26.136.100/32 # United Kingdom | Northern Ireland | Clouvider Limited
 194.26.136.226/32 # United Kingdom | Northern Ireland | Clouvider Limited
 194.33.9.49/32 # Canada | Québec | Ivanov Vitaliy Sergeevich
 194.33.9.141/32 # Netherlands | North Holland | Ivanov Vitaliy Sergeevich
@@ -3577,6 +3575,8 @@
 199.91.221.42/32 # Netherlands | North Holland | Bl Networks
 199.217.98.108/32 # Netherlands | North Holland | Bl Networks
 200.10.34.3/32 # United States | Oregon | TODAS LAS REDES SA
+200.10.34.48/32 # United States | Oregon | TODAS LAS REDES SA
+200.10.34.199/32 # United States | Oregon | TODAS LAS REDES SA
 200.10.35.23/32 # United States | Oregon | TODAS LAS REDES SA
 200.10.35.35/32 # United States | Oregon | TODAS LAS REDES SA
 200.115.96.8/32 # Honduras | Cortés | HONDUVISION SRL
@@ -3683,7 +3683,6 @@
 203.172.179.151/32 # Thailand | Suphan Buri Province | Ministry of Education Emisc
 203.186.186.218/32 # Hong Kong | Hong Kong | Hong Kong Broadband Network Limited
 204.44.70.181/32 # United States | California | HostPapa
-206.135.170.190/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 206.135.171.34/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 206.189.97.184/32 # Netherlands | North Holland | Digitalocean, LLC
 206.238.114.75/32 # Singapore | Southeast | Tcloudnet
@@ -3713,6 +3712,7 @@
 208.109.242.93/32 # United States | Arizona | Godaddy.com, LLC
 209.17.118.17/32 # Singapore | Southeast | LEASEWEB SINGAPORE PTE. LTD.
 209.101.149.75/32 # United States | Florida | Datacamp Limited
+209.101.149.152/32 # United States | Florida | Datacamp Limited
 209.101.149.249/32 # United States | Florida | Datacamp Limited
 209.101.150.97/32 # United States | Florida | Datacamp Limited
 209.101.150.122/32 # United States | Florida | Datacamp Limited
@@ -3732,6 +3732,7 @@
 209.101.203.239/32 # United States | Illinois | Datacamp Limited
 209.101.252.84/32 # United States | Florida | Datacamp Limited
 209.101.252.107/32 # United States | Florida | Datacamp Limited
+209.101.253.29/32 # United States | Florida | Datacamp Limited
 209.101.253.36/32 # United States | Florida | Datacamp Limited
 209.101.253.81/32 # United States | Florida | Datacamp Limited
 209.101.253.160/32 # United States | Florida | Datacamp Limited
