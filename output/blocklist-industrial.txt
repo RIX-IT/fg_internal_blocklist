@@ -23,6 +23,7 @@
 23.234.105.0/24 # United States | Texas | Tzulo, Inc.
 23.234.106.0/24 # United States | Texas | Tzulo, Inc.
 23.234.107.0/24 # United States | Texas | Tzulo, Inc.
+23.234.111.0/24 # United States | Georgia | tzulo, inc.
 31.59.237.0/24 # Germany | Hesse | Datacamp Limited
 31.59.238.0/24 # Germany | Hesse | Datacamp Limited
 31.222.242.0/24 # United States | New Hampshire | GREEN FLOID LLC
@@ -157,7 +158,6 @@
 104.165.128.0/24 # United States | Pennsylvania | Clouvider Limited
 104.252.153.0/24 # United States | New York | HOST TELECOM LTD
 104.252.183.0/24 # United States | New York | HOST TELECOM LTD
-104.252.224.0/24 # United States | New York | IT HOSTLINE LTD
 109.94.216.0/24 # United States | California | Clouvider Limited
 109.94.217.0/24 # United States | New York | Clouvider Limited
 109.94.218.0/24 # United States | Georgia | Clouvider Limited
@@ -183,8 +183,6 @@
 135.106.107.0/24 # United States | Louisiana | GREEN FLOID LLC
 135.136.19.0/24 # Germany | Hesse | M Europe SRL
 135.136.36.0/24 # United States | Florida | M247 Europe SRL
-136.0.102.0/24 # United States | New York | HOST TELECOM LTD
-136.0.196.0/24 # United States | New York | HOST TELECOM LTD
 136.0.213.0/24 # United States | New Jersey | Interserver, INC
 136.234.141.0/24 # United States | Arizona | GREEN FLOID LLC
 136.234.142.0/24 # United States | Texas | GREEN FLOID LLC
@@ -347,7 +345,6 @@
 158.46.179.0/24 # United States | California | Clouvider Limited
 166.1.115.0/24 # United States | Massachusetts | Clouvider Limited
 166.1.149.0/24 # United States | Pennsylvania | Clouvider Limited
-166.1.159.0/24 # United States | Pennsylvania | Clouvider Limited
 166.1.168.0/24 # United States | New York | Clouvider Limited
 166.1.196.0/24 # United States | Pennsylvania | Clouvider Limited
 166.1.244.0/24 # United States | Virginia | Clouvider Limited
@@ -696,9 +693,12 @@
 23.234.91.57/32 # United States | Arizona | Tzulo, Inc.
 23.234.91.204/32 # United States | Arizona | Tzulo, Inc.
 23.234.91.209/32 # United States | Arizona | Tzulo, Inc.
+23.234.92.115/32 # United States | California | tzulo, inc.
 23.234.92.124/32 # United States | California | Tzulo, Inc.
 23.234.94.90/32 # United States | California | Tzulo, Inc.
+23.234.94.207/32 # United States | California | tzulo, inc.
 23.234.94.229/32 # United States | California | Tzulo, Inc.
+23.234.95.68/32 # United States | California | tzulo, inc.
 23.234.95.126/32 # United States | California | tzulo, inc.
 23.234.100.44/32 # United States | New York | Tzulo, Inc.
 23.234.102.249/32 # United States | New York | Tzulo, Inc.
@@ -710,10 +710,6 @@
 23.234.108.242/32 # United States | Georgia | Tzulo, Inc.
 23.234.110.47/32 # United States | Georgia | Tzulo, Inc.
 23.234.110.149/32 # United States | Georgia | Tzulo, Inc.
-23.234.111.60/32 # United States | Georgia | Tzulo, Inc.
-23.234.111.170/32 # United States | Georgia | Tzulo, Inc.
-23.234.111.200/32 # United States | Georgia | Tzulo, Inc.
-23.234.111.230/32 # United States | Georgia | Tzulo, Inc.
 23.234.112.75/32 # United States | Utah | Tzulo, Inc.
 23.234.112.87/32 # United States | Utah | Tzulo, Inc.
 23.234.112.228/32 # United States | Utah | tzulo, inc.
@@ -1088,6 +1084,7 @@
 36.255.33.159/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 36.255.33.217/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 37.19.200.132/32 # United States | Texas | Datacamp Limited
+37.19.200.139/32 # United States | Texas | Datacamp Limited
 37.19.200.149/32 # United States | Texas | Datacamp Limited
 37.19.210.24/32 # United States | Colorado | Datacamp Limited
 37.19.210.31/32 # United States | Colorado | Datacamp Limited
@@ -1120,34 +1117,9 @@
 43.226.46.116/32 # China | Guangdong Sheng | Chinanet Liaoning Province Dalia...
 43.230.94.189/32 # Pakistan | Sindh | Getlinks (SMC-Private) Limited
 44.252.85.168/32 # United States | California | Amazon.com, Inc.
-45.3.34.0/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-45.3.34.216/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
 45.3.35.210/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-45.3.36.33/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-45.3.37.46/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-45.3.37.123/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-45.3.38.102/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-45.3.38.118/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-45.3.38.229/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-45.3.39.248/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-45.3.40.133/32 # Brazil | Sao Paulo | 3xk Tech GmbH
-45.3.41.44/32 # Brazil | Sao Paulo | Drei-K-Tech-GmbH 3xK Tech GmbH
-45.3.42.114/32 # United Kingdom | England | Drei-K-Tech-GmbH 3xK Tech GmbH
-45.3.45.21/32 # Italy | Lazio | xk Tech GmbH
-45.3.45.228/32 # Italy | Lazio | xk Tech GmbH
 45.3.47.14/32 # France | Ile-de-France | Drei-K-Tech-GmbH 3xK Tech GmbH
-45.3.47.178/32 # France | Ile-de-France | Drei-K-Tech-GmbH 3xK Tech GmbH
-45.3.47.189/32 # France | Ile-de-France | Drei-K-Tech-GmbH 3xK Tech GmbH
-45.3.47.244/32 # France | Ile-de-France | Drei-K-Tech-GmbH 3xK Tech GmbH
-45.3.48.62/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-45.3.49.13/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-45.3.49.106/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-45.3.49.251/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-45.3.50.38/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
 45.3.50.146/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-45.3.50.161/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-45.3.51.25/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-45.3.54.220/32 # United Kingdom | England | Drei-K-Tech-GmbH 3xK Tech GmbH
 45.11.25.17/32 # Germany | Hesse | Clouvider Limited
 45.11.25.57/32 # Germany | Land Berlin | Clouvider Limited
 45.11.180.174/32 # United Kingdom | England | Servinga GmbH
@@ -1167,7 +1139,6 @@
 45.61.136.94/32 # United States | California | Bl Networks
 45.66.248.112/32 # United States | Georgia | Bluevps Ou
 45.66.249.28/32 # United States | California | Bluevps Ou
-45.67.217.113/32 # France | Grand Est | Contabo GmbH
 45.71.14.204/32 # Brazil | State of São Paulo | MILANIN NET
 45.74.3.137/32 # Russian Federation | Novosibirsk Oblast | Nerushenko Vyach...
 45.76.9.248/32 # United States | New Jersey | The Constant Company, LLC
@@ -1379,24 +1350,7 @@
 64.236.153.162/32 # United States | Illinois | Microsoft Corporation
 64.236.201.48/32 # United States | Illinois | Microsoft Corporation
 64.236.201.50/32 # United States | Illinois | Microsoft Corporation
-65.111.1.31/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-65.111.1.246/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-65.111.2.84/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-65.111.3.100/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-65.111.6.37/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-65.111.7.176/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-65.111.8.101/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-65.111.8.233/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-65.111.14.56/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-65.111.14.245/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-65.111.20.145/32 # Brazil | Sao Paulo | Drei-K-Tech-GmbH 3xK Tech GmbH
-65.111.22.235/32 # United Kingdom | England | xk Tech GmbH
-65.111.25.87/32 # Germany | Land Berlin | Drei-K-Tech-GmbH 3xK Tech GmbH
 65.111.25.209/32 # Germany | Land Berlin | Drei-K-Tech-GmbH 3xK Tech GmbH
-65.111.25.230/32 # Germany | Land Berlin | Drei-K-Tech-GmbH 3xK Tech GmbH
-65.111.26.228/32 # Spain | Comunidad de Madrid | Drei-K-Tech-GmbH 3xK Tech GmbH
-65.111.27.41/32 # Thailand | Bangkok | Drei-K-Tech-GmbH 3xK Tech GmbH
-65.111.30.218/32 # France | Ile-de-France | Drei-K-Tech-GmbH 3xK Tech GmbH
 66.78.40.107/32 # United States | Washington | Aokigahara SRL
 66.179.94.117/32 # United States | Pennsylvania | IONOS SE
 66.228.47.200/32 # United States | New Jersey | Akamai Technologies, Inc.
@@ -1434,6 +1388,7 @@
 77.247.127.172/32 # United States | Virginia | Clouvider Limited
 78.138.9.253/32 # Spain | Catalunya | Servinga GmbH
 79.31.61.231/32 # Italy | Campania | Telecom Italia S.P.A.
+79.127.217.53/32 # United States | California | Datacamp Limited
 79.127.222.217/32 # United States | Texas | Datacamp Limited
 79.132.130.142/32 # Germany | Hesse | Servinga GmbH
 79.133.51.100/32 # Germany | Hesse | Ultahost, Inc.
@@ -1608,43 +1563,15 @@
 104.199.63.36/32 # Belgium | Bruxelles-Capitale | Google LLC
 104.199.82.22/32 # Belgium | Bruxelles-Capitale | Google LLC
 104.199.85.58/32 # Belgium | Brussels-Capital | Google LLC
-104.207.32.18/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-104.207.32.165/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-104.207.32.205/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-104.207.35.171/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-104.207.36.231/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-104.207.39.37/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-104.207.39.113/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-104.207.40.187/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-104.207.40.243/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-104.207.41.88/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-104.207.41.179/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-104.207.42.12/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-104.207.43.149/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-104.207.48.88/32 # Brazil | State of São Paulo | xk Tech GmbH
-104.207.48.127/32 # Brazil | State of São Paulo | xk Tech GmbH
-104.207.50.39/32 # United Kingdom | England | Drei-K-Tech-GmbH 3xK Tech GmbH
-104.207.50.211/32 # United Kingdom | England | Drei-K-Tech-GmbH 3xK Tech GmbH
-104.207.52.58/32 # United Kingdom | England | Drei-K-Tech-GmbH 3xK Tech GmbH
-104.207.53.57/32 # United Kingdom | England | Drei-K-Tech-GmbH 3xK Tech GmbH
-104.207.55.251/32 # Germany | Land Berlin | Drei-K-Tech-GmbH 3xK Tech GmbH
-104.207.56.138/32 # Germany | Land Berlin | Drei-K-Tech-GmbH 3xK Tech GmbH
-104.207.56.154/32 # Germany | Land Berlin | Drei-K-Tech-GmbH 3xK Tech GmbH
-104.207.58.96/32 # Thailand | Bangkok | Drei-K-Tech-GmbH 3xK Tech GmbH
-104.207.58.253/32 # Thailand | Bangkok | Drei-K-Tech-GmbH 3xK Tech GmbH
-104.207.59.155/32 # Canada | Ontario | xk Tech GmbH
-104.207.61.67/32 # Canada | Ontario | xk Tech GmbH
-104.207.62.46/32 # France | Ile-de-France | Drei-K-Tech-GmbH 3xK Tech GmbH
-104.207.62.203/32 # France | Ile-de-France | Drei-K-Tech-GmbH 3xK Tech GmbH
-104.207.62.228/32 # France | Ile-de-France | Drei-K-Tech-GmbH 3xK Tech GmbH
-104.207.63.35/32 # France | Ile-de-France | Drei-K-Tech-GmbH 3xK Tech GmbH
-104.207.63.83/32 # France | Ile-de-France | Drei-K-Tech-GmbH 3xK Tech GmbH
-104.207.63.255/32 # France | Ile-de-France | Drei-K-Tech-GmbH 3xK Tech GmbH
 104.225.129.171/32 # United States | Florida | Shock Hosting LLC
 104.248.130.183/32 # Germany | Hesse | Digitalocean, LLC
 104.248.134.194/32 # Germany | Hessen | DigitalOcean, LLC
 104.248.168.67/32 # United Kingdom | England | Digitalocean, LLC
 104.248.189.25/32 # United States | California | Digitalocean, LLC
+104.252.224.37/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
+104.252.224.76/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
+104.252.224.105/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
+104.252.224.134/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
 106.126.3.56/32 # China | Guangdong Province | Quanzhou
 106.126.3.78/32 # China | Guangdong Province | Quanzhou
 106.127.188.201/32 # China | Guangdong Sheng | Beihai
@@ -1792,7 +1719,6 @@
 130.211.71.23/32 # Belgium | Bruxelles-Capitale | Google LLC
 130.211.111.221/32 # Belgium | Bruxelles-Capitale | Google LLC
 131.159.24.205/32 # Germany | Bavaria | Technical University of Munich
-131.161.217.205/32 # Brazil | State of Paraná | Netbrasil Telecom LTDA
 132.148.91.25/32 # United States | Arizona | Godaddy.com, LLC
 134.195.91.224/32 # United States | California | Hosthatch, LLC
 134.199.153.166/32 # Australia | New South Wales | Digitalocean, LLC
@@ -1804,6 +1730,14 @@
 135.232.177.162/32 # United States | Illinois | Microsoft Corporation
 135.232.200.3/32 # United States | Illinois | Microsoft Corporation
 135.237.130.179/32 # United States | Virginia | Microsoft Corporation
+136.0.102.7/32 # United States | Illinois | Ace Data Centers II, L.L.C.
+136.0.102.23/32 # United States | Illinois | Ace Data Centers II, L.L.C.
+136.0.102.194/32 # United States | Illinois | Ace Data Centers II, L.L.C.
+136.0.102.233/32 # United States | Illinois | Ace Data Centers II, L.L.C.
+136.0.196.113/32 # United States | Utah | Ace Data Centers II, L.L.C.
+136.0.196.135/32 # United States | Utah | Ace Data Centers II, L.L.C.
+136.0.196.140/32 # United States | Utah | Ace Data Centers II, L.L.C.
+136.0.196.254/32 # United States | Utah | Ace Data Centers II, L.L.C.
 136.37.0.69/32 # United States | Missouri | Google Fiber Inc.
 136.234.130.74/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 136.234.130.91/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
@@ -1989,7 +1923,6 @@
 142.111.3.121/32 # United States | Utah | IT HOSTLINE LTD
 142.111.3.243/32 # United States | Utah | IT HOSTLINE LTD
 142.111.3.252/32 # United States | Utah | IT HOSTLINE LTD
-142.111.43.61/32 # Hong Kong | Hong Kong | TNGNET B.V.
 142.111.43.97/32 # Hong Kong | Hong Kong | TNGNET B.V.
 142.111.43.114/32 # Hong Kong | Hong Kong | TNGNET B.V.
 142.111.43.207/32 # Hong Kong | Hong Kong | TNGNET B.V.
@@ -2014,7 +1947,6 @@
 142.111.229.65/32 # United States | Utah | IT HOSTLINE LTD
 142.111.229.132/32 # United States | Utah | IT HOSTLINE LTD
 142.111.229.157/32 # United States | Utah | IT HOSTLINE LTD
-142.111.232.46/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 142.111.232.90/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 142.111.232.135/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 142.111.232.181/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
@@ -2056,9 +1988,11 @@
 146.70.165.73/32 # United States | New York | M247 Europe SRL
 146.70.165.78/32 # United States | New York | M247 Europe SRL
 146.70.165.171/32 # United States | New York | M247 Europe SRL
+146.70.166.184/32 # United States | New York | M247 Europe SRL
 146.70.168.71/32 # United States | New York | M247 Europe SRL
 146.70.168.169/32 # United States | New York | M247 Europe SRL
 146.70.171.139/32 # United States | New York | M247 Europe SRL
+146.70.171.144/32 # United States | New York | M247 Europe SRL
 146.70.172.231/32 # United States | California | M247 Europe SRL
 146.70.173.82/32 # United States | California | M247 Europe SRL
 146.70.187.191/32 # United States | Florida | M247 Europe SRL
@@ -2079,14 +2013,6 @@
 150.95.81.97/32 # Thailand | Bangkok | GMO Z.COM PTE. LTD.
 150.230.8.53/32 # Australia | New South Wales | Oracle Corporation
 151.115.147.146/32 # France | Île-de-France | Scaleway SAS
-151.123.176.47/32 # France | Ile-de-France | Drei-K-Tech-GmbH 3xK Tech GmbH
-151.123.176.107/32 # France | Ile-de-France | Drei-K-Tech-GmbH 3xK Tech GmbH
-151.123.176.188/32 # France | Ile-de-France | Drei-K-Tech-GmbH 3xK Tech GmbH
-151.123.177.110/32 # France | Île-de-France | xk Tech GmbH
-151.123.177.223/32 # France | Île-de-France | xk Tech GmbH
-151.123.178.111/32 # France | Ile-de-France | Drei-K-Tech-GmbH 3xK Tech GmbH
-151.123.178.223/32 # France | Ile-de-France | Drei-K-Tech-GmbH 3xK Tech GmbH
-151.123.178.241/32 # France | Ile-de-France | Drei-K-Tech-GmbH 3xK Tech GmbH
 151.241.122.63/32 # United States | New Jersey | Cogent Communications, LLC
 151.241.122.108/32 # United States | New Jersey | Cogent Communications, LLC
 151.247.22.25/32 # United States | New Jersey | CANADA INC.
@@ -2773,7 +2699,6 @@
 162.35.162.43/32 # United States | New Jersey | Interserver
 162.144.121.110/32 # United States | Utah | Unified Layer
 162.216.5.130/32 # United States | Florida | Hivelocity, Inc.
-162.249.125.150/32 # Romania | Bucharest | INTERKVM HOST SRL
 163.61.91.104/32 # Pakistan | Sindh | Cloudex Pakistan
 163.245.216.232/32 # United States | New Jersey | Interserver, INC
 164.37.109.234/32 # United Kingdom | England | Packet Star Networks Limited
@@ -2804,6 +2729,10 @@
 166.1.151.144/32 # United Kingdom | England | Clouvider Limited
 166.1.153.235/32 # United Kingdom | England | Clouvider Limited
 166.1.156.125/32 # United Kingdom | England | Clouvider Limited
+166.1.159.24/32 # United States | Illinois | Ace Data Centers, Inc.
+166.1.159.58/32 # United States | Illinois | Ace Data Centers, Inc.
+166.1.159.190/32 # United States | Illinois | Ace Data Centers, Inc.
+166.1.159.200/32 # United States | Illinois | Ace Data Centers, Inc.
 166.1.166.8/32 # United Kingdom | England | Clouvider Limited
 166.1.169.68/32 # United Kingdom | England | Clouvider Limited
 166.1.170.248/32 # United Kingdom | England | Clouvider Limited
@@ -2897,7 +2826,6 @@
 166.88.221.249/32 # United States | Utah | IT HOSTLINE LTD
 166.88.222.47/32 # United States | Utah | IT HOSTLINE LTD
 166.88.222.200/32 # United States | Utah | IT HOSTLINE LTD
-166.88.222.217/32 # United States | Utah | IT HOSTLINE LTD
 167.71.45.210/32 # Germany | Hesse | Digitalocean, LLC
 167.71.121.87/32 # United States | California | Digitalocean, LLC
 167.71.207.50/32 # Singapore | Central Singapore | Digitalocean, LLC
@@ -3119,6 +3047,7 @@
 185.206.30.30/32 # Saudi Arabia | Mecca Region | Al Wafai International For C...
 185.208.158.250/32 # Switzerland | Bern | Global data System IT Corporation
 185.213.193.71/32 # United States | District of Columbia | Zenlayer INC
+185.213.193.222/32 # United States | District of Columbia | Zenlayer Inc
 185.216.117.3/32 # Hong Kong | Hong Kong | Law's Cloud Infrastructure Limited
 185.226.196.17/32 # United States | California | Zenlayer INC
 185.226.198.4/32 # United States | California | Nsec - Sistemas Informaticos,...
@@ -3140,7 +3069,6 @@
 185.238.91.215/32 # Netherlands | Provincie Noord-Holland | Clouvider Limited
 185.241.150.199/32 # Germany | Hesse | Datacamp Limited
 185.249.227.95/32 # France | Grand Est | Contabo GmbH
-186.209.203.198/32 # Brazil | Santa Catarina | UNIFIQUE TELECOMUNICACOES S A
 186.240.176.13/32 # United States | New York | Clouvider Limited
 186.240.176.23/32 # United States | New York | Clouvider Limited
 186.240.176.70/32 # United States | New York | Clouvider Limited
@@ -3268,9 +3196,6 @@
 193.32.126.230/32 # France | Ile-de-France | 31173 Services AB
 193.33.188.183/32 # Germany | Land Berlin | Clouvider Limited
 193.43.145.120/32 # Syria | Damascus Governorate | Syrian Telecommunication Pr...
-193.56.28.8/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-193.56.28.49/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-193.56.28.202/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
 193.169.218.30/32 # United States | New York | Gtt Communications Inc.
 193.169.219.9/32 # United States | New York | Gtt Communications Inc.
 193.176.21.20/32 # United States | Washington | GREEN FLOID LLC
@@ -3301,11 +3226,9 @@
 194.164.172.158/32 # Spain | Madrid | IONOS SE
 195.3.222.251/32 # Poland | Masovian Voivodeship | Mevspace Sp. Z O.O.
 195.49.212.189/32 # Kazakhstan | Almaty Province | Ps Internet Company LLP
-195.63.31.94/32 # Germany | Land Berlin | Drei-K-Tech-GmbH 3xK Tech GmbH
 195.64.111.8/32 # United Kingdom | Wales | Clouvider Limited
 195.64.111.67/32 # United Kingdom | Wales [Cymru GB-CYM] | Clouvider Limited
 195.64.111.112/32 # United Kingdom | Wales [Cymru GB-CYM] | Clouvider Limited
-195.64.111.248/32 # United Kingdom | Wales | Clouvider Limited
 195.66.214.79/32 # Ukraine | Kyiv city | Virtual Systems LLC
 195.70.28.12/32 # Switzerland | Canton de Geneve | Cheops Technology Switzer...
 195.82.146.180/32 # Estonia | Harju maakond | Vault Dweller OU
@@ -3386,6 +3309,7 @@
 200.225.190.52/32 # United States | Arizona | Clouvider Limited
 200.225.190.82/32 # United States | Arizona | Clouvider Limited
 200.225.191.31/32 # United States | Arizona | Clouvider Limited
+200.255.205.162/32 # Brazil | Rio de Janeiro | AS4230 - CLARO S.A.
 201.4.96.24/32 # United States | New York | Clouvider Limited
 201.4.97.43/32 # United States | New York | Clouvider Limited
 201.4.97.47/32 # United States | New York | Clouvider Limited
@@ -3476,7 +3400,6 @@
 212.43.147.168/32 # United States | New Jersey | Podaon Sia
 212.43.147.242/32 # United States | New Jersey | Podaon Sia
 212.43.153.127/32 # United States | New Jersey | Podaon Sia
-212.56.54.52/32 # United States | New Jersey | Krypt Technologies
 212.56.54.58/32 # United States | New Jersey | Krypt Technologies
 212.69.135.98/32 # Canada | Ontario | Clouvider Limited
 212.69.135.127/32 # Canada | Ontario | Clouvider Limited
@@ -3498,7 +3421,6 @@
 216.252.238.104/32 # Netherlands | Provincie Noord-Holland | Psychz Networks
 217.154.159.73/32 # Germany | Baden-Württemberg | IONOS SE
 217.160.248.17/32 # Spain | Madrid | IONOS SE
-217.181.90.246/32 # Germany | Land Berlin | Drei-K-Tech-GmbH 3xK Tech GmbH
 217.217.253.235/32 # Singapore | Southeast | Contabo Asia Private Limited
 219.156.57.123/32 # China | Henan Sheng | CHINA169-Backbone - CHINA UNICOM Chi...
 220.79.229.219/32 # South Korea | Gyeonggi-do | Korea Telecom
