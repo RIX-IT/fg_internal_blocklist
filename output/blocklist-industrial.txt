@@ -86,7 +86,6 @@
 45.192.39.0/24 # United States | New York | Clouvider Limited
 45.192.40.0/24 # United States | New York | Clouvider Limited
 45.192.42.0/24 # United States | New York | Clouvider Limited
-45.192.43.0/24 # United States | New York | Clouvider Limited
 45.192.44.0/24 # United States | New York | Clouvider Limited
 45.192.45.0/24 # United States | New York | Clouvider Limited
 45.192.46.0/24 # United States | New York | Clouvider Limited
@@ -392,7 +391,6 @@
 172.120.155.0/24 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.157.0/24 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.158.0/24 # United States | District of Columbia | IT HOSTLINE LTD
-172.120.161.0/24 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.162.0/24 # United States | Washington | IT HOSTLINE LTD
 172.120.163.0/24 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.164.0/24 # United States | Pennsylvania | IT HOSTLINE LTD
@@ -1243,6 +1241,10 @@
 45.192.41.63/32 # United States | New York | Clouvider Limited
 45.192.41.198/32 # United States | New York | Clouvider Limited
 45.192.41.211/32 # United States | New York | Clouvider Limited
+45.192.43.5/32 # United States | New York | Clouvider Limited
+45.192.43.96/32 # United States | New York | Clouvider Limited
+45.192.43.111/32 # United States | New York | Clouvider Limited
+45.192.43.182/32 # United States | New York | Clouvider Limited
 45.192.59.7/32 # Canada | Ontario | HOST TELECOM LTD
 45.192.59.14/32 # Canada | Ontario | HOST TELECOM LTD
 45.192.59.22/32 # Canada | Ontario | HOST TELECOM LTD
@@ -1368,7 +1370,6 @@
 74.50.87.45/32 # United States | New Jersey | Interserver, INC
 74.208.51.44/32 # United States | Pennsylvania | IONOS SE
 74.208.181.249/32 # United States | Missouri | IONOS SE
-74.244.135.80/32 # Argentina | Buenos Aires | Space Exploration Technologies ...
 76.164.199.140/32 # United States | Virginia | Ame Hosting LLC
 77.83.39.211/32 # Netherlands | North Holland | KPROHOST LLC
 77.90.153.30/32 # Germany | Schleswig-Holstein | British Telecommunications PLC
@@ -1854,6 +1855,7 @@
 139.135.46.57/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.135.59.170/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 139.135.60.103/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
+139.135.60.246/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 139.180.160.173/32 # Australia | New South Wales | The Constant Company, LLC
 140.205.220.98/32 # China | Zhejiang | Hangzhou Alibaba Advertising CO.,LTD.
 141.11.88.108/32 # United States | New Jersey | Royalehosting BV
@@ -2753,7 +2755,6 @@
 166.1.241.32/32 # United States | Utah | Clouvider Limited
 166.1.241.87/32 # United States | Utah | Clouvider Limited
 166.1.241.138/32 # United States | Utah | Clouvider Limited
-166.1.241.169/32 # United States | Utah | Clouvider Limited
 166.1.242.56/32 # United States | Utah | Clouvider Limited
 166.1.242.239/32 # United States | Utah | Clouvider Limited
 166.1.242.247/32 # United States | Utah | Clouvider Limited
@@ -2765,7 +2766,6 @@
 166.1.244.153/32 # United States | Illinois | Clouvider Limited
 166.1.244.155/32 # United States | Illinois | Clouvider Limited
 166.1.244.174/32 # United States | Illinois | Clouvider Limited
-166.1.245.191/32 # United States | Utah | Clouvider Limited
 166.1.245.234/32 # United States | Utah | Clouvider Limited
 166.1.245.237/32 # United States | Utah | Clouvider Limited
 166.1.245.246/32 # United States | Utah | Clouvider Limited
@@ -2874,6 +2874,10 @@
 172.86.89.186/32 # United States | Texas | Routerhosting LLC
 172.86.93.139/32 # Germany | Hesse | Aurologic GmbH
 172.105.23.195/32 # Canada | Ontario | Akamai Technologies, Inc.
+172.120.161.86/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
+172.120.161.94/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
+172.120.161.216/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
+172.120.161.218/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
 172.120.182.6/32 # United States | Pennsylvania | HOST TELECOM LTD
 172.120.182.17/32 # United States | Pennsylvania | IT HOSTLINE LTD
 172.120.182.92/32 # United States | Pennsylvania | IT HOSTLINE LTD
