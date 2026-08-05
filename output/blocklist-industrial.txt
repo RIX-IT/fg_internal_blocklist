@@ -15,6 +15,7 @@
 23.234.73.0/24 # United States | California | Tzulo, Inc.
 23.234.74.0/24 # United States | California | Tzulo, Inc.
 23.234.75.0/24 # United States | California | Tzulo, Inc.
+23.234.91.0/24 # United States | Arizona | tzulo, inc.
 23.234.96.0/24 # United States | Virginia | Tzulo, Inc.
 23.234.97.0/24 # United States | Virginia | Tzulo, Inc.
 23.234.98.0/24 # United States | Virginia | Tzulo, Inc.
@@ -42,7 +43,6 @@
 40.27.118.0/24 # United States | New York | M Europe SRL
 40.27.119.0/24 # United States | New York | M Europe SRL
 45.39.127.0/24 # United States | New York | HOST TELECOM LTD
-45.39.175.0/24 # United States | New York | HOST TELECOM LTD
 45.39.194.0/24 # United States | New York | HOST TELECOM LTD
 45.39.244.0/24 # United States | New York | HOST TELECOM LTD
 45.83.220.0/24 # Sweden | Västra Götaland County | 11 Services Ab
@@ -190,6 +190,7 @@
 136.234.239.0/24 # United States | District of Columbia | GREEN FLOID LLC
 136.234.240.0/24 # United States | New Jersey | GREEN FLOID LLC
 136.234.241.0/24 # United States | Nevada | GREEN FLOID LLC
+138.226.239.0/24 # Netherlands | Provincie Noord-Holland | HomeLine Broadband...
 138.249.131.0/24 # United States | New York | Clouvider Limited
 138.249.139.0/24 # United States | California | Clouvider Limited
 138.249.158.0/24 # United Kingdom | England | Clouvider Limited
@@ -235,7 +236,6 @@
 141.133.126.0/24 # United States | New Jersey | Clouvider Limited
 142.111.121.0/24 # United States | California | Clouvider Limited
 142.111.213.0/24 # United States | California | Clouvider Limited
-142.111.226.0/24 # United States | New York | HOST TELECOM LTD
 142.111.231.0/24 # United States | California | Clouvider Limited
 142.111.253.0/24 # United States | California | Clouvider Limited
 142.111.254.0/24 # United States | California | HOST TELECOM LTD
@@ -345,14 +345,12 @@
 158.46.179.0/24 # United States | California | Clouvider Limited
 166.1.115.0/24 # United States | Massachusetts | Clouvider Limited
 166.1.149.0/24 # United States | Pennsylvania | Clouvider Limited
-166.1.168.0/24 # United States | New York | Clouvider Limited
 166.1.196.0/24 # United States | Pennsylvania | Clouvider Limited
 166.1.244.0/24 # United States | Virginia | Clouvider Limited
 166.1.250.0/24 # United States | New York | Clouvider Limited
 166.1.251.0/24 # United States | New York | Clouvider Limited
 166.1.253.0/24 # United States | Arizona | Clouvider Limited
 166.1.254.0/24 # United States | Arizona | Clouvider Limited
-166.88.41.0/24 # United States | California | HOST TELECOM LTD
 166.88.156.0/24 # United States | Nevada | Clouvider Limited
 166.88.158.0/24 # United States | Nevada | Clouvider Limited
 166.88.183.0/24 # United States | California | HOST TELECOM LTD
@@ -585,7 +583,6 @@
 213.209.130.0/24 # Germany | Bavaria | Datacamp Limited
 223.123.73.0/24 # Pakistan | Punjab | Cmpak Limited
 1.13.249.217/32 # China | Jiangsu | Shenzhen Tencent Computer Systems Compan...
-1.94.17.74/32 # China | Shanghai | Huawei Cloud Service Data Center
 1.201.126.244/32 # South Korea | Seoul | KINX
 2.24.131.246/32 # United Kingdom | England | Hostinger International Limited
 2.56.113.3/32 # Poland | West Pomeranian Voivodeship | Host Telecom LTD
@@ -689,10 +686,6 @@
 23.234.88.254/32 # United States | Arizona | Tzulo, Inc.
 23.234.89.50/32 # United States | Arizona | Tzulo, Inc.
 23.234.89.52/32 # United States | Arizona | Tzulo, Inc.
-23.234.91.32/32 # United States | Arizona | Tzulo, Inc.
-23.234.91.57/32 # United States | Arizona | Tzulo, Inc.
-23.234.91.204/32 # United States | Arizona | Tzulo, Inc.
-23.234.91.209/32 # United States | Arizona | Tzulo, Inc.
 23.234.92.115/32 # United States | California | tzulo, inc.
 23.234.92.124/32 # United States | California | Tzulo, Inc.
 23.234.94.90/32 # United States | California | Tzulo, Inc.
@@ -720,7 +713,6 @@
 23.234.117.169/32 # United States | Missouri | Tzulo, Inc.
 23.234.118.79/32 # United States | Missouri | Tzulo, Inc.
 23.234.119.122/32 # United States | New Jersey | Tzulo, Inc.
-23.239.3.62/32 # United States | California | Akamai Technologies, Inc.
 23.239.3.206/32 # United States | California | Akamai Technologies, Inc.
 27.8.19.149/32 # China | Chongqing Shi | China Unicom China169 Backbone
 27.43.207.224/32 # China | Guangdong Province | China Unicom Guangdong Provin...
@@ -777,7 +769,6 @@
 34.38.10.60/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.38.14.136/32 # Belgium | Brussels-Capital | Google LLC
 34.38.18.117/32 # Belgium | Bruxelles-Capitale | Google LLC
-34.38.29.195/32 # Belgium | Brussels-Capital | Google LLC
 34.38.47.127/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.38.82.62/32 # Belgium | Brussels-Capital | Google LLC
 34.38.91.13/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -945,7 +936,6 @@
 34.140.90.12/32 # Belgium | Brussels-Capital | Google LLC
 34.140.107.159/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.140.109.21/32 # Belgium | Brussels-Capital | Google LLC
-34.140.134.247/32 # Belgium | Brussels-Capital | Google LLC
 34.140.152.69/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.140.166.174/32 # Belgium | Brussels-Capital | Google LLC
 34.140.174.12/32 # Belgium | Brussels-Capital | Google LLC
@@ -984,7 +974,6 @@
 34.156.229.211/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.156.239.61/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.156.240.64/32 # Belgium | Bruxelles-Capitale | Google LLC
-34.156.250.189/32 # Belgium | Brussels-Capital | Google LLC
 34.178.76.14/32 # Netherlands | Groningen | Google LLC
 34.180.116.224/32 # Japan | Tokyo | Google LLC
 34.255.195.241/32 # Ireland | Leinster | Amazon.com, Inc.
@@ -1032,7 +1021,6 @@
 35.205.160.38/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.205.169.201/32 # Belgium | Brussels-Capital | Google LLC
 35.205.170.51/32 # Belgium | Bruxelles-Capitale | Google LLC
-35.205.180.138/32 # Belgium | Brussels-Capital | Google LLC
 35.205.184.47/32 # Belgium | Brussels-Capital | Google LLC
 35.205.185.65/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.205.210.155/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -1117,9 +1105,6 @@
 43.226.46.116/32 # China | Guangdong Sheng | Chinanet Liaoning Province Dalia...
 43.230.94.189/32 # Pakistan | Sindh | Getlinks (SMC-Private) Limited
 44.252.85.168/32 # United States | California | Amazon.com, Inc.
-45.3.35.210/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
-45.3.47.14/32 # France | Ile-de-France | Drei-K-Tech-GmbH 3xK Tech GmbH
-45.3.50.146/32 # United States | District of Columbia | Drei-K-Tech-GmbH 3x...
 45.11.25.17/32 # Germany | Hesse | Clouvider Limited
 45.11.25.57/32 # Germany | Land Berlin | Clouvider Limited
 45.11.180.174/32 # United Kingdom | England | Servinga GmbH
@@ -1128,9 +1113,12 @@
 45.11.183.208/32 # Estonia | Harjumaa | servinga-EE servinga GmbH
 45.15.74.200/32 # Canada | Ontario | Clouvider Limited
 45.15.74.222/32 # Canada | Ontario | Clouvider Limited
+45.39.175.9/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
+45.39.175.149/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
+45.39.175.202/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
+45.39.175.217/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
 45.43.37.254/32 # Taiwan | Taipei | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 45.56.68.46/32 # United States | Texas | Akamai Technologies, Inc.
-45.56.120.161/32 # United States | Texas | Akamai Technologies, Inc.
 45.59.124.94/32 # Switzerland | Bern | Routerhosting LLC
 45.59.125.141/32 # Switzerland | Bern | Routerhosting LLC
 45.59.125.184/32 # Switzerland | Bern | Routerhosting LLC
@@ -1350,11 +1338,9 @@
 64.236.153.162/32 # United States | Illinois | Microsoft Corporation
 64.236.201.48/32 # United States | Illinois | Microsoft Corporation
 64.236.201.50/32 # United States | Illinois | Microsoft Corporation
-65.111.25.209/32 # Germany | Land Berlin | Drei-K-Tech-GmbH 3xK Tech GmbH
 66.78.40.107/32 # United States | Washington | Aokigahara SRL
 66.179.94.117/32 # United States | Pennsylvania | IONOS SE
 66.228.47.200/32 # United States | New Jersey | Akamai Technologies, Inc.
-66.228.55.212/32 # United States | Texas | Akamai Technologies, Inc.
 67.207.88.37/32 # United States | New Jersey | Digitalocean, LLC
 67.217.57.240/32 # United States | New Jersey | Interserver, INC
 67.217.228.55/32 # United States | California | Bl Networks
@@ -1372,6 +1358,7 @@
 72.255.19.177/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 72.255.32.67/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 72.255.59.166/32 # Pakistan | Punjab | Cyber Internet Services private Limited
+73.212.14.186/32 # United States | Maryland | Comcast Cable Communications, LLC
 74.0.96.80/32 # United States | Texas | Datacamp Limited
 74.0.96.99/32 # United States | Texas | Datacamp Limited
 74.0.96.174/32 # United States | Texas | Datacamp Limited
@@ -1477,6 +1464,7 @@
 94.141.122.164/32 # Finland | Mainland Finland | Partner Hosting LTD
 94.154.43.46/32 # Turkey | Bursa | Pitline LTD
 94.154.43.99/32 # Netherlands | Provincie Noord-Holland | Storm Industries LLC
+94.154.43.210/32 # Netherlands | Provincie Noord-Holland | Storm Industries LLC
 94.154.172.43/32 # Seychelles | Mahe | Ip Vendetta Inc.
 95.155.151.113/32 # Netherlands | Provincie Limburg | Layer7 Technologies INC
 95.164.150.13/32 # United States | New York | Isp4life INC
@@ -1540,6 +1528,7 @@
 103.251.26.97/32 # United States | California | Hostroyale Technologies Pvt LTD
 103.251.26.173/32 # United States | California | Hostroyale Technologies Pvt LTD
 103.251.26.187/32 # United States | California | Hostroyale Technologies Pvt LTD
+103.251.27.189/32 # United States | California | HostRoyale Technologies Pvt Ltd
 104.21.55.245/32 # United States | California | Cloudflare, Inc.
 104.36.50.13/32 # United States | New York | Hostroyale Technologies Pvt LTD
 104.36.50.42/32 # United States | New York | Hostroyale Technologies Pvt LTD
@@ -1737,7 +1726,6 @@
 136.0.196.113/32 # United States | Utah | Ace Data Centers II, L.L.C.
 136.0.196.135/32 # United States | Utah | Ace Data Centers II, L.L.C.
 136.0.196.140/32 # United States | Utah | Ace Data Centers II, L.L.C.
-136.0.196.254/32 # United States | Utah | Ace Data Centers II, L.L.C.
 136.37.0.69/32 # United States | Missouri | Google Fiber Inc.
 136.234.130.74/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 136.234.130.91/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
@@ -1780,10 +1768,6 @@
 138.199.43.93/32 # United States | Washington | Datacamp Limited
 138.199.43.96/32 # United States | Washington | Datacamp Limited
 138.199.43.103/32 # United States | Washington | Datacamp Limited
-138.226.239.44/32 # Vanuatu | Shefa Province | Cloudflare, Inc.
-138.226.239.45/32 # Vanuatu | Shefa Province | Cloudflare, Inc.
-138.226.239.90/32 # Vanuatu | Shefa Province | Cloudflare, Inc.
-138.226.239.91/32 # Vanuatu | Shefa Province | Cloudflare, Inc.
 138.249.19.17/32 # United Kingdom | England | Host Telecom LTD
 138.249.19.49/32 # United Kingdom | England | Host Telecom LTD
 138.249.28.54/32 # Germany | Berlin | Ivanov Vitaliy Sergeevich
@@ -1921,7 +1905,6 @@
 142.67.249.79/32 # Canada | Nova Scotia | EastLink
 142.93.242.144/32 # United States | New Jersey | Digitalocean, LLC
 142.111.3.121/32 # United States | Utah | IT HOSTLINE LTD
-142.111.3.243/32 # United States | Utah | IT HOSTLINE LTD
 142.111.3.252/32 # United States | Utah | IT HOSTLINE LTD
 142.111.43.97/32 # Hong Kong | Hong Kong | TNGNET B.V.
 142.111.43.114/32 # Hong Kong | Hong Kong | TNGNET B.V.
@@ -1937,11 +1920,13 @@
 142.111.176.84/32 # United States | Utah | IT HOSTLINE LTD
 142.111.176.110/32 # United States | Utah | IT HOSTLINE LTD
 142.111.177.14/32 # United States | New York | HOST TELECOM LTD
-142.111.177.130/32 # United States | New York | HOST TELECOM LTD
 142.111.193.48/32 # United States | Utah | IT HOSTLINE LTD
 142.111.193.99/32 # United States | Utah | IT HOSTLINE LTD
+142.111.226.87/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
+142.111.226.217/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
+142.111.226.235/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
+142.111.226.241/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 142.111.228.52/32 # United States | Illinois | Ace Data Centers II, L.L.C.
-142.111.228.61/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 142.111.228.108/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 142.111.228.212/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 142.111.229.65/32 # United States | Utah | IT HOSTLINE LTD
@@ -1952,7 +1937,6 @@
 142.111.232.181/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 142.111.233.41/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 142.111.233.52/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
-142.111.233.201/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 142.111.246.17/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 142.111.246.22/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 142.111.246.105/32 # United States | Illinois | Ace Data Centers II, L.L.C.
@@ -1975,6 +1959,7 @@
 144.48.130.65/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 144.48.130.147/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 144.48.130.200/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
+144.48.132.196/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 144.48.135.10/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 144.172.92.249/32 # United States | Utah | Routerhosting LLC
 144.172.99.68/32 # United States | Utah | Routerhosting LLC
@@ -2020,7 +2005,6 @@
 151.247.51.102/32 # United States | California | M247 Europe SRL
 151.247.51.111/32 # United States | California | M247 Europe SRL
 151.247.193.174/32 # France | Île-de-France | CANADA INC.
-152.32.130.136/32 # Hong Kong | Hong Kong | UCLOUD INFORMATION TECHNOLOGY HK L...
 152.42.252.134/32 # Singapore | Southeast | Digitalocean, LLC
 152.69.213.235/32 # Singapore | Southeast | Oracle Corporation
 152.234.161.12/32 # United States | New York | Clouvider Limited
@@ -2691,6 +2675,7 @@
 159.89.133.65/32 # United States | California | Digitalocean, LLC
 159.89.141.114/32 # United States | California | Digitalocean, LLC
 160.25.232.62/32 # Vietnam | Ho Chi Minh | VIET DIGITAL TECHNOLOGY LIABILITY ...
+160.119.71.92/32 # Netherlands | Provincie Noord-Holland | Alsycon B.V.
 160.191.101.139/32 # Vietnam | Hanoi | VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 161.35.236.255/32 # United States | California | DigitalOcean, LLC
 162.33.179.149/32 # United States | Illinois | Bl Networks
@@ -2734,6 +2719,10 @@
 166.1.159.190/32 # United States | Illinois | Ace Data Centers, Inc.
 166.1.159.200/32 # United States | Illinois | Ace Data Centers, Inc.
 166.1.166.8/32 # United Kingdom | England | Clouvider Limited
+166.1.168.33/32 # United States | Illinois | Ace Data Centers, Inc.
+166.1.168.71/32 # United States | Illinois | Ace Data Centers, Inc.
+166.1.168.101/32 # United States | Illinois | Ace Data Centers, Inc.
+166.1.168.107/32 # United States | Illinois | Ace Data Centers, Inc.
 166.1.169.68/32 # United Kingdom | England | Clouvider Limited
 166.1.170.248/32 # United Kingdom | England | Clouvider Limited
 166.1.172.105/32 # United Kingdom | England | Clouvider Limited
@@ -2777,7 +2766,6 @@
 166.1.252.75/32 # United States | Utah | Clouvider Limited
 166.1.252.148/32 # United States | Utah | Clouvider Limited
 166.1.255.77/32 # United States | Utah | Clouvider Limited
-166.1.255.124/32 # United States | Utah | Clouvider Limited
 166.1.255.238/32 # United States | Utah | Clouvider Limited
 166.88.0.60/32 # United States | Utah | IT HOSTLINE LTD
 166.88.0.69/32 # United States | Utah | IT HOSTLINE LTD
@@ -2785,10 +2773,13 @@
 166.88.9.140/32 # United States | Utah | Clouvider Limited
 166.88.9.162/32 # United States | Utah | Clouvider Limited
 166.88.9.186/32 # United States | Utah | Clouvider Limited
+166.88.41.23/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
+166.88.41.26/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
+166.88.41.63/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
+166.88.41.205/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 166.88.49.146/32 # United States | California | HOST TELECOM LTD
 166.88.49.221/32 # United States | California | HOST TELECOM LTD
 166.88.72.189/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
-166.88.72.202/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 166.88.72.235/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 166.88.72.240/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 166.88.76.104/32 # United States | Utah | IT HOSTLINE LTD
@@ -2804,7 +2795,6 @@
 166.88.168.58/32 # United States | Utah | IT HOSTLINE LTD
 166.88.168.187/32 # United States | Utah | IT HOSTLINE LTD
 166.88.168.214/32 # United States | Utah | IT HOSTLINE LTD
-166.88.168.250/32 # United States | Utah | IT HOSTLINE LTD
 166.88.175.44/32 # United States | Utah | IT HOSTLINE LTD
 166.88.175.153/32 # United States | Utah | IT HOSTLINE LTD
 166.88.175.168/32 # United States | Utah | IT HOSTLINE LTD
@@ -2812,9 +2802,7 @@
 166.88.211.5/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 166.88.211.105/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 166.88.211.163/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
-166.88.211.183/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 166.88.215.26/32 # United States | Utah | IT HOSTLINE LTD
-166.88.215.111/32 # United States | Utah | IT HOSTLINE LTD
 166.88.215.178/32 # United States | Utah | IT HOSTLINE LTD
 166.88.218.229/32 # United States | California | HOST TELECOM LTD
 166.88.218.252/32 # United States | California | HOST TELECOM LTD
@@ -2822,7 +2810,6 @@
 166.88.219.112/32 # United States | California | HOST TELECOM LTD
 166.88.221.49/32 # United States | Utah | IT HOSTLINE LTD
 166.88.221.86/32 # United States | Utah | IT HOSTLINE LTD
-166.88.221.237/32 # United States | Utah | IT HOSTLINE LTD
 166.88.221.249/32 # United States | Utah | IT HOSTLINE LTD
 166.88.222.47/32 # United States | Utah | IT HOSTLINE LTD
 166.88.222.200/32 # United States | Utah | IT HOSTLINE LTD
