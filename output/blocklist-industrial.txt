@@ -33,6 +33,7 @@
 31.222.246.0/24 # United Kingdom | England | Clouvider Limited
 31.222.247.0/24 # United States | Wisconsin | Clouvider Limited
 31.222.249.0/24 # United States | Florida | GREEN FLOID LLC
+37.19.200.0/24 # United States | Texas | Datacamp Limited
 37.19.221.0/24 # United States | Texas | Datacamp Limited
 37.140.255.0/24 # United States | Indiana | Clouvider Limited
 40.27.108.0/24 # United States | New York | M247 Europe SRL
@@ -273,6 +274,7 @@
 144.168.2.0/24 # United States | Delaware | M Europe SRL
 144.168.3.0/24 # United States | Delaware | M Europe SRL
 146.70.117.0/24 # Germany | Hesse | M Europe SRL
+146.70.211.0/24 # United States | Texas | M247 Europe SRL
 146.103.53.0/24 # United States | Texas | Datacamp Limited
 146.255.186.0/24 # United States | New York | Clouvider Limited
 151.241.171.0/24 # Germany | Land Berlin | 31173 Services AB
@@ -651,6 +653,7 @@
 20.244.58.210/32 # India | Maharashtra | Microsoft Corporation
 20.253.66.44/32 # United States | District of Columbia | Microsoft Corporation
 23.144.160.227/32 # United States | California | Sb Professional Services
+23.159.216.107/32 # United States | California | Byte Node LLC
 23.159.216.243/32 # United States | Colorado | Byte Node LLC
 23.160.24.29/32 # United States | Colorado | Data Bridge Limited
 23.160.24.223/32 # United States | Colorado | Data Bridge Limited
@@ -670,12 +673,14 @@
 23.234.81.23/32 # United States | Washington | Tzulo, Inc.
 23.234.81.46/32 # United States | Washington | Tzulo, Inc.
 23.234.81.114/32 # United States | Washington | Tzulo, Inc.
+23.234.81.220/32 # United States | Washington | tzulo, inc.
 23.234.82.56/32 # United States | Washington | Tzulo, Inc.
 23.234.82.61/32 # United States | Washington | Tzulo, Inc.
 23.234.82.165/32 # United States | Washington | Tzulo, Inc.
 23.234.88.254/32 # United States | Arizona | Tzulo, Inc.
 23.234.89.50/32 # United States | Arizona | Tzulo, Inc.
 23.234.89.52/32 # United States | Arizona | Tzulo, Inc.
+23.234.89.193/32 # United States | Arizona | tzulo, inc.
 23.234.90.227/32 # United States | Arizona | tzulo, inc.
 23.234.92.115/32 # United States | California | tzulo, inc.
 23.234.92.124/32 # United States | California | Tzulo, Inc.
@@ -690,6 +695,7 @@
 23.234.95.126/32 # United States | California | tzulo, inc.
 23.234.95.235/32 # United States | California | tzulo, inc.
 23.234.100.44/32 # United States | New York | Tzulo, Inc.
+23.234.102.70/32 # United States | New York | tzulo, inc.
 23.234.102.249/32 # United States | New York | Tzulo, Inc.
 23.234.103.121/32 # United States | New York | Tzulo, Inc.
 23.234.103.206/32 # United States | New York | Tzulo, Inc.
@@ -698,6 +704,7 @@
 23.234.108.105/32 # United States | Georgia | tzulo, inc.
 23.234.108.217/32 # United States | Georgia | Tzulo, Inc.
 23.234.108.242/32 # United States | Georgia | Tzulo, Inc.
+23.234.109.38/32 # United States | Georgia | tzulo, inc.
 23.234.110.47/32 # United States | Georgia | Tzulo, Inc.
 23.234.110.149/32 # United States | Georgia | Tzulo, Inc.
 23.234.112.75/32 # United States | Utah | Tzulo, Inc.
@@ -705,6 +712,7 @@
 23.234.112.228/32 # United States | Utah | tzulo, inc.
 23.234.113.96/32 # United States | Utah | Tzulo, Inc.
 23.234.114.124/32 # United States | Utah | Tzulo, Inc.
+23.234.114.230/32 # United States | Utah | tzulo, inc.
 23.234.115.74/32 # United States | Utah | tzulo, inc.
 23.234.115.99/32 # United States | Utah | Tzulo, Inc.
 23.234.116.230/32 # United States | Missouri | Tzulo, Inc.
@@ -1055,6 +1063,7 @@
 35.240.103.49/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.240.107.71/32 # Belgium | Brussels-Capital | Google LLC
 35.240.120.201/32 # Belgium | Bruxelles-Capitale | Google LLC
+35.241.169.19/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.241.177.52/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.241.187.223/32 # Belgium | Brussels-Capital | Google LLC
 35.241.198.50/32 # Belgium | Brussels-Capital | Google LLC
@@ -1069,10 +1078,6 @@
 36.255.33.151/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 36.255.33.159/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 36.255.33.217/32 # Pakistan | Punjab | Cyber Internet Services private Limited
-37.19.200.132/32 # United States | Texas | Datacamp Limited
-37.19.200.139/32 # United States | Texas | Datacamp Limited
-37.19.200.149/32 # United States | Texas | Datacamp Limited
-37.19.200.161/32 # United States | Texas | Datacamp Limited
 37.19.210.24/32 # United States | Colorado | Datacamp Limited
 37.19.210.31/32 # United States | Colorado | Datacamp Limited
 37.120.247.228/32 # Romania | Bucharest | M247 Europe SRL
@@ -1407,7 +1412,6 @@
 84.247.128.173/32 # France | Grand Est | Contabo GmbH
 85.90.196.155/32 # Romania | Ilfov | GREEN FLOID LLC
 85.121.52.46/32 # Germany | Hesse | M Europe SRL
-85.121.126.242/32 # Netherlands | South Holland | M Europe SRL
 85.137.53.71/32 # Netherlands | Provincie Noord-Holland | Sollutium Eu Sp Z....
 85.203.54.46/32 # United States | New York | Sb Professional Services
 85.203.54.92/32 # United States | New York | Sb Professional Services
@@ -1601,6 +1605,7 @@
 110.36.77.94/32 # Pakistan | Punjab | Wateen Telecom Limited
 110.37.65.33/32 # Pakistan | Punjab | Wateen Telecom Limited
 110.37.89.129/32 # Pakistan | Punjab | Wateen Telecom Limited
+110.37.104.0/32 # Pakistan | Punjab | National WiMAX/IMS environment
 110.38.209.163/32 # Pakistan | Punjab | Wateen Telecom Limited
 110.38.250.225/32 # Pakistan | Sindh | Galaxy Broadband
 110.38.254.73/32 # Pakistan | Sindh | Galaxy Broadband
@@ -1614,7 +1619,6 @@
 111.90.145.48/32 # Malaysia | Federal Territory of Kuala Lumpur | Shinjiru Te...
 111.92.153.72/32 # Pakistan | Sindh | Logon Broadband Pvt. Limited
 111.228.6.20/32 # China | Beijing | China Telecom
-112.18.182.218/32 # China | Guangdong Province | China Mobile
 112.80.248.27/32 # China | Jiangsu | China Unicom China1 Backbone
 112.168.175.109/32 # Republic of Korea | Gyeonggi | Korea Telecom
 113.86.47.75/32 # China | Guangdong Sheng | CHINANET BACKBONE
@@ -1635,6 +1639,7 @@
 118.31.220.210/32 # China | Zhejiang Sheng | Hangzhou Alibaba Advertising CO.,...
 118.114.19.190/32 # China | Sichuan | Chinanet
 119.3.177.62/32 # China | Beijing | Huawei Cloud Service Data Center
+119.30.118.6/32 # Pakistan | Punjab | Mobilink-Peering-AS-PK - IX Peering fo...
 119.30.118.127/32 # Pakistan | Punjab | Mobilink Gsm, Pakistan Mobile Communic...
 119.96.223.148/32 # China | Hubei | Chinanet Hubei Province Network
 119.99.249.240/32 # China | Hubei | Chinanet
@@ -1971,26 +1976,27 @@
 145.63.136.16/32 # United States | New Jersey | Podaon Sia
 146.70.165.73/32 # United States | New York | M247 Europe SRL
 146.70.165.78/32 # United States | New York | M247 Europe SRL
+146.70.165.124/32 # United States | New York | M247 Europe SRL
 146.70.165.171/32 # United States | New York | M247 Europe SRL
 146.70.166.174/32 # United States | New York | M247 Europe SRL
 146.70.166.184/32 # United States | New York | M247 Europe SRL
 146.70.168.71/32 # United States | New York | M247 Europe SRL
 146.70.168.153/32 # United States | New York | M247 Europe SRL
 146.70.168.169/32 # United States | New York | M247 Europe SRL
+146.70.168.185/32 # United States | New York | M247 Europe SRL
 146.70.171.139/32 # United States | New York | M247 Europe SRL
 146.70.171.144/32 # United States | New York | M247 Europe SRL
+146.70.172.121/32 # United States | California | M247 Europe SRL
+146.70.172.212/32 # United States | California | M247 Europe SRL
 146.70.172.231/32 # United States | California | M247 Europe SRL
 146.70.173.82/32 # United States | California | M247 Europe SRL
 146.70.173.117/32 # United States | California | M247 Europe SRL
 146.70.187.191/32 # United States | Florida | M247 Europe SRL
 146.70.187.201/32 # United States | Florida | M247 Europe SRL
-146.70.211.83/32 # United States | Texas | M247 Europe SRL
-146.70.211.89/32 # United States | Texas | M247 Europe SRL
-146.70.211.189/32 # United States | Texas | M247 Europe SRL
-146.70.211.190/32 # United States | Texas | M247 Europe SRL
 146.148.13.233/32 # Belgium | Bruxelles-Capitale | Google LLC
 146.148.20.104/32 # Belgium | Bruxelles-Capitale | Google LLC
 146.235.237.150/32 # United States | California | Oracle Corporation
+147.78.240.185/32 # Germany | Hessen | Owl Limited
 147.182.153.41/32 # Canada | Ontario | Digitalocean, LLC
 147.182.174.238/32 # United States | New Jersey | Digitalocean, LLC
 148.66.142.37/32 # Singapore | Southeast | Godaddy.com, LLC
@@ -2710,7 +2716,6 @@
 166.1.119.3/32 # United Kingdom | England | Clouvider Limited
 166.1.134.13/32 # United Kingdom | England | Clouvider Limited
 166.1.138.23/32 # United Kingdom | England | Clouvider Limited
-166.1.141.75/32 # United Kingdom | England | Clouvider Limited
 166.1.142.213/32 # United Kingdom | England | Clouvider Limited
 166.1.147.245/32 # United Kingdom | England | Clouvider Limited
 166.1.150.219/32 # United Kingdom | England | Clouvider Limited
@@ -2721,7 +2726,6 @@
 166.1.159.58/32 # United States | Illinois | Ace Data Centers, Inc.
 166.1.159.190/32 # United States | Illinois | Ace Data Centers, Inc.
 166.1.159.200/32 # United States | Illinois | Ace Data Centers, Inc.
-166.1.166.8/32 # United Kingdom | England | Clouvider Limited
 166.1.168.33/32 # United States | Illinois | Ace Data Centers, Inc.
 166.1.168.71/32 # United States | Illinois | Ace Data Centers, Inc.
 166.1.168.101/32 # United States | Illinois | Ace Data Centers, Inc.
@@ -2729,7 +2733,6 @@
 166.1.169.68/32 # United Kingdom | England | Clouvider Limited
 166.1.170.248/32 # United Kingdom | England | Clouvider Limited
 166.1.172.105/32 # United Kingdom | England | Clouvider Limited
-166.1.176.114/32 # United Kingdom | England | Clouvider Limited
 166.1.177.160/32 # United Kingdom | England | Clouvider Limited
 166.1.180.114/32 # United Kingdom | England | Clouvider Limited
 166.1.181.218/32 # United Kingdom | England | Clouvider Limited
@@ -2986,7 +2989,6 @@
 178.16.55.234/32 # United States | New York | Omegatech LTD
 178.17.57.102/32 # Germany | Saxony | GLOBAL CONNECTIVITY SOLUTIONS LLP
 178.49.198.211/32 # Russia | Novosibirsk Oblast | Novotelecom Ltd.
-178.62.39.8/32 # United Kingdom | England | Digitalocean, LLC
 178.128.108.89/32 # Singapore | South West | DigitalOcean, LLC
 178.128.138.240/32 # Netherlands | Provincie Noord-Holland | Digitalocean, LLC
 178.156.176.74/32 # United States | Virginia | Hetzner Online GmbH
