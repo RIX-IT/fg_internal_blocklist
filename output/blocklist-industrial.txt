@@ -47,6 +47,7 @@
 23.234.123.0/24 # Canada | Quebec | tzulo, inc.
 31.222.242.0/24 # United States | New Hampshire | GREEN FLOID LLC
 31.222.245.0/24 # United States | California | Clouvider Limited
+31.222.246.0/24 # United Kingdom | England | Clouvider Limited
 31.222.247.0/24 # United States | Wisconsin | Clouvider Limited
 31.222.249.0/24 # United States | Florida | GREEN FLOID LLC
 37.19.200.0/24 # United States | Texas | Datacamp Limited
@@ -777,6 +778,7 @@
 23.234.118.47/32 # United States | Missouri | tzulo, inc.
 23.234.118.55/32 # United States | Missouri | tzulo, inc.
 23.234.118.79/32 # United States | Missouri | Tzulo, Inc.
+23.234.118.150/32 # United States | Missouri | tzulo, inc.
 23.234.119.26/32 # United States | New Jersey | tzulo, inc.
 23.234.119.122/32 # United States | New Jersey | Tzulo, Inc.
 23.234.119.160/32 # United States | New Jersey | tzulo, inc.
@@ -796,16 +798,14 @@
 31.77.168.186/32 # Germany | Hessen | QWINS LTD
 31.77.168.190/32 # Germany | Hessen | QWINS LTD
 31.220.109.219/32 # United States | Arizona | Hostinger International Limited
-31.222.246.85/32 # United Kingdom | England | Clouvider Limited
-31.222.246.89/32 # United Kingdom | England | Clouvider Limited
-31.222.246.117/32 # United Kingdom | England | Clouvider Limited
-31.222.246.207/32 # United Kingdom | England | Clouvider Limited
 34.14.14.251/32 # Belgium | Brussels-Capital | Google LLC
 34.14.15.66/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.14.28.45/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.14.35.134/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.14.46.52/32 # Belgium | Bruxelles-Capitale | Google LLC
+34.14.49.15/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.14.49.26/32 # Belgium | Bruxelles-Capitale | Google LLC
+34.14.61.41/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.14.64.204/32 # Belgium | Brussels-Capital | Google LLC
 34.14.66.245/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.14.68.99/32 # Belgium | Brussels-Capital | Google LLC
@@ -814,6 +814,7 @@
 34.14.94.225/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.14.127.98/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.22.118.52/32 # Belgium | Brussels-Capital | Google LLC
+34.22.118.171/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.22.124.27/32 # Belgium | Brussels-Capital | Google LLC
 34.22.126.94/32 # Belgium | Brussels-Capital | Google LLC
 34.22.127.203/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -979,6 +980,7 @@
 34.79.130.36/32 # Belgium | Brussels-Capital | Google LLC
 34.79.134.10/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.79.140.70/32 # Belgium | Bruxelles-Capitale | Google LLC
+34.79.146.159/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.79.151.47/32 # Belgium | Brussels-Capital | Google LLC
 34.79.161.65/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.79.161.174/32 # Belgium | Brussels-Capital | Google LLC
@@ -1019,10 +1021,12 @@
 34.156.88.134/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.156.97.129/32 # Belgium | Brussels-Capital | Google LLC
 34.156.113.103/32 # Belgium | Bruxelles-Capitale | Google LLC
+34.156.126.106/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.156.143.149/32 # Belgium | Brussels-Capital | Google LLC
 34.156.146.136/32 # Belgium | Brussels-Capital | Google LLC
 34.156.157.240/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.156.172.163/32 # Belgium | Brussels-Capital | Google LLC
+34.156.173.6/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.156.174.198/32 # Belgium | Brussels-Capital | Google LLC
 34.156.184.239/32 # Belgium | Brussels-Capital | Google LLC
 34.156.196.175/32 # Belgium | Brussels-Capital | Google LLC
@@ -1033,7 +1037,6 @@
 34.156.239.61/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.156.240.64/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.156.240.169/32 # Belgium | Bruxelles-Capitale | Google LLC
-34.178.76.14/32 # Netherlands | Groningen | Google LLC
 34.180.116.224/32 # Japan | Tokyo | Google LLC
 34.255.195.241/32 # Ireland | Leinster | Amazon.com, Inc.
 35.186.181.18/32 # United States | Virginia | Google LLC
@@ -1090,7 +1093,6 @@
 35.205.246.21/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.205.249.67/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.228.82.22/32 # Finland | Mainland Finland | Google LLC
-35.228.137.144/32 # Finland | Mainland Finland | Google LLC
 35.233.1.9/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.233.1.82/32 # Belgium | Brussels-Capital | Google LLC
 35.233.9.113/32 # Belgium | Brussels-Capital | Google LLC
@@ -1309,6 +1311,7 @@
 45.221.64.224/32 # Seychelles | Mahe | internet security
 45.225.135.21/32 # Switzerland | Zurich | RACK SPHERE HOSTING S.A.
 46.8.96.254/32 # Finland | Uusimaa | FIRST SERVER LIMITED
+46.11.53.246/32 # Malta | Msida | GO p.l.c.
 46.21.176.14/32 # Italy | Lombardia | Planetel SPA
 46.99.143.50/32 # Kosovo | Unknown | Ipko Telecommunications LLC
 46.101.115.169/32 # Germany | Hessen | DigitalOcean, LLC
@@ -1491,6 +1494,7 @@
 88.218.187.26/32 # Germany | Hesse | Clouvider Limited
 88.218.187.55/32 # Germany | Hesse | Clouvider Limited
 88.218.187.98/32 # Germany | Land Berlin | Clouvider Limited
+89.36.161.51/32 # Latvia | Riga | Melbikomas UAB
 89.37.172.155/32 # United Kingdom | England | Hydra Communications LTD
 89.45.4.198/32 # United States | California | M247 Europe SRL
 89.45.4.208/32 # United States | California | M247 Europe SRL
@@ -1545,6 +1549,7 @@
 101.53.225.60/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
 101.99.89.137/32 # Malaysia | Federal Territory of Kuala Lumpur | Shinjiru Te...
 101.127.144.191/32 # Singapore | Southwest | Starhub Ltd.
+102.68.120.72/32 # South Africa | Western Cape | Too Much Wifi - Too Much Wifi
 102.69.167.9/32 # Tanzania | Dar es Salaam | Flashnet Technologies Limited
 102.104.10.186/32 # Tunisia | Tunis | OOREDOO TUNISIE SA
 102.135.95.102/32 # Seychelles | Mahe | M Europe SRL
@@ -1633,6 +1638,7 @@
 107.148.158.248/32 # United States | New Jersey | Interserver, INC
 107.148.225.147/32 # United States | California | PEG TECH INC
 107.149.184.181/32 # Germany | Hesse | PEG TECH INC
+107.150.96.44/32 # United States | California | UCLOUD-HK-AS-AP - UCLOUD INFO...
 107.150.117.127/32 # Germany | Hessen | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 107.158.128.45/32 # United States | Nevada | Eonix Corporation
 107.158.128.90/32 # United States | Nevada | Eonix Corporation
@@ -1701,8 +1707,8 @@
 119.152.228.139/32 # Pakistan | Sindh | Wancom (Pvt) Ltd.
 119.160.215.51/32 # Pakistan | Punjab | TELECOMMUNICATION AND TECHNOLOGY MASTE...
 119.184.23.172/32 # China | Shandong Sheng | China Unicom China169 Backbone
-120.85.119.38/32 # China | Guangdong Province | China Unicom Guangzhou Network
 120.85.119.228/32 # China | Guangdong Sheng | China Unicom Guangzhou Network
+120.86.253.23/32 # China | Guangdong Sheng | China Unicom IP network China169...
 120.138.12.152/32 # India | Tamil Nadu | Railtel Corporation of India Ltd.
 120.229.79.252/32 # China | Guangdong Sheng | China Mobile Communications Grou...
 120.240.178.214/32 # China | Guangdong Province | China Mobile
@@ -3037,6 +3043,7 @@
 177.1.50.45/32 # Germany | Nordrhein-Westfalen | Ivanov Vitaliy Sergeevich
 177.1.50.221/32 # Germany | Nordrhein-Westfalen | Ivanov Vitaliy Sergeevich
 177.1.51.58/32 # United States | California | Clouvider Limited
+177.1.55.46/32 # United States | Texas | Clouvider Limited
 177.1.55.109/32 # United States | Texas | Clouvider Limited
 177.1.55.122/32 # United States | Texas | Clouvider Limited
 177.1.55.130/32 # United States | Texas | Clouvider Limited
@@ -3424,11 +3431,11 @@
 201.67.16.35/32 # United Kingdom | Wales [Cymru GB-CYM] | iwihost HOST TELEC...
 201.150.26.246/32 # Brazil | Pará | JATIMNET TELECOM
 202.9.122.178/32 # India | Haryana | Nas Internet Services Private Limited
+202.9.122.254/32 # India | Haryana | Nas Internet Services Private Limited
 202.9.123.101/32 # India | Haryana | Nas Internet Services Private Limited
 202.47.57.23/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
 202.47.57.30/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
 202.47.57.188/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
-202.47.62.54/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 202.50.55.150/32 # Norway | Oslo | Gigahost AS
 202.63.202.196/32 # Pakistan | Sindh | FIBERISH PVT LTD
 202.63.209.77/32 # Pakistan | Sindh | FALCON BROADBAND (PRIVATE) LIMITED
