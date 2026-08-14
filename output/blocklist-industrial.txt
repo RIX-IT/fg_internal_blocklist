@@ -15,7 +15,6 @@
 23.168.216.0/24 # United States | California | Hayashimo LLC
 23.230.77.0/24 # United States | New York | HOST TELECOM LTD
 23.230.192.0/24 # United States | New York | HOST TELECOM LTD
-23.230.241.0/24 # United States | New York | IT HOSTLINE LTD
 23.234.72.0/24 # United States | California | Tzulo, Inc.
 23.234.73.0/24 # United States | California | Tzulo, Inc.
 23.234.74.0/24 # United States | California | Tzulo, Inc.
@@ -44,6 +43,7 @@
 23.234.109.0/24 # United States | Georgia | tzulo, inc.
 23.234.111.0/24 # United States | Georgia | tzulo, inc.
 23.234.114.0/24 # United States | Utah | tzulo, inc.
+23.234.118.0/24 # United States | Missouri | tzulo, inc.
 23.234.120.0/24 # Canada | Quebec | tzulo, inc.
 23.234.121.0/24 # Canada | Quebec | tzulo, inc.
 23.234.122.0/24 # Canada | Quebec | tzulo, inc.
@@ -433,9 +433,7 @@
 172.120.141.0/24 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.148.0/24 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.155.0/24 # United States | District of Columbia | IT HOSTLINE LTD
-172.120.157.0/24 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.158.0/24 # United States | District of Columbia | IT HOSTLINE LTD
-172.120.161.0/24 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
 172.120.162.0/24 # United States | Washington | IT HOSTLINE LTD
 172.120.163.0/24 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.164.0/24 # United States | Pennsylvania | IT HOSTLINE LTD
@@ -667,7 +665,6 @@
 8.217.38.238/32 # Hong Kong | Hong Kong | Alibaba us Technology Co., Ltd.
 8.217.190.58/32 # Hong Kong | Hong Kong | Alibaba US Technology Co., Ltd.
 8.219.249.218/32 # Singapore | Southeast | Alibaba us Technology Co., Ltd.
-8.230.25.12/32 # Republic of Korea | Unknown | Google LLC
 13.72.110.24/32 # United States | Virginia | Microsoft Corporation
 13.83.42.105/32 # United States | California | Microsoft Corporation
 13.89.125.200/32 # United States | Iowa | Microsoft Corporation
@@ -703,6 +700,10 @@
 20.244.58.210/32 # India | Maharashtra | Microsoft Corporation
 20.253.66.44/32 # United States | District of Columbia | Microsoft Corporation
 23.227.196.107/32 # United States | Illinois | Hivelocity, Inc.
+23.230.241.26/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
+23.230.241.67/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
+23.230.241.116/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
+23.230.241.221/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
 23.234.76.59/32 # United States | North Carolina | tzulo, inc.
 23.234.76.159/32 # United States | North Carolina | tzulo, inc.
 23.234.76.213/32 # United States | North Carolina | tzulo, inc.
@@ -731,10 +732,12 @@
 23.234.87.47/32 # Canada | Ontario | tzulo, inc.
 23.234.87.53/32 # Canada | Ontario | tzulo, inc.
 23.234.87.55/32 # Canada | Ontario | tzulo, inc.
+23.234.88.70/32 # United States | Arizona | tzulo, inc.
 23.234.88.186/32 # United States | Arizona | tzulo, inc.
 23.234.88.249/32 # United States | Arizona | tzulo, inc.
 23.234.88.254/32 # United States | Arizona | Tzulo, Inc.
 23.234.93.103/32 # United States | California | tzulo, inc.
+23.234.93.176/32 # United States | California | tzulo, inc.
 23.234.93.231/32 # United States | California | tzulo, inc.
 23.234.101.36/32 # United States | New York | tzulo, inc.
 23.234.101.182/32 # United States | New York | tzulo, inc.
@@ -747,6 +750,7 @@
 23.234.110.47/32 # United States | Georgia | Tzulo, Inc.
 23.234.110.88/32 # United States | Georgia | tzulo, inc.
 23.234.110.149/32 # United States | Georgia | Tzulo, Inc.
+23.234.110.216/32 # United States | Georgia | tzulo, inc.
 23.234.112.75/32 # United States | Utah | Tzulo, Inc.
 23.234.112.87/32 # United States | Utah | Tzulo, Inc.
 23.234.112.228/32 # United States | Utah | tzulo, inc.
@@ -755,6 +759,7 @@
 23.234.113.76/32 # United States | Utah | tzulo, inc.
 23.234.113.96/32 # United States | Utah | Tzulo, Inc.
 23.234.113.212/32 # United States | Utah | tzulo, inc.
+23.234.115.27/32 # United States | Utah | tzulo, inc.
 23.234.115.74/32 # United States | Utah | tzulo, inc.
 23.234.115.99/32 # United States | Utah | Tzulo, Inc.
 23.234.115.114/32 # United States | Utah | tzulo, inc.
@@ -764,16 +769,12 @@
 23.234.116.230/32 # United States | Missouri | Tzulo, Inc.
 23.234.117.112/32 # United States | Missouri | tzulo, inc.
 23.234.117.169/32 # United States | Missouri | Tzulo, Inc.
-23.234.118.47/32 # United States | Missouri | tzulo, inc.
-23.234.118.55/32 # United States | Missouri | tzulo, inc.
-23.234.118.79/32 # United States | Missouri | Tzulo, Inc.
-23.234.118.150/32 # United States | Missouri | tzulo, inc.
+23.234.117.222/32 # United States | Missouri | tzulo, inc.
 23.234.119.26/32 # United States | New Jersey | tzulo, inc.
 23.234.119.122/32 # United States | New Jersey | Tzulo, Inc.
 23.234.119.160/32 # United States | New Jersey | tzulo, inc.
 23.239.3.206/32 # United States | California | Akamai Technologies, Inc.
 27.8.19.149/32 # China | Chongqing Shi | China Unicom China169 Backbone
-27.43.207.224/32 # China | Guangdong Province | China Unicom Guangdong Provin...
 27.189.31.239/32 # China | Hebei Sheng | CHINANET BACKBONE
 27.215.48.230/32 # China | Shandong | China Unicom China1 Backbone
 27.215.82.112/32 # China | Shandong Sheng | CHINA169-Backbone - CHINA UNICOM ...
@@ -809,6 +810,7 @@
 34.22.128.90/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.22.128.185/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.22.133.214/32 # Belgium | Bruxelles-Capitale | Google LLC
+34.22.138.18/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.22.158.15/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.22.162.137/32 # Belgium | Brussels-Capital | Google LLC
 34.22.162.139/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -836,6 +838,7 @@
 34.38.142.0/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.38.146.210/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.38.151.215/32 # Belgium | Brussels-Capital | Google LLC
+34.38.190.124/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.38.191.11/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.38.192.51/32 # Belgium | Brussels-Capital | Google LLC
 34.38.198.123/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -851,6 +854,7 @@
 34.52.197.198/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.52.225.205/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.52.248.137/32 # Belgium | Brussels-Capital | Google LLC
+34.52.252.211/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.53.130.184/32 # Belgium | Brussels-Capital | Google LLC
 34.53.137.53/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.53.138.106/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -992,6 +996,7 @@
 34.140.152.69/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.140.166.174/32 # Belgium | Brussels-Capital | Google LLC
 34.140.198.209/32 # Belgium | Bruxelles-Capitale | Google LLC
+34.140.208.100/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.140.232.213/32 # Belgium | Brussels-Capital | Google LLC
 34.140.252.58/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.148.121.106/32 # United States | South Carolina | Google LLC
@@ -1067,6 +1072,7 @@
 35.205.27.36/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.205.27.164/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.205.118.227/32 # Belgium | Bruxelles-Capitale | Google LLC
+35.205.157.254/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.205.160.38/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.205.169.201/32 # Belgium | Brussels-Capital | Google LLC
 35.205.170.51/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -1131,7 +1137,6 @@
 38.246.243.103/32 # United States | California | Cogent Communications, LLC
 38.246.250.201/32 # Hong Kong | Hong Kong | Netlab Global
 39.74.105.157/32 # China | Shandong Sheng | China Unicom China169 Backbone
-39.74.228.46/32 # China | Shandong | China Unicom China1 Backbone
 39.81.49.191/32 # China | Shandong Sheng | CHINA169-Backbone - CHINA UNICOM ...
 39.90.149.223/32 # China | Shandong | China Unicom China1 Backbone
 39.98.174.28/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
@@ -2116,6 +2121,7 @@
 153.117.1.188/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
 153.117.5.100/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
 153.117.6.36/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
+153.117.6.40/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
 153.117.8.84/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 153.117.8.172/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 153.117.9.24/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
@@ -2894,7 +2900,6 @@
 166.88.215.26/32 # United States | Utah | IT HOSTLINE LTD
 166.88.215.178/32 # United States | Utah | IT HOSTLINE LTD
 166.88.218.229/32 # United States | California | HOST TELECOM LTD
-166.88.218.252/32 # United States | California | HOST TELECOM LTD
 166.88.219.18/32 # United States | California | HOST TELECOM LTD
 166.88.219.112/32 # United States | California | HOST TELECOM LTD
 166.88.221.49/32 # United States | Utah | IT HOSTLINE LTD
@@ -2935,6 +2940,7 @@
 168.113.117.29/32 # Germany | Hessen | Wireless Ltd
 168.113.121.12/32 # United Kingdom | Wales [Cymru GB-CYM] | Wireless Ltd
 168.113.121.45/32 # United Kingdom | Wales [Cymru GB-CYM] | Wireless Ltd
+168.144.135.119/32 # Singapore | South West | DigitalOcean, LLC
 168.167.139.131/32 # Botswana | South-East District | Botswana Telecommunicatio...
 168.181.229.33/32 # United States | New York | HOST PARA TU VIDA S.A.
 168.181.229.95/32 # United States | New York | HOST PARA TU VIDA S.A.
@@ -2975,6 +2981,14 @@
 172.120.118.58/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
 172.120.118.97/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
 172.120.118.181/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
+172.120.157.32/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
+172.120.157.58/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
+172.120.157.225/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
+172.120.157.239/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
+172.120.161.16/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
+172.120.161.94/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
+172.120.161.216/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
+172.120.161.218/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
 172.120.182.68/32 # United States | Pennsylvania | ITHOSTLINE IT HOSTLINE LTD
 172.120.182.83/32 # United States | Pennsylvania | ITHOSTLINE IT HOSTLINE LTD
 172.120.182.92/32 # United States | Pennsylvania | ITHOSTLINE IT HOSTLINE LTD
@@ -3015,7 +3029,6 @@
 175.148.155.190/32 # China | Liaoning Sheng | China Unicom China169 Backbone
 176.100.130.26/32 # United States | New York | Clouvider Limited
 176.100.130.38/32 # United States | New York | Clouvider Limited
-176.100.130.58/32 # United States | New York | Clouvider Limited
 176.100.130.162/32 # United States | New York | Clouvider Limited
 176.101.58.19/32 # Germany | Brandenburg | Scalaxy B.V.
 176.118.38.23/32 # Canada | Québec | Clouvider Limited
@@ -3426,6 +3439,7 @@
 202.63.202.196/32 # Pakistan | Sindh | FIBERISH PVT LTD
 202.63.209.77/32 # Pakistan | Sindh | FALCON BROADBAND (PRIVATE) LIMITED
 202.111.42.66/32 # China | Jiangsu Sheng | China Telecom Next Generation Carr...
+202.141.34.46/32 # India | Tamil Nadu | RailTel Corporation of India Ltd
 202.141.44.76/32 # India | Karnataka | Railtel Corporation of India Ltd.
 206.189.97.184/32 # Netherlands | North Holland | Digitalocean, LLC
 206.238.114.75/32 # Singapore | Southeast | Tcloudnet
@@ -3451,6 +3465,7 @@
 207.175.100.30/32 # Belgium | Brussels-Capital | Google LLC
 207.175.120.182/32 # Belgium | Bruxelles-Capitale | Google LLC
 207.175.165.43/32 # Belgium | Bruxelles-Capitale | Google LLC
+207.175.223.238/32 # Belgium | Bruxelles-Capitale | Google LLC
 207.244.224.96/32 # United States | Missouri | Contabo Inc.
 208.109.242.93/32 # United States | Arizona | Godaddy.com, LLC
 209.17.118.17/32 # Singapore | Southeast | LEASEWEB SINGAPORE PTE. LTD.
