@@ -166,6 +166,7 @@
 77.91.71.0/24 # Israel | Tel Aviv District | Proline IT Ltd
 77.246.244.0/24 # United States | Indiana | Clouvider Limited
 78.24.204.0/24 # United States | New York | Clouvider Limited
+79.127.217.0/24 # United States | California | Datacamp Limited
 79.127.222.0/24 # United States | Texas | Datacamp Limited
 80.66.83.0/24 # Finland | Mainland Finland | Bashinskii Vadim Ruslanovich
 80.66.197.0/24 # Germany | Nordrhein-Westfalen | Owl Limited
@@ -415,7 +416,6 @@
 156.246.225.0/24 # United Kingdom | England | ITHOSTLINE IT HOSTLINE LTD
 158.46.178.0/24 # United States | California | Clouvider Limited
 158.46.179.0/24 # United States | California | Clouvider Limited
-166.1.196.0/24 # United States | Pennsylvania | Clouvider Limited
 166.88.183.0/24 # United States | California | HOST TELECOM LTD
 167.250.111.0/24 # United States | New York | WhiteLabelColo
 168.90.96.0/24 # United States | New York | networksdelmanana.com
@@ -1364,10 +1364,6 @@
 77.247.127.172/32 # United States | Virginia | Clouvider Limited
 78.138.9.253/32 # Spain | Catalunya | Servinga GmbH
 79.31.61.231/32 # Italy | Campania | Telecom Italia S.P.A.
-79.127.217.38/32 # United States | California | Datacamp Limited
-79.127.217.51/32 # United States | California | Datacamp Limited
-79.127.217.53/32 # United States | California | Datacamp Limited
-79.127.217.57/32 # United States | California | Datacamp Limited
 79.132.130.142/32 # Germany | Hesse | Servinga GmbH
 79.133.51.100/32 # Germany | Hesse | Ultahost, Inc.
 80.77.25.60/32 # Estonia | Harjumaa | servinga-EE servinga GmbH
@@ -1644,7 +1640,6 @@
 119.96.223.148/32 # China | Hubei | Chinanet Hubei Province Network
 119.99.250.219/32 # China | Hubei Sheng | CHINANET BACKBONE
 119.152.228.139/32 # Pakistan | Sindh | Wancom (Pvt) Ltd.
-119.160.215.51/32 # Pakistan | Punjab | TELECOMMUNICATION AND TECHNOLOGY MASTE...
 119.184.23.172/32 # China | Shandong Sheng | China Unicom China169 Backbone
 120.85.119.228/32 # China | Guangdong Sheng | China Unicom Guangzhou Network
 120.86.253.23/32 # China | Guangdong Sheng | China Unicom IP network China169...
@@ -1825,7 +1820,6 @@
 138.249.169.168/32 # Canada | Ontario | Clouvider Limited
 138.249.169.183/32 # Canada | Ontario | Clouvider Limited
 138.249.170.13/32 # United States | California | Clouvider Limited
-138.249.170.131/32 # United States | California | Clouvider Limited
 138.249.184.28/32 # United Kingdom | England | Clouvider Limited
 138.249.184.60/32 # United Kingdom | England | Clouvider Limited
 138.249.184.135/32 # United Kingdom | England | Clouvider Limited
@@ -1853,6 +1847,7 @@
 138.249.237.67/32 # Canada | Ontario | Clouvider Limited
 138.249.237.79/32 # Canada | Ontario | Clouvider Limited
 138.249.237.183/32 # Canada | Ontario | Clouvider Limited
+139.5.1.249/32 # India | Rajasthan | RailTel Corporation of India Ltd
 139.59.137.100/32 # Germany | Hessen | Digitalocean, LLC
 139.59.147.236/32 # Germany | Hessen | Digitalocean, LLC
 139.84.156.79/32 # India | Karnataka | The Constant Company, LLC
@@ -1939,7 +1934,6 @@
 142.111.226.217/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 142.111.228.52/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 142.111.228.108/32 # United States | Illinois | Ace Data Centers II, L.L.C.
-142.111.228.212/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 142.111.229.65/32 # United States | Utah | IT HOSTLINE LTD
 142.111.229.132/32 # United States | Utah | IT HOSTLINE LTD
 142.111.232.90/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
@@ -1988,6 +1982,7 @@
 145.63.135.143/32 # United States | New Jersey | Podaon SIA
 145.63.135.146/32 # United States | New Jersey | Podaon SIA
 145.63.136.16/32 # United States | New Jersey | Podaon Sia
+145.63.136.111/32 # United States | New Jersey | Podaon SIA
 145.63.136.234/32 # United States | New Jersey | Podaon SIA
 146.70.119.80/32 # United Kingdom | England | M247 Europe SRL
 146.70.119.90/32 # United Kingdom | England | M247 Europe SRL
@@ -2617,7 +2612,6 @@
 154.223.212.34/32 # Canada | Ontario | Clouvider Limited
 154.223.212.240/32 # Canada | Ontario | Clouvider Limited
 154.223.212.248/32 # Canada | Ontario | Clouvider Limited
-154.223.213.103/32 # Canada | Québec | Clouvider Limited
 154.223.214.14/32 # Canada | Quebec | Clouvider Limited
 154.223.214.110/32 # Canada | Québec | Clouvider Limited
 154.223.215.16/32 # Canada | Ontario | Clouvider Limited
@@ -2632,7 +2626,6 @@
 155.212.63.30/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 155.212.63.74/32 # United Kingdom | Northern Ireland | Ivanov Vitaliy Sergeevich
 155.212.66.82/32 # United States | Washington | GREEN FLOID LLC
-155.212.66.113/32 # United States | Washington | GREEN FLOID LLC
 155.212.66.168/32 # United States | Washington | GREEN FLOID LLC
 155.212.66.181/32 # United States | Washington | GREEN FLOID LLC
 155.212.74.21/32 # United Kingdom | England | XServerCloud Ivanov Vitaliy Ser...
@@ -2731,7 +2724,6 @@
 166.1.115.105/32 # United States | Illinois | Ace Data Centers, Inc.
 166.1.115.143/32 # United States | Illinois | Ace Data Centers, Inc.
 166.1.115.158/32 # United States | Illinois | Ace Data Centers, Inc.
-166.1.149.97/32 # United States | Illinois | Ace Data Centers, Inc.
 166.1.149.108/32 # United States | Illinois | Ace Data Centers, Inc.
 166.1.149.208/32 # United States | Illinois | Ace Data Centers, Inc.
 166.1.149.241/32 # United States | Illinois | Ace Data Centers, Inc.
@@ -2744,6 +2736,10 @@
 166.1.168.107/32 # United States | Illinois | Ace Data Centers, Inc.
 166.1.192.231/32 # Germany | Berlin | Clouvider Limited
 166.1.195.77/32 # Germany | Berlin | Clouvider Limited
+166.1.196.12/32 # United States | Illinois | RCN
+166.1.196.35/32 # United States | Illinois | RCN
+166.1.196.70/32 # United States | Illinois | RCN
+166.1.196.101/32 # United States | Illinois | RCN
 166.1.198.15/32 # Germany | Berlin | Clouvider Limited
 166.1.199.26/32 # Germany | Berlin | Clouvider Limited
 166.1.202.4/32 # Germany | Berlin | Clouvider Limited
@@ -2817,7 +2813,6 @@
 166.88.175.216/32 # United States | Utah | IT HOSTLINE LTD
 166.88.211.5/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 166.88.211.163/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
-166.88.215.26/32 # United States | Utah | IT HOSTLINE LTD
 166.88.215.178/32 # United States | Utah | IT HOSTLINE LTD
 166.88.218.229/32 # United States | California | HOST TELECOM LTD
 166.88.219.18/32 # United States | California | HOST TELECOM LTD
@@ -2833,6 +2828,7 @@
 167.99.101.91/32 # United States | California | Digitalocean, LLC
 167.99.169.232/32 # United States | California | Digitalocean, LLC
 167.99.172.167/32 # United States | California | Digitalocean, LLC
+167.148.41.2/32 # United States | New Jersey | Interserver, Inc
 167.148.41.144/32 # United States | New Jersey | Interserver, INC
 167.148.41.149/32 # United States | New Jersey | Interserver, Inc
 167.148.201.161/32 # United States | Washington | Millenialhost Limited
