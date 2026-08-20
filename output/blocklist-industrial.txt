@@ -540,6 +540,7 @@
 185.128.42.0/24 # United States | New York | Clouvider Limited
 185.128.43.0/24 # United States | New York | Clouvider Limited
 185.128.224.0/24 # United States | New York | Clouvider Limited
+185.136.15.0/24 # Netherlands | Provincie Noord-Holland | Vlad Cojuhari Vlad...
 185.141.119.0/24 # United States | Michigan | HostRoyale Technologies Pvt Ltd
 185.156.46.0/24 # United States | District of Columbia | Datacamp Limited
 185.184.222.0/24 # Netherlands | Provincie Noord-Holland | Owl Limited
@@ -591,7 +592,6 @@
 186.246.80.0/24 # United States | Florida | Clouvider Limited
 186.246.103.0/24 # United States | Maryland | Clouvider Limited
 186.246.104.0/24 # United States | Illinois | Clouvider Limited
-186.246.124.0/24 # United States | Illinois | Clouvider Limited
 186.246.125.0/24 # United States | Maryland | Clouvider Limited
 186.246.127.0/24 # United States | New York | Clouvider Limited
 187.52.192.0/24 # United States | California | Clouvider Limited
@@ -669,7 +669,6 @@
 209.101.252.0/24 # United States | Florida | Datacamp Limited
 209.101.253.0/24 # United States | Florida | Datacamp Limited
 209.101.254.0/24 # United States | Florida | Datacamp Limited
-212.192.251.0/24 # United States | Massachusetts | Clouvider Limited
 213.139.192.0/24 # United States | New York | Clouvider Limited
 213.139.193.0/24 # United States | Illinois | Clouvider Limited
 213.139.195.0/24 # United States | California | Clouvider Limited
@@ -748,6 +747,7 @@
 23.239.3.230/32 # United States | California | Akamai Connected Cloud
 23.254.164.133/32 # United States | Washington | Hostwinds LLC.
 27.8.19.149/32 # China | Chongqing Shi | China Unicom China169 Backbone
+27.43.206.94/32 # China | Guangdong Sheng | China Unicom IP network China169...
 27.189.31.239/32 # China | Hebei Sheng | CHINANET BACKBONE
 27.215.48.230/32 # China | Shandong | China Unicom China1 Backbone
 27.215.82.112/32 # China | Shandong Sheng | CHINA169-Backbone - CHINA UNICOM ...
@@ -827,7 +827,6 @@
 34.44.21.60/32 # United States | Iowa | Google LLC
 34.52.138.165/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.52.156.204/32 # Belgium | Bruxelles-Capitale | Google LLC
-34.52.196.211/32 # Belgium | Brussels-Capital | Google LLC
 34.52.197.198/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.52.225.205/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.52.252.211/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -1275,6 +1274,7 @@
 47.251.247.220/32 # United States | California | Alibaba (US) Technology Co., ...
 47.254.233.252/32 # Malaysia | Kuala Lumpur | Alibaba (US) Technology Co., Ltd.
 48.217.251.96/32 # United States | District of Columbia | Microsoft Corporation
+49.36.89.213/32 # India | Gujarat | Reliance Jio Infocomm Limited
 49.89.41.187/32 # China | Jiangsu | Chinanet
 50.116.30.189/32 # United States | Texas | Akamai Connected Cloud
 50.116.72.42/32 # United States | Virginia | Network Solutions, LLC
@@ -1732,7 +1732,6 @@
 136.0.102.23/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 136.0.102.194/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 136.0.102.233/32 # United States | Illinois | Ace Data Centers II, L.L.C.
-136.0.196.113/32 # United States | Utah | Ace Data Centers II, L.L.C.
 136.0.196.135/32 # United States | Utah | Ace Data Centers II, L.L.C.
 136.0.196.140/32 # United States | Utah | Ace Data Centers II, L.L.C.
 136.37.0.69/32 # United States | Missouri | Google Fiber Inc.
@@ -1843,7 +1842,6 @@
 138.249.215.213/32 # United Kingdom | England | Clouvider Limited
 138.249.220.211/32 # Canada | Ontario | Clouvider Limited
 138.249.221.144/32 # Canada | Ontario | Clouvider Limited
-138.249.223.23/32 # United States | New York | Clouvider Limited
 138.249.223.48/32 # United States | New York | Clouvider Limited
 138.249.223.91/32 # United States | New York | Clouvider Limited
 138.249.223.164/32 # United States | New York | Clouvider Limited
@@ -2011,6 +2009,7 @@
 149.28.137.254/32 # Singapore | Southeast | The Constant Company, LLC
 150.241.93.166/32 # Poland | Masovian Voivodeship | QWINS-LTD QWINS LTD
 151.73.32.121/32 # Italy | Campania | WIND TRE S.P.A.
+151.240.65.230/32 # United States | Mississippi | GSL Networks Pty LTD
 151.241.122.108/32 # United States | New Jersey | Cogent Communications, LLC
 151.247.193.174/32 # France | Île-de-France | CANADA INC.
 152.42.252.134/32 # Singapore | Southeast | Digitalocean, LLC
@@ -2068,6 +2067,7 @@
 153.117.37.11/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
 153.117.37.80/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
 153.117.37.208/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
+153.117.40.34/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 153.117.40.233/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 153.117.41.55/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
 153.117.41.236/32 # Pakistan | Sindh | Cyber Internet Services private Limited
@@ -2694,7 +2694,6 @@
 157.230.63.195/32 # United States | New Jersey | DigitalOcean, LLC
 157.230.154.7/32 # United States | California | Digitalocean, LLC
 157.245.157.77/32 # Singapore | South West | Digitalocean, LLC
-157.254.194.17/32 # United States | Nevada | Deasil Networks
 157.254.194.53/32 # United States | New York | CANADA INC.
 157.254.194.237/32 # United States | New York | CANADA INC.
 158.46.146.121/32 # Germany | Bavaria | XServerCloud Ivanov Vitaliy Sergeevich
@@ -2788,7 +2787,6 @@
 166.1.255.77/32 # United States | Utah | Clouvider Limited
 166.1.255.238/32 # United States | Utah | Clouvider Limited
 166.88.0.60/32 # United States | Utah | IT HOSTLINE LTD
-166.88.0.69/32 # United States | Utah | IT HOSTLINE LTD
 166.88.9.24/32 # United States | Utah | Clouvider Limited
 166.88.9.140/32 # United States | Utah | Clouvider Limited
 166.88.9.162/32 # United States | Utah | Clouvider Limited
@@ -2817,7 +2815,6 @@
 166.88.168.187/32 # United States | Utah | IT HOSTLINE LTD
 166.88.168.214/32 # United States | Utah | IT HOSTLINE LTD
 166.88.175.44/32 # United States | Utah | IT HOSTLINE LTD
-166.88.175.153/32 # United States | Utah | IT HOSTLINE LTD
 166.88.175.168/32 # United States | Utah | IT HOSTLINE LTD
 166.88.175.216/32 # United States | Utah | IT HOSTLINE LTD
 166.88.211.5/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
@@ -2828,7 +2825,6 @@
 166.88.218.229/32 # United States | California | HOST TELECOM LTD
 166.88.219.18/32 # United States | California | HOST TELECOM LTD
 166.88.219.112/32 # United States | California | HOST TELECOM LTD
-166.88.221.49/32 # United States | Utah | IT HOSTLINE LTD
 166.88.221.86/32 # United States | Utah | IT HOSTLINE LTD
 166.88.221.249/32 # United States | Utah | IT HOSTLINE LTD
 166.88.222.47/32 # United States | Utah | IT HOSTLINE LTD
@@ -3046,9 +3042,6 @@
 185.117.91.29/32 # Netherlands | Provincie Noord-Holland | HZ Hosting Ltd
 185.121.233.78/32 # Netherlands | North Holland | SERVERS TECH FZCO
 185.135.86.149/32 # Latvia | Vidzeme | Melbikomas Uab
-185.136.15.20/32 # Netherlands | Provincie Noord-Holland | Vlad Cojuhari Vlad...
-185.136.15.110/32 # Kazakhstan | Almaty Province | Vlad Cojuhari
-185.136.15.111/32 # Kazakhstan | Almaty Province | Vlad Cojuhari
 185.149.146.1/32 # Germany | Hesse | Foton Telecom Cjsc
 185.149.146.118/32 # Germany | Hesse | Foton Telecom Cjsc
 185.158.248.135/32 # Romania | Bucharest | M247 Europe SRL
@@ -3140,6 +3133,10 @@
 186.246.73.104/32 # United Kingdom | England | IT HOSTLINE LTD
 186.246.73.169/32 # United Kingdom | England | IT HOSTLINE LTD
 186.246.74.224/32 # Germany | Brandenburg | IT HOSTLINE LTD
+186.246.124.112/32 # United States | Illinois | Clouvider Limited
+186.246.124.171/32 # United States | Illinois | Clouvider Limited
+186.246.124.233/32 # United States | Illinois | Clouvider Limited
+186.246.124.250/32 # United States | Illinois | Clouvider Limited
 187.52.199.6/32 # United States | Ohio | Clouvider Limited
 187.52.199.56/32 # United States | Ohio | Clouvider Limited
 187.52.199.70/32 # United States | Ohio | Clouvider Limited
@@ -3188,6 +3185,7 @@
 193.33.188.183/32 # Germany | Land Berlin | Clouvider Limited
 193.37.254.194/32 # United States | Arizona | M247 Europe SRL
 193.37.254.205/32 # United States | Arizona | M247 Europe SRL
+193.37.254.247/32 # United States | Arizona | M247 Europe SRL
 193.169.219.9/32 # United States | New York | Gtt Communications Inc.
 193.228.129.48/32 # Canada | Ontario | Clouvider Limited
 193.228.129.194/32 # Canada | Ontario | Clouvider Limited
@@ -3381,7 +3379,10 @@
 212.107.25.133/32 # Germany | Hesse | Clouvider Limited
 212.107.25.174/32 # Germany | Hesse | Clouvider Limited
 212.107.25.193/32 # Germany | Hessen | Clouvider Limited
-213.64.46.91/32 # Sweden | Skåne County | Telia Company Ab
+212.192.251.19/32 # United States | Massachusetts | Clouvider Limited
+212.192.251.144/32 # United States | Massachusetts | Clouvider Limited
+212.192.251.168/32 # United States | Massachusetts | Clouvider Limited
+212.192.251.206/32 # United States | Massachusetts | Clouvider Limited
 213.109.109.79/32 # United Kingdom | Northern Ireland | Ivanov Vitaliy Sergeevich
 213.109.109.215/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 213.145.86.112/32 # United States | New York | Latitude.sh
@@ -3396,6 +3397,7 @@
 217.160.248.17/32 # Spain | Madrid | IONOS SE
 219.156.57.123/32 # China | Henan Sheng | CHINA169-Backbone - CHINA UNICOM Chi...
 220.79.229.219/32 # South Korea | Gyeonggi-do | Korea Telecom
+220.178.171.198/32 # China | Anhui Sheng | No.31,Jin-rong Street
 221.1.97.226/32 # China | Shandong | China Unicom China1 Backbone
 221.15.8.85/32 # China | Henan | China Unicom China1 Backbone
 221.15.190.85/32 # China | Henan | China Unicom China1 Backbone
