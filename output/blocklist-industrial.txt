@@ -135,7 +135,6 @@
 45.192.46.0/24 # United States | New York | Clouvider Limited
 45.192.47.0/24 # United States | New York | Clouvider Limited
 46.149.140.0/24 # United States | Texas | GREEN FLOID LLC
-50.114.179.0/24 # United States | New Jersey | Interserver, INC
 50.118.198.0/24 # United States | New York | HOST TELECOM LTD
 62.93.167.0/24 # Canada | Quebec | Datacamp Limited
 62.106.69.0/24 # United States | California | Clouvider Limited
@@ -368,7 +367,6 @@
 152.234.169.0/24 # United States | Texas | Clouvider Limited
 152.234.175.0/24 # United States | New York | Clouvider Limited
 153.80.11.0/24 # United States | Florida | GREEN FLOID LLC
-153.80.13.0/24 # United States | Florida | GREEN FLOID LLC
 153.80.19.0/24 # United States | New Hampshire | GREEN FLOID LLC
 153.80.44.0/24 # United States | Maine | GREEN FLOID LLC
 153.80.84.0/24 # United States | Florida | GREEN FLOID LLC
@@ -628,7 +626,6 @@
 193.160.217.0/24 # United States | Illinois | Clouvider Limited
 193.160.218.0/24 # United States | California | Clouvider Limited
 193.169.218.0/24 # United States | New York | Gtt Communications Inc.
-193.176.21.0/24 # United States | Washington | GREEN FLOID LLC
 193.176.23.0/24 # United States | Washington | GREEN FLOID LLC
 193.228.48.0/24 # United States | Nevada | Clouvider Limited
 193.228.49.0/24 # United States | Nevada | Clouvider Limited
@@ -950,7 +947,6 @@
 34.79.211.198/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.79.241.56/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.79.243.27/32 # Belgium | Bruxelles-Capitale | Google LLC
-34.79.245.36/32 # Belgium | Brussels-Capital | Google LLC
 34.79.252.9/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.79.255.4/32 # Belgium | Brussels-Capital | Google LLC
 34.93.200.156/32 # India | Maharashtra | Google LLC
@@ -1092,6 +1088,7 @@
 38.180.107.76/32 # Singapore | Southeast | M Europe SRL
 38.242.229.245/32 # France | Grand Est | Contabo GmbH
 38.246.250.201/32 # Hong Kong | Hong Kong | Netlab Global
+39.34.191.117/32 # Pakistan | Sindh | Connect Communications
 39.74.105.157/32 # China | Shandong Sheng | China Unicom China169 Backbone
 39.81.49.191/32 # China | Shandong Sheng | CHINA169-Backbone - CHINA UNICOM ...
 39.90.149.223/32 # China | Shandong | China Unicom China1 Backbone
@@ -1238,7 +1235,6 @@
 45.192.59.7/32 # Canada | Ontario | HOST TELECOM LTD
 45.192.59.208/32 # Canada | Ontario | HOST TELECOM LTD
 45.192.63.174/32 # Canada | Ontario | HOST TELECOM LTD
-45.192.63.216/32 # Canada | Ontario | HOST TELECOM LTD
 45.195.161.219/32 # Canada | Ontario | HOST TELECOM LTD
 45.195.161.254/32 # Canada | Ontario | HOST TELECOM LTD
 45.195.194.42/32 # Pakistan | Punjab | Login.me pvt LTD
@@ -1273,6 +1269,10 @@
 48.217.251.96/32 # United States | District of Columbia | Microsoft Corporation
 49.36.89.213/32 # India | Gujarat | Reliance Jio Infocomm Limited
 49.89.41.187/32 # China | Jiangsu | Chinanet
+50.114.179.39/32 # United States | New Jersey | Interserver, Inc
+50.114.179.60/32 # United States | New Jersey | Interserver, Inc
+50.114.179.102/32 # United States | New Jersey | Interserver, Inc
+50.114.179.189/32 # United States | New Jersey | Interserver, Inc
 50.116.30.189/32 # United States | Texas | Akamai Connected Cloud
 50.116.72.42/32 # United States | Virginia | Network Solutions, LLC
 51.4.106.30/32 # Israel | Tel Aviv District | Microsoft Corporation
@@ -1604,6 +1604,7 @@
 110.37.104.0/32 # Pakistan | Punjab | National WiMAX/IMS environment
 110.38.0.85/32 # Pakistan | Punjab | National WiMAX/IMS environment
 110.38.0.222/32 # Pakistan | Punjab | National WiMAX/IMS environment
+110.38.2.87/32 # Pakistan | Punjab | National WiMAX/IMS environment
 110.38.209.163/32 # Pakistan | Punjab | Wateen Telecom Limited
 110.38.250.225/32 # Pakistan | Sindh | Galaxy Broadband
 110.38.254.73/32 # Pakistan | Sindh | Galaxy Broadband
@@ -1645,6 +1646,7 @@
 120.86.253.23/32 # China | Guangdong Sheng | China Unicom IP network China169...
 120.138.12.152/32 # India | Tamil Nadu | Railtel Corporation of India Ltd.
 120.229.79.252/32 # China | Guangdong Sheng | China Mobile Communications Grou...
+120.237.156.214/32 # China | Guangdong Sheng | China Mobile Communications Grou...
 120.240.178.214/32 # China | Guangdong Province | China Mobile
 122.97.136.59/32 # China | Jiangsu Sheng | CHINA169-Backbone - CHINA UNICOM C...
 122.154.50.218/32 # Thailand | Yala Province | Office of INFO.TECH. Admin. for...
@@ -1818,7 +1820,6 @@
 138.249.168.175/32 # Canada | Ontario | Clouvider Limited
 138.249.168.242/32 # Canada | Ontario | Clouvider Limited
 138.249.169.168/32 # Canada | Ontario | Clouvider Limited
-138.249.169.183/32 # Canada | Ontario | Clouvider Limited
 138.249.170.13/32 # United States | California | Clouvider Limited
 138.249.184.28/32 # United Kingdom | England | Clouvider Limited
 138.249.184.60/32 # United Kingdom | England | Clouvider Limited
@@ -1879,7 +1880,6 @@
 141.133.30.122/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 141.133.31.5/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 141.133.31.151/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
-141.133.33.151/32 # Canada | Ontario | GREEN FLOID LLC
 141.133.34.162/32 # Canada | Ontario | GREEN FLOID LLC
 141.133.35.93/32 # Canada | Ontario | GREEN FLOID LLC
 141.133.35.232/32 # United States | Florida | GREEN FLOID LLC
@@ -1910,7 +1910,6 @@
 142.67.249.79/32 # Canada | Nova Scotia | EastLink
 142.93.242.144/32 # United States | New Jersey | Digitalocean, LLC
 142.111.3.121/32 # United States | Utah | IT HOSTLINE LTD
-142.111.3.252/32 # United States | Utah | IT HOSTLINE LTD
 142.111.43.207/32 # Hong Kong | Hong Kong | TNGNET B.V.
 142.111.112.6/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 142.111.112.150/32 # United States | Illinois | Ace Data Centers II, L.L.C.
@@ -1951,7 +1950,6 @@
 142.111.253.184/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 142.111.254.19/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 142.111.254.29/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
-142.111.254.63/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 142.111.254.169/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 142.252.132.48/32 # United States | California | ITHOSTLINE IT HOSTLINE LTD
 142.252.132.58/32 # United States | California | ITHOSTLINE IT HOSTLINE LTD
@@ -1993,6 +1991,7 @@
 146.70.198.205/32 # Canada | Quebec | M247 Europe SRL
 146.148.13.233/32 # Belgium | Bruxelles-Capitale | Google LLC
 146.148.20.104/32 # Belgium | Bruxelles-Capitale | Google LLC
+146.190.75.235/32 # United States | New Jersey | DigitalOcean, LLC
 147.182.153.41/32 # Canada | Ontario | Digitalocean, LLC
 147.182.174.238/32 # United States | New Jersey | Digitalocean, LLC
 148.72.209.74/32 # Singapore | Southeast | Godaddy.com, LLC
@@ -2030,6 +2029,10 @@
 152.234.174.55/32 # United States | California | Clouvider Limited
 153.75.90.18/32 # United Arab Emirates | Dubai | Cloudzy A I Information Tec...
 153.75.224.19/32 # United States | Georgia | Interserver, INC
+153.80.13.16/32 # United States | Florida | ROUTE 95 LLC
+153.80.13.127/32 # United States | Florida | ROUTE 95 LLC
+153.80.13.189/32 # United States | Florida | ROUTE 95 LLC
+153.80.13.253/32 # United States | Florida | ROUTE 95 LLC
 153.80.139.93/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 153.80.139.128/32 # Netherlands | Provincie Noord-Holland | Ivanov Vitaliy Ser...
 153.80.139.150/32 # Netherlands | Provincie Noord-Holland | Ivanov Vitaliy Ser...
@@ -2064,7 +2067,6 @@
 153.117.40.34/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 153.117.40.233/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 153.117.41.55/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
-153.117.41.236/32 # Pakistan | Sindh | Cyber Internet Services private Limited
 153.117.50.51/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 153.117.127.109/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
 153.117.127.222/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
@@ -2812,12 +2814,10 @@
 166.88.175.168/32 # United States | Utah | IT HOSTLINE LTD
 166.88.175.216/32 # United States | Utah | IT HOSTLINE LTD
 166.88.211.5/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
-166.88.211.163/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 166.88.215.178/32 # United States | Utah | IT HOSTLINE LTD
 166.88.218.229/32 # United States | California | HOST TELECOM LTD
 166.88.219.18/32 # United States | California | HOST TELECOM LTD
 166.88.219.112/32 # United States | California | HOST TELECOM LTD
-166.88.221.86/32 # United States | Utah | IT HOSTLINE LTD
 166.88.221.249/32 # United States | Utah | IT HOSTLINE LTD
 166.88.222.47/32 # United States | Utah | IT HOSTLINE LTD
 166.88.222.200/32 # United States | Utah | IT HOSTLINE LTD
@@ -3180,6 +3180,10 @@
 193.37.254.205/32 # United States | Arizona | M247 Europe SRL
 193.37.254.247/32 # United States | Arizona | M247 Europe SRL
 193.169.219.9/32 # United States | New York | Gtt Communications Inc.
+193.176.21.20/32 # United States | Washington | ROUTE 95 LLC
+193.176.21.73/32 # United States | Washington | ROUTE 95 LLC
+193.176.21.130/32 # United States | Washington | ROUTE 95 LLC
+193.176.21.251/32 # United States | Washington | ROUTE 95 LLC
 193.228.129.48/32 # Canada | Ontario | Clouvider Limited
 193.228.129.194/32 # Canada | Ontario | Clouvider Limited
 193.228.129.237/32 # Canada | Ontario | Clouvider Limited
@@ -3362,6 +3366,7 @@
 212.6.36.76/32 # Germany | Land Berlin | Clouvider Limited
 212.6.36.242/32 # Germany | Land Berlin | Clouvider Limited
 212.43.147.74/32 # United States | New Jersey | Podaon Sia
+212.43.147.240/32 # United States | New Jersey | Podaon SIA
 212.43.147.242/32 # United States | New Jersey | Podaon Sia
 212.43.153.127/32 # United States | New Jersey | Podaon Sia
 212.69.135.98/32 # Canada | Ontario | Clouvider Limited
