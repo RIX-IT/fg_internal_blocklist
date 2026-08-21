@@ -321,7 +321,6 @@
 142.252.244.0/24 # United States | California | Clouvider Limited
 142.252.246.0/24 # United States | California | Clouvider Limited
 144.168.0.0/24 # United States | Delaware | M Europe SRL
-144.168.1.0/24 # United States | Delaware | M Europe SRL
 144.168.2.0/24 # United States | Delaware | M Europe SRL
 144.168.3.0/24 # United States | Delaware | M Europe SRL
 146.70.117.0/24 # Germany | Hesse | M Europe SRL
@@ -454,7 +453,6 @@
 172.120.148.0/24 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.155.0/24 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.158.0/24 # United States | District of Columbia | IT HOSTLINE LTD
-172.120.161.0/24 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
 172.120.162.0/24 # United States | Washington | IT HOSTLINE LTD
 172.120.163.0/24 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.164.0/24 # United States | Pennsylvania | IT HOSTLINE LTD
@@ -480,7 +478,6 @@
 172.120.218.0/24 # United States | Texas | IT HOSTLINE LTD
 172.120.234.0/24 # United States | Texas | IT HOSTLINE LTD
 172.120.238.0/24 # United States | Texas | IT HOSTLINE LTD
-172.120.239.0/24 # United States | Texas | IT HOSTLINE LTD
 172.120.248.0/24 # United States | California | IT HOSTLINE LTD
 172.120.254.0/24 # United States | California | IT HOSTLINE LTD
 172.120.255.0/24 # United States | California | IT HOSTLINE LTD
@@ -683,6 +680,7 @@
 4.155.197.83/32 # United States | Washington | Microsoft Corporation
 4.236.166.152/32 # United States | Virginia | Microsoft Corporation
 5.35.44.176/32 # Netherlands | North Holland | SERVERS TECH FZCO
+5.58.84.93/32 # Ukraine | Ternopil Oblast | COLUMBUS-PE-TE MAXNET TELECOM,...
 5.104.72.141/32 # Netherlands | North Holland | Clouvider Limited
 5.104.72.224/32 # Netherlands | North Holland | Clouvider Limited
 5.180.221.108/32 # Japan | Tokyo | Uab Code 00
@@ -831,6 +829,7 @@
 34.53.138.106/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.53.139.89/32 # Belgium | Brussels-Capital | Google LLC
 34.53.139.213/32 # Belgium | Brussels-Capital | Google LLC
+34.53.143.115/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.53.150.164/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.53.185.241/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.53.189.180/32 # Belgium | Brussels-Capital | Google LLC
@@ -876,7 +875,6 @@
 34.62.210.33/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.62.228.181/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.62.244.7/32 # Belgium | Brussels-Capital | Google LLC
-34.62.254.84/32 # Belgium | Brussels-Capital | Google LLC
 34.72.90.40/32 # United States | Iowa | Google LLC
 34.73.194.38/32 # United States | South Carolina | Google LLC
 34.76.30.45/32 # Belgium | Brussels-Capital | Google LLC
@@ -914,6 +912,7 @@
 34.78.27.244/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.78.31.30/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.78.54.17/32 # Belgium | Brussels-Capital | Google LLC
+34.78.59.70/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.78.62.200/32 # Belgium | Brussels-Capital | Google LLC
 34.78.64.122/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.78.66.152/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -961,6 +960,7 @@
 34.140.90.12/32 # Belgium | Brussels-Capital | Google LLC
 34.140.96.113/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.140.107.159/32 # Belgium | Bruxelles-Capitale | Google LLC
+34.140.122.3/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.140.152.69/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.140.166.174/32 # Belgium | Brussels-Capital | Google LLC
 34.140.198.209/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -987,6 +987,7 @@
 34.156.196.175/32 # Belgium | Brussels-Capital | Google LLC
 34.156.209.129/32 # Belgium | Brussels-Capital | Google LLC
 34.156.212.44/32 # Belgium | Brussels-Capital | Google LLC
+34.156.228.94/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.156.229.211/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.156.239.61/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.156.240.64/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -994,7 +995,6 @@
 34.180.116.224/32 # Japan | Tokyo | Google LLC
 35.186.181.18/32 # United States | Virginia | Google LLC
 35.187.15.207/32 # Belgium | Bruxelles-Capitale | Google LLC
-35.187.33.102/32 # Belgium | Brussels-Capital | Google LLC
 35.187.59.129/32 # Belgium | Brussels-Capital | Google LLC
 35.187.73.0/32 # Belgium | Brussels-Capital | Google LLC
 35.187.92.166/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -1008,6 +1008,7 @@
 35.189.213.103/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.190.207.40/32 # Belgium | Brussels-Capital | Google LLC
 35.190.221.14/32 # Belgium | Bruxelles-Capitale | Google LLC
+35.195.22.254/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.195.42.178/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.195.47.116/32 # Belgium | Brussels-Capital | Google LLC
 35.195.54.43/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -1043,6 +1044,7 @@
 35.233.1.9/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.233.1.82/32 # Belgium | Brussels-Capital | Google LLC
 35.233.35.41/32 # Belgium | Bruxelles-Capitale | Google LLC
+35.233.35.144/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.233.48.91/32 # Belgium | Brussels-Capital | Google LLC
 35.233.51.74/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.233.54.229/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -1376,7 +1378,6 @@
 82.117.89.122/32 # United States | California | Clouvider Limited
 82.117.89.172/32 # Canada | Ontario | Clouvider Limited
 82.117.91.87/32 # Canada | Ontario | Clouvider Limited
-82.117.95.70/32 # Canada | Ontario | Clouvider Limited
 82.117.95.71/32 # Canada | Ontario | Clouvider Limited
 82.139.195.179/32 # Germany | Hessen | Gsl Networks Pty LTD
 83.106.128.79/32 # United Kingdom | England | Vodafone Limited
@@ -1400,6 +1401,7 @@
 85.137.53.71/32 # Netherlands | Provincie Noord-Holland | Sollutium Eu Sp Z....
 85.239.240.32/32 # United States | Missouri | Contabo Inc.
 86.54.24.25/32 # Latvia | Vidzeme | Noyobzoda Faridduni Saidilhom
+86.54.31.46/32 # Netherlands | Provincie Noord-Holland | BlackHOST Black HO...
 86.160.26.5/32 # United Kingdom | England | British Telecommunications Limited
 87.58.201.133/32 # Netherlands | Provincie Noord-Holland | QWINS-LTD QWINS LTD
 87.106.191.217/32 # Germany | Hesse | IONOS SE
@@ -1518,7 +1520,6 @@
 103.176.16.109/32 # India | Haryana | Qwistel Network Service Private Limited
 103.179.190.58/32 # Viet Nam | Ho Chi Minh City | Nhanhoa Software Company
 103.181.134.138/32 # Hong Kong | Hong Kong | GNET INC.
-103.186.23.55/32 # Pakistan | Sindh | Connect Communication
 103.186.77.86/32 # Pakistan | Punjab | Nasstec Airnet Networks Private Limited
 103.186.77.88/32 # Pakistan | Punjab | Nasstec Airnet Networks Private Limited
 103.196.160.215/32 # Pakistan | Sindh | Connect Communications
@@ -1535,7 +1536,6 @@
 103.246.144.118/32 # Netherlands | North Holland | Podaon Sia
 104.21.55.245/32 # United States | California | Cloudflare, Inc.
 104.145.210.107/32 # United States | New York | Ultahost, Inc.
-104.155.8.68/32 # Belgium | Brussels-Capital | Google LLC
 104.155.14.142/32 # Belgium | Bruxelles-Capitale | Google LLC
 104.155.23.87/32 # Belgium | Brussels-Capital | Google LLC
 104.155.33.94/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -1708,6 +1708,7 @@
 130.211.107.54/32 # Belgium | Bruxelles-Capitale | Google LLC
 130.211.111.221/32 # Belgium | Bruxelles-Capitale | Google LLC
 131.159.24.205/32 # Germany | Bavaria | Technical University of Munich
+131.186.44.175/32 # Japan | Chiba | Oracle Corporation
 132.148.91.25/32 # United States | Arizona | Godaddy.com, LLC
 134.195.91.224/32 # United States | California | Hosthatch, LLC
 134.209.97.194/32 # Singapore | South West | Digitalocean, LLC
@@ -1886,7 +1887,6 @@
 141.133.95.163/32 # Canada | Ontario | GREEN FLOID LLC
 141.133.95.184/32 # Canada | Ontario | GREEN FLOID LLC
 141.133.96.204/32 # Canada | Alberta | GREEN FLOID LLC
-141.133.96.250/32 # Canada | Alberta | GREEN FLOID LLC
 141.133.97.102/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 141.133.97.130/32 # United Kingdom | England | XServerCloud Ivanov Vitaliy Ser...
 141.133.98.3/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
@@ -1916,7 +1916,6 @@
 142.111.112.156/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 142.111.121.37/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 142.111.121.64/32 # United States | Illinois | Ace Data Centers II, L.L.C.
-142.111.121.130/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 142.111.121.171/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 142.111.128.72/32 # United States | Utah | IT HOSTLINE LTD
 142.111.130.171/32 # United States | New York | HOST TELECOM LTD
@@ -1925,7 +1924,6 @@
 142.111.176.110/32 # United States | Utah | IT HOSTLINE LTD
 142.111.177.14/32 # United States | New York | HOST TELECOM LTD
 142.111.193.99/32 # United States | Utah | IT HOSTLINE LTD
-142.111.213.68/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 142.111.213.130/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 142.111.213.158/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 142.111.213.250/32 # United States | Illinois | Ace Data Centers II, L.L.C.
@@ -1960,7 +1958,6 @@
 143.244.47.83/32 # United States | New York | Datacamp Limited
 143.244.47.85/32 # United States | New York | Datacamp Limited
 143.244.47.87/32 # United States | New York | Datacamp Limited
-143.244.47.89/32 # United States | New York | Datacamp Limited
 144.31.53.78/32 # Finland | Mainland Finland | Vpspay Networks LTD
 144.31.221.179/32 # Germany | Hesse | Kyonix Networks Limited
 144.31.221.197/32 # Germany | Hesse | Kyonix Networks Limited
@@ -1969,6 +1966,8 @@
 144.48.130.229/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 144.48.132.196/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 144.48.135.10/32 # Pakistan | Punjab | Cyber Internet Services private Limited
+144.168.1.237/32 # United States | New York | M247 Europe SRL
+144.168.1.252/32 # United States | New York | M247 Europe SRL
 144.172.92.249/32 # United States | Utah | Routerhosting LLC
 144.172.99.68/32 # United States | Utah | Routerhosting LLC
 144.172.106.140/32 # United States | Utah | Routerhosting LLC
@@ -2005,7 +2004,7 @@
 151.240.65.230/32 # United States | Mississippi | GSL Networks Pty LTD
 151.241.122.108/32 # United States | New Jersey | Cogent Communications, LLC
 151.247.193.174/32 # France | Île-de-France | CANADA INC.
-152.42.252.134/32 # Singapore | Southeast | Digitalocean, LLC
+152.32.235.180/32 # United States | California | UCLOUD-HK-AS-AP - UCLOUD INFO...
 152.53.194.9/32 # United States | District of Columbia | netcup GmbH
 152.234.161.12/32 # United States | New York | Clouvider Limited
 152.234.161.169/32 # United States | New York | Clouvider Limited
@@ -2900,9 +2899,17 @@
 172.120.157.58/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
 172.120.157.93/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
 172.120.157.225/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
+172.120.161.16/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
+172.120.161.94/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
+172.120.161.179/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
+172.120.161.218/32 # United States | District of Columbia | ITHOSTLINE IT HOSTL...
 172.120.190.185/32 # United States | Illinois | IT HOSTLINE LTD
 172.120.202.96/32 # United States | Pennsylvania | IT HOSTLINE LTD
 172.120.202.214/32 # United States | Pennsylvania | IT HOSTLINE LTD
+172.120.239.70/32 # United States | California | ITHOSTLINE IT HOSTLINE LTD
+172.120.239.125/32 # United States | California | ITHOSTLINE IT HOSTLINE LTD
+172.120.239.147/32 # United States | California | ITHOSTLINE IT HOSTLINE LTD
+172.120.239.214/32 # United States | California | ITHOSTLINE IT HOSTLINE LTD
 172.121.48.89/32 # United States | Nevada | IT HOSTLINE LTD
 172.121.48.182/32 # United States | Nevada | ITHOSTLINE IT HOSTLINE LTD
 172.121.48.196/32 # United Kingdom | England | IT HOSTLINE LTD
