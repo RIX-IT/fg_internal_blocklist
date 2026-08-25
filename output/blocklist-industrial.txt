@@ -670,6 +670,8 @@
 1.13.249.217/32 # China | Jiangsu | Shenzhen Tencent Computer Systems Compan...
 1.201.126.244/32 # South Korea | Seoul | KINX
 2.24.131.246/32 # United Kingdom | England | Hostinger International Limited
+2.27.98.43/32 # Hong Kong | Hong Kong | HGC Global Communications Limited
+2.27.98.45/32 # Hong Kong | Hong Kong | HGC Global Communications Limited
 2.56.113.3/32 # Poland | West Pomeranian Voivodeship | Host Telecom LTD
 2.56.113.36/32 # United Kingdom | England | iwihost HOST TELECOM LTD
 2.56.113.69/32 # Poland | Masovian Voivodeship | iwihost HOST TELECOM LTD
@@ -695,7 +697,6 @@
 14.1.104.253/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 14.1.106.150/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 14.1.106.241/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
-15.235.172.219/32 # Singapore | Southeast | OVH SAS
 20.3.76.43/32 # United States | Washington | Microsoft Corporation
 20.15.228.213/32 # United States | Iowa | Microsoft Corporation
 20.55.15.230/32 # United States | Virginia | Microsoft Corporation
@@ -1085,6 +1086,7 @@
 40.79.245.25/32 # United States | Virginia | Microsoft Corporation
 42.59.60.195/32 # China | Liaoning | China Unicom China1 Backbone
 42.193.237.190/32 # China | Guangdong Sheng | Shenzhen Tencent Computer System...
+42.230.133.200/32 # China | Henan Sheng | CHINA169-Backbone - CHINA UNICOM Chi...
 43.106.71.28/32 # Singapore | Central Singapore | Alibaba US Technology Co.,...
 43.132.105.118/32 # Hong Kong | Hong Kong | Shenzhen Tencent Computer Systems ...
 43.132.205.118/32 # Hong Kong | Hong Kong | Shenzhen Tencent Computer Systems ...
@@ -1219,7 +1221,6 @@
 45.192.45.101/32 # United States | New York | Clouvider Limited
 45.192.45.123/32 # United States | New York | Clouvider Limited
 45.192.45.215/32 # United States | New York | Clouvider Limited
-45.192.45.236/32 # United States | New York | Clouvider Limited
 45.195.194.42/32 # Pakistan | Punjab | Login.me pvt LTD
 45.207.220.12/32 # Hong Kong | Hong Kong | Cognetcloud INC
 45.221.64.224/32 # Seychelles | Mahe | internet security
@@ -1330,7 +1331,6 @@
 69.67.172.20/32 # Romania | Bucharest | Bl Networks
 69.67.173.30/32 # Romania | Bucharest | Bl Networks
 72.23.77.35/32 # United States | Pennsylvania | Armstrong
-72.255.3.64/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 72.255.3.100/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 72.255.3.150/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 72.255.18.71/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
@@ -1435,6 +1435,8 @@
 91.245.237.200/32 # United Kingdom | England | Clouvider Limited
 92.52.184.245/32 # Ukraine | Rivne Oblast | Lanet Network Ltd
 92.118.57.33/32 # United States | Missouri | Contabo Inc.
+93.88.206.138/32 # Poland | Silesian Voivodeship | Ablaykhan Akylbekovich Sha...
+93.88.206.223/32 # Poland | Silesian Voivodeship | Ablaykhan Akylbekovich Sha...
 93.93.206.80/32 # Germany | Thuringia | Clouvider Limited
 93.93.206.99/32 # Germany | Thuringia | Clouvider Limited
 93.93.206.174/32 # Germany | Thuringia | Clouvider Limited
@@ -1646,7 +1648,6 @@
 123.185.91.193/32 # China | Liaoning Sheng | CHINANET Liaoning province Dalian...
 124.29.194.207/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 124.29.214.170/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
-124.29.214.201/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 124.29.224.34/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
 124.29.226.245/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 124.29.230.75/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
@@ -1676,7 +1677,6 @@
 130.49.92.159/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 130.49.92.181/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 130.49.102.145/32 # United States | Washington | ROUTE 95 LLC
-130.49.102.164/32 # United States | Washington | ROUTE 95 LLC
 130.49.102.200/32 # United States | Washington | ROUTE 95 LLC
 130.49.125.62/32 # United Kingdom | England | XServerCloud Ivanov Vitaliy Ser...
 130.49.125.221/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
@@ -1717,7 +1717,6 @@
 135.136.58.177/32 # United Kingdom | England | M247 Europe SRL
 135.136.58.239/32 # United Kingdom | England | M247 Europe SRL
 135.237.130.179/32 # United States | Virginia | Microsoft Corporation
-136.0.196.135/32 # United States | Utah | Ace Data Centers II, L.L.C.
 136.37.0.69/32 # United States | Missouri | Google Fiber Inc.
 136.234.130.74/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 136.234.130.91/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
@@ -1879,16 +1878,9 @@
 142.67.249.79/32 # Canada | Nova Scotia | EastLink
 142.93.242.144/32 # United States | New Jersey | Digitalocean, LLC
 142.111.112.150/32 # United States | Illinois | Ace Data Centers II, L.L.C.
-142.111.121.171/32 # United States | Illinois | Ace Data Centers II, L.L.C.
-142.111.176.84/32 # United States | Utah | IT HOSTLINE LTD
-142.111.176.110/32 # United States | Utah | IT HOSTLINE LTD
-142.111.213.158/32 # United States | Illinois | Ace Data Centers II, L.L.C.
-142.111.228.52/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 142.111.231.198/32 # United States | Illinois | RCN
 142.111.231.231/32 # United States | Illinois | RCN
-142.111.232.90/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 142.111.247.20/32 # United States | Illinois | Ace Data Centers II, L.L.C.
-142.111.253.184/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 142.252.132.58/32 # United States | California | ITHOSTLINE IT HOSTLINE LTD
 142.252.132.103/32 # United States | California | ITHOSTLINE IT HOSTLINE LTD
 142.252.132.251/32 # United States | California | ITHOSTLINE IT HOSTLINE LTD
@@ -2000,6 +1992,7 @@
 153.117.15.40/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 153.117.15.223/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 153.117.27.8/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
+153.117.27.66/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
 153.117.27.212/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
 153.117.28.170/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
 153.117.28.215/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
@@ -2537,7 +2530,6 @@
 155.212.81.114/32 # United Kingdom | Northern Ireland | Ivanov Vitaliy Sergeevich
 155.212.81.156/32 # United Kingdom | England | XServerCloud Ivanov Vitaliy Ser...
 155.212.85.43/32 # United States | Washington | ROUTE 95 LLC
-155.212.85.163/32 # United States | Washington | ROUTE 95 LLC
 155.212.85.188/32 # United States | Washington | ROUTE 95 LLC
 155.212.92.36/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 155.212.92.79/32 # United Kingdom | England | XServerCloud Ivanov Vitaliy Ser...
@@ -2591,7 +2583,6 @@
 159.65.228.55/32 # United States | New Jersey | Digitalocean, LLC
 159.89.141.114/32 # United States | California | Digitalocean, LLC
 159.195.115.91/32 # Austria | Vienna | netcup GmbH
-160.25.232.62/32 # Vietnam | Ho Chi Minh | VIET DIGITAL TECHNOLOGY LIABILITY ...
 160.30.142.212/32 # Pakistan | Punjab | Nasstec Airnet Networks Private Limited
 160.119.71.92/32 # Netherlands | Provincie Noord-Holland | Alsycon B.V.
 161.35.236.255/32 # United States | California | DigitalOcean, LLC
@@ -2616,15 +2607,9 @@
 166.1.115.102/32 # United States | Illinois | Ace Data Centers, Inc.
 166.1.115.105/32 # United States | Illinois | Ace Data Centers, Inc.
 166.1.115.158/32 # United States | Illinois | Ace Data Centers, Inc.
-166.1.168.33/32 # United States | Illinois | Ace Data Centers, Inc.
 166.1.168.101/32 # United States | Illinois | Ace Data Centers, Inc.
 166.1.196.70/32 # United States | Illinois | RCN
-166.1.245.246/32 # United States | Utah | Clouvider Limited
 166.1.251.20/32 # United States | Illinois | Clouvider Limited
-166.1.251.167/32 # United States | Illinois | Clouvider Limited
-166.88.41.63/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
-166.88.72.235/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
-166.88.156.43/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 166.88.158.66/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 166.88.175.44/32 # United States | Utah | IT HOSTLINE LTD
 166.88.183.249/32 # United States | Illinois | RCN
@@ -2909,6 +2894,7 @@
 185.206.30.30/32 # Saudi Arabia | Mecca Region | Al Wafai International For C...
 185.208.158.250/32 # Switzerland | Bern | Global data System IT Corporation
 185.216.117.3/32 # Hong Kong | Hong Kong | Law's Cloud Infrastructure Limited
+185.226.196.2/32 # United States | California | Zenlayer Inc
 185.226.197.62/32 # Netherlands | Provincie Zuid-Holland | Zenlayer Inc
 185.226.198.4/32 # United States | California | Nsec - Sistemas Informaticos,...
 185.231.33.46/32 # Switzerland | Canton de Berne | Datashield, Inc.
@@ -3069,7 +3055,6 @@
 195.211.210.157/32 # Ukraine | Kyiv | FOP Goncharov Oleksandr Oleksandrovich
 196.190.133.180/32 # Ethiopia | Addis Ababa | Ethio Telecom
 196.250.184.161/32 # Liberia | Montserrado | Telecel Liberia Limited - Telecel ...
-196.251.84.144/32 # Netherlands | North Holland | internet security cheapyhost
 196.251.86.145/32 # Netherlands | North Holland | internet security cheapy.host
 196.251.116.219/32 # Netherlands | North Holland | internet secuirty Nybula
 198.13.159.44/32 # Netherlands | North Holland | Bl Networks
@@ -3152,7 +3137,6 @@
 201.67.16.34/32 # United Kingdom | Scotland | Host Telecom LTD
 201.67.16.35/32 # United Kingdom | Wales [Cymru GB-CYM] | iwihost HOST TELEC...
 201.67.16.61/32 # United Kingdom | England | iwihost HOST TELECOM LTD
-201.150.26.246/32 # Brazil | Pará | JATIMNET TELECOM
 202.9.122.178/32 # India | Haryana | Nas Internet Services Private Limited
 202.9.122.254/32 # India | Haryana | Nas Internet Services Private Limited
 202.47.57.23/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
@@ -3228,7 +3212,6 @@
 212.107.25.193/32 # Germany | Hessen | Clouvider Limited
 212.192.251.19/32 # United States | Massachusetts | Clouvider Limited
 212.192.251.144/32 # United States | Massachusetts | Clouvider Limited
-212.192.251.206/32 # United States | Massachusetts | Clouvider Limited
 213.109.109.79/32 # United Kingdom | Northern Ireland | Ivanov Vitaliy Sergeevich
 213.109.109.215/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 213.145.86.112/32 # United States | New York | Latitude.sh
