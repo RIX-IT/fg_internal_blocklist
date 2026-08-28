@@ -713,7 +713,6 @@
 20.118.214.23/32 # United States | Iowa | Microsoft Corporation
 20.118.214.81/32 # United States | Iowa | Microsoft Corporation
 20.118.221.161/32 # United States | Iowa | Microsoft Corporation
-20.161.44.182/32 # United States | Virginia | Microsoft Corporation
 20.161.58.229/32 # United States | Virginia | Microsoft Corporation
 20.171.21.217/32 # United States | Arizona | Microsoft Corporation
 20.172.6.73/32 # United States | Arizona | Microsoft Corporation
@@ -871,7 +870,6 @@
 34.76.30.45/32 # Belgium | Brussels-Capital | Google LLC
 34.76.75.214/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.76.83.232/32 # Belgium | Bruxelles-Capitale | Google LLC
-34.76.93.104/32 # Belgium | Brussels-Capital | Google LLC
 34.76.105.234/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.76.129.58/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.76.131.35/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -955,7 +953,6 @@
 34.140.166.174/32 # Belgium | Brussels-Capital | Google LLC
 34.140.198.209/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.140.208.100/32 # Belgium | Bruxelles-Capitale | Google LLC
-34.140.232.213/32 # Belgium | Brussels-Capital | Google LLC
 34.140.252.58/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.148.121.106/32 # United States | South Carolina | Google LLC
 34.156.3.149/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -1305,7 +1302,6 @@
 60.52.10.54/32 # Malaysia | Melaka | TTSSB-MY - TM TECHNOLOGY SERVICES SDN....
 60.172.7.46/32 # China | Anhui Sheng | No.31,Jin-rong Street
 60.205.148.180/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
-60.211.98.44/32 # China | Shandong | China Unicom China1 Backbone
 61.4.102.97/32 # Malaysia | Federal Territory of Kuala Lumpur | Gigabit Hos...
 61.71.128.166/32 # Taiwan | New Taipei | Hoshin Multimedia Center Inc.
 61.135.185.29/32 # China | Beijing | China Unicom Beijing Province Network
@@ -1337,7 +1333,6 @@
 66.228.55.254/32 # United States | Texas | Akamai Connected Cloud
 67.207.88.37/32 # United States | New Jersey | Digitalocean, LLC
 67.217.57.240/32 # United States | New Jersey | Interserver, INC
-68.154.118.246/32 # United States | Virginia | Microsoft Corporation
 68.168.222.148/32 # United States | New Jersey | Interserver, INC
 68.168.222.193/32 # United States | New Jersey | Interserver, INC
 68.183.58.201/32 # United States | New Jersey | DigitalOcean, LLC
@@ -1464,7 +1459,6 @@
 94.140.115.18/32 # Latvia | Riga | Sia Nano IT
 94.140.115.129/32 # Latvia | Riga | Sia Nano IT
 94.141.122.164/32 # Finland | Mainland Finland | Partner Hosting LTD
-94.154.43.46/32 # Turkey | Bursa | Pitline LTD
 94.154.43.99/32 # Netherlands | Provincie Noord-Holland | Storm Industries LLC
 94.154.43.210/32 # Netherlands | Provincie Noord-Holland | Storm Industries LLC
 94.154.82.250/32 # Russian Federation | Irkutsk Oblast | BAIKAL TELECOM LLC
@@ -1493,6 +1487,7 @@
 103.18.14.148/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
 103.26.83.47/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
 103.26.86.31/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
+103.26.86.104/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 103.27.110.232/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.70.77.226/32 # Hong Kong | Hong Kong | Netsec Limited
 103.72.1.40/32 # Pakistan | Sindh | FIBERISHPVTLTD-AS-AP - FIBERISH PVT LTD
@@ -1650,12 +1645,14 @@
 118.31.220.210/32 # China | Zhejiang Sheng | Hangzhou Alibaba Advertising CO.,...
 119.3.177.62/32 # China | Beijing | Huawei Cloud Service Data Center
 119.30.118.6/32 # Pakistan | Punjab | Mobilink-Peering-AS-PK - IX Peering fo...
+119.73.19.209/32 # Pakistan | Punjab | Mobilink-Peering-AS-PK - IX Peering fo...
 119.96.223.148/32 # China | Hubei | Chinanet Hubei Province Network
 119.99.250.219/32 # China | Hubei Sheng | CHINANET BACKBONE
 119.152.228.139/32 # Pakistan | Sindh | Wancom (Pvt) Ltd.
 119.184.23.172/32 # China | Shandong Sheng | China Unicom China169 Backbone
 120.85.117.118/32 # China | Guangdong Sheng | China Unicom Guangzhou network
 120.85.119.228/32 # China | Guangdong Sheng | China Unicom Guangzhou Network
+120.86.238.231/32 # China | Guangdong Sheng | China Unicom IP network China169...
 120.86.253.23/32 # China | Guangdong Sheng | China Unicom IP network China169...
 120.138.12.152/32 # India | Tamil Nadu | Railtel Corporation of India Ltd.
 120.229.79.252/32 # China | Guangdong Sheng | China Mobile Communications Grou...
@@ -2004,6 +2001,7 @@
 153.117.13.56/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 153.117.15.40/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 153.117.15.223/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
+153.117.15.245/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 153.117.27.8/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
 153.117.27.66/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
 153.117.27.212/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
@@ -2021,6 +2019,7 @@
 153.117.40.233/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 153.117.41.55/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
 153.117.50.51/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
+153.117.55.29/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
 153.117.127.109/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
 153.117.127.222/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
 153.117.127.232/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
@@ -2763,6 +2762,7 @@
 175.107.2.62/32 # Pakistan | Islamabad | National Telecommunication Corporation
 175.107.2.201/32 # Pakistan | Islamabad | National Telecommunication Corporation
 175.107.3.249/32 # Pakistan | Islamabad | National Telecommunication Corporat...
+175.107.36.73/32 # Pakistan | Sindh | National Telecommunication Corporation HQ
 175.107.37.251/32 # Pakistan | Sindh | National Telecommunication Corporation
 175.107.205.205/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 175.107.208.33/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
@@ -2991,7 +2991,6 @@
 187.126.32.180/32 # United States | New York | Clouvider Limited
 187.126.32.206/32 # United States | New York | Clouvider Limited
 188.137.228.229/32 # Germany | Hessen | Podaon Sia
-188.137.243.165/32 # United States | New Jersey | Podaon Sia
 188.214.34.20/32 # Cyprus | South Cyprus | Edis GmbH
 188.241.176.247/32 # Canada | Quebec | M247 Europe SRL
 188.255.156.80/32 # United States | California | Cnserver LLC
@@ -3176,7 +3175,6 @@
 207.175.44.180/32 # Belgium | Bruxelles-Capitale | Google LLC
 207.175.45.164/32 # Belgium | Bruxelles-Capitale | Google LLC
 207.175.51.249/32 # Belgium | Brussels-Capital | Google LLC
-207.175.63.223/32 # Belgium | Brussels-Capital | Google LLC
 207.175.64.85/32 # Belgium | Bruxelles-Capitale | Google LLC
 207.175.66.57/32 # Belgium | Bruxelles-Capitale | Google LLC
 207.175.77.114/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -3245,7 +3243,6 @@
 219.157.58.187/32 # China | Henan Sheng | CHINA169-Backbone - CHINA UNICOM Chi...
 220.79.229.219/32 # South Korea | Gyeonggi-do | Korea Telecom
 220.178.171.198/32 # China | Anhui Sheng | No.31,Jin-rong Street
-221.15.190.85/32 # China | Henan | China Unicom China1 Backbone
 222.136.143.99/32 # China | Henan | China Unicom China169 Backbone
 222.208.24.3/32 # China | Sichuan Sheng | No.31,Jin-rong Street
 223.123.35.120/32 # Pakistan | Punjab | Cmpak Limited
