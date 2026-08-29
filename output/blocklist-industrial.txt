@@ -416,6 +416,7 @@
 156.246.226.0/24 # United Kingdom | England | ITHOSTLINE IT HOSTLINE LTD
 158.46.178.0/24 # United States | California | Clouvider Limited
 158.46.179.0/24 # United States | California | Clouvider Limited
+167.148.41.0/24 # United States | New Jersey | Interserver, Inc
 167.250.111.0/24 # United States | New York | WhiteLabelColo
 168.90.96.0/24 # United States | New York | networksdelmanana.com
 168.181.229.0/24 # United States | New York | AS263829 - HOST PARA TU VIDA S.A.
@@ -936,7 +937,6 @@
 34.79.255.4/32 # Belgium | Brussels-Capital | Google LLC
 34.93.200.156/32 # India | Maharashtra | Google LLC
 34.125.90.143/32 # United States | Nevada | Google LLC
-34.131.227.149/32 # India | Delhi | Google LLC
 34.135.23.60/32 # United States | Iowa | Google LLC
 34.140.16.30/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.140.24.170/32 # Belgium | Brussels-Capital | Google LLC
@@ -1025,6 +1025,7 @@
 35.205.236.74/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.205.246.21/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.205.249.67/32 # Belgium | Bruxelles-Capitale | Google LLC
+35.232.166.115/32 # United States | Iowa | Google LLC
 35.233.1.9/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.233.35.41/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.233.35.144/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -1251,7 +1252,6 @@
 46.236.65.23/32 # Sweden | Skane County | Bredband2 AB
 47.16.106.54/32 # United States | New York | Cablevision Systems Corp.
 47.16.109.34/32 # United States | New York | Cablevision Systems Corp.
-47.77.219.184/32 # United States | California | Alibaba us Technology Co., Ltd.
 47.82.69.222/32 # Hong Kong | Hong Kong | Alibaba (US) Technology Co., Ltd.
 47.83.131.3/32 # Hong Kong | Hong Kong | Alibaba US Technology Co., Ltd.
 47.93.54.134/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
@@ -1267,6 +1267,7 @@
 50.114.179.39/32 # United States | New Jersey | Interserver, Inc
 50.114.179.60/32 # United States | New Jersey | Interserver, Inc
 50.114.179.189/32 # United States | New Jersey | Interserver, Inc
+50.114.236.48/32 # United States | Missouri | CNServer LLC
 50.116.30.189/32 # United States | Texas | Akamai Connected Cloud
 50.116.72.42/32 # United States | Virginia | Network Solutions, LLC
 50.118.198.51/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
@@ -1485,6 +1486,7 @@
 102.135.95.102/32 # Seychelles | Mahe | M Europe SRL
 103.9.77.44/32 # Viet Nam | Ho Chi Minh City | Vnpt Corp
 103.18.14.148/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
+103.26.82.49/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 103.26.83.47/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
 103.26.86.31/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 103.26.86.104/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
@@ -1573,6 +1575,7 @@
 106.127.188.201/32 # China | Guangdong Sheng | Beihai
 107.148.158.113/32 # United States | New Jersey | Interserver, INC
 107.148.158.118/32 # United States | New Jersey | Interserver, INC
+107.148.158.132/32 # United States | New Jersey | Interserver, Inc
 107.148.158.248/32 # United States | New Jersey | Interserver, INC
 107.148.225.147/32 # United States | California | PEG TECH INC
 107.149.184.181/32 # Germany | Hesse | PEG TECH INC
@@ -1737,6 +1740,7 @@
 135.136.58.239/32 # United Kingdom | England | M247 Europe SRL
 135.237.130.179/32 # United States | Virginia | Microsoft Corporation
 136.37.0.69/32 # United States | Missouri | Google Fiber Inc.
+136.37.4.9/32 # United States | Missouri | Google Fiber Inc.
 136.70.107.168/32 # United States | District of Columbia | Google LLC
 136.234.130.74/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 136.234.130.91/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
@@ -2629,10 +2633,6 @@
 167.71.207.50/32 # Singapore | Central Singapore | Digitalocean, LLC
 167.99.101.91/32 # United States | California | Digitalocean, LLC
 167.99.169.232/32 # United States | California | Digitalocean, LLC
-167.148.41.2/32 # United States | New Jersey | Interserver, Inc
-167.148.41.144/32 # United States | New Jersey | Interserver, INC
-167.148.41.149/32 # United States | New Jersey | Interserver, Inc
-167.148.41.152/32 # United States | New Jersey | Interserver, Inc
 167.148.201.161/32 # United States | Washington | Millenialhost Limited
 167.172.223.245/32 # United States | California | Digitalocean, LLC
 168.113.5.12/32 # United Kingdom | England | Wireless Ltd
@@ -3217,6 +3217,7 @@
 212.43.147.242/32 # United States | New Jersey | Podaon Sia
 212.43.152.42/32 # United States | New Jersey | Podaon SIA
 212.43.152.176/32 # United States | New Jersey | Podaon SIA
+212.43.153.123/32 # United States | New Jersey | Podaon SIA
 212.43.153.201/32 # United States | New Jersey | Podaon SIA
 212.83.185.19/32 # France | Ile-de-France | Scaleway SAS
 212.83.190.143/32 # France | Île-de-France | SCALEWAY S.A.S.
