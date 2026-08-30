@@ -126,7 +126,6 @@
 45.192.37.0/24 # United States | New York | Clouvider Limited
 45.192.38.0/24 # United States | New York | Clouvider Limited
 45.192.39.0/24 # United States | New York | Clouvider Limited
-45.192.40.0/24 # United States | New York | Clouvider Limited
 45.192.42.0/24 # United States | New York | Clouvider Limited
 45.192.44.0/24 # United States | New York | Clouvider Limited
 45.192.46.0/24 # United States | New York | Clouvider Limited
@@ -616,6 +615,7 @@
 193.32.248.0/24 # Germany | Berlin | 11 Services Ab
 193.32.249.0/24 # Netherlands | North Holland | 11 Services Ab
 193.36.231.0/24 # United States | New Jersey | Clouvider Limited
+193.37.254.0/24 # United States | Arizona | M247 Europe SRL
 193.47.32.0/24 # United States | Maryland | Clouvider Limited
 193.53.169.0/24 # United Kingdom | Scotland | Clouvider Limited
 193.58.176.0/24 # United States | North Dakota | Clouvider Limited
@@ -696,6 +696,7 @@
 5.253.59.222/32 # Netherlands | Provincie Noord-Holland | GLOBAL CONNECTIVIT...
 8.217.38.238/32 # Hong Kong | Hong Kong | Alibaba us Technology Co., Ltd.
 8.217.190.58/32 # Hong Kong | Hong Kong | Alibaba US Technology Co., Ltd.
+8.228.8.247/32 # United States | Nevada | Google LLC
 13.72.110.24/32 # United States | Virginia | Microsoft Corporation
 13.83.42.105/32 # United States | California | Microsoft Corporation
 13.89.125.200/32 # United States | Iowa | Microsoft Corporation
@@ -704,7 +705,6 @@
 14.1.104.97/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 14.1.104.241/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 14.1.104.253/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
-14.1.106.150/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 14.1.106.216/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 14.1.106.241/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 14.1.107.37/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
@@ -724,6 +724,8 @@
 20.246.125.85/32 # United States | Virginia | Microsoft Corporation
 23.94.145.65/32 # United States | New York | DEDIK-IO DEDIK SERVICES LIMITED
 23.165.8.217/32 # United States | Colorado | Etherware Solutions LLC
+23.165.56.196/32 # United States | Colorado | Infocrest Systems LLC
+23.165.56.248/32 # United States | Colorado | Infocrest Systems LLC
 23.227.196.107/32 # United States | Illinois | Hivelocity, Inc.
 23.230.241.67/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
 23.230.241.221/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
@@ -817,7 +819,6 @@
 34.38.217.119/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.38.225.199/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.38.245.206/32 # Belgium | Bruxelles-Capitale | Google LLC
-34.38.251.251/32 # Belgium | Brussels-Capital | Google LLC
 34.44.21.60/32 # United States | Iowa | Google LLC
 34.52.138.165/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.52.156.204/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -952,7 +953,6 @@
 34.140.107.159/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.140.122.3/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.140.152.69/32 # Belgium | Bruxelles-Capitale | Google LLC
-34.140.166.174/32 # Belgium | Brussels-Capital | Google LLC
 34.140.198.209/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.140.208.100/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.140.252.58/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -979,6 +979,7 @@
 34.156.239.61/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.156.240.64/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.156.240.169/32 # Belgium | Bruxelles-Capitale | Google LLC
+34.170.205.143/32 # United States | Iowa | Google LLC
 34.180.80.154/32 # Japan | Tokyo | Google LLC
 34.187.70.111/32 # Netherlands | Provincie Groningen | Google LLC
 35.185.133.109/32 # Taiwan | Taipei | Google LLC
@@ -1221,6 +1222,10 @@
 45.192.34.89/32 # United States | New York | Clouvider Limited
 45.192.34.123/32 # United States | New York | Clouvider Limited
 45.192.34.243/32 # United States | New York | Clouvider Limited
+45.192.40.95/32 # United States | New York | Clouvider Limited
+45.192.40.172/32 # United States | New York | Clouvider Limited
+45.192.40.223/32 # United States | New York | Clouvider Limited
+45.192.40.247/32 # United States | New York | Clouvider Limited
 45.192.41.28/32 # United States | New York | Clouvider Limited
 45.192.41.194/32 # United States | New York | Clouvider Limited
 45.192.41.198/32 # United States | New York | Clouvider Limited
@@ -1231,7 +1236,6 @@
 45.192.45.101/32 # United States | New York | Clouvider Limited
 45.192.45.123/32 # United States | New York | Clouvider Limited
 45.192.45.215/32 # United States | New York | Clouvider Limited
-45.195.194.42/32 # Pakistan | Punjab | Login.me pvt LTD
 45.207.220.12/32 # Hong Kong | Hong Kong | Cognetcloud INC
 45.221.64.224/32 # Seychelles | Mahe | internet security
 46.8.96.254/32 # Finland | Uusimaa | FIRST SERVER LIMITED
@@ -1265,7 +1269,6 @@
 49.36.89.213/32 # India | Gujarat | Reliance Jio Infocomm Limited
 49.89.41.187/32 # China | Jiangsu | Chinanet
 50.114.179.39/32 # United States | New Jersey | Interserver, Inc
-50.114.179.60/32 # United States | New Jersey | Interserver, Inc
 50.114.179.189/32 # United States | New Jersey | Interserver, Inc
 50.114.236.48/32 # United States | Missouri | CNServer LLC
 50.116.30.189/32 # United States | Texas | Akamai Connected Cloud
@@ -1275,6 +1278,7 @@
 50.118.198.141/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
 51.4.106.30/32 # Israel | Tel Aviv District | Microsoft Corporation
 51.79.214.125/32 # Singapore | Southeast | OVH SAS
+52.153.175.196/32 # United States | Wyoming | Microsoft Corporation
 52.165.251.165/32 # United States | Iowa | Microsoft Corporation
 52.176.124.178/32 # United States | Iowa | Microsoft Corporation
 52.230.250.241/32 # United States | Iowa | Microsoft Corporation
@@ -1499,6 +1503,7 @@
 103.96.130.107/32 # Hong Kong | Hong Kong | WUZHOUHULIAN INTERNATIONAL CO., LI...
 103.96.147.148/32 # Indonesia | Java | Pt Era Awan Digital
 103.98.37.166/32 # India | Delhi | NETMAX-IN - NETMAX COMPUTERS
+103.98.37.227/32 # India | Delhi | NETMAX-IN - NETMAX COMPUTERS
 103.98.189.59/32 # India | Delhi | Vmo Broadband Pvt LTD
 103.102.246.62/32 # United States | Texas | HostRoyale Technologies Pvt Ltd
 103.102.246.115/32 # United States | Texas | HostRoyale Technologies Pvt Ltd
@@ -1513,7 +1518,6 @@
 103.174.242.219/32 # India | Delhi | Xpress Net Solution
 103.174.242.230/32 # India | Delhi | Xpress Net Solution
 103.174.243.210/32 # India | Delhi | Qwistel Network Service Private Limited
-103.174.243.226/32 # India | Delhi | Qwistel Network Service Private Limited
 103.175.16.104/32 # Malaysia | Selangor | Gigabit Hosting Sdn Bhd
 103.176.16.109/32 # India | Haryana | Qwistel Network Service Private Limited
 103.179.190.58/32 # Viet Nam | Ho Chi Minh City | Nhanhoa Software Company
@@ -1736,6 +1740,7 @@
 136.37.0.69/32 # United States | Missouri | Google Fiber Inc.
 136.37.4.9/32 # United States | Missouri | Google Fiber Inc.
 136.70.107.168/32 # United States | District of Columbia | Google LLC
+136.110.30.182/32 # Singapore | Central Singapore | Google LLC
 136.234.130.74/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 136.234.130.91/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 136.234.130.189/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
@@ -1745,7 +1750,6 @@
 136.234.133.214/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 136.234.138.5/32 # United Kingdom | England | XServerCloud Ivanov Vitaliy Ser...
 136.234.138.43/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
-136.234.138.63/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 136.234.138.80/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 136.234.139.15/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 136.234.139.77/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
@@ -1991,10 +1995,10 @@
 153.117.6.36/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
 153.117.6.40/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
 153.117.8.84/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
+153.117.8.103/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 153.117.8.172/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 153.117.8.187/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 153.117.9.24/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
-153.117.9.152/32 # Pakistan | Punjab | Cyber Internet Services private Limited
 153.117.13.45/32 # Pakistan | Punjab | Cyber Internet Services (private) Limited
 153.117.13.56/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 153.117.13.103/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
@@ -2664,7 +2668,6 @@
 168.144.209.185/32 # India | Karnataka | DigitalOcean, LLC
 168.167.139.131/32 # Botswana | South-East District | Botswana Telecommunicatio...
 168.222.97.46/32 # United States | New Jersey | CANADA INC.
-168.222.97.56/32 # United States | New Jersey | CANADA INC.
 168.222.97.122/32 # United States | New Jersey | VIRTUO - 12651980 CANADA INC.
 168.231.121.209/32 # India | Maharashtra | Hostinger International Limited
 169.40.2.68/32 # Latvia | Vidzeme | SIA VEESP
@@ -3006,10 +3009,6 @@
 193.29.57.37/32 # Germany | Hessen | Michael Sebastian Schinzel trading as I...
 193.33.188.174/32 # Germany | Land Berlin | Clouvider Limited
 193.33.188.183/32 # Germany | Land Berlin | Clouvider Limited
-193.37.254.194/32 # United States | Arizona | M247 Europe SRL
-193.37.254.205/32 # United States | Arizona | M247 Europe SRL
-193.37.254.237/32 # United States | Arizona | M247 Europe SRL
-193.37.254.247/32 # United States | Arizona | M247 Europe SRL
 193.169.219.9/32 # United States | New York | Gtt Communications Inc.
 193.169.219.97/32 # United States | New York | Gtt Communications Inc.
 193.169.219.144/32 # United States | New York | Gtt Communications Inc.
@@ -3154,7 +3153,6 @@
 202.47.57.23/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
 202.47.57.30/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
 202.47.57.188/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
-202.63.202.196/32 # Pakistan | Sindh | FIBERISH PVT LTD
 202.63.209.77/32 # Pakistan | Sindh | FALCON BROADBAND (PRIVATE) LIMITED
 202.111.42.66/32 # China | Jiangsu Sheng | China Telecom Next Generation Carr...
 202.141.34.46/32 # India | Tamil Nadu | RailTel Corporation of India Ltd
