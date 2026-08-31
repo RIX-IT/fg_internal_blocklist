@@ -69,7 +69,6 @@
 31.222.247.0/24 # United States | Wisconsin | Clouvider Limited
 31.222.249.0/24 # United States | Florida | GREEN FLOID LLC
 36.255.33.0/24 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
-37.19.200.0/24 # United States | Texas | Datacamp Limited
 37.19.210.0/24 # United States | Colorado | Datacamp Limited
 37.140.255.0/24 # United States | Indiana | Clouvider Limited
 38.240.225.0/24 # Canada | Alberta | Tech Futures Interactive Inc.
@@ -379,6 +378,7 @@
 153.80.156.0/24 # United States | Indiana | GREEN FLOID LLC
 153.80.157.0/24 # United States | Utah | GREEN FLOID LLC
 153.80.158.0/24 # United States | Florida | GREEN FLOID LLC
+153.117.37.0/24 # Pakistan | Sindh | Cyber Internet Services Private Limited
 154.81.47.0/24 # United Kingdom | England | IT HOSTLINE LTD
 154.81.52.0/24 # United Kingdom | England | ITHOSTLINE IT HOSTLINE LTD
 154.194.102.0/24 # Germany | Land Berlin | Clouvider Limited
@@ -784,6 +784,7 @@
 34.14.94.8/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.14.94.225/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.14.127.98/32 # Belgium | Bruxelles-Capitale | Google LLC
+34.16.228.47/32 # United States | Nevada | Google LLC
 34.22.118.171/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.22.126.94/32 # Belgium | Brussels-Capital | Google LLC
 34.22.127.203/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -993,6 +994,7 @@
 35.187.86.88/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.187.92.166/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.187.97.13/32 # Belgium | Bruxelles-Capitale | Google LLC
+35.187.105.62/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.187.110.105/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.187.114.13/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.187.161.53/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -1023,6 +1025,7 @@
 35.205.25.66/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.205.27.36/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.205.27.164/32 # Belgium | Bruxelles-Capitale | Google LLC
+35.205.103.207/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.205.118.227/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.205.157.254/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.205.160.38/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -1073,6 +1076,10 @@
 36.150.50.134/32 # China | Jiangsu Sheng | China Mobile Communications Corpor...
 36.150.185.112/32 # China | Jiangsu Sheng | China Mobile Communications Corpor...
 37.13.171.38/32 # Spain | Castilla y Leon | Telefonica de EspaNa TELEFONICA ...
+37.19.200.139/32 # United States | Texas | Datacamp Limited
+37.19.200.149/32 # United States | Texas | Datacamp Limited
+37.19.200.161/32 # United States | Texas | Datacamp Limited
+37.19.200.162/32 # United States | Texas | Datacamp Limited
 37.19.221.136/32 # United States | Texas | Datacamp Limited
 37.19.221.149/32 # United States | Texas | Datacamp Limited
 37.19.221.160/32 # United States | Texas | Datacamp Limited
@@ -1311,7 +1318,6 @@
 59.180.128.60/32 # India | Delhi | Mahanagar Telephone Nigam Limited
 59.180.162.107/32 # India | Delhi | Mahanagar Telephone Nigam Limited
 60.23.239.200/32 # China | Liaoning Sheng | CHINA169-Backbone - CHINA UNICOM ...
-60.28.38.66/32 # China | Tianjin | China Unicom China1 Backbone
 60.28.124.21/32 # China | Tianjin | CNC Group CHINA1 Tianjin Province Network
 60.29.226.181/32 # China | Tianjin | CNC Group CHINA1 Tianjin Province Network
 60.52.10.54/32 # Malaysia | Melaka | TTSSB-MY - TM TECHNOLOGY SERVICES SDN....
@@ -1685,6 +1691,7 @@
 123.11.4.54/32 # China | Henan Sheng | China Unicom China169 Backbone
 123.139.57.103/32 # China | Shaanxi | China Unicom China1 Backbone
 123.148.240.18/32 # China | Zhejiang Sheng | China Unicom China169 Backbone
+123.172.56.34/32 # China | Jilin Sheng | No.31,Jin-rong Street
 123.185.91.193/32 # China | Liaoning Sheng | CHINANET Liaoning province Dalian...
 124.29.194.207/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 124.29.214.170/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
@@ -2036,10 +2043,6 @@
 153.117.32.246/32 # Pakistan | Punjab | Cyber Internet Services (private) Limited
 153.117.33.153/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 153.117.34.200/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
-153.117.37.11/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
-153.117.37.80/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
-153.117.37.130/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
-153.117.37.208/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
 153.117.40.34/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 153.117.40.233/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 153.117.41.55/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
@@ -2617,6 +2620,7 @@
 158.247.252.178/32 # Republic of Korea | Unknown | The Constant Company, LLC
 159.65.154.16/32 # India | Karnataka | DigitalOcean, LLC
 159.65.228.55/32 # United States | New Jersey | Digitalocean, LLC
+159.89.5.100/32 # Germany | Hessen | DigitalOcean, LLC
 159.89.141.114/32 # United States | California | Digitalocean, LLC
 159.195.115.91/32 # Austria | Vienna | netcup GmbH
 160.30.142.212/32 # Pakistan | Punjab | Nasstec Airnet Networks Private Limited
@@ -2696,7 +2700,6 @@
 169.58.161.169/32 # France | Grand Est | Contabo GmbH
 169.58.172.195/32 # France | Grand Est | Contabo GmbH
 169.58.241.164/32 # France | Grand Est | Contabo GmbH
-170.64.213.210/32 # Australia | New South Wales | Digitalocean, LLC
 170.130.165.28/32 # United States | Nevada | Eonix Corporation
 170.155.2.13/32 # Argentina | Buenos Aires | Gobernacion De La Provincia De ...
 170.168.103.208/32 # Germany | Berlin | GTHost
