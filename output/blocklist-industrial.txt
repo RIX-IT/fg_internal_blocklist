@@ -70,6 +70,7 @@
 31.222.249.0/24 # United States | Florida | GREEN FLOID LLC
 36.255.33.0/24 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 37.19.210.0/24 # United States | Colorado | Datacamp Limited
+37.19.221.0/24 # United States | Texas | Datacamp Limited
 37.140.255.0/24 # United States | Indiana | Clouvider Limited
 38.240.225.0/24 # Canada | Alberta | Tech Futures Interactive Inc.
 40.27.108.0/24 # United States | New York | M247 Europe SRL
@@ -77,7 +78,6 @@
 40.27.110.0/24 # United States | New York | M247 Europe SRL
 40.27.111.0/24 # United States | New York | M247 Europe SRL
 40.27.116.0/24 # United States | New York | M Europe SRL
-40.27.118.0/24 # United States | New York | M Europe SRL
 45.39.194.0/24 # United States | New York | HOST TELECOM LTD
 45.39.244.0/24 # United States | New York | HOST TELECOM LTD
 45.83.220.0/24 # Sweden | Västra Götaland County | 11 Services Ab
@@ -220,7 +220,6 @@
 130.49.25.0/24 # United States | Washington | GREEN FLOID LLC
 130.49.44.0/24 # United States | Florida | GREEN FLOID LLC
 130.49.52.0/24 # United States | Washington | GREEN FLOID LLC
-130.49.60.0/24 # United Kingdom | England | XServerCloud Ivanov Vitaliy Ser...
 130.49.61.0/24 # United States | Washington | GREEN FLOID LLC
 130.49.72.0/24 # United States | Florida | GREEN FLOID LLC
 130.49.84.0/24 # United Kingdom | England | XServerCloud Ivanov Vitaliy Ser...
@@ -318,7 +317,6 @@
 142.252.242.0/24 # United States | California | Clouvider Limited
 142.252.244.0/24 # United States | California | Clouvider Limited
 142.252.246.0/24 # United States | California | Clouvider Limited
-144.168.3.0/24 # United States | Delaware | M Europe SRL
 146.70.117.0/24 # Germany | Hesse | M Europe SRL
 146.70.165.0/24 # United States | New York | M247 Europe SRL
 146.70.166.0/24 # United States | New York | M247 Europe SRL
@@ -729,6 +727,7 @@
 23.162.8.247/32 # United States | New York | Jone Broadband LLC
 23.165.8.200/32 # United States | Colorado | Etherware Solutions LLC
 23.165.8.217/32 # United States | Colorado | Etherware Solutions LLC
+23.165.56.97/32 # United States | Colorado | Infocrest Systems LLC
 23.165.56.160/32 # United States | Colorado | Infocrest Systems LLC
 23.165.56.196/32 # United States | Colorado | Infocrest Systems LLC
 23.165.56.248/32 # United States | Colorado | Infocrest Systems LLC
@@ -865,6 +864,7 @@
 34.62.120.213/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.62.127.143/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.62.132.173/32 # Belgium | Bruxelles-Capitale | Google LLC
+34.62.139.156/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.62.151.213/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.62.153.46/32 # Belgium | Brussels-Capital | Google LLC
 34.62.155.41/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -1080,10 +1080,6 @@
 37.19.200.149/32 # United States | Texas | Datacamp Limited
 37.19.200.161/32 # United States | Texas | Datacamp Limited
 37.19.200.162/32 # United States | Texas | Datacamp Limited
-37.19.221.136/32 # United States | Texas | Datacamp Limited
-37.19.221.149/32 # United States | Texas | Datacamp Limited
-37.19.221.160/32 # United States | Texas | Datacamp Limited
-37.19.221.162/32 # United States | Texas | Datacamp Limited
 37.25.124.106/32 # Ukraine | Mykolaiv Oblast | WildPark Co
 37.120.133.206/32 # United Kingdom | England | M247 Europe SRL
 37.120.133.216/32 # United Kingdom | England | M247 Europe SRL
@@ -1106,6 +1102,10 @@
 40.27.117.55/32 # United States | New York | M247 Europe SRL
 40.27.117.217/32 # United States | New York | M247 Europe SRL
 40.27.117.251/32 # United States | New York | M247 Europe SRL
+40.27.118.24/32 # United States | New York | M247 Europe SRL
+40.27.118.62/32 # United States | New York | M247 Europe SRL
+40.27.118.126/32 # United States | New York | M247 Europe SRL
+40.27.118.147/32 # United States | New York | M247 Europe SRL
 40.27.119.182/32 # United States | New York | M247 Europe SRL
 40.27.119.241/32 # United States | New York | M247 Europe SRL
 40.79.245.25/32 # United States | Virginia | Microsoft Corporation
@@ -1284,7 +1284,6 @@
 48.217.251.96/32 # United States | District of Columbia | Microsoft Corporation
 49.36.89.213/32 # India | Gujarat | Reliance Jio Infocomm Limited
 49.89.41.187/32 # China | Jiangsu | Chinanet
-50.114.179.39/32 # United States | New Jersey | Interserver, Inc
 50.114.179.189/32 # United States | New Jersey | Interserver, Inc
 50.114.179.192/32 # United States | New Jersey | Interserver, Inc
 50.114.236.48/32 # United States | Missouri | CNServer LLC
@@ -1372,6 +1371,7 @@
 72.255.59.109/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 73.212.14.186/32 # United States | Maryland | Comcast Cable Communications, LLC
 74.50.87.45/32 # United States | New Jersey | Interserver, INC
+74.207.237.5/32 # United States | Georgia | Akamai Technologies, Inc.
 74.208.51.44/32 # United States | Pennsylvania | IONOS SE
 77.83.39.211/32 # Netherlands | North Holland | KPROHOST LLC
 77.90.153.30/32 # Germany | Schleswig-Holstein | British Telecommunications PLC
@@ -1447,6 +1447,7 @@
 89.248.68.232/32 # Germany | Schleswig-Holstein | Clouvider Limited
 89.248.68.235/32 # Germany | Schleswig-Holstein | Clouvider Limited
 91.92.33.65/32 # Germany | Hessen | DEDIK-IO DEDIK SERVICES LIMITED
+91.92.33.66/32 # Germany | Hessen | DEDIK SERVICES LIMITED
 91.92.33.114/32 # Germany | Hessen | DEDIK-IO DEDIK SERVICES LIMITED
 91.92.40.18/32 # Netherlands | Provincie Limburg | Techties Inc.
 91.92.42.131/32 # Netherlands | Provincie Limburg | Techties Inc.
@@ -1597,7 +1598,6 @@
 107.148.158.113/32 # United States | New Jersey | Interserver, INC
 107.148.158.118/32 # United States | New Jersey | Interserver, INC
 107.148.158.132/32 # United States | New Jersey | Interserver, Inc
-107.148.158.248/32 # United States | New Jersey | Interserver, INC
 107.148.225.147/32 # United States | California | PEG TECH INC
 107.149.184.181/32 # Germany | Hesse | PEG TECH INC
 107.150.96.44/32 # United States | California | UCLOUD-HK-AS-AP - UCLOUD INFO...
@@ -1716,6 +1716,10 @@
 130.49.51.44/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 130.49.51.225/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 130.49.51.254/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
+130.49.60.131/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
+130.49.60.134/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
+130.49.60.192/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
+130.49.60.231/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 130.49.68.13/32 # United Kingdom | England | XServerCloud Ivanov Vitaliy Ser...
 130.49.68.27/32 # United Kingdom | England | XServerCloud Ivanov Vitaliy Ser...
 130.49.68.184/32 # United Kingdom | England | XServerCloud Ivanov Vitaliy Ser...
@@ -1943,14 +1947,15 @@
 144.48.130.200/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 144.48.130.229/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 144.48.132.196/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
-144.48.135.10/32 # Pakistan | Punjab | Cyber Internet Services private Limited
-144.168.0.35/32 # United States | New York | M247 Europe SRL
 144.168.0.42/32 # United States | New York | M247 Europe SRL
 144.168.0.89/32 # United States | New York | M247 Europe SRL
-144.168.0.210/32 # United States | New York | M247 Europe SRL
 144.168.1.252/32 # United States | New York | M247 Europe SRL
 144.168.2.242/32 # United States | New York | M247 Europe SRL
 144.168.2.251/32 # United States | New York | M247 Europe SRL
+144.168.3.9/32 # United States | New York | M247 Europe SRL
+144.168.3.145/32 # United States | New York | M247 Europe SRL
+144.168.3.211/32 # United States | New York | M247 Europe SRL
+144.168.3.225/32 # United States | New York | M247 Europe SRL
 144.172.92.249/32 # United States | Utah | Routerhosting LLC
 144.172.99.68/32 # United States | Utah | Routerhosting LLC
 144.172.103.42/32 # United States | Utah | RouterHosting LLC
@@ -2769,6 +2774,7 @@
 172.121.80.212/32 # United States | Florida | ITHOSTLINE IT HOSTLINE LTD
 172.182.203.53/32 # United States | Arizona | Microsoft Corporation
 172.183.91.12/32 # United States | Illinois | Microsoft Corporation
+172.184.172.212/32 # United States | California | Microsoft Corporation
 172.184.220.145/32 # United States | California | Microsoft Corporation
 172.210.58.69/32 # United States | Virginia | Microsoft Corporation
 172.235.60.69/32 # United States | California | Akamai Connected Cloud
@@ -2786,7 +2792,6 @@
 175.107.3.173/32 # Pakistan | Islamabad | National Telecommunication Corporation
 175.107.3.249/32 # Pakistan | Islamabad | National Telecommunication Corporat...
 175.107.36.73/32 # Pakistan | Sindh | National Telecommunication Corporation HQ
-175.107.37.251/32 # Pakistan | Sindh | National Telecommunication Corporation
 175.107.205.205/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 175.107.208.33/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 175.107.217.30/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
@@ -2928,6 +2933,7 @@
 185.216.117.3/32 # Hong Kong | Hong Kong | Law's Cloud Infrastructure Limited
 185.226.196.2/32 # United States | California | Zenlayer Inc
 185.226.197.62/32 # Netherlands | Provincie Zuid-Holland | Zenlayer Inc
+185.226.197.68/32 # Netherlands | Provincie Noord-Holland | Zenlayer Inc
 185.226.198.4/32 # United States | California | Nsec - Sistemas Informaticos,...
 185.228.83.139/32 # Netherlands | Provincie Noord-Holland | Access2IT Access2....
 185.229.99.67/32 # Spain | Region de Murcia | AVATEL TELECOM, SA
@@ -3234,6 +3240,7 @@
 212.43.147.74/32 # United States | New Jersey | Podaon Sia
 212.43.147.240/32 # United States | New Jersey | Podaon SIA
 212.43.147.242/32 # United States | New Jersey | Podaon Sia
+212.43.152.22/32 # United States | New Jersey | Podaon SIA
 212.43.152.42/32 # United States | New Jersey | Podaon SIA
 212.43.152.176/32 # United States | New Jersey | Podaon SIA
 212.43.153.123/32 # United States | New Jersey | Podaon SIA
