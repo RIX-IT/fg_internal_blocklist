@@ -119,6 +119,7 @@
 45.192.32.0/24 # United States | New York | Clouvider Limited
 45.192.35.0/24 # United States | New York | Clouvider Limited
 45.192.36.0/24 # United States | New York | Clouvider Limited
+45.192.37.0/24 # United States | New York | Clouvider Limited
 45.192.38.0/24 # United States | New York | Clouvider Limited
 45.192.39.0/24 # United States | New York | Clouvider Limited
 45.192.41.0/24 # United States | New York | Clouvider Limited
@@ -214,7 +215,6 @@
 130.49.22.0/24 # United Kingdom | England | XServerCloud Ivanov Vitaliy Ser...
 130.49.25.0/24 # United States | Washington | GREEN FLOID LLC
 130.49.44.0/24 # United States | Florida | GREEN FLOID LLC
-130.49.51.0/24 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 130.49.52.0/24 # United States | Washington | GREEN FLOID LLC
 130.49.60.0/24 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 130.49.61.0/24 # United States | Washington | GREEN FLOID LLC
@@ -293,7 +293,6 @@
 142.252.8.0/24 # United States | California | HOST TELECOM LTD
 142.252.24.0/24 # United States | California | HOST TELECOM LTD
 142.252.25.0/24 # United States | California | HOST TELECOM LTD
-142.252.43.0/24 # United States | California | HOST TELECOM LTD
 142.252.59.0/24 # United States | California | IT HOSTLINE LTD
 142.252.81.0/24 # United States | California | Clouvider Limited
 142.252.82.0/24 # United States | California | Clouvider Limited
@@ -404,7 +403,6 @@
 155.212.81.0/24 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 155.212.92.0/24 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 155.212.102.0/24 # United States | Florida | GREEN FLOID LLC
-155.212.114.0/24 # United States | Florida | GREEN FLOID LLC
 155.212.125.0/24 # United States | Florida | GREEN FLOID LLC
 156.229.238.0/24 # United States | California | Clouvider Limited
 156.229.244.0/24 # United States | Florida | Clouvider Limited
@@ -477,6 +475,7 @@
 172.120.196.0/24 # United States | Pennsylvania | IT HOSTLINE LTD
 172.120.198.0/24 # United States | Pennsylvania | IT HOSTLINE LTD
 172.120.199.0/24 # United Kingdom | England | IT HOSTLINE LTD
+172.120.203.0/24 # United States | Texas | IT HOSTLINE LTD
 172.120.204.0/24 # United States | Texas | IT HOSTLINE LTD
 172.120.205.0/24 # United States | Texas | IT HOSTLINE LTD
 172.120.207.0/24 # United States | Texas | IT HOSTLINE LTD
@@ -514,6 +513,7 @@
 177.1.57.0/24 # United States | Texas | Clouvider Limited
 177.1.59.0/24 # United States | North Carolina | Clouvider Limited
 177.1.62.0/24 # United States | Colorado | Clouvider Limited
+177.202.192.0/24 # United States | California | Clouvider Limited
 177.202.195.0/24 # United States | New York | Clouvider Limited
 177.202.196.0/24 # United States | New York | Clouvider Limited
 177.202.199.0/24 # United States | California | Clouvider Limited
@@ -745,6 +745,7 @@
 20.118.221.161/32 # United States | Iowa | Microsoft Corporation
 20.119.94.179/32 # United States | District of Columbia | Microsoft Corporation
 20.161.58.229/32 # United States | Virginia | Microsoft Corporation
+20.163.133.227/32 # United States | District of Columbia | Microsoft Corporation
 20.169.53.51/32 # United States | Arizona | Microsoft Corporation
 20.171.21.217/32 # United States | Arizona | Microsoft Corporation
 20.171.23.181/32 # United States | Arizona | Microsoft Corporation
@@ -1146,7 +1147,6 @@
 45.11.183.87/32 # Estonia | Harjumaa | servinga-EE servinga GmbH
 45.13.214.128/32 # United States | Texas | Majestic Hosting Solutions, LLC
 45.39.127.65/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
-45.39.127.74/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
 45.39.127.174/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
 45.39.175.28/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
 45.39.175.149/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
@@ -1180,6 +1180,7 @@
 45.88.83.244/32 # United Kingdom | England | Clouvider Limited
 45.93.60.74/32 # Germany | Land Berlin | Clouvider Limited
 45.93.60.118/32 # Germany | Land Berlin | Clouvider Limited
+45.93.61.61/32 # Germany | Land Berlin | Clouvider Limited
 45.93.61.137/32 # Germany | Land Berlin | Clouvider Limited
 45.94.47.224/32 # Finland | Mainland Finland | HOSTING INDUSTRY LIMITED
 45.95.147.229/32 # Netherlands | Provincie Noord-Holland | Alsycon B.V.
@@ -1262,10 +1263,6 @@
 45.192.34.89/32 # United States | New York | Clouvider Limited
 45.192.34.123/32 # United States | New York | Clouvider Limited
 45.192.34.243/32 # United States | New York | Clouvider Limited
-45.192.37.16/32 # United States | New York | Clouvider Limited
-45.192.37.19/32 # United States | New York | Clouvider Limited
-45.192.37.194/32 # United States | New York | Clouvider Limited
-45.192.37.226/32 # United States | New York | Clouvider Limited
 45.192.40.95/32 # United States | New York | Clouvider Limited
 45.192.40.172/32 # United States | New York | Clouvider Limited
 45.192.40.223/32 # United States | New York | Clouvider Limited
@@ -1495,7 +1492,6 @@
 91.236.120.83/32 # Russian Federation | Bryansk Oblast | Bitweb LLC
 91.236.127.15/32 # Ukraine | Mykolaiv Oblast | FOP Pavlenko Andrey Pavlovich
 91.245.237.58/32 # United Kingdom | England | Clouvider Limited
-91.245.237.200/32 # United Kingdom | England | Clouvider Limited
 92.52.184.245/32 # Ukraine | Rivne Oblast | Lanet Network Ltd
 92.60.40.202/32 # Netherlands | Provincie Noord-Holland | Owl Limited
 92.60.40.207/32 # Netherlands | Provincie Noord-Holland | Owl Limited
@@ -1548,6 +1544,7 @@
 103.26.86.31/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 103.26.86.104/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 103.27.110.232/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
+103.67.233.97/32 # India | Haryana | HARKYAL TELE SERVICES PRIVATE LIMITED
 103.67.244.158/32 # Indonesia | Java | Indonesia Network Information Center
 103.70.77.226/32 # Hong Kong | Hong Kong | Netsec Limited
 103.72.1.40/32 # Pakistan | Sindh | FIBERISHPVTLTD-AS-AP - FIBERISH PVT LTD
@@ -1744,14 +1741,16 @@
 129.204.201.118/32 # China | Guangdong Sheng | Shenzhen Tencent Computer System...
 129.212.220.110/32 # Netherlands | Provincie Noord-Holland | Digitalocean, LLC
 129.226.128.168/32 # Hong Kong | Hong Kong | Shenzhen Tencent Computer Systems ...
-130.49.31.17/32 # United Kingdom | Northern Ireland | Ivanov Vitaliy Sergeevich
 130.49.31.29/32 # United Kingdom | England | XServerCloud Ivanov Vitaliy Ser...
 130.49.31.30/32 # United Kingdom | England | XServerCloud Ivanov Vitaliy Ser...
 130.49.35.83/32 # United States | Washington | ROUTE 95 LLC
 130.49.35.197/32 # United States | Washington | ROUTE 95 LLC
-130.49.35.246/32 # United States | Washington | ROUTE 95 LLC
 130.49.42.40/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 130.49.42.41/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
+130.49.51.26/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
+130.49.51.33/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
+130.49.51.44/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
+130.49.51.225/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 130.49.68.13/32 # United Kingdom | England | XServerCloud Ivanov Vitaliy Ser...
 130.49.68.27/32 # United Kingdom | England | XServerCloud Ivanov Vitaliy Ser...
 130.49.68.184/32 # United Kingdom | England | XServerCloud Ivanov Vitaliy Ser...
@@ -1968,6 +1967,10 @@
 142.111.112.150/32 # United States | Illinois | Ace Data Centers II, L.L.C.
 142.111.231.198/32 # United States | Illinois | RCN
 142.111.231.231/32 # United States | Illinois | RCN
+142.252.43.39/32 # United States | California | IT HOSTLINE LTD
+142.252.43.134/32 # United States | California | IT HOSTLINE LTD
+142.252.43.141/32 # United States | California | IT HOSTLINE LTD
+142.252.43.228/32 # United States | California | IT HOSTLINE LTD
 142.252.132.51/32 # United States | California | IT HOSTLINE LTD
 142.252.132.58/32 # United States | California | ITHOSTLINE IT HOSTLINE LTD
 142.252.132.103/32 # United States | California | ITHOSTLINE IT HOSTLINE LTD
@@ -2052,7 +2055,6 @@
 153.80.139.150/32 # Netherlands | Provincie Noord-Holland | Ivanov Vitaliy Ser...
 153.80.160.8/32 # Netherlands | Provincie Noord-Holland | Ivanov Vitaliy Ser...
 153.80.160.15/32 # Netherlands | Provincie Noord-Holland | Ivanov Vitaliy Ser...
-153.80.160.44/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 153.117.1.188/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
 153.117.5.100/32 # Pakistan | Sindh | Cyber Internet Services Pvt Ltd.
 153.117.6.36/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
@@ -2074,6 +2076,7 @@
 153.117.28.170/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
 153.117.28.215/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
 153.117.29.88/32 # Pakistan | Sindh | Cyber Internet Services (Pvt) Ltd.
+153.117.29.233/32 # Pakistan | Sindh | Cyber Internet Services Private Limited
 153.117.32.82/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 153.117.32.130/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 153.117.33.153/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
@@ -2182,6 +2185,7 @@
 154.194.97.170/32 # Germany | Land Berlin | Clouvider Limited
 154.194.97.185/32 # Germany | Berlin | Clouvider Limited
 154.194.98.241/32 # Germany | Land Berlin | Clouvider Limited
+154.194.99.64/32 # Germany | Land Berlin | Clouvider Limited
 154.194.99.211/32 # Germany | Land Berlin | Clouvider Limited
 154.194.100.169/32 # Germany | Land Berlin | Clouvider Limited
 154.194.101.32/32 # Germany | Berlin | Clouvider Limited
@@ -2310,6 +2314,7 @@
 154.195.110.242/32 # Germany | Berlin | Clouvider Limited
 154.195.111.38/32 # Germany | Land Berlin | Clouvider Limited
 154.195.111.177/32 # Germany | Land Berlin | Clouvider Limited
+154.195.111.212/32 # Germany | Land Berlin | Clouvider Limited
 154.195.113.8/32 # Germany | Land Berlin | Clouvider Limited
 154.195.113.24/32 # Germany | Land Berlin | Clouvider Limited
 154.195.113.67/32 # Germany | Land Berlin | Clouvider Limited
@@ -2449,6 +2454,7 @@
 154.195.174.93/32 # Germany | Free and Hanseatic City of Hamburg | Clouvider L...
 154.195.174.117/32 # Germany | Hesse | Clouvider Limited
 154.195.174.128/32 # Germany | Free and Hanseatic City of Hamburg | Clouvider L...
+154.195.174.209/32 # Germany | Free and Hanseatic City of Hamburg | Clouvider L...
 154.195.175.229/32 # Germany | Free and Hanseatic City of Hamburg | Clouvider L...
 154.195.176.45/32 # Germany | Hamburg | Clouvider Limited
 154.195.176.59/32 # Germany | Free and Hanseatic City of Hamburg | Clouvider L...
@@ -2506,6 +2512,7 @@
 154.196.29.50/32 # Germany | Free and Hanseatic City of Hamburg | Clouvider L...
 154.196.29.94/32 # Germany | Hamburg | Clouvider Limited
 154.196.31.36/32 # Germany | Free and Hanseatic City of Hamburg | Clouvider L...
+154.196.31.41/32 # Germany | Free and Hanseatic City of Hamburg | Clouvider L...
 154.196.31.196/32 # Germany | Free and Hanseatic City of Hamburg | Clouvider L...
 154.196.31.248/32 # Germany | Free and Hanseatic City of Hamburg | Clouvider L...
 154.196.32.78/32 # Germany | Free and Hanseatic City of Hamburg | Clouvider L...
@@ -2533,6 +2540,7 @@
 154.196.44.158/32 # Germany | Nordrhein-Westfalen | Clouvider Limited
 154.196.44.177/32 # Germany | Nordrhein-Westfalen | Clouvider Limited
 154.196.45.55/32 # Germany | Nordrhein-Westfalen | Clouvider Limited
+154.196.45.210/32 # Germany | Nordrhein-Westfalen | Clouvider Limited
 154.196.46.35/32 # Germany | Nordrhein-Westfalen | Clouvider Limited
 154.196.47.8/32 # Germany | Nordrhein-Westfalen | Clouvider Limited
 154.196.48.164/32 # Germany | Nordrhein-Westfalen | Clouvider Limited
@@ -2589,6 +2597,7 @@
 154.196.70.201/32 # Germany | Nordrhein-Westfalen | Clouvider Limited
 154.196.71.53/32 # Germany | Nordrhein-Westfalen | Clouvider Limited
 154.196.72.33/32 # Germany | Hessen | Clouvider Limited
+154.196.72.229/32 # Germany | Hessen | Clouvider Limited
 154.196.73.5/32 # Germany | Hessen | Clouvider Limited
 154.196.73.17/32 # Germany | Hessen | Clouvider Limited
 154.196.74.53/32 # Germany | Hessen | Clouvider Limited
@@ -2601,6 +2610,7 @@
 154.196.78.17/32 # Germany | Hessen | Clouvider Limited
 154.196.78.92/32 # Germany | Hessen | Clouvider Limited
 154.196.78.149/32 # Germany | Hessen | Clouvider Limited
+154.196.79.239/32 # Germany | Hessen | Clouvider Limited
 154.196.79.252/32 # Germany | Hessen | Clouvider Limited
 154.196.80.35/32 # Germany | Hessen | Clouvider Limited
 154.196.81.49/32 # Germany | Hessen | Clouvider Limited
@@ -2670,6 +2680,10 @@
 155.212.101.171/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 155.212.101.182/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 155.212.101.209/32 # United Kingdom | England | XServerCloud Ivanov Vitaliy Ser...
+155.212.114.29/32 # United States | Washington | ROUTE 95 LLC
+155.212.114.190/32 # United States | Washington | ROUTE 95 LLC
+155.212.114.194/32 # United States | Washington | ROUTE 95 LLC
+155.212.114.218/32 # United States | Washington | ROUTE 95 LLC
 155.212.117.17/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 155.212.117.106/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 155.212.117.248/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
@@ -2844,10 +2858,6 @@
 172.120.190.223/32 # United States | Illinois | ITHOSTLINE IT HOSTLINE LTD
 172.120.202.96/32 # United States | Pennsylvania | IT HOSTLINE LTD
 172.120.202.214/32 # United States | Pennsylvania | IT HOSTLINE LTD
-172.120.203.15/32 # United States | Texas | ITHOSTLINE IT HOSTLINE LTD
-172.120.203.53/32 # United States | Texas | ITHOSTLINE IT HOSTLINE LTD
-172.120.203.165/32 # United States | Texas | ITHOSTLINE IT HOSTLINE LTD
-172.120.203.248/32 # United States | Texas | ITHOSTLINE IT HOSTLINE LTD
 172.120.218.44/32 # United States | Texas | IT HOSTLINE LTD
 172.120.218.91/32 # United States | Texas | IT HOSTLINE LTD
 172.120.218.121/32 # United States | Texas | IT HOSTLINE LTD
@@ -2933,10 +2943,6 @@
 177.1.61.106/32 # United States | Colorado | Clouvider Limited
 177.1.63.14/32 # United States | California | Clouvider Limited
 177.177.147.59/32 # United States | California | Clouvider Limited
-177.202.192.20/32 # United States | California | Clouvider Limited
-177.202.192.30/32 # United States | California | Clouvider Limited
-177.202.192.65/32 # United States | California | Clouvider Limited
-177.202.192.67/32 # United States | California | Clouvider Limited
 177.202.193.33/32 # United States | Nevada | Clouvider Limited
 177.202.193.45/32 # United States | Nevada | Clouvider Limited
 177.202.193.46/32 # United States | California | Clouvider Limited
@@ -3030,7 +3036,9 @@
 185.229.99.67/32 # Spain | Region de Murcia | AVATEL TELECOM, SA
 185.231.33.46/32 # Switzerland | Canton de Berne | Datashield, Inc.
 185.238.90.178/32 # Netherlands | Provincie Noord-Holland | Clouvider Limited
+185.238.90.234/32 # Netherlands | Provincie Noord-Holland | Clouvider Limited
 185.238.91.11/32 # Germany | Hesse | Clouvider Limited
+185.238.91.155/32 # Netherlands | Provincie Flevoland | Clouvider Limited
 185.238.91.215/32 # Netherlands | Provincie Noord-Holland | Clouvider Limited
 185.244.213.77/32 # France | Ile-de-France | M247 Europe SRL
 185.244.213.122/32 # France | Ile-de-France | M247 Europe SRL
@@ -3051,7 +3059,6 @@
 186.243.172.6/32 # United Kingdom | England | IT HOSTLINE LTD
 186.243.172.173/32 # United Kingdom | England | IT HOSTLINE LTD
 186.243.174.4/32 # United Kingdom | England | ITHOSTLINE IT HOSTLINE LTD
-186.243.174.14/32 # United Kingdom | England | IT HOSTLINE LTD
 186.243.174.177/32 # United Kingdom | England | IT HOSTLINE LTD
 186.243.174.179/32 # United Kingdom | England | ITHOSTLINE IT HOSTLINE LTD
 186.243.175.23/32 # Germany | Nordrhein-Westfalen | IT HOSTLINE LTD
@@ -3141,7 +3148,6 @@
 194.60.76.58/32 # United Kingdom | England | Clouvider Limited
 194.60.76.109/32 # United Kingdom | England | Clouvider Limited
 194.60.76.148/32 # United Kingdom | England | Clouvider Limited
-194.60.76.226/32 # United Kingdom | England | Clouvider Limited
 194.67.63.51/32 # Russian Federation | Saint Petersburg | PJSC Vimpelcom
 194.76.227.178/32 # Estonia | Harjumaa | Servinga GmbH
 194.126.179.78/32 # Egypt | Al Qahirah | HostRoyale Technologies Pvt Ltd
@@ -3188,6 +3194,7 @@
 200.225.174.159/32 # United States | Texas | Clouvider Limited
 200.225.174.166/32 # United States | Texas | Clouvider Limited
 200.225.177.5/32 # United States | Texas | Clouvider Limited
+200.225.177.210/32 # United States | Texas | Clouvider Limited
 200.225.178.94/32 # Germany | Brandenburg | Ivanov Vitaliy Sergeevich
 200.225.179.109/32 # Germany | Brandenburg | Ivanov Vitaliy Sergeevich
 200.225.179.217/32 # Germany | Hessen | Ivanov Vitaliy Sergeevich
@@ -3319,7 +3326,6 @@
 212.107.25.193/32 # Germany | Hessen | Clouvider Limited
 212.192.251.19/32 # United States | Massachusetts | Clouvider Limited
 213.109.109.79/32 # United Kingdom | Northern Ireland | Ivanov Vitaliy Sergeevich
-213.109.109.215/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 213.145.86.112/32 # United States | New York | Latitude.sh
 216.9.224.26/32 # United States | New York | Fiba Cloud Operation Company, LLC
 216.106.176.173/32 # United States | Virginia | GTHost
@@ -3336,7 +3342,6 @@
 220.79.229.219/32 # South Korea | Gyeonggi-do | Korea Telecom
 220.178.171.198/32 # China | Anhui Sheng | No.31,Jin-rong Street
 221.15.186.252/32 # China | Henan Sheng | CHINA UNICOM China169 Backbone
-222.136.143.99/32 # China | Henan | China Unicom China169 Backbone
 222.208.24.3/32 # China | Sichuan Sheng | No.31,Jin-rong Street
 223.123.35.120/32 # Pakistan | Punjab | Cmpak Limited
 223.123.38.90/32 # Pakistan | Islamabad | CMPak Limited
