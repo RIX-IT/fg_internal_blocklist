@@ -12,6 +12,7 @@
 23.159.216.0/24 # United States | California | Byte Node LLC
 23.160.24.0/24 # United States | California | Data Bridge Limited
 23.162.40.0/24 # United States | Kentucky | Cyber Data LLC
+23.165.8.0/24 # United States | Colorado | Etherware Solutions LLC
 23.165.56.0/24 # United States | Colorado | Infocrest Systems LLC
 23.168.216.0/24 # United States | California | Hayashimo LLC
 23.230.77.0/24 # United States | New York | HOST TELECOM LTD
@@ -224,6 +225,7 @@
 135.106.94.0/24 # United States | Florida | GREEN FLOID LLC
 135.106.107.0/24 # United States | Louisiana | GREEN FLOID LLC
 135.136.19.0/24 # Germany | Hesse | M Europe SRL
+135.136.22.0/24 # United Kingdom | England | M247 Europe SRL
 135.136.36.0/24 # United States | Florida | M247 Europe SRL
 136.0.213.0/24 # United States | New Jersey | Interserver, INC
 136.234.142.0/24 # United States | Texas | GREEN FLOID LLC
@@ -247,6 +249,7 @@
 138.249.226.0/24 # United Kingdom | England | Clouvider Limited
 138.249.238.0/24 # United States | California | Clouvider Limited
 138.249.239.0/24 # United States | New York | Clouvider Limited
+141.98.252.0/24 # United Kingdom | England | 31173 Services AB
 141.98.255.0/24 # Sweden | Skane County | 31173 Services AB
 141.133.3.0/24 # United States | New York | Clouvider Limited
 141.133.4.0/24 # United States | Arizona | Clouvider Limited
@@ -516,6 +519,7 @@
 185.141.119.0/24 # United States | Michigan | HostRoyale Technologies Pvt Ltd
 185.156.46.0/24 # United States | District of Columbia | Datacamp Limited
 185.184.222.0/24 # Netherlands | Provincie Noord-Holland | Owl Limited
+185.195.232.0/24 # United Kingdom | England | 31173 Services AB
 185.195.233.0/24 # Sweden | Stockholm County | 11 Services Ab
 185.202.107.0/24 # United States | Nevada | GREEN FLOID LLC
 185.209.196.0/24 # Germany | Hesse | 11 Services Ab
@@ -686,6 +690,7 @@
 8.217.190.58/32 # Hong Kong | Hong Kong | Alibaba US Technology Co., Ltd.
 8.228.8.247/32 # United States | Nevada | Google LLC
 8.231.135.83/32 # United States | Oregon | Google LLC
+8.235.2.66/32 # United States | Oregon | Google LLC
 13.72.110.24/32 # United States | Virginia | Microsoft Corporation
 13.83.42.105/32 # United States | California | Microsoft Corporation
 13.89.125.200/32 # United States | Iowa | Microsoft Corporation
@@ -722,10 +727,6 @@
 23.94.145.65/32 # United States | New York | DEDIK-IO DEDIK SERVICES LIMITED
 23.95.217.226/32 # United States | New York | DataWagon LLC
 23.162.8.247/32 # United States | New York | Jone Broadband LLC
-23.165.8.105/32 # United States | Colorado | Etherware Solutions LLC
-23.165.8.162/32 # United States | Colorado | Etherware Solutions LLC
-23.165.8.200/32 # United States | Colorado | Etherware Solutions LLC
-23.165.8.217/32 # United States | Colorado | Etherware Solutions LLC
 23.227.196.107/32 # United States | Illinois | Hivelocity, Inc.
 23.230.241.67/32 # United States | New York | ITHOSTLINE IT HOSTLINE LTD
 23.230.241.215/32 # United States | New York | IT HOSTLINE LTD
@@ -805,7 +806,6 @@
 34.30.200.241/32 # United States | Iowa | Google LLC
 34.32.248.64/32 # Netherlands | Provincie Groningen | Google LLC
 34.34.140.168/32 # Belgium | Bruxelles-Capitale | Google LLC
-34.34.146.226/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.38.10.60/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.38.15.184/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.38.18.117/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -817,7 +817,6 @@
 34.38.111.117/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.38.125.85/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.38.139.69/32 # Belgium | Bruxelles-Capitale | Google LLC
-34.38.142.0/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.38.146.210/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.38.168.49/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.38.179.73/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -841,7 +840,6 @@
 34.53.150.164/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.53.164.195/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.53.175.69/32 # Belgium | Bruxelles-Capitale | Google LLC
-34.53.185.241/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.53.190.247/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.53.217.128/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.53.222.143/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -895,7 +893,6 @@
 34.77.125.24/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.77.170.5/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.77.204.54/32 # Belgium | Bruxelles-Capitale | Google LLC
-34.77.230.77/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.77.247.109/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.77.247.194/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.78.59.70/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -947,7 +944,9 @@
 34.140.152.69/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.140.198.209/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.140.208.100/32 # Belgium | Bruxelles-Capitale | Google LLC
+34.141.188.211/32 # Netherlands | Provincie Groningen | Google LLC
 34.146.60.240/32 # Japan | Tokyo | Google LLC
+34.147.127.191/32 # Netherlands | Provincie Groningen | Google LLC
 34.148.121.106/32 # United States | South Carolina | Google LLC
 34.150.170.148/32 # United States | District of Columbia | Google LLC
 34.156.13.38/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -969,6 +968,7 @@
 34.156.240.64/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.156.240.169/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.170.205.143/32 # United States | Iowa | Google LLC
+34.178.30.81/32 # Netherlands | Provincie Groningen | Google LLC
 34.180.80.154/32 # Japan | Tokyo | Google LLC
 34.185.77.195/32 # United States | Utah | Google LLC
 34.187.70.111/32 # Netherlands | Provincie Groningen | Google LLC
@@ -990,7 +990,6 @@
 35.190.221.14/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.195.22.254/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.195.42.178/32 # Belgium | Bruxelles-Capitale | Google LLC
-35.195.54.43/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.195.56.13/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.195.71.0/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.195.122.149/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -1006,7 +1005,6 @@
 35.205.41.102/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.205.79.25/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.205.103.207/32 # Belgium | Bruxelles-Capitale | Google LLC
-35.205.118.227/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.205.157.254/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.205.170.51/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.205.191.112/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -1054,6 +1052,7 @@
 36.150.185.112/32 # China | Jiangsu Sheng | China Mobile Communications Corpor...
 37.13.171.38/32 # Spain | Castilla y Leon | Telefonica de EspaNa TELEFONICA ...
 37.25.124.106/32 # Ukraine | Mykolaiv Oblast | WildPark Co
+37.120.133.203/32 # United Kingdom | England | M247 Europe SRL
 37.120.133.206/32 # United Kingdom | England | M247 Europe SRL
 37.120.133.216/32 # United Kingdom | England | M247 Europe SRL
 37.120.133.220/32 # United Kingdom | England | M247 Europe SRL
@@ -1112,6 +1111,8 @@
 45.61.136.81/32 # United States | California | Bl Networks
 45.61.136.94/32 # United States | California | Bl Networks
 45.61.182.64/32 # United States | Nevada | RouterHosting LLC
+45.66.219.155/32 # United Kingdom | England | Owl Limited
+45.66.219.160/32 # United Kingdom | England | Owl Limited
 45.66.248.112/32 # United States | Georgia | Bluevps Ou
 45.66.249.28/32 # United States | California | Bluevps Ou
 45.74.3.137/32 # Russian Federation | Novosibirsk Oblast | Nerushenko Vyach...
@@ -1436,9 +1437,9 @@
 88.218.80.224/32 # United States | New York | Clouvider Limited
 88.218.187.98/32 # Germany | Land Berlin | Clouvider Limited
 89.36.161.51/32 # Latvia | Riga | Melbikomas UAB
-89.37.172.155/32 # United Kingdom | England | Hydra Communications LTD
 89.42.231.200/32 # Netherlands | Provincie Noord-Holland | Amarutu Technology...
 89.124.96.27/32 # Netherlands | North Holland | SERVERS TECH FZCO
+89.150.156.62/32 # Denmark | Region Hovedstaden | Hiper A/S
 89.195.5.18/32 # United States | California | Mongodb, Inc.
 89.248.68.127/32 # Germany | Schleswig-Holstein | Clouvider Limited
 89.248.68.232/32 # Germany | Schleswig-Holstein | Clouvider Limited
@@ -1495,7 +1496,6 @@
 95.182.91.103/32 # United States | California | Cloud Software Fzco
 95.214.83.131/32 # United States | New York | Clouvider Limited
 95.214.83.132/32 # United States | New York | Clouvider Limited
-95.214.83.197/32 # United States | New York | Clouvider Limited
 96.126.176.22/32 # United States | New Jersey | Interserver, INC
 96.126.176.124/32 # United States | New Jersey | Interserver, INC
 97.107.135.250/32 # United States | New Jersey | Akamai Connected Cloud
@@ -1687,7 +1687,6 @@
 120.85.119.228/32 # China | Guangdong Sheng | China Unicom Guangzhou Network
 120.86.238.231/32 # China | Guangdong Sheng | China Unicom IP network China169...
 120.86.253.23/32 # China | Guangdong Sheng | China Unicom IP network China169...
-120.138.12.152/32 # India | Tamil Nadu | Railtel Corporation of India Ltd.
 120.229.79.252/32 # China | Guangdong Sheng | China Mobile Communications Grou...
 120.237.156.214/32 # China | Guangdong Sheng | China Mobile Communications Grou...
 122.97.136.59/32 # China | Jiangsu Sheng | CHINA169-Backbone - CHINA UNICOM C...
@@ -1770,10 +1769,6 @@
 135.136.21.47/32 # United Kingdom | England | M247 Europe SRL
 135.136.21.85/32 # United Kingdom | England | M247 Europe SRL
 135.136.21.90/32 # United Kingdom | England | M247 Europe SRL
-135.136.22.205/32 # United Kingdom | England | M247 Europe SRL
-135.136.22.216/32 # United Kingdom | England | M247 Europe SRL
-135.136.22.222/32 # United Kingdom | England | M247 Europe SRL
-135.136.22.241/32 # United Kingdom | England | M247 Europe SRL
 135.136.58.171/32 # United Kingdom | England | M247 Europe SRL
 135.136.58.175/32 # United Kingdom | England | M247 Europe SRL
 135.136.58.177/32 # United Kingdom | England | M247 Europe SRL
@@ -1905,7 +1900,6 @@
 139.135.42.67/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 139.135.42.116/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 139.135.43.3/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
-139.135.44.215/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 139.135.60.103/32 # Pakistan | Punjab | Cyber Internet Services (Pvt) Ltd.
 139.135.60.246/32 # Pakistan | Punjab | Cyber Internet Services Pvt Ltd.
 139.177.205.71/32 # United States | Georgia | Akamai Technologies, Inc.
@@ -1915,8 +1909,6 @@
 140.245.107.4/32 # Singapore | North East | Oracle Corporation
 140.245.119.249/32 # Singapore | North East | Oracle Corporation
 140.245.126.243/32 # Singapore | North East | Oracle Corporation
-141.98.252.204/32 # United Kingdom | England | 31173 Services AB
-141.98.252.213/32 # United Kingdom | England | 31173 Services AB
 141.133.23.24/32 # Germany | Brandenburg | Ivanov Vitaliy Sergeevich
 141.133.24.159/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 141.133.25.70/32 # Germany | Hessen | Ivanov Vitaliy Sergeevich
@@ -1995,6 +1987,7 @@
 145.63.136.111/32 # United States | New Jersey | Podaon SIA
 145.63.136.234/32 # United States | New Jersey | Podaon SIA
 145.132.99.21/32 # United States | Virginia | Microsoft Corporation
+146.70.119.70/32 # United Kingdom | England | M247 Europe SRL
 146.70.119.80/32 # United Kingdom | England | M247 Europe SRL
 146.70.119.90/32 # United Kingdom | England | M247 Europe SRL
 146.70.119.125/32 # United Kingdom | England | M247 Europe SRL
@@ -2690,6 +2683,7 @@
 157.173.116.59/32 # France | Grand Est | Contabo GmbH
 157.173.219.148/32 # India | Maharashtra | Hostinger International Limited
 157.180.40.106/32 # Finland | Mainland Finland | Hetzner Online GmbH
+157.230.4.3/32 # United States | New Jersey | DigitalOcean, LLC
 157.230.63.195/32 # United States | New Jersey | DigitalOcean, LLC
 157.245.157.77/32 # Singapore | South West | Digitalocean, LLC
 157.254.194.53/32 # United States | New York | CANADA INC.
@@ -2726,6 +2720,7 @@
 164.92.249.182/32 # Germany | Hessen | DigitalOcean, LLC
 164.138.34.233/32 # Russian Federation | Bashkortostan | CityTeleNet Joint Sto...
 165.22.23.27/32 # Germany | Hessen | DigitalOcean, LLC
+165.22.167.183/32 # United States | California | DigitalOcean, LLC
 165.227.156.35/32 # Germany | Hessen | Digitalocean, LLC
 165.227.163.142/32 # Germany | Hessen | DigitalOcean, LLC
 165.227.174.36/32 # Germany | Hessen | DigitalOcean, LLC
@@ -2839,7 +2834,6 @@
 172.120.218.44/32 # United States | Texas | IT HOSTLINE LTD
 172.120.218.121/32 # United States | Texas | IT HOSTLINE LTD
 172.120.218.253/32 # United States | Texas | IT HOSTLINE LTD
-172.120.234.63/32 # United States | Texas | ITHOSTLINE IT HOSTLINE LTD
 172.120.234.137/32 # United States | Texas | ITHOSTLINE IT HOSTLINE LTD
 172.120.234.162/32 # United States | Texas | ITHOSTLINE IT HOSTLINE LTD
 172.120.234.245/32 # United States | Texas | ITHOSTLINE IT HOSTLINE LTD
@@ -2993,10 +2987,6 @@
 185.149.146.118/32 # Germany | Hesse | Foton Telecom Cjsc
 185.150.235.54/32 # Croatia | Zagreb County | 4Tel Telekomunikacije d.o.o.
 185.177.72.22/32 # France | Ile-de-France | Bucklog SARL
-185.195.232.157/32 # United Kingdom | England | 31173 Services AB
-185.195.232.162/32 # United Kingdom | England | 31173 Services AB
-185.195.232.168/32 # United Kingdom | England | 31173 Services AB
-185.195.232.177/32 # United Kingdom | England | 31173 Services AB
 185.198.234.10/32 # Netherlands | North Holland | Royalehosting BV
 185.206.30.30/32 # Saudi Arabia | Mecca Region | Al Wafai International For C...
 185.208.158.250/32 # Switzerland | Bern | Global data System IT Corporation
@@ -3164,6 +3154,9 @@
 194.60.76.148/32 # United Kingdom | England | Clouvider Limited
 194.67.63.51/32 # Russian Federation | Saint Petersburg | PJSC Vimpelcom
 194.92.50.92/32 # Poland | Masovian Voivodeship | NAUKOWA I AKADEMICKA SIEC ...
+194.127.165.4/32 # United Kingdom | England | Owl Limited
+194.127.165.72/32 # United Kingdom | England | Owl Limited
+194.127.165.202/32 # United Kingdom | England | Owl Limited
 194.156.95.28/32 # Germany | Land Berlin | Clouvider Limited
 194.156.95.171/32 # Germany | Land Berlin | Clouvider Limited
 194.156.103.193/32 # Armenia | Yerevan | Perviy TSOD LLC
@@ -3339,6 +3332,7 @@
 216.252.238.104/32 # Netherlands | Provincie Noord-Holland | Psychz Networks
 217.160.220.235/32 # Germany | Hessen | IONOS SE
 217.160.248.17/32 # Spain | Madrid | IONOS SE
+219.154.186.2/32 # China | Henan Sheng | CHINA UNICOM China169 Backbone
 219.156.57.123/32 # China | Henan Sheng | CHINA169-Backbone - CHINA UNICOM Chi...
 219.157.58.187/32 # China | Henan Sheng | CHINA169-Backbone - CHINA UNICOM Chi...
 220.79.229.219/32 # South Korea | Gyeonggi-do | Korea Telecom
