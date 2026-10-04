@@ -100,6 +100,7 @@
 172.96.7.0/24 # United States | Pennsylvania | M247 Europe SRL
 173.249.252.0/24 # United States | Illinois | Tzulo, Inc.
 173.249.253.0/24 # United States | Illinois | Tzulo, Inc.
+173.249.254.0/24 # United States | Illinois | tzulo, inc.
 173.249.255.0/24 # United States | Illinois | tzulo, inc.
 176.119.150.0/24 # Germany | Hessen | Owl Limited
 185.65.135.0/24 # Sweden | Stockholm County | 31173 Services AB
@@ -117,6 +118,7 @@
 193.169.218.0/24 # United States | New York | Gtt Communications Inc.
 193.169.219.0/24 # Unknown | Unknown | Unknown
 194.36.27.0/24 # Netherlands | Provincie Noord-Holland | LOCIX LIMITED
+194.126.179.0/24 # Egypt | Cairo Governorate | HostRoyale Technologies Pvt Ltd
 195.160.192.0/24 # United States | New York | Gtt Communications Inc.
 209.101.149.0/24 # United States | Florida | Datacamp Limited
 209.101.150.0/24 # United States | Florida | Datacamp Limited
@@ -154,7 +156,6 @@
 8.217.190.58/32 # Hong Kong | Hong Kong | Alibaba US Technology Co., Ltd.
 8.230.3.64/32 # South Korea | Seoul | Google LLC
 13.201.207.191/32 # India | Maharashtra | Amazon.com, Inc.
-20.55.75.220/32 # United States | District of Columbia | Microsoft Corporation
 23.160.24.72/32 # United States | California | Data Bridge Limited
 23.162.8.128/32 # United States | New York | Jone Broadband LLC
 23.162.8.140/32 # United States | New York | Jone Broadband LLC
@@ -262,6 +263,7 @@
 34.53.162.97/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.53.215.123/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.53.224.173/32 # Unknown | Unknown | Unknown
+34.53.238.168/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.53.254.206/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.62.9.199/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.62.19.235/32 # Unknown | Unknown | Unknown
@@ -282,6 +284,7 @@
 34.62.233.192/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.62.246.51/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.76.16.249/32 # Belgium | Bruxelles-Capitale | Google LLC
+34.76.40.208/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.76.72.252/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.76.93.36/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.76.107.168/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -352,6 +355,7 @@
 35.195.131.201/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.195.149.126/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.195.214.161/32 # Belgium | Bruxelles-Capitale | Google LLC
+35.195.218.69/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.205.4.194/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.205.73.20/32 # Unknown | Unknown | Unknown
 35.205.170.63/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -379,6 +383,7 @@
 38.146.28.75/32 # United States | California | Cogent Communications, LLC
 38.146.28.132/32 # United States | California | Cogent Communications, LLC
 38.146.219.241/32 # United States | Oregon | H4Y Technologies LLC
+38.175.103.74/32 # United States | Washington | Misaka Network, Inc.
 38.180.107.76/32 # Singapore | Southeast | M Europe SRL
 38.240.225.60/32 # Canada | Alberta | Tech Futures Interactive Inc.
 38.246.250.201/32 # Hong Kong | Hong Kong | Netlab Global
@@ -387,7 +392,6 @@
 39.34.166.52/32 # Pakistan | Punjab | Connect Communication
 39.34.190.111/32 # Pakistan | Islamabad | Connect Communication
 39.106.176.108/32 # Unknown | Unknown | Unknown
-42.86.81.140/32 # China | Liaoning Sheng | CHINA UNICOM China169 Backbone
 42.178.147.118/32 # China | Liaoning Sheng | CHINA UNICOM China169 Backbone
 42.228.236.231/32 # Unknown | Unknown | Unknown
 42.234.97.151/32 # China | Henan Sheng | CHINA UNICOM China169 Backbone
@@ -523,7 +527,6 @@
 54.46.50.255/32 # Hong Kong | Hong Kong | Amazon.com, Inc.
 58.68.255.45/32 # China | Beijing | People.Cn CO
 58.144.143.27/32 # China | Chongqing | China Unicom China1 Backbone
-59.97.255.242/32 # India | Maharashtra | Bharat Sanchar Nigam Ltd
 59.110.7.32/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
 60.28.124.21/32 # China | Tianjin | CNC Group CHINA1 Tianjin Province Network
 60.29.226.181/32 # China | Tianjin | CNC Group CHINA1 Tianjin Province Network
@@ -559,12 +562,12 @@
 77.83.39.211/32 # Netherlands | North Holland | KPROHOST LLC
 77.90.153.30/32 # Germany | Schleswig-Holstein | British Telecommunications PLC
 77.247.88.88/32 # Unknown | Unknown | Unknown
-78.24.204.221/32 # United States | New York | Clouvider Limited
 79.127.217.42/32 # United States | California | Datacamp Limited
 79.127.217.51/32 # United States | California | Datacamp Limited
 79.127.217.59/32 # United States | California | Datacamp Limited
 79.127.222.197/32 # United States | Texas | Datacamp Limited
 79.127.222.210/32 # United States | Texas | Datacamp Limited
+79.127.222.214/32 # United States | Texas | Datacamp Limited
 79.133.51.100/32 # Germany | Hesse | Ultahost, Inc.
 79.133.56.90/32 # Germany | Hessen | Ultahost, Inc.
 80.68.148.21/32 # United States | District of Columbia | Clouvider Limited
@@ -653,9 +656,11 @@
 103.82.121.204/32 # Pakistan | Sindh | FIBERISH PVT LTD
 103.96.130.107/32 # Hong Kong | Hong Kong | WUZHOUHULIAN INTERNATIONAL CO., LI...
 103.102.246.105/32 # United States | Texas | HostRoyale Technologies Pvt Ltd
+103.102.246.238/32 # United States | Texas | HostRoyale Technologies Pvt Ltd
 103.102.247.48/32 # United States | Texas | HostRoyale Technologies Pvt Ltd
 103.102.247.154/32 # United States | Texas | HostRoyale Technologies Pvt Ltd
 103.102.247.175/32 # United States | Texas | HostRoyale Technologies Pvt Ltd
+103.114.160.160/32 # United States | California | Hosteons Pte. Ltd.
 103.127.29.111/32 # India | Uttar Pradesh | Micro Hosting Private Limited
 103.151.103.41/32 # United States | California | Clouvider Limited
 103.152.17.136/32 # United States | California | Clouvider Limited
@@ -675,6 +680,7 @@
 104.21.55.245/32 # United States | California | Cloudflare, Inc.
 104.36.50.9/32 # United States | New York | HostRoyale Technologies Pvt Ltd
 104.145.210.107/32 # United States | New York | Ultahost, Inc.
+104.155.2.59/32 # Belgium | Bruxelles-Capitale | Google LLC
 104.155.5.120/32 # Belgium | Bruxelles-Capitale | Google LLC
 104.155.88.31/32 # Belgium | Bruxelles-Capitale | Google LLC
 104.155.97.150/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -772,6 +778,7 @@
 130.49.125.248/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 130.49.126.246/32 # United States | Washington | ROUTE 95 LLC
 130.49.214.20/32 # Russian Federation | Moskva | GTHost
+130.211.84.24/32 # Belgium | Bruxelles-Capitale | Google LLC
 130.211.106.214/32 # Belgium | Bruxelles-Capitale | Google LLC
 131.159.24.205/32 # Germany | Bavaria | Technical University of Munich
 134.195.91.224/32 # United States | California | Hosthatch, LLC
@@ -785,7 +792,6 @@
 135.106.85.125/32 # United States | Florida | ROUTE 95 LLC
 135.106.85.214/32 # United States | Florida | ROUTE 95 LLC
 135.106.94.50/32 # United States | Florida | ROUTE 95 LLC
-135.106.94.158/32 # Unknown | Unknown | Unknown
 135.106.94.203/32 # United States | Florida | ROUTE 95 LLC
 135.106.107.6/32 # United States | Florida | ROUTE 95 LLC
 135.106.107.199/32 # United States | Florida | ROUTE 95 LLC
@@ -822,7 +828,6 @@
 137.59.230.65/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
 137.59.230.171/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
 138.124.101.92/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
-138.249.19.60/32 # Unknown | Unknown | Unknown
 138.249.28.17/32 # Germany | Land Berlin | Ivanov Vitaliy Sergeevich
 138.249.58.176/32 # Unknown | Unknown | Unknown
 138.249.59.254/32 # Germany | Brandenburg | Ivanov Vitaliy Sergeevich
@@ -913,7 +918,6 @@
 141.133.31.126/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 141.133.32.76/32 # United Kingdom | England | Ivanov Vitaliy Sergeevich
 141.133.35.147/32 # Unknown | Unknown | Unknown
-141.133.44.30/32 # United States | New York | Clouvider Limited
 141.133.44.104/32 # United States | New York | Clouvider Limited
 141.133.44.143/32 # United States | New York | Clouvider Limited
 141.133.45.118/32 # United States | New York | Clouvider Limited
@@ -1052,7 +1056,6 @@
 152.234.167.91/32 # United States | Florida | Clouvider Limited
 152.234.168.80/32 # United States | California | Clouvider Limited
 152.234.169.64/32 # United States | Texas | Clouvider Limited
-152.234.171.41/32 # United States | Nevada | Clouvider Limited
 152.234.171.188/32 # United States | Nevada | Clouvider Limited
 152.234.173.150/32 # United States | Ohio | Clouvider Limited
 152.234.174.23/32 # United States | California | Clouvider Limited
@@ -1074,7 +1077,6 @@
 153.80.84.198/32 # United States | Florida | ROUTE 95 LLC
 153.80.97.6/32 # United States | Florida | ROUTE 95 LLC
 153.80.97.143/32 # United States | Florida | ROUTE 95 LLC
-153.80.108.40/32 # United States | Florida | ROUTE 95 LLC
 153.80.108.50/32 # United States | Florida | ROUTE 95 LLC
 153.80.108.165/32 # United States | Florida | ROUTE 95 LLC
 153.80.115.24/32 # United States | Florida | ROUTE 95 LLC
@@ -1217,7 +1219,6 @@
 154.195.170.46/32 # Germany | Free and Hanseatic City of Hamburg | Clouvider L...
 154.195.171.192/32 # Germany | Free and Hanseatic City of Hamburg | Clouvider L...
 154.195.172.188/32 # Germany | Free and Hanseatic City of Hamburg | Clouvider L...
-154.195.175.229/32 # Germany | Free and Hanseatic City of Hamburg | Clouvider L...
 154.195.177.37/32 # Germany | Free and Hanseatic City of Hamburg | Clouvider L...
 154.195.180.16/32 # Germany | Free and Hanseatic City of Hamburg | Clouvider L...
 154.195.187.174/32 # Germany | Free and Hanseatic City of Hamburg | Clouvider L...
@@ -1248,7 +1249,6 @@
 154.196.53.69/32 # Germany | Nordrhein-Westfalen | Clouvider Limited
 154.196.54.214/32 # Germany | Nordrhein-Westfalen | Clouvider Limited
 154.196.57.159/32 # Germany | Nordrhein-Westfalen | Clouvider Limited
-154.196.59.213/32 # Germany | Nordrhein-Westfalen | Clouvider Limited
 154.196.61.95/32 # Germany | Nordrhein-Westfalen | Clouvider Limited
 154.196.62.202/32 # Germany | Nordrhein-Westfalen | Clouvider Limited
 154.196.63.81/32 # Germany | Nordrhein-Westfalen | Clouvider Limited
@@ -1282,7 +1282,6 @@
 154.209.137.163/32 # United Kingdom | England | IT HOSTLINE LTD
 154.209.138.13/32 # United Kingdom | England | IT HOSTLINE LTD
 154.209.138.138/32 # Unknown | Unknown | Unknown
-154.209.139.61/32 # United Kingdom | England | IT HOSTLINE LTD
 154.209.140.20/32 # Unknown | Unknown | Unknown
 154.209.140.229/32 # United Kingdom | England | IT HOSTLINE LTD
 154.219.66.144/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
@@ -1361,7 +1360,6 @@
 156.246.221.220/32 # United Kingdom | England | IT HOSTLINE LTD
 156.246.223.68/32 # Unknown | Unknown | Unknown
 156.246.223.171/32 # United Kingdom | England | IT HOSTLINE LTD
-156.246.224.66/32 # United Kingdom | England | IT HOSTLINE LTD
 156.246.224.132/32 # United Kingdom | England | IT HOSTLINE LTD
 156.246.225.37/32 # United Kingdom | England | IT HOSTLINE LTD
 156.246.226.140/32 # Unknown | Unknown | Unknown
@@ -1405,7 +1403,6 @@
 165.227.172.206/32 # Germany | Hessen | DigitalOcean, LLC
 168.107.20.21/32 # South Korea | Gangwon-do | Oracle Corporation
 168.113.18.9/32 # United Kingdom | Wales [Cymru GB-CYM] | iwihost HOST TELEC...
-168.113.20.58/32 # United Kingdom | England | iwihost HOST TELECOM LTD
 168.113.23.104/32 # United Kingdom | Scotland | HOST TELECOM LTD
 168.113.29.36/32 # United Kingdom | Wales [Cymru GB-CYM] | HOST TELECOM LTD
 168.113.29.94/32 # United Kingdom | Wales [Cymru GB-CYM] | HOST TELECOM LTD
@@ -1485,7 +1482,6 @@
 172.120.130.182/32 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.137.207/32 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.138.77/32 # United States | District of Columbia | IT HOSTLINE LTD
-172.120.141.146/32 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.141.210/32 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.148.8/32 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.148.26/32 # United States | District of Columbia | IT HOSTLINE LTD
@@ -1583,10 +1579,6 @@
 172.252.110.137/32 # United States | New York | IT HOSTLINE LTD
 172.252.170.12/32 # United States | New York | IT HOSTLINE LTD
 173.230.141.176/32 # United States | Georgia | Akamai Technologies, Inc.
-173.249.254.79/32 # United States | Illinois | tzulo, inc.
-173.249.254.105/32 # United States | Illinois | tzulo, inc.
-173.249.254.172/32 # United States | Illinois | tzulo, inc.
-173.249.254.225/32 # United States | Illinois | tzulo, inc.
 175.107.205.10/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
 175.107.208.117/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
 175.107.216.159/32 # Pakistan | Sindh | Cyber Internet Services Private Limited
@@ -1677,7 +1669,6 @@
 185.98.41.251/32 # United States | New York | Clouvider Limited
 185.98.42.40/32 # United States | New York | Clouvider Limited
 185.121.233.78/32 # Netherlands | North Holland | SERVERS TECH FZCO
-185.128.41.127/32 # United States | New York | Clouvider Limited
 185.128.41.136/32 # United States | New York | Clouvider Limited
 185.128.42.242/32 # United States | New York | Clouvider Limited
 185.128.43.193/32 # United States | New York | Clouvider Limited
@@ -1774,7 +1765,6 @@
 186.243.239.66/32 # Unknown | Unknown | Unknown
 186.243.239.101/32 # United States | New York | Clouvider Limited
 186.243.239.134/32 # United States | New York | Clouvider Limited
-186.243.240.232/32 # United States | District of Columbia | Clouvider Limited
 186.243.240.245/32 # United States | District of Columbia | Clouvider Limited
 186.243.242.31/32 # United States | New York | Clouvider Limited
 186.243.242.226/32 # United States | New York | Clouvider Limited
@@ -1882,15 +1872,9 @@
 194.26.136.228/32 # United Kingdom | Northern Ireland | Clouvider Limited
 194.32.104.223/32 # United States | New York | ROUTE 95 LLC
 194.35.127.212/32 # United States | District of Columbia | Clouvider Limited
-194.35.127.242/32 # United States | District of Columbia | Clouvider Limited
 194.59.12.196/32 # United States | New York | Clouvider Limited
 194.60.76.195/32 # United Kingdom | England | Clouvider Limited
 194.104.143.16/32 # United States | Connecticut | Clouvider Limited
-194.104.143.145/32 # United States | Connecticut | Clouvider Limited
-194.126.179.115/32 # Egypt | Cairo Governorate | HostRoyale Technologies Pvt Ltd
-194.126.179.173/32 # Egypt | Cairo Governorate | HostRoyale Technologies Pvt Ltd
-194.126.179.200/32 # Egypt | Cairo Governorate | HostRoyale Technologies Pvt Ltd
-194.126.179.202/32 # Egypt | Cairo Governorate | HostRoyale Technologies Pvt Ltd
 194.127.165.6/32 # United Kingdom | England | Owl Limited
 194.127.165.89/32 # United Kingdom | England | Owl Limited
 194.156.95.6/32 # Germany | Land Berlin | Clouvider Limited
@@ -1991,7 +1975,6 @@
 208.123.119.100/32 # United States | California | Shock Hosting LLC
 209.17.118.17/32 # Singapore | Southeast | LEASEWEB SINGAPORE PTE. LTD.
 209.99.184.93/32 # Switzerland | Kanton Zurich | SKN Subnet & Telecom Ltd
-209.126.84.162/32 # United States | New York | Contabo Inc.
 209.145.53.180/32 # United States | Missouri | Contabo Inc.
 210.56.49.72/32 # Hong Kong | Hong Kong | Ctg Server Limited
 212.6.36.107/32 # Germany | Land Berlin | Clouvider Limited
