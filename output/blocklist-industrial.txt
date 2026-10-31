@@ -1,6 +1,5 @@
 23.234.72.0/24 # United States | California | tzulo, inc.
 23.234.98.0/24 # United States | District of Columbia | tzulo, inc.
-23.234.104.0/24 # United States | Texas | tzulo, inc.
 37.19.200.0/24 # United States | Texas | Datacamp Limited
 37.19.221.0/24 # United States | Texas | Datacamp Limited
 40.27.108.0/24 # United States | New York | M247 Europe SRL
@@ -24,10 +23,10 @@
 79.127.222.0/24 # United States | Texas | Datacamp Limited
 80.66.197.0/24 # Germany | Nordrhein-Westfalen | Owl Limited
 85.203.54.0/24 # United States | New York | SB Professional Services
+103.81.231.0/24 # United States | District of Columbia | HostRoyale Technolo...
+135.106.107.0/24 # United States | Indiana | ROUTE 95 LLC
 135.136.19.0/24 # Germany | Hesse | M Europe SRL
-135.136.36.0/24 # United States | Florida | M247 Europe SRL
 138.226.239.0/24 # Netherlands | Provincie Noord-Holland | DIGITAL NETWORK S....
-143.244.47.0/24 # United States | New York | Datacamp Limited
 146.70.117.0/24 # Germany | Hessen | M247 Europe SRL
 146.70.173.0/24 # United States | California | M247 Europe SRL
 147.78.240.0/24 # Germany | Hessen | Owl Limited
@@ -97,6 +96,7 @@
 4.224.246.31/32 # India | Maharashtra | Microsoft Corporation
 5.1.46.51/32 # United States | New York | Clouvider Limited
 5.1.46.75/32 # United States | New York | Clouvider Limited
+5.1.46.107/32 # United States | New York | Clouvider Limited
 5.8.18.80/32 # Russian Federation | Saint Petersburg | Petersburg Interne...
 5.11.32.254/32 # Italy | Lombardia | Planetel SPA
 5.22.217.12/32 # Spain | Comunidad de Madrid | UpCloud Ltd
@@ -124,6 +124,7 @@
 8.217.190.58/32 # Hong Kong | Hong Kong | Alibaba US Technology Co., Ltd.
 13.140.145.6/32 # France | Grand Est | Contabo GmbH
 13.201.207.191/32 # India | Maharashtra | Amazon.com, Inc.
+14.34.247.161/32 # South Korea | Gyeonggi-do | Korea Telecom
 14.35.102.62/32 # South Korea | Gyeonggi-do | Korea Telecom
 14.35.198.106/32 # South Korea | Gyeonggi-do | YABESK
 14.39.175.143/32 # South Korea | Gyeonggi-do | Korea Telecom
@@ -140,9 +141,6 @@
 23.27.143.20/32 # United States | New York | Evoxt Sdn. Bhd.
 23.144.160.176/32 # United States | California | SB Professional Services
 23.144.160.221/32 # United States | California | SB Professional Services
-23.144.160.237/32 # United States | California | SB Professional Services
-23.162.8.165/32 # United States | New York | Jone Broadband LLC
-23.162.40.205/32 # United States | California | Cyber Data LLC
 23.165.8.147/32 # United States | New York | Etherware Solutions LLC
 23.165.8.156/32 # United States | New York | Etherware Solutions LLC
 23.165.8.184/32 # United States | New York | Etherware Solutions LLC
@@ -151,6 +149,7 @@
 23.230.77.208/32 # United States | New York | IT HOSTLINE LTD
 23.230.77.211/32 # United States | New York | IT HOSTLINE LTD
 23.230.77.242/32 # United States | New York | IT HOSTLINE LTD
+23.230.192.67/32 # United States | New York | IT HOSTLINE LTD
 23.230.192.87/32 # United States | New York | IT HOSTLINE LTD
 23.230.192.109/32 # United States | New York | IT HOSTLINE LTD
 23.230.192.242/32 # United States | New York | IT HOSTLINE LTD
@@ -158,17 +157,17 @@
 23.230.241.165/32 # United States | New York | IT HOSTLINE LTD
 23.230.241.245/32 # United States | New York | IT HOSTLINE LTD
 23.234.73.62/32 # United States | California | tzulo, inc.
+23.234.73.99/32 # United States | California | tzulo, inc.
 23.234.74.50/32 # United States | California | tzulo, inc.
 23.234.74.182/32 # United States | California | tzulo, inc.
 23.234.74.204/32 # United States | California | tzulo, inc.
-23.234.74.238/32 # United States | California | tzulo, inc.
 23.234.75.87/32 # United States | California | tzulo, inc.
+23.234.75.101/32 # United States | California | tzulo, inc.
 23.234.75.111/32 # United States | California | tzulo, inc.
 23.234.75.192/32 # United States | California | tzulo, inc.
 23.234.77.29/32 # United States | North Carolina | tzulo, inc.
 23.234.82.37/32 # United States | Washington | tzulo, inc.
 23.234.82.174/32 # United States | Washington | tzulo, inc.
-23.234.88.30/32 # United States | Arizona | tzulo, inc.
 23.234.91.216/32 # United States | Arizona | tzulo, inc.
 23.234.92.242/32 # United States | California | tzulo, inc.
 23.234.96.103/32 # United States | District of Columbia | tzulo, inc.
@@ -177,13 +176,12 @@
 23.234.96.236/32 # United States | District of Columbia | tzulo, inc.
 23.234.97.51/32 # United States | District of Columbia | tzulo, inc.
 23.234.97.125/32 # United States | District of Columbia | tzulo, inc.
-23.234.99.47/32 # United States | District of Columbia | tzulo, inc.
 23.234.99.62/32 # United States | District of Columbia | tzulo, inc.
 23.234.99.73/32 # United States | District of Columbia | tzulo, inc.
 23.234.99.224/32 # United States | District of Columbia | tzulo, inc.
-23.234.100.178/32 # United States | New York | tzulo, inc.
 23.234.100.188/32 # United States | New York | tzulo, inc.
-23.234.102.57/32 # United States | New York | tzulo, inc.
+23.234.104.221/32 # United States | Texas | tzulo, inc.
+23.234.104.233/32 # United States | Texas | tzulo, inc.
 23.234.105.102/32 # United States | Texas | tzulo, inc.
 23.234.105.227/32 # United States | Texas | tzulo, inc.
 23.234.106.76/32 # United States | Texas | tzulo, inc.
@@ -191,7 +189,6 @@
 23.234.107.45/32 # United States | Texas | tzulo, inc.
 23.234.107.174/32 # United States | Texas | tzulo, inc.
 23.234.107.210/32 # United States | Texas | tzulo, inc.
-23.234.109.181/32 # United States | Georgia | tzulo, inc.
 23.234.111.32/32 # United States | Georgia | tzulo, inc.
 23.234.116.115/32 # United States | Missouri | tzulo, inc.
 23.244.232.3/32 # United States | West Virginia | Breezeline
@@ -216,6 +213,7 @@
 31.57.243.154/32 # United States | Illinois | Latitude.sh LTDA
 31.220.109.219/32 # United States | Arizona | Hostinger International Limited
 31.222.242.39/32 # United States | New Hampshire | ROUTE 95 LLC
+31.222.242.78/32 # United States | New Hampshire | ROUTE 95 LLC
 31.222.242.108/32 # United States | New Hampshire | ROUTE 95 LLC
 31.222.245.22/32 # United States | South Carolina | Clouvider Limited
 31.222.245.65/32 # United States | South Carolina | Clouvider Limited
@@ -328,7 +326,6 @@
 34.78.81.246/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.78.86.146/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.78.93.156/32 # Belgium | Bruxelles-Capitale | Google LLC
-34.78.127.32/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.78.191.218/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.78.198.61/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.78.207.120/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -371,7 +368,6 @@
 34.156.138.151/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.156.141.212/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.156.187.18/32 # Belgium | Bruxelles-Capitale | Google LLC
-34.156.195.70/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.156.207.148/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.156.213.232/32 # Belgium | Bruxelles-Capitale | Google LLC
 34.156.214.95/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -415,6 +411,7 @@
 35.206.141.5/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.206.149.166/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.206.187.243/32 # Belgium | Bruxelles-Capitale | Google LLC
+35.206.191.146/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.210.23.177/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.210.27.64/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.210.52.72/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -432,6 +429,7 @@
 35.210.226.150/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.210.235.198/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.210.250.26/32 # Belgium | Bruxelles-Capitale | Google LLC
+35.210.253.105/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.233.6.143/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.233.46.202/32 # Belgium | Bruxelles-Capitale | Google LLC
 35.233.78.10/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -489,6 +487,7 @@
 41.223.228.4/32 # Tanzania | Dar es Salaam | Satcom Networks Africa
 42.4.204.51/32 # China | Liaoning Sheng | CHINA UNICOM China169 Backbone
 42.98.136.173/32 # Hong Kong | Hong Kong | PCCW IMS Limited
+42.119.22.130/32 # Viet Nam | Hanoi | FPT Telecom Company
 42.229.174.112/32 # China | Henan Sheng | CHINA UNICOM China169 Backbone
 42.232.76.143/32 # China | Henan Sheng | CHINA UNICOM China169 Backbone
 43.106.71.28/32 # Singapore | Central Singapore | Alibaba US Technology Co.,...
@@ -497,7 +496,6 @@
 43.132.205.118/32 # Hong Kong | Hong Kong | Shenzhen Tencent Computer Systems ...
 43.155.62.54/32 # Hong Kong | Hong Kong | Shenzhen Tencent Computer Systems ...
 43.156.155.229/32 # Singapore | Central Singapore | Shenzhen Tencent Computer ...
-43.157.29.56/32 # Germany | Hessen | Shenzhen Tencent Computer Systems Compa...
 43.157.118.169/32 # Germany | Hesse | Shenzhen Tencent Computer Systems Compan...
 43.165.62.82/32 # Germany | Hessen | Shenzhen Tencent Computer Systems Compa...
 43.225.189.138/32 # United States | Massachusetts | HostRoyale Technologies Pv...
@@ -537,7 +535,6 @@
 45.87.127.197/32 # United States | California | Clouvider Limited
 45.94.47.224/32 # Finland | Mainland Finland | HOSTING INDUSTRY LIMITED
 45.95.186.232/32 # United States | New York | HostPapa
-45.120.124.89/32 # India | Delhi | Skymax Broadband Services Pvt. Ltd.
 45.128.124.45/32 # United States | California | Clouvider Limited
 45.128.124.208/32 # United States | California | Clouvider Limited
 45.128.124.213/32 # United States | California | Clouvider Limited
@@ -565,6 +562,7 @@
 45.146.26.137/32 # United States | Rhode Island | Clouvider Limited
 45.146.26.191/32 # United States | Rhode Island | Clouvider Limited
 45.147.244.17/32 # United States | California | Clouvider Limited
+45.147.244.144/32 # United States | California | Clouvider Limited
 45.147.244.152/32 # United States | California | Clouvider Limited
 45.147.245.31/32 # United States | Illinois | Clouvider Limited
 45.147.245.194/32 # United States | Illinois | Clouvider Limited
@@ -618,6 +616,7 @@
 45.192.40.185/32 # United States | New York | Clouvider Limited
 45.192.40.205/32 # United States | New York | Clouvider Limited
 45.192.41.101/32 # United States | New York | Clouvider Limited
+45.192.41.104/32 # United States | New York | Clouvider Limited
 45.192.41.189/32 # United States | New York | Clouvider Limited
 45.192.41.233/32 # United States | New York | Clouvider Limited
 45.192.42.39/32 # United States | New York | Clouvider Limited
@@ -627,6 +626,7 @@
 45.192.43.42/32 # United States | New York | Clouvider Limited
 45.192.43.92/32 # United States | New York | Clouvider Limited
 45.192.43.163/32 # United States | New York | Clouvider Limited
+45.192.43.240/32 # United States | New York | Clouvider Limited
 45.192.44.190/32 # United States | New York | Clouvider Limited
 45.192.44.224/32 # United States | New York | Clouvider Limited
 45.192.44.232/32 # United States | New York | Clouvider Limited
@@ -646,6 +646,7 @@
 45.195.162.178/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
 45.195.163.48/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
 45.195.163.119/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
+45.195.163.122/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
 45.195.163.215/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
 45.221.64.224/32 # Seychelles | Mahe | internet security
 46.18.122.191/32 # France | Ile-de-France | ADISTA SAS
@@ -705,6 +706,7 @@
 60.29.226.181/32 # China | Tianjin | CNC Group CHINA1 Tianjin Province Network
 60.50.56.112/32 # Malaysia | Kuala Lumpur | TM TECHNOLOGY SERVICES SDN BHD
 60.53.1.158/32 # Malaysia | Sabah | TM TECHNOLOGY SERVICES SDN BHD
+60.54.74.54/32 # Malaysia | Sarawak | TM TECHNOLOGY SERVICES SDN BHD
 60.205.148.180/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
 61.4.102.97/32 # Malaysia | Federal Territory of Kuala Lumpur | Gigabit Hos...
 61.53.116.18/32 # China | Henan Sheng | CHINA UNICOM China169 Backbone
@@ -722,6 +724,7 @@
 61.244.250.122/32 # Hong Kong | Hong Kong | Hong Kong Broadband Network Limited
 61.254.120.165/32 # South Korea | Gyeonggi-do | SK Broadband Co Ltd
 62.54.143.188/32 # Germany | Nordrhein-Westfalen | Telefonica Germany GmbH & ...
+62.57.145.149/32 # Spain | Catalunya | VODAFONE ONO, S.A.
 62.106.69.153/32 # United States | New Jersey | Clouvider Limited
 62.133.62.80/32 # France | Ile-de-France | GLOBAL CONNECTIVITY SOLUTIONS LLP
 62.133.63.151/32 # Türkiye | Istanbul | GLOBAL CONNECTIVITY SOLUTIONS LLP
@@ -785,6 +788,7 @@
 73.139.166.21/32 # United States | Florida | Comcast Cable Communications, LLC
 73.143.76.195/32 # United States | Massachusetts | Comcast Cable Communicatio...
 73.159.205.4/32 # United States | Massachusetts | Comcast Cable Communicatio...
+73.173.68.112/32 # United States | District of Columbia | Comcast Cable Commu...
 73.199.189.138/32 # United States | New Jersey | Comcast Cable Communications,...
 74.0.97.156/32 # United States | Texas | Datacamp Limited
 74.0.97.206/32 # United States | Texas | Datacamp Limited
@@ -795,6 +799,7 @@
 74.0.101.138/32 # United States | Texas | Datacamp Limited
 74.0.101.182/32 # United States | Texas | Datacamp Limited
 74.131.39.112/32 # United States | Ohio | Charter Communications Inc
+74.139.160.68/32 # United States | Kentucky | Charter Communications Inc
 74.162.64.232/32 # United Arab Emirates | Dubai | Microsoft Corporation
 74.207.240.7/32 # United States | California | Akamai Technologies, Inc.
 74.244.155.177/32 # United States | Nevada | Space Exploration Technologies Co...
@@ -840,6 +845,7 @@
 78.42.52.210/32 # Germany | Nordrhein-Westfalen | Vodafone GmbH
 78.48.121.126/32 # Germany | Nordrhein-Westfalen | Telefonica Germany GmbH & ...
 78.87.123.10/32 # Greece | Attica | Vodafone-panafon Hellenic Telecommunicat...
+78.98.235.78/32 # Slovakia | Zilinsky kraj | Slovak Telekom, a.s.
 78.131.11.151/32 # Hungary | Budapest | 2Connect Telecommunications Infrastru...
 78.186.183.225/32 # Türkiye | Izmir | Turk Telekomunikasyon Anonim Sirketi
 78.203.187.49/32 # France | Auvergne-Rhone-Alpes | Free SAS
@@ -848,6 +854,7 @@
 79.133.56.90/32 # Germany | Hessen | Ultahost, Inc.
 79.141.161.139/32 # United States | Illinois | HZ Hosting Ltd
 79.148.152.185/32 # Spain | Castilla-La Mancha | TELEFONICA DE ESPANA S.A.U.
+79.153.142.149/32 # Spain | Catalunya | TELEFONICA DE ESPANA S.A.U.
 79.154.187.220/32 # Spain | Catalunya | TELEFONICA DE ESPANA S.A.U.
 79.169.101.216/32 # Portugal | Distrito do Porto | NOS COMUNICACOES, S.A.
 79.189.202.99/32 # Poland | Silesian Voivodeship | Orange Polska Spolka Akcyjna
@@ -875,6 +882,7 @@
 80.73.244.165/32 # United States | Mississippi | Clouvider Limited
 80.73.244.245/32 # United States | Mississippi | Clouvider Limited
 80.88.205.42/32 # United Kingdom | England | Orbital Net Ltd
+80.123.139.110/32 # Austria | Oberosterreich | A1 Telekom Austria AG
 80.128.58.101/32 # Germany | Baden-Wurttemberg | Deutsche Telekom AG
 80.135.185.147/32 # Germany | Nordrhein-Westfalen | Deutsche Telekom AG
 80.141.109.171/32 # Germany | Rheinland-Pfalz | Deutsche Telekom AG
@@ -888,6 +896,7 @@
 80.211.78.197/32 # Italy | Toscana | Aruba S.p.A.
 80.238.217.3/32 # Saudi Arabia | Riyadh Region | HUAWEI INTERNATIONAL PTE. LTD.
 81.42.195.247/32 # Spain | Comunidad de Madrid | TELEFONICA DE ESPANA S.A.U.
+81.77.76.168/32 # United Kingdom | Wales [Cymru GB-CYM] | Vodafone Limited
 81.82.209.128/32 # Belgium | Flanders | Telenet BV
 81.92.157.86/32 # Czechia | Stredocesky kraj | CoProSys a.s.
 81.111.138.6/32 # United Kingdom | England | Virgin Media Limited
@@ -902,6 +911,7 @@
 81.250.169.102/32 # France | Ile-de-France | Orange S.A.
 81.250.198.81/32 # France | Hauts-de-France | Orange S.A.
 81.251.210.249/32 # France | Auvergne-Rhone-Alpes | Orange S.A.
+82.4.143.50/32 # United Kingdom | Northern Ireland | Virgin Media Limited
 82.65.44.208/32 # France | Ile-de-France | Free SAS
 82.65.167.241/32 # France | Ile-de-France | Free SAS
 82.66.56.42/32 # France | Ile-de-France | Free SAS
@@ -931,6 +941,7 @@
 83.218.184.143/32 # Austria | Tirol | myNet GmbH
 83.229.17.8/32 # United States | Texas | Clouvider Limited
 83.229.17.129/32 # United States | Texas | Clouvider Limited
+84.25.97.172/32 # Netherlands | Provincie Limburg | Vodafone Libertel B.V.
 84.32.34.81/32 # United States | Illinois | Uab Cherry Servers
 84.32.131.255/32 # United States | Illinois | Uab Cherry Servers
 84.32.190.39/32 # Netherlands | North Holland | Uab Cherry Servers
@@ -961,6 +972,7 @@
 86.54.24.25/32 # Latvia | Vidzeme | Noyobzoda Faridduni Saidilhom
 86.73.74.156/32 # France | Ile-de-France | Societe Francaise Du Radiotelepho...
 86.88.20.2/32 # Netherlands | Provincie Zuid-Holland | KPN B.V.
+86.120.199.178/32 # Romania | Ilfov | DIGI ROMANIA S.A.
 86.201.77.174/32 # France | Occitanie | Orange S.A.
 86.210.83.7/32 # France | Occitanie | Orange S.A.
 86.213.199.120/32 # France | Nouvelle-Aquitaine | Orange S.A.
@@ -1021,6 +1033,7 @@
 89.45.4.252/32 # United States | California | M247 Europe SRL
 89.57.32.138/32 # Germany | Schleswig-Holstein | SWN Stadtwerke Neumuenster ...
 89.80.247.68/32 # France | Normandie | Bouygues Telecom SA
+89.85.156.193/32 # France | Pays de la Loire | Bouygues Telecom SA
 89.124.96.27/32 # Netherlands | North Holland | SERVERS TECH FZCO
 89.182.108.116/32 # Germany | Lower Saxony | htp GmbH
 89.195.5.18/32 # United States | California | Mongodb, Inc.
@@ -1044,6 +1057,7 @@
 91.67.98.54/32 # Germany | Thuringia | Vodafone GmbH
 91.67.117.22/32 # Germany | Free and Hanseatic City of Hamburg | Vodafone GmbH
 91.86.208.14/32 # Belgium | Bruxelles-Capitale | Orange Belgium SA
+91.92.40.12/32 # Netherlands | Provincie Noord-Holland | TechTies Inc.
 91.92.240.100/32 # Germany | Hessen | Omegatech LTD
 91.92.243.126/32 # United States | New York | Omegatech LTD
 91.92.243.129/32 # United States | New York | Omegatech LTD
@@ -1057,6 +1071,7 @@
 91.242.237.15/32 # United States | Pennsylvania | Clouvider Limited
 91.242.237.125/32 # United States | Pennsylvania | Clouvider Limited
 91.247.78.30/32 # United States | New Jersey | Clouvider Limited
+91.247.78.102/32 # United States | New Jersey | Clouvider Limited
 91.247.78.121/32 # United States | New Jersey | Clouvider Limited
 91.247.78.148/32 # United States | New Jersey | Clouvider Limited
 92.108.174.145/32 # Netherlands | Provincie Zuid-Holland | Vodafone Libertel B.V.
@@ -1071,6 +1086,7 @@
 92.154.83.180/32 # France | Ile-de-France | Orange S.A.
 92.154.103.122/32 # France | Ile-de-France | Orange S.A.
 92.170.237.216/32 # France | Ile-de-France | Orange S.A.
+92.176.212.58/32 # Spain | Catalunya | Orange Espagne SA
 92.182.44.84/32 # France | Ile-de-France | Orange S.A.
 92.182.58.152/32 # France | Ile-de-France | Orange S.A.
 92.206.251.125/32 # Germany | Saxony | Tele Columbus AG
@@ -1174,18 +1190,11 @@
 103.10.71.57/32 # Indonesia | Java | Indonesia Network Information Center
 103.27.110.232/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.80.210.224/32 # Mongolia | Ulan Bator | MCS Com Co Ltd
-103.81.230.27/32 # United States | District of Columbia | HostRoyale Technolo...
 103.81.230.66/32 # United States | District of Columbia | HostRoyale Technolo...
 103.81.230.83/32 # United States | District of Columbia | HostRoyale Technolo...
-103.81.230.114/32 # United States | District of Columbia | HostRoyale Technolo...
-103.81.231.66/32 # United States | District of Columbia | HostRoyale Technolo...
-103.81.231.84/32 # United States | District of Columbia | HostRoyale Technolo...
-103.81.231.241/32 # United States | District of Columbia | HostRoyale Technolo...
-103.81.231.242/32 # United States | District of Columbia | HostRoyale Technolo...
 103.82.120.116/32 # Pakistan | Sindh | FIBERISH PVT LTD
 103.96.130.107/32 # Hong Kong | Hong Kong | WUZHOUHULIAN INTERNATIONAL CO., LI...
 103.102.246.252/32 # United States | Texas | HostRoyale Technologies Pvt Ltd
-103.102.247.230/32 # United States | Texas | HostRoyale Technologies Pvt Ltd
 103.114.160.160/32 # United States | California | Hosteons Pte. Ltd.
 103.127.252.106/32 # India | Maharashtra | NIXI
 103.131.61.226/32 # Indonesia | Java | Indonesia Network Information Center
@@ -1289,17 +1298,20 @@
 110.185.104.180/32 # China | Sichuan | Chinanet Sichuan Telecom Internet Data C...
 111.90.145.48/32 # Malaysia | Federal Territory of Kuala Lumpur | Shinjiru Te...
 112.80.248.27/32 # China | Jiangsu | China Unicom China1 Backbone
+112.161.113.216/32 # South Korea | Gyeonggi-do | Korea Telecom
 112.238.136.9/32 # China | Shandong Sheng | CHINA UNICOM China169 Backbone
 112.242.109.188/32 # China | Shandong Sheng | CHINA UNICOM China169 Backbone
 113.22.193.249/32 # Viet Nam | Thanh Pho Can Tho | FPT Telecom Company
 113.86.47.40/32 # China | Guangdong Sheng | No.31,Jin-rong Street
 113.203.154.36/32 # Spain | Comunitat Valenciana | Orange Espagne SA
+114.32.164.106/32 # Taiwan | Taipei | Chunghwa Telecom Co., Ltd.
 114.32.251.173/32 # Taiwan | Taipei | Chunghwa Telecom Co., Ltd.
 114.33.10.109/32 # Taiwan | Taipei | Chunghwa Telecom Co., Ltd.
 114.33.68.22/32 # Taiwan | Taipei | Chunghwa Telecom Co., Ltd.
 114.34.75.77/32 # Taiwan | Taipei | Chunghwa Telecom Co., Ltd.
 114.35.158.97/32 # Taiwan | Taipei | Chunghwa Telecom Co., Ltd.
 115.20.193.119/32 # South Korea | Gyeonggi-do | Korea Telecom
+115.22.155.68/32 # South Korea | Busan | Korea Telecom
 115.23.43.37/32 # South Korea | Gyeonggi-do | Korea Telecom
 115.74.194.231/32 # Viet Nam | Ho Chi Minh City | Viettel Group
 115.78.237.146/32 # Viet Nam | Ho Chi Minh City | Viettel Group
@@ -1328,6 +1340,7 @@
 120.87.136.16/32 # China | Guangdong Sheng | China Unicom IP network China169...
 121.122.72.168/32 # Malaysia | Kuala Lumpur | Maxis Broadband Sdn Bhd
 121.130.95.197/32 # South Korea | Gyeonggi-do | Korea Telecom
+121.135.193.207/32 # South Korea | Gyeonggi-do | Korea Telecom
 121.138.193.156/32 # South Korea | Gyeonggi-do | Korea Telecom
 121.138.203.128/32 # South Korea | Gyeonggi-do | Korea Telecom
 121.145.49.188/32 # South Korea | Busan | Korea Telecom
@@ -1396,6 +1409,7 @@
 130.49.102.114/32 # United States | Washington | ROUTE 95 LLC
 130.49.117.26/32 # United States | Washington | ROUTE 95 LLC
 130.49.117.46/32 # United States | Washington | ROUTE 95 LLC
+130.49.117.129/32 # United States | Washington | ROUTE 95 LLC
 130.49.117.159/32 # United States | Washington | ROUTE 95 LLC
 130.49.126.23/32 # United States | Washington | ROUTE 95 LLC
 130.49.126.197/32 # United States | Washington | ROUTE 95 LLC
@@ -1434,10 +1448,9 @@
 135.106.94.169/32 # United States | Florida | ROUTE 95 LLC
 135.106.94.191/32 # United States | California | ROUTE 95 LLC
 135.106.94.206/32 # United States | California | ROUTE 95 LLC
-135.106.107.19/32 # United States | Florida | ROUTE 95 LLC
-135.106.107.66/32 # United States | Florida | ROUTE 95 LLC
-135.106.107.209/32 # United States | Kansas | ROUTE 95 LLC
-135.106.107.245/32 # United States | Kansas | ROUTE 95 LLC
+135.136.36.84/32 # United States | Florida | M247 Europe SRL
+135.136.36.86/32 # United States | Florida | M247 Europe SRL
+135.136.36.100/32 # United States | Florida | M247 Europe SRL
 136.32.142.181/32 # United States | Missouri | Google Fiber Inc.
 136.66.62.213/32 # United States | Oregon | Google LLC
 136.85.14.189/32 # Singapore | Central Singapore | Google LLC
@@ -1456,6 +1469,7 @@
 136.234.239.212/32 # United States | District of Columbia | ROUTE 95 LLC
 136.234.240.24/32 # United States | Nevada | ROUTE 95 LLC
 136.234.240.53/32 # United States | Nevada | ROUTE 95 LLC
+136.234.240.138/32 # United States | Nevada | ROUTE 95 LLC
 136.234.241.41/32 # United States | Texas | ROUTE 95 LLC
 136.234.241.48/32 # United States | Texas | ROUTE 95 LLC
 136.234.241.84/32 # United States | Texas | ROUTE 95 LLC
@@ -1512,6 +1526,7 @@
 138.249.206.50/32 # United States | New York | Clouvider Limited
 138.249.206.135/32 # United States | New York | Clouvider Limited
 138.249.206.215/32 # United States | New York | Clouvider Limited
+138.249.206.228/32 # United States | New York | Clouvider Limited
 138.249.208.134/32 # United States | California | Clouvider Limited
 138.249.208.157/32 # United States | California | Clouvider Limited
 138.249.209.23/32 # Germany | Berlin | Clouvider Limited
@@ -1551,6 +1566,7 @@
 141.133.4.141/32 # United States | Alaska | Clouvider Limited
 141.133.4.243/32 # United States | Alaska | Clouvider Limited
 141.133.5.35/32 # United States | Arkansas | Clouvider Limited
+141.133.5.126/32 # United States | Arkansas | Clouvider Limited
 141.133.5.146/32 # United States | Arkansas | Clouvider Limited
 141.133.6.3/32 # United States | New Hampshire | Clouvider Limited
 141.133.6.99/32 # United States | New Hampshire | Clouvider Limited
@@ -1591,6 +1607,8 @@
 141.133.52.158/32 # United States | Virginia | Clouvider Limited
 141.133.52.191/32 # United States | District of Columbia | Clouvider Limited
 141.133.53.4/32 # United States | Virginia | Clouvider Limited
+141.133.53.8/32 # United States | Louisiana | Clouvider Limited
+141.133.77.8/32 # United States | North Dakota | Clouvider Limited
 141.133.77.146/32 # United States | North Dakota | Clouvider Limited
 141.133.77.176/32 # United States | Arizona | Clouvider Limited
 141.133.79.24/32 # United States | Michigan | Clouvider Limited
@@ -1653,6 +1671,7 @@
 142.252.25.238/32 # United States | California | IT HOSTLINE LTD
 142.252.43.80/32 # United States | California | IT HOSTLINE LTD
 142.252.43.226/32 # United States | California | IT HOSTLINE LTD
+142.252.43.239/32 # United States | California | IT HOSTLINE LTD
 142.252.59.5/32 # United States | California | IT HOSTLINE LTD
 142.252.59.91/32 # United States | California | IT HOSTLINE LTD
 142.252.82.46/32 # United States | California | Clouvider Limited
@@ -1747,10 +1766,9 @@
 146.12.7.189/32 # United States | Pennsylvania | PenTeleData Inc.
 146.70.165.50/32 # United States | New York | M247 Europe SRL
 146.70.165.160/32 # United States | New York | M247 Europe SRL
-146.70.171.112/32 # United States | New York | M247 Europe SRL
 146.70.172.43/32 # United States | California | M247 Europe SRL
 146.70.172.73/32 # United States | California | M247 Europe SRL
-146.70.187.212/32 # United States | Florida | M247 Europe SRL
+146.70.172.204/32 # United States | California | M247 Europe SRL
 146.70.211.61/32 # United States | Texas | M247 Europe SRL
 146.86.146.70/32 # United States | Texas | MidSouth Fiber
 146.103.53.53/32 # United States | Texas | Datacamp Limited
@@ -1774,7 +1792,6 @@
 147.162.82.19/32 # Italy | Veneto | Consortium GARR
 148.74.32.123/32 # United States | New York | Cablevision Systems Corp.
 149.40.50.101/32 # United States | Massachusetts | Datacamp Limited
-149.40.50.118/32 # United States | Massachusetts | Datacamp Limited
 149.74.22.134/32 # Spain | Comunitat Valenciana | Orange Espagne SA
 149.90.28.18/32 # Portugal | Distrito do Porto | Vodafone Portugal - Communi...
 149.232.195.129/32 # France | Provence-Alpes-Cote d'Azur | Free Pro SAS
@@ -1810,8 +1827,10 @@
 152.234.161.96/32 # United States | New York | Clouvider Limited
 152.234.161.175/32 # United States | New York | Clouvider Limited
 152.234.164.23/32 # United States | Colorado | Clouvider Limited
+152.234.164.63/32 # United States | Colorado | Clouvider Limited
 152.234.164.83/32 # United States | Colorado | Clouvider Limited
 152.234.167.15/32 # United States | Florida | Clouvider Limited
+152.234.167.33/32 # United States | Florida | Clouvider Limited
 152.234.167.102/32 # United States | Florida | Clouvider Limited
 152.234.168.25/32 # United States | California | Clouvider Limited
 152.234.168.49/32 # United States | California | Clouvider Limited
@@ -1822,6 +1841,7 @@
 152.234.171.37/32 # United States | Nevada | Clouvider Limited
 152.234.171.40/32 # United States | Nevada | Clouvider Limited
 152.234.171.71/32 # United States | Nevada | Clouvider Limited
+152.234.173.26/32 # United States | Ohio | Clouvider Limited
 152.234.173.80/32 # United States | Ohio | Clouvider Limited
 152.234.173.109/32 # United States | Ohio | Clouvider Limited
 152.234.174.18/32 # United States | California | Clouvider Limited
@@ -1854,6 +1874,7 @@
 153.80.84.201/32 # United States | Florida | ROUTE 95 LLC
 153.80.97.110/32 # United States | Florida | ROUTE 95 LLC
 153.80.97.165/32 # United States | Florida | ROUTE 95 LLC
+153.80.97.253/32 # United States | Florida | ROUTE 95 LLC
 153.80.108.76/32 # United States | Florida | ROUTE 95 LLC
 153.80.108.124/32 # United States | Florida | ROUTE 95 LLC
 153.80.108.168/32 # United States | Florida | ROUTE 95 LLC
@@ -2145,6 +2166,7 @@
 154.196.91.108/32 # Germany | Hessen | Clouvider Limited
 154.196.91.207/32 # Germany | Hessen | Clouvider Limited
 154.219.66.60/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
+154.219.66.75/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
 154.219.66.85/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
 154.219.66.124/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
 154.219.68.67/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
@@ -2173,6 +2195,7 @@
 155.212.77.11/32 # United States | Washington | ROUTE 95 LLC
 155.212.77.75/32 # United States | Washington | ROUTE 95 LLC
 155.212.77.141/32 # United States | Washington | ROUTE 95 LLC
+155.212.85.14/32 # United States | Washington | ROUTE 95 LLC
 155.212.85.77/32 # United States | Washington | ROUTE 95 LLC
 155.212.85.224/32 # United States | Washington | ROUTE 95 LLC
 155.212.94.110/32 # United States | Washington | ROUTE 95 LLC
@@ -2240,6 +2263,7 @@
 156.243.255.201/32 # United States | District of Columbia | IT HOSTLINE LTD
 156.248.6.23/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
 156.248.6.114/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
+156.248.6.167/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
 156.248.7.20/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
 156.248.7.25/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
 156.248.7.56/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
@@ -2252,6 +2276,7 @@
 156.248.21.97/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
 156.248.21.115/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
 156.248.21.242/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
+156.248.23.75/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
 156.248.23.78/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
 156.248.23.139/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
 156.249.100.110/32 # United States | District of Columbia | Ivanov Vitaliy Serg...
@@ -2332,6 +2357,7 @@
 172.120.17.220/32 # United States | California | IT HOSTLINE LTD
 172.120.20.75/32 # United States | California | IT HOSTLINE LTD
 172.120.20.92/32 # United States | California | IT HOSTLINE LTD
+172.120.20.149/32 # United States | California | IT HOSTLINE LTD
 172.120.20.180/32 # United States | California | IT HOSTLINE LTD
 172.120.21.57/32 # United States | California | IT HOSTLINE LTD
 172.120.21.122/32 # United States | California | IT HOSTLINE LTD
@@ -2339,6 +2365,7 @@
 172.120.21.248/32 # United States | California | IT HOSTLINE LTD
 172.120.40.16/32 # United States | California | IT HOSTLINE LTD
 172.120.40.75/32 # United States | California | IT HOSTLINE LTD
+172.120.40.100/32 # United States | California | IT HOSTLINE LTD
 172.120.40.239/32 # United States | California | IT HOSTLINE LTD
 172.120.41.55/32 # United States | Nevada | Clouvider Limited
 172.120.41.145/32 # United States | Nevada | Clouvider Limited
@@ -2386,6 +2413,7 @@
 172.120.117.60/32 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.117.127/32 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.117.147/32 # United States | District of Columbia | IT HOSTLINE LTD
+172.120.118.21/32 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.118.165/32 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.121.103/32 # United States | District of Columbia | IT HOSTLINE LTD
 172.120.121.123/32 # United States | District of Columbia | IT HOSTLINE LTD
@@ -2425,6 +2453,7 @@
 172.120.169.6/32 # United States | Pennsylvania | IT HOSTLINE LTD
 172.120.169.15/32 # United States | Pennsylvania | IT HOSTLINE LTD
 172.120.169.64/32 # United States | Pennsylvania | IT HOSTLINE LTD
+172.120.176.176/32 # United States | Pennsylvania | IT HOSTLINE LTD
 172.120.176.209/32 # United States | Pennsylvania | IT HOSTLINE LTD
 172.120.176.243/32 # United States | Pennsylvania | IT HOSTLINE LTD
 172.120.176.245/32 # United States | Pennsylvania | IT HOSTLINE LTD
@@ -2466,6 +2495,7 @@
 172.120.202.86/32 # United States | Pennsylvania | IT HOSTLINE LTD
 172.120.202.104/32 # United States | Pennsylvania | IT HOSTLINE LTD
 172.120.202.138/32 # United States | Pennsylvania | IT HOSTLINE LTD
+172.120.203.14/32 # United States | Texas | IT HOSTLINE LTD
 172.120.203.51/32 # United States | Texas | IT HOSTLINE LTD
 172.120.203.132/32 # United States | Texas | IT HOSTLINE LTD
 172.120.204.163/32 # United States | Texas | IT HOSTLINE LTD
@@ -2496,6 +2526,7 @@
 172.120.234.116/32 # United States | Texas | IT HOSTLINE LTD
 172.120.234.142/32 # United States | Texas | IT HOSTLINE LTD
 172.120.238.35/32 # United States | Texas | IT HOSTLINE LTD
+172.120.238.52/32 # United States | Texas | IT HOSTLINE LTD
 172.120.238.231/32 # United States | Texas | IT HOSTLINE LTD
 172.120.238.246/32 # United States | Texas | IT HOSTLINE LTD
 172.120.239.171/32 # United States | California | IT HOSTLINE LTD
@@ -2558,6 +2589,7 @@
 172.252.110.105/32 # United States | New York | IT HOSTLINE LTD
 172.252.170.198/32 # United States | New York | IT HOSTLINE LTD
 172.252.170.219/32 # United States | New York | IT HOSTLINE LTD
+172.252.170.244/32 # United States | New York | IT HOSTLINE LTD
 173.168.174.15/32 # United States | Florida | Charter Communications, Inc
 173.183.18.90/32 # Canada | British Columbia | TELUS Communications Inc.
 173.211.106.119/32 # United States | California | Colocation America Corporation
@@ -2568,7 +2600,6 @@
 173.249.253.106/32 # United States | Illinois | tzulo, inc.
 173.249.253.216/32 # United States | Illinois | tzulo, inc.
 173.249.254.97/32 # United States | California | tzulo, inc.
-173.249.254.176/32 # United States | California | tzulo, inc.
 173.249.255.92/32 # United States | Illinois | tzulo, inc.
 173.249.255.113/32 # United States | Illinois | tzulo, inc.
 173.249.255.224/32 # United States | Illinois | tzulo, inc.
@@ -2604,6 +2635,7 @@
 176.222.58.197/32 # Germany | Nordrhein-Westfalen | Clouvider Limited
 177.1.48.31/32 # United States | New York | Clouvider Limited
 177.1.48.48/32 # United States | New York | Clouvider Limited
+177.1.48.76/32 # United States | New York | Clouvider Limited
 177.1.49.56/32 # United States | California | Clouvider Limited
 177.1.49.130/32 # United States | California | Clouvider Limited
 177.1.49.132/32 # United States | California | Clouvider Limited
@@ -2627,13 +2659,16 @@
 177.1.59.53/32 # United States | North Carolina | Clouvider Limited
 177.1.59.103/32 # United States | North Carolina | Clouvider Limited
 177.1.61.17/32 # United States | Colorado | Clouvider Limited
+177.1.61.53/32 # United States | Colorado | Clouvider Limited
 177.1.61.110/32 # United States | Colorado | Clouvider Limited
 177.1.62.26/32 # United States | Florida | Clouvider Limited
 177.1.62.34/32 # United States | Florida | Clouvider Limited
 177.1.62.39/32 # United States | Florida | Clouvider Limited
+177.1.63.78/32 # United States | California | Clouvider Limited
 177.1.63.92/32 # United States | California | Clouvider Limited
 177.1.63.223/32 # United States | California | Clouvider Limited
 177.4.12.11/32 # Hong Kong | Hong Kong | Hong Kong Communications Internati...
+177.4.170.92/32 # Brazil | Mato Grosso do Sul | V tal
 177.174.37.54/32 # Brazil | Mato Grosso | TELEFÔNICA BRASIL S.A
 177.177.147.32/32 # United States | California | Clouvider Limited
 177.177.147.40/32 # United States | California | Clouvider Limited
@@ -2644,6 +2679,7 @@
 177.177.172.77/32 # United States | Florida | Clouvider Limited
 177.177.172.101/32 # United States | Florida | Clouvider Limited
 177.177.172.102/32 # United States | Florida | Clouvider Limited
+177.177.180.176/32 # United States | Illinois | Clouvider Limited
 177.177.180.201/32 # United States | Illinois | Clouvider Limited
 177.177.180.220/32 # United States | Illinois | Clouvider Limited
 177.202.192.21/32 # United States | California | Clouvider Limited
@@ -2661,6 +2697,7 @@
 177.202.196.110/32 # United States | Texas | Clouvider Limited
 177.202.199.1/32 # United States | California | Clouvider Limited
 177.202.199.88/32 # United States | California | Clouvider Limited
+177.202.200.32/32 # United States | Florida | Clouvider Limited
 177.202.200.43/32 # United States | Florida | Clouvider Limited
 177.202.200.67/32 # United States | Florida | Clouvider Limited
 177.202.201.42/32 # United States | Texas | Clouvider Limited
@@ -2753,11 +2790,13 @@
 185.94.67.220/32 # United States | New York | Clouvider Limited
 185.97.76.114/32 # Germany | Hessen | Clouvider Limited
 185.98.41.28/32 # United States | New York | Clouvider Limited
+185.98.41.216/32 # United States | New York | Clouvider Limited
 185.98.41.254/32 # United States | New York | Clouvider Limited
 185.98.42.135/32 # United States | New York | Clouvider Limited
 185.98.42.170/32 # United States | New York | Clouvider Limited
 185.98.42.188/32 # United States | New York | Clouvider Limited
 185.121.233.78/32 # Netherlands | North Holland | SERVERS TECH FZCO
+185.128.41.66/32 # United States | New York | Clouvider Limited
 185.128.41.179/32 # United States | New York | Clouvider Limited
 185.128.41.242/32 # United States | New York | Clouvider Limited
 185.128.41.243/32 # United States | New York | Clouvider Limited
@@ -2843,6 +2882,7 @@
 186.243.145.38/32 # United States | District of Columbia | Clouvider Limited
 186.243.145.54/32 # United States | District of Columbia | Clouvider Limited
 186.243.145.87/32 # United States | District of Columbia | Clouvider Limited
+186.243.147.74/32 # United States | New York | Clouvider Limited
 186.243.147.145/32 # United States | New York | Clouvider Limited
 186.243.147.148/32 # United States | New York | Clouvider Limited
 186.243.147.183/32 # United States | New York | Clouvider Limited
@@ -2867,6 +2907,7 @@
 186.243.185.43/32 # United States | Illinois | Clouvider Limited
 186.243.185.117/32 # United States | Illinois | Clouvider Limited
 186.243.186.71/32 # United States | District of Columbia | Clouvider Limited
+186.243.186.73/32 # United States | District of Columbia | Clouvider Limited
 186.243.186.134/32 # United States | District of Columbia | Clouvider Limited
 186.243.186.254/32 # United States | District of Columbia | Clouvider Limited
 186.243.189.46/32 # United States | District of Columbia | Clouvider Limited
@@ -2921,6 +2962,7 @@
 186.243.254.157/32 # United States | Illinois | Clouvider Limited
 186.243.255.109/32 # United States | District of Columbia | Clouvider Limited
 186.243.255.114/32 # United States | District of Columbia | Clouvider Limited
+186.243.255.186/32 # United States | District of Columbia | Clouvider Limited
 186.246.56.11/32 # United States | District of Columbia | Clouvider Limited
 186.246.56.15/32 # United States | District of Columbia | Clouvider Limited
 186.246.56.47/32 # United States | District of Columbia | Clouvider Limited
@@ -2937,6 +2979,7 @@
 186.246.103.161/32 # United States | District of Columbia | Clouvider Limited
 186.246.103.198/32 # United States | District of Columbia | Clouvider Limited
 186.246.103.208/32 # United States | District of Columbia | Clouvider Limited
+186.246.104.198/32 # United States | Illinois | Clouvider Limited
 186.246.104.219/32 # United States | Illinois | Clouvider Limited
 186.246.104.220/32 # United States | Illinois | Clouvider Limited
 186.246.124.13/32 # United States | Illinois | Clouvider Limited
@@ -2965,6 +3008,7 @@
 187.13.102.214/32 # United States | Texas | Clouvider Limited
 187.15.11.35/32 # United States | California | Clouvider Limited
 187.15.11.41/32 # United States | California | Clouvider Limited
+187.15.11.189/32 # United States | California | Clouvider Limited
 187.15.16.56/32 # United States | New York | Clouvider Limited
 187.15.16.99/32 # United States | New York | Clouvider Limited
 187.15.16.101/32 # United States | New York | Clouvider Limited
@@ -2974,6 +3018,7 @@
 187.15.34.80/32 # United States | Illinois | Clouvider Limited
 187.15.34.222/32 # United States | Illinois | Clouvider Limited
 187.15.34.228/32 # United States | Illinois | Clouvider Limited
+187.52.192.66/32 # United States | California | Clouvider Limited
 187.52.192.77/32 # United States | California | Clouvider Limited
 187.52.192.120/32 # United States | California | Clouvider Limited
 187.52.193.9/32 # United States | California | Clouvider Limited
@@ -2993,6 +3038,7 @@
 187.52.200.53/32 # United States | North Carolina | Clouvider Limited
 187.52.203.29/32 # United States | Washington | Clouvider Limited
 187.52.203.85/32 # United States | Washington | Clouvider Limited
+187.52.203.122/32 # United States | Washington | Clouvider Limited
 187.52.205.34/32 # United States | Texas | Clouvider Limited
 187.52.205.73/32 # United States | Texas | Clouvider Limited
 187.52.205.99/32 # United States | Texas | Clouvider Limited
@@ -3007,6 +3053,7 @@
 187.126.32.96/32 # United States | New York | Clouvider Limited
 187.126.33.38/32 # United States | Florida | Clouvider Limited
 187.126.33.88/32 # United States | Florida | Clouvider Limited
+187.126.33.99/32 # United States | Florida | Clouvider Limited
 187.126.35.17/32 # United States | California | Clouvider Limited
 187.126.35.87/32 # United States | California | Clouvider Limited
 187.126.35.104/32 # United States | California | Clouvider Limited
@@ -3017,6 +3064,7 @@
 187.126.39.53/32 # United States | Nevada | Clouvider Limited
 187.126.39.119/32 # United States | Nevada | Clouvider Limited
 187.126.40.40/32 # United States | Texas | Clouvider Limited
+187.126.40.129/32 # United States | Texas | Clouvider Limited
 187.126.40.207/32 # United States | Texas | Clouvider Limited
 187.126.41.20/32 # United States | Arizona | Clouvider Limited
 187.126.41.52/32 # United States | Arizona | Clouvider Limited
@@ -3027,6 +3075,7 @@
 187.126.45.20/32 # United States | Texas | Clouvider Limited
 187.126.45.82/32 # United States | Texas | Clouvider Limited
 187.126.45.151/32 # United States | Texas | Clouvider Limited
+187.126.47.20/32 # United States | California | Clouvider Limited
 187.126.47.38/32 # United States | California | Clouvider Limited
 187.126.47.121/32 # United States | California | Clouvider Limited
 187.188.83.69/32 # Mexico | Estado de Mexico | TOTAL PLAY TELECOMUNICACIONES,...
@@ -3038,11 +3087,13 @@
 188.100.114.77/32 # Germany | Saxony | Vodafone GmbH
 188.107.230.246/32 # Germany | Hessen | Vodafone GmbH
 188.108.209.71/32 # Germany | Hessen | Vodafone GmbH
+188.109.172.237/32 # Germany | Hessen | Vodafone GmbH
 188.137.153.75/32 # Austria | Vienna | Evolus IT Solutions GmbH
 188.156.43.24/32 # Hungary | Gyor-Moson-Sopron megye | Magyar Telekom Plc.
 188.192.36.197/32 # Germany | Rheinland-Pfalz | Vodafone GmbH
 188.214.34.20/32 # Cyprus | South Cyprus | Edis GmbH
 189.61.191.64/32 # Brazil | Minas Gerais | Claro NXT Telecomunicacoes Ltda
+189.85.161.90/32 # Brazil | Santa Catarina | Empresa Catarinense de Tecnologi...
 189.237.238.16/32 # Mexico | Estado de Chihuahua | Uninet S.A. de C.V.
 191.102.145.16/32 # United States | New York | WhiteLabelColo
 191.102.145.66/32 # United States | New York | WhiteLabelColo
@@ -3074,10 +3125,10 @@
 193.25.248.49/32 # Poland | Silesian Voivodeship | ALICJA MANIERA trading as ...
 193.26.115.42/32 # United States | Florida | 1337 Services GmbH
 193.29.57.37/32 # Germany | Hessen | Michael Sebastian Schinzel trading as I...
+193.36.231.34/32 # United States | Alabama | Clouvider Limited
 193.36.231.162/32 # United States | Alabama | Clouvider Limited
 193.36.231.251/32 # United States | Alabama | Clouvider Limited
 193.37.254.205/32 # United States | Arizona | M247 Europe SRL
-193.37.254.252/32 # United States | Arizona | M247 Europe SRL
 193.47.32.28/32 # United States | District of Columbia | Clouvider Limited
 193.47.32.182/32 # United States | District of Columbia | Clouvider Limited
 193.47.32.190/32 # United States | District of Columbia | Clouvider Limited
@@ -3171,6 +3222,7 @@
 200.225.160.103/32 # United States | New York | Clouvider Limited
 200.225.160.106/32 # United States | New York | Clouvider Limited
 200.225.161.28/32 # United States | California | Clouvider Limited
+200.225.161.127/32 # United States | California | Clouvider Limited
 200.225.161.165/32 # United States | California | Clouvider Limited
 200.225.162.42/32 # United States | California | Clouvider Limited
 200.225.162.59/32 # United States | California | Clouvider Limited
@@ -3200,6 +3252,7 @@
 200.225.177.58/32 # United States | Texas | Clouvider Limited
 200.225.177.66/32 # United States | Texas | Clouvider Limited
 200.225.177.146/32 # United States | Texas | Clouvider Limited
+200.225.184.8/32 # United States | Indiana | Clouvider Limited
 200.225.184.19/32 # United States | Indiana | Clouvider Limited
 200.225.184.22/32 # United States | Indiana | Clouvider Limited
 200.225.187.23/32 # United States | Texas | Clouvider Limited
@@ -3216,6 +3269,7 @@
 200.225.191.147/32 # United States | California | Clouvider Limited
 201.4.96.13/32 # United States | New York | Clouvider Limited
 201.4.96.33/32 # United States | New York | Clouvider Limited
+201.4.96.60/32 # United States | New York | Clouvider Limited
 201.4.96.81/32 # United States | New York | Clouvider Limited
 201.4.97.14/32 # United States | California | Clouvider Limited
 201.4.97.25/32 # United States | California | Clouvider Limited
@@ -3225,10 +3279,12 @@
 201.4.98.102/32 # United States | Nevada | Clouvider Limited
 201.4.99.21/32 # United States | Florida | Clouvider Limited
 201.4.99.25/32 # United States | Florida | Clouvider Limited
+201.4.99.153/32 # United States | Florida | Clouvider Limited
 201.4.101.49/32 # United States | California | Clouvider Limited
 201.4.101.105/32 # United States | California | Clouvider Limited
 201.4.101.252/32 # United States | California | Clouvider Limited
 201.4.103.14/32 # United States | Washington | Clouvider Limited
+201.4.103.34/32 # United States | Washington | Clouvider Limited
 201.4.103.52/32 # United States | Washington | Clouvider Limited
 201.4.110.62/32 # United States | Texas | Clouvider Limited
 201.4.110.65/32 # United States | Texas | Clouvider Limited
@@ -3257,8 +3313,10 @@
 201.4.123.234/32 # United States | Texas | Clouvider Limited
 201.4.125.14/32 # United States | Texas | Clouvider Limited
 201.4.125.62/32 # United States | Texas | Clouvider Limited
+201.4.125.75/32 # United States | Texas | Clouvider Limited
 201.4.126.9/32 # United States | California | Clouvider Limited
 201.4.126.37/32 # United States | California | Clouvider Limited
+201.4.126.63/32 # United States | California | Clouvider Limited
 201.4.127.42/32 # United States | Nevada | Clouvider Limited
 201.4.127.69/32 # United States | Nevada | Clouvider Limited
 201.4.127.94/32 # United States | Nevada | Clouvider Limited
@@ -3268,7 +3326,6 @@
 201.103.121.240/32 # Mexico | Ciudad de Mexico | Uninet S.A. de C.V.
 202.47.52.99/32 # Pakistan | Sindh | Cyber Internet Services Private Limited
 202.63.209.156/32 # Pakistan | Punjab | FALCON BROADBAND PRIVATE LIMITED
-202.70.139.77/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
 202.70.139.204/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
 202.156.60.234/32 # Singapore | Central Singapore | Starhub Ltd.
 202.175.127.130/32 # Macao | Macau | Companhia de Telecomunicacoes de Macau
@@ -3298,7 +3355,6 @@
 207.175.183.170/32 # Belgium | Bruxelles-Capitale | Google LLC
 207.175.187.17/32 # Belgium | Bruxelles-Capitale | Google LLC
 207.175.190.255/32 # Belgium | Bruxelles-Capitale | Google LLC
-207.175.192.107/32 # Belgium | Bruxelles-Capitale | Google LLC
 207.175.194.80/32 # Belgium | Bruxelles-Capitale | Google LLC
 207.175.218.239/32 # Belgium | Bruxelles-Capitale | Google LLC
 207.175.241.217/32 # Belgium | Bruxelles-Capitale | Google LLC
@@ -3327,12 +3383,14 @@
 209.198.153.18/32 # Germany | Land Berlin | Space Exploration Technologies Cor...
 209.222.97.157/32 # United States | Florida | ReliableSite.Net LLC
 210.6.118.82/32 # Hong Kong | Hong Kong | Hong Kong Broadband Network Limited
+210.17.252.214/32 # Hong Kong | Hong Kong | HKBN Enterprise Solutions HK Limited
 210.56.49.72/32 # Hong Kong | Hong Kong | Ctg Server Limited
 210.71.208.181/32 # Taiwan | New Taipei | Chunghwa Telecom Co., Ltd.
 210.91.191.120/32 # South Korea | Busan | Korea Telecom
 210.100.242.23/32 # South Korea | Gyeonggi-do | Korea Telecom
 210.113.5.133/32 # South Korea | Seoul | Korea Telecom
 210.178.172.237/32 # South Korea | Seoul | Korea Telecom
+210.178.237.6/32 # South Korea | Gyeonggi-do | Korea Telecom
 210.209.192.186/32 # Taiwan | Taichung | VEE TIME CORP.
 210.242.91.130/32 # Taiwan | Taipei | Chunghwa Telecom Co., Ltd.
 211.23.221.5/32 # Taiwan | Taipei | Chunghwa Telecom Co., Ltd.
@@ -3403,6 +3461,7 @@
 218.145.154.164/32 # South Korea | Gyeonggi-do | Korea Telecom
 218.148.42.253/32 # South Korea | Gyeonggi-do | Korea Telecom
 218.158.239.173/32 # South Korea | Gyeonggi-do | Korea Telecom
+218.232.83.100/32 # South Korea | Seoul | SK Broadband Co Ltd
 218.255.142.2/32 # Hong Kong | Hong Kong | HKBN Enterprise Solutions HK Limited
 219.84.112.4/32 # Taiwan | Taipei | Sony Network Taiwan Limited
 219.92.230.173/32 # Malaysia | Selangor | TM TECHNOLOGY SERVICES SDN BHD
@@ -3415,12 +3474,14 @@
 220.132.142.141/32 # Taiwan | Taipei | Chunghwa Telecom Co., Ltd.
 220.133.4.152/32 # Taiwan | Taipei | Chunghwa Telecom Co., Ltd.
 220.133.110.9/32 # Taiwan | Taipei | Chunghwa Telecom Co., Ltd.
+220.135.148.225/32 # Taiwan | Taipei | Chunghwa Telecom Co., Ltd.
 220.135.218.179/32 # Taiwan | Kaohsiung | Chunghwa Telecom Co., Ltd.
 221.140.57.178/32 # South Korea | Gyeonggi-do | SK Broadband Co Ltd
 221.149.11.87/32 # South Korea | Gyeonggi-do | Korea Telecom
 222.112.13.214/32 # South Korea | Gyeonggi-do | Korea Telecom
 222.114.33.5/32 # South Korea | Gyeonggi-do | Korea Telecom
-222.127.251.169/32 # Philippines | Western Visayas (Region VI) | Globe Telecom ...
+222.114.198.220/32 # South Korea | Gyeonggi-do | Korea Telecom
+222.117.103.163/32 # South Korea | Gyeonggi-do | Korea Telecom
 223.122.177.253/32 # Hong Kong | Hong Kong | China Mobile Hong Kong Company Lim...
 223.123.34.57/32 # Pakistan | Islamabad | CMPak Limited
 223.123.43.139/32 # Pakistan | Islamabad | CMPak Limited
