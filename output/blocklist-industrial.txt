@@ -1,6 +1,7 @@
 23.234.72.0/24 # United States | California | tzulo, inc.
 23.234.75.0/24 # United States | California | tzulo, inc.
 23.234.96.0/24 # United States | District of Columbia | tzulo, inc.
+23.234.104.0/24 # United States | Texas | tzulo, inc.
 23.234.106.0/24 # United States | Texas | tzulo, inc.
 37.19.200.0/24 # United States | Texas | Datacamp Limited
 77.91.71.0/24 # Israel | Tel Aviv District | Proline IT Ltd
@@ -8,10 +9,8 @@
 87.249.134.0/24 # United States | Illinois | Datacamp Limited
 138.226.239.0/24 # Netherlands | Provincie Noord-Holland | DIGITAL NETWORK S....
 147.78.241.0/24 # Germany | Nordrhein-Westfalen | Owl Limited
-149.40.50.0/24 # United States | Massachusetts | Datacamp Limited
 151.241.171.0/24 # Germany | Land Berlin | 31173 Services AB
 185.136.15.0/24 # Netherlands | Provincie Noord-Holland | AO ALMAZ
-185.156.46.0/24 # United States | District of Columbia | Datacamp Limited
 2.24.131.246/32 # United Kingdom | England | Hostinger International Limited
 2.56.179.16/32 # United Kingdom | England | Worktitans B.V.
 2.58.14.254/32 # Netherlands | Provincie Noord-Holland | CrownCloud GWY IT ...
@@ -37,6 +36,7 @@
 23.27.143.20/32 # United States | New York | Evoxt Sdn. Bhd.
 23.144.160.207/32 # United States | California | SB Professional Services
 23.144.160.214/32 # United States | California | SB Professional Services
+23.159.216.175/32 # United States | California | Byte Node LLC
 23.160.24.153/32 # United States | California | Data Bridge Limited
 23.160.24.242/32 # United States | California | Data Bridge Limited
 23.162.8.104/32 # United States | New York | Jone Broadband LLC
@@ -58,6 +58,7 @@
 23.234.79.66/32 # United States | North Carolina | tzulo, inc.
 23.234.88.53/32 # United States | Arizona | tzulo, inc.
 23.234.88.89/32 # United States | Arizona | tzulo, inc.
+23.234.89.32/32 # United States | Arizona | tzulo, inc.
 23.234.91.45/32 # United States | Arizona | tzulo, inc.
 23.234.93.94/32 # United States | California | tzulo, inc.
 23.234.97.73/32 # United States | District of Columbia | tzulo, inc.
@@ -69,55 +70,26 @@
 23.234.99.249/32 # United States | District of Columbia | tzulo, inc.
 23.234.103.83/32 # United States | New York | tzulo, inc.
 23.234.103.153/32 # United States | New York | tzulo, inc.
-23.234.104.64/32 # United States | Texas | tzulo, inc.
-23.234.104.186/32 # United States | Texas | tzulo, inc.
-23.234.104.189/32 # United States | Texas | tzulo, inc.
-23.234.104.239/32 # United States | Texas | tzulo, inc.
 23.234.105.86/32 # United States | Texas | tzulo, inc.
 23.234.107.88/32 # United States | Texas | tzulo, inc.
 23.234.107.165/32 # United States | Texas | tzulo, inc.
 23.234.109.183/32 # United States | Georgia | tzulo, inc.
+23.234.111.44/32 # United States | Georgia | tzulo, inc.
 23.234.113.24/32 # United States | Utah | tzulo, inc.
 23.234.113.30/32 # United States | Utah | tzulo, inc.
+23.234.114.28/32 # United States | Utah | tzulo, inc.
 23.234.115.241/32 # United States | Utah | tzulo, inc.
 23.234.118.235/32 # United States | Missouri | tzulo, inc.
 23.234.119.238/32 # United States | Missouri | tzulo, inc.
-24.199.126.56/32 # United States | California | DigitalOcean, LLC
-27.43.205.216/32 # China | Guangdong Sheng | China Unicom IP network China169...
-27.205.86.99/32 # China | Shandong Sheng | CHINA UNICOM China169 Backbone
 31.42.184.213/32 # Ukraine | Kyiv | Virtual Systems LLC
 31.54.250.154/32 # United Kingdom | England | British Telecommunications Limited
 31.56.197.72/32 # Latvia | Riga | CGI GLOBAL LIMITED
 31.57.129.23/32 # Romania | Bucharest | FIVE CYBER HOST SECURITY S.R.L.
 31.57.243.154/32 # United States | Illinois | Latitude.sh LTDA
 31.220.109.219/32 # United States | Arizona | Hostinger International Limited
-34.1.226.55/32 # Netherlands | Provincie Groningen | Google Ireland Limited
-34.1.254.5/32 # Netherlands | Provincie Groningen | Google Ireland Limited
-34.1.255.81/32 # Netherlands | Provincie Groningen | Google Ireland Limited
-34.3.86.147/32 # Netherlands | Provincie Groningen | Google Ireland Limited
-34.12.214.37/32 # Netherlands | Provincie Groningen | Google LLC
-34.39.249.233/32 # Brazil | Sao Paulo | Google LLC
-34.85.77.183/32 # Japan | Tokyo | Google LLC
-34.180.69.34/32 # Japan | Tokyo | Google LLC
-35.206.174.235/32 # Belgium | Bruxelles-Capitale | Google LLC
-35.210.82.106/32 # Belgium | Bruxelles-Capitale | Google LLC
-35.210.250.71/32 # Belgium | Bruxelles-Capitale | Google LLC
-35.214.141.223/32 # Netherlands | Provincie Groningen | Google Ireland Limited
-35.214.149.42/32 # Netherlands | Provincie Groningen | Google Ireland Limited
-35.214.164.252/32 # Netherlands | Provincie Groningen | Google Ireland Limited
-35.214.167.188/32 # Netherlands | Provincie Groningen | Google Ireland Limited
-35.214.175.113/32 # Netherlands | Provincie Groningen | Google Ireland Limited
-35.214.187.25/32 # Netherlands | Provincie Groningen | Google Ireland Limited
-35.214.197.33/32 # Netherlands | Provincie Groningen | Google Ireland Limited
-35.214.219.50/32 # Netherlands | Provincie Groningen | Google Ireland Limited
-35.214.237.75/32 # Netherlands | Provincie Groningen | Google Ireland Limited
-35.214.238.11/32 # Netherlands | Provincie Groningen | Google Ireland Limited
-35.214.249.2/32 # Netherlands | Provincie Groningen | Google Ireland Limited
-35.247.213.235/32 # Brazil | Sao Paulo | Google LLC
 35.252.246.89/32 # United States | Oregon | Google LLC
-36.255.40.232/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
 37.19.210.29/32 # United States | Colorado | Datacamp Limited
-37.19.221.168/32 # United States | Texas | Datacamp Limited
+37.19.221.173/32 # United States | Texas | Datacamp Limited
 37.19.221.175/32 # United States | Texas | Datacamp Limited
 37.120.247.228/32 # Romania | Bucharest | M247 Europe SRL
 37.221.66.27/32 # Republic of Moldova | Chisinau | AVA HOST SRL
@@ -127,21 +99,15 @@
 38.146.28.132/32 # United States | California | Cogent Communications, LLC
 38.180.107.76/32 # Singapore | Southeast | M Europe SRL
 38.240.225.60/32 # Canada | Alberta | Tech Futures Interactive Inc.
-39.34.188.194/32 # Pakistan | Sindh | Connect Communication
-39.36.51.5/32 # Pakistan | Punjab | Pakistan Telecommuication company limited
-39.182.20.48/32 # China | Zhejiang Sheng | China Mobile Communications Corpo...
-42.227.200.23/32 # China | Henan Sheng | CHINA UNICOM China169 Backbone
-42.228.43.207/32 # China | Henan Sheng | CHINA UNICOM China169 Backbone
 43.106.71.28/32 # Singapore | Central Singapore | Alibaba US Technology Co.,...
 43.132.105.118/32 # Hong Kong | Hong Kong | Shenzhen Tencent Computer Systems ...
 43.132.205.118/32 # Hong Kong | Hong Kong | Shenzhen Tencent Computer Systems ...
 43.155.62.54/32 # Hong Kong | Hong Kong | Shenzhen Tencent Computer Systems ...
 43.157.118.169/32 # Germany | Hesse | Shenzhen Tencent Computer Systems Compan...
-43.165.62.54/32 # Germany | Hessen | Shenzhen Tencent Computer Systems Compa...
 43.225.189.133/32 # United States | Massachusetts | HostRoyale Technologies Pv...
+43.225.189.134/32 # United States | Massachusetts | HostRoyale Technologies Pv...
 44.252.85.168/32 # United States | California | Amazon.com, Inc.
 45.13.203.29/32 # Spain | Comunitat Valenciana | AVATEL TELECOM, SA
-45.56.72.82/32 # United States | Texas | Akamai Technologies, Inc.
 45.61.134.36/32 # United States | Nevada | RouterHosting LLC
 45.61.136.94/32 # United States | California | Bl Networks
 45.66.219.76/32 # United Kingdom | England | Owl Limited
@@ -157,27 +123,21 @@
 45.138.4.163/32 # Germany | Saxony | Clouvider Limited
 45.138.16.64/32 # Poland | Masovian Voivodeship | 1 Services GmbH
 45.141.21.130/32 # France | Provence-Alpes-Cote d'Azur | Stellar Group SAS
-45.144.52.239/32 # Finland | Uusimaa | H2NEXUS CLOUD SERVICES - FZCO
 45.148.10.212/32 # Netherlands | North Holland | TECHOFF SRV LIMITED
 45.150.112.237/32 # Germany | Land Berlin | Clouvider Limited
 45.151.91.187/32 # Seychelles | Mahe | Ip Vendetta Inc.
 45.159.85.66/32 # Germany | Baden-Wurttemberg | Clouvider Limited
 45.221.64.224/32 # Seychelles | Mahe | internet security
-45.248.194.200/32 # India | Rajasthan | SKYLINE INFONET PRIVATE LIMITED
 46.30.188.33/32 # Netherlands | Provincie Noord-Holland | CrownCloud GWY IT ...
 46.30.191.60/32 # Netherlands | Provincie Noord-Holland | CrownCloud GWY IT ...
 46.30.191.126/32 # Netherlands | Provincie Noord-Holland | CrownCloud GWY IT ...
 47.93.54.134/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
 47.238.107.83/32 # Hong Kong | Hong Kong | Alibaba Cloud LLC
 49.89.41.187/32 # China | Jiangsu | Chinanet
-49.207.2.134/32 # India | Telangana | Atria Convergence Technologies Pvt. Ltd.
-50.116.37.78/32 # United States | Georgia | Akamai Technologies, Inc.
 51.79.214.125/32 # Singapore | Southeast | OVH SAS
 51.200.60.194/32 # United Kingdom | England | Amazon.com, Inc.
 58.68.255.45/32 # China | Beijing | People.Cn CO
 58.144.143.27/32 # China | Chongqing | China Unicom China1 Backbone
-59.103.106.5/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
-59.103.106.143/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
 59.110.7.32/32 # China | Beijing | Hangzhou Alibaba Advertising CO.,LTD.
 60.28.124.21/32 # China | Tianjin | CNC Group CHINA1 Tianjin Province Network
 60.29.226.181/32 # China | Tianjin | CNC Group CHINA1 Tianjin Province Network
@@ -185,7 +145,6 @@
 61.4.102.97/32 # Malaysia | Federal Territory of Kuala Lumpur | Gigabit Hos...
 61.135.185.29/32 # China | Beijing | China Unicom Beijing Province Network
 61.139.76.99/32 # China | Sichuan | Chinanet Sichuan Telecom Internet Data C...
-61.171.134.101/32 # China | Shanghai | China Telecom Group
 62.101.160.87/32 # Netherlands | Provincie Noord-Holland | HostRoyale Technol...
 62.101.160.172/32 # Netherlands | Provincie Noord-Holland | HostRoyale Technol...
 62.101.160.204/32 # Netherlands | Provincie Noord-Holland | HostRoyale Technol...
@@ -203,11 +162,11 @@
 66.234.159.231/32 # United States | Illinois | M247 Europe SRL
 67.217.57.240/32 # United States | New Jersey | Interserver, INC
 68.178.160.183/32 # Singapore | Central Singapore | GoDaddy.com, LLC
+68.235.46.60/32 # United States | Illinois | tzulo, inc.
+68.235.46.194/32 # United States | Illinois | tzulo, inc.
+68.235.46.195/32 # United States | Illinois | tzulo, inc.
 69.67.173.30/32 # Romania | Bucharest | Bl Networks
 72.23.77.35/32 # United States | Pennsylvania | Armstrong
-72.255.18.162/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
-72.255.19.157/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
-72.255.33.140/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
 77.83.39.211/32 # Netherlands | North Holland | KPROHOST LLC
 77.86.13.154/32 # United Kingdom | England | KCOM Group Limited
 77.90.153.30/32 # Germany | Schleswig-Holstein | British Telecommunications PLC
@@ -222,13 +181,13 @@
 79.127.217.44/32 # United States | California | Datacamp Limited
 79.127.217.49/32 # United States | California | Datacamp Limited
 79.127.217.53/32 # United States | California | Datacamp Limited
+79.127.222.213/32 # United States | Texas | Datacamp Limited
 79.133.56.90/32 # Germany | Hessen | Ultahost, Inc.
 79.141.161.139/32 # United States | Illinois | HZ Hosting Ltd
 81.100.146.168/32 # United Kingdom | England | Virgin Media Limited
 81.105.240.69/32 # United Kingdom | England | Virgin Media Limited
 81.177.215.15/32 # Türkiye | Istanbul | GLOBAL CONNECTIVITY SOLUTIONS LLP
 82.44.124.67/32 # United Kingdom | England | Virgin Media Limited
-82.165.10.79/32 # Spain | Comunidad de Madrid | IONOS SE
 83.63.10.213/32 # Spain | Andalusia | TELEFONICA DE ESPANA S.A.U.
 83.100.218.72/32 # United Kingdom | England | KCOM Group Limited
 83.106.39.183/32 # United Kingdom | England | Vodafone Limited
@@ -246,13 +205,10 @@
 86.29.13.229/32 # United Kingdom | Northern Ireland | Virgin Media Limited
 86.31.30.144/32 # United Kingdom | England | Virgin Media Limited
 86.54.24.25/32 # Latvia | Vidzeme | Noyobzoda Faridduni Saidilhom
-86.109.75.158/32 # United States | California | GorillaServers, Inc.
 86.127.236.61/32 # Spain | Comunidad de Madrid | DIGI SPAIN TELECOM S.A
 86.157.76.52/32 # United Kingdom | England | British Telecommunications Limited
-86.172.157.88/32 # United Kingdom | England | British Telecommunications Limited
 87.106.191.217/32 # Germany | Hesse | IONOS SE
 87.120.219.26/32 # United Kingdom | England | GLOBAL CONNECTIVITY SOLUTIONS LLP
-87.255.2.38/32 # Russian Federation | Moscow Oblast | BIG TELECOM JSC
 88.98.105.166/32 # Spain | Region de Murcia | AVATEL TELECOM, SA
 89.44.80.7/32 # United Arab Emirates | Dubai | HZ Hosting Ltd
 89.45.4.189/32 # United States | California | M247 Europe SRL
@@ -262,7 +218,7 @@
 89.130.146.90/32 # Spain | Andalusia | Orange Espagne SA
 89.195.5.18/32 # United States | California | Mongodb, Inc.
 90.208.212.69/32 # United Kingdom | England | Sky UK Limited
-90.222.99.191/32 # United Kingdom | England | Sky UK Limited
+91.92.34.242/32 # Germany | Hessen | DEDIK SERVICES LIMITED
 91.92.240.100/32 # Germany | Hessen | Omegatech LTD
 91.92.243.126/32 # United States | New York | Omegatech LTD
 91.92.243.129/32 # United States | New York | Omegatech LTD
@@ -279,51 +235,30 @@
 94.154.172.43/32 # Seychelles | Mahe | Ip Vendetta Inc.
 95.81.118.189/32 # Germany | Hessen | NKtelecom INC
 95.144.46.149/32 # United Kingdom | England | British Telecommunications Limited
-101.53.225.170/32 # Pakistan | Sindh | Cyber Internet Services Private Limited
 103.27.110.232/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
-103.82.121.33/32 # Pakistan | Sindh | FIBERISH PVT LTD
+103.81.230.83/32 # United States | District of Columbia | HostRoyale Technolo...
 103.96.130.107/32 # Hong Kong | Hong Kong | WUZHOUHULIAN INTERNATIONAL CO., LI...
-103.98.37.176/32 # India | Delhi | NIXI
 103.102.246.63/32 # United States | Texas | HostRoyale Technologies Pvt Ltd
 103.102.247.115/32 # United States | Texas | HostRoyale Technologies Pvt Ltd
-103.186.77.74/32 # Pakistan | Punjab | Nasstec Airnet Networks Private Limited
-103.213.112.88/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
-103.244.172.216/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
-103.251.27.100/32 # United States | California | HostRoyale Technologies Pvt Ltd
 104.21.55.245/32 # United States | California | Cloudflare, Inc.
 104.36.50.38/32 # United States | New York | HostRoyale Technologies Pvt Ltd
-104.64.202.190/32 # Singapore | Central Singapore | Akamai Technologies, Inc.
 104.145.210.107/32 # United States | New York | Ultahost, Inc.
 104.194.159.150/32 # Germany | Hessen | RouterHosting LLC
 104.248.134.194/32 # Germany | Hessen | DigitalOcean, LLC
-105.184.9.251/32 # South Africa | Limpopo | Telkom SA Ltd.
 106.126.3.56/32 # China | Guangdong Province | Quanzhou
 106.126.3.78/32 # China | Guangdong Province | Quanzhou
 107.170.35.225/32 # United States | New Jersey | DigitalOcean, LLC
 107.189.26.194/32 # Netherlands | Provincie Noord-Holland | RouterHosting LLC
-108.168.45.166/32 # Canada | Ontario | Start Communications
 109.104.153.203/32 # Netherlands | North Holland | Brainstorm Network, INC
-110.38.8.36/32 # Pakistan | Punjab | Wateen Telecom Limited
 110.92.64.17/32 # Hong Kong | Hong Kong | Hk Kwaifong Group Limited
 110.92.64.117/32 # Hong Kong | Hong Kong | Hk Kwaifong Group Limited
 110.185.104.180/32 # China | Sichuan | Chinanet Sichuan Telecom Internet Data C...
 112.80.248.27/32 # China | Jiangsu | China Unicom China1 Backbone
-113.120.58.181/32 # China | Shandong Sheng | No.31,Jin-rong Street
-115.57.249.98/32 # China | Henan Sheng | CHINA UNICOM China169 Backbone
-115.214.203.116/32 # China | Zhejiang Sheng | No.31,Jin-rong Street
-116.168.66.178/32 # China | Beijing | CHINA UNICOM China169 Backbone
 116.213.178.11/32 # China | Beijing | Beijing Volcano Engine Technology Co., Ltd.
 117.121.133.33/32 # China | Beijing | China Unicom China1 Backbone
 117.175.185.81/32 # China | Guangdong Province | China Mobile
-119.30.117.23/32 # Pakistan | Punjab | Jazzworld Pakistan Limited
-119.73.7.54/32 # Pakistan | Punjab | Jazzworld Pakistan Limited
-122.50.1.161/32 # Pakistan | Sindh | Logon Broadband Pvt. Limited
-123.5.127.13/32 # China | Henan Sheng | CHINA UNICOM China169 Backbone
 123.139.57.103/32 # China | Shaanxi | China Unicom China1 Backbone
-123.148.215.195/32 # China | Zhejiang Sheng | CHINA UNICOM China169 Backbone
-124.29.224.231/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
 124.222.137.114/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
-125.44.215.58/32 # China | Henan Sheng | CHINA UNICOM China169 Backbone
 125.253.9.0/32 # Australia | Western Australia | SUPERLOOP AUSTRALIA PTY LTD
 129.226.128.168/32 # Hong Kong | Hong Kong | Shenzhen Tencent Computer Systems ...
 130.49.214.20/32 # Russian Federation | Moskva | GTHost
@@ -340,15 +275,11 @@
 135.136.58.185/32 # United Kingdom | England | M247 Europe SRL
 135.136.58.187/32 # United Kingdom | England | M247 Europe SRL
 135.136.58.207/32 # United Kingdom | England | M247 Europe SRL
-137.59.230.198/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
-138.68.15.148/32 # United States | California | DigitalOcean, LLC
 138.124.101.92/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 138.199.43.68/32 # United States | Washington | Datacamp Limited
 138.199.43.81/32 # United States | Washington | Datacamp Limited
 138.249.91.155/32 # Germany | Land Berlin | Ivanov Vitaliy Sergeevich
 139.84.170.230/32 # India | Uttar Pradesh | The Constant Company, LLC
-139.135.46.112/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
-139.135.60.50/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
 140.205.220.98/32 # China | Zhejiang | Hangzhou Alibaba Advertising CO.,LTD.
 141.98.255.184/32 # Sweden | Skane County | 31173 Services AB
 141.98.255.216/32 # Sweden | Skane County | 31173 Services AB
@@ -378,14 +309,15 @@
 146.70.119.88/32 # United Kingdom | England | M247 Europe SRL
 146.70.165.89/32 # United States | New York | M247 Europe SRL
 146.70.165.124/32 # United States | New York | M247 Europe SRL
+146.70.168.71/32 # United States | New York | M247 Europe SRL
 146.70.168.224/32 # United States | New York | M247 Europe SRL
+146.70.173.40/32 # United States | California | M247 Europe SRL
 146.70.173.64/32 # United States | California | M247 Europe SRL
 146.70.173.117/32 # United States | California | M247 Europe SRL
 147.78.240.73/32 # Germany | Hessen | Owl Limited
-147.78.240.139/32 # Germany | Hessen | Owl Limited
-147.224.133.213/32 # United States | Illinois | Oracle Corporation
-147.224.162.255/32 # United States | Illinois | Oracle Corporation
-147.224.175.232/32 # United States | Illinois | Oracle Corporation
+149.40.50.111/32 # United States | Massachusetts | Datacamp Limited
+149.40.50.117/32 # United States | Massachusetts | Datacamp Limited
+149.40.50.122/32 # United States | Massachusetts | Datacamp Limited
 152.233.51.7/32 # Germany | Land Berlin | Datacamp Limited
 152.233.51.24/32 # Germany | Land Berlin | Datacamp Limited
 152.233.51.54/32 # Germany | Land Berlin | Datacamp Limited
@@ -393,13 +325,6 @@
 152.234.162.216/32 # Germany | Free and Hanseatic City of Hamburg | Ivanov Vita...
 152.234.172.148/32 # Germany | Hessen | Ivanov Vitaliy Sergeevich
 153.75.82.220/32 # United States | Utah | RouterHosting LLC
-153.117.9.219/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
-153.117.32.185/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
-153.117.33.216/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
-153.117.38.43/32 # Pakistan | Sindh | Cyber Internet Services Private Limited
-153.117.40.131/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
-153.117.69.14/32 # Pakistan | Sindh | Cyber Internet Services Private Limited
-153.230.34.205/32 # Japan | Niigata-ken | NTT DOCOMO BUSINESS,Inc.
 154.12.225.133/32 # United States | Missouri | Contabo Inc.
 154.12.225.143/32 # United States | Missouri | Contabo Inc.
 154.12.227.89/32 # United States | Missouri | Contabo Inc.
@@ -499,7 +424,6 @@
 157.173.219.148/32 # India | Maharashtra | Hostinger International Limited
 157.180.40.106/32 # Finland | Mainland Finland | Hetzner Online GmbH
 157.230.161.18/32 # United States | California | DigitalOcean, LLC
-157.245.222.108/32 # United States | New Jersey | DigitalOcean, LLC
 157.254.167.12/32 # United States | Maryland | TierPoint, LLC
 158.94.208.130/32 # Germany | Hesse | Omegatech LTD
 158.94.209.23/32 # Netherlands | North Holland | Omegatech LTD
@@ -510,28 +434,22 @@
 162.33.179.149/32 # United States | Illinois | Bl Networks
 162.216.5.130/32 # United States | Florida | Hivelocity, Inc.
 164.90.129.126/32 # United States | New Jersey | Digitalocean, LLC
-165.22.126.153/32 # United Kingdom | England | DigitalOcean, LLC
-165.227.21.236/32 # United States | California | DigitalOcean, LLC
 165.227.133.250/32 # Germany | Hessen | DigitalOcean, LLC
-167.172.211.30/32 # United States | California | DigitalOcean, LLC
 168.231.121.209/32 # India | Maharashtra | Hostinger International Limited
 169.40.2.68/32 # Latvia | Vidzeme | SIA VEESP
-169.58.84.111/32 # France | Grand Est | Contabo GmbH
 169.150.196.10/32 # Netherlands | Provincie Noord-Holland | Datacamp Limited
 169.150.196.19/32 # Netherlands | Provincie Noord-Holland | Datacamp Limited
 169.150.211.156/32 # Germany | Hessen | Datacamp Limited
 169.155.235.151/32 # Spain | Comunidad de Madrid | Space Exploration Technologi...
 170.62.100.156/32 # Sweden | Stockholm County | Datacamp Limited
-170.62.100.206/32 # Sweden | Stockholm County | Datacamp Limited
 170.62.100.221/32 # Sweden | Stockholm County | Datacamp Limited
 170.62.100.251/32 # Sweden | Stockholm County | Datacamp Limited
 170.168.103.208/32 # Germany | Berlin | GTHost
 170.205.31.28/32 # United States | California | Advin Services LLC
-171.88.123.86/32 # China | Sichuan Sheng | No.31,Jin-rong Street
 172.67.174.137/32 # United States | California | Cloudflare, Inc.
 172.86.89.51/32 # United States | Texas | Routerhosting LLC
-172.104.233.215/32 # Germany | Hessen | Akamai Technologies, Inc.
 173.249.252.54/32 # United States | Illinois | tzulo, inc.
+173.249.252.184/32 # United States | Illinois | tzulo, inc.
 173.249.252.186/32 # United States | Illinois | tzulo, inc.
 173.249.253.37/32 # United States | Illinois | tzulo, inc.
 173.249.253.117/32 # United States | Illinois | tzulo, inc.
@@ -541,9 +459,6 @@
 173.249.255.84/32 # United States | Illinois | tzulo, inc.
 173.249.255.97/32 # United States | Illinois | tzulo, inc.
 173.255.229.72/32 # United States | New Jersey | Akamai Technologies, Inc.
-175.107.1.1/32 # Pakistan | Islamabad | National Telecommunication Corporation
-175.107.205.71/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
-175.107.215.95/32 # Pakistan | Sindh | Cyber Internet Services Private Limited
 176.101.58.22/32 # Germany | Land Berlin | HOST TELECOM LTD
 176.119.150.234/32 # Germany | Hessen | Owl Limited
 176.125.242.155/32 # Republic of Moldova | Chisinau | ALEXHOST SRL
@@ -565,15 +480,16 @@
 185.121.233.78/32 # Netherlands | North Holland | SERVERS TECH FZCO
 185.133.123.200/32 # Spain | Region de Murcia | TELE SATELITE DE MAZARRON SL
 185.135.86.149/32 # Latvia | Vidzeme | Melbikomas Uab
-185.141.119.157/32 # United States | Michigan | HostRoyale Technologies Pvt Ltd
+185.156.46.133/32 # United States | District of Columbia | Datacamp Limited
+185.156.46.153/32 # United States | District of Columbia | Datacamp Limited
+185.156.46.164/32 # United States | District of Columbia | Datacamp Limited
+185.156.46.168/32 # United States | District of Columbia | Datacamp Limited
 185.184.222.91/32 # Netherlands | Provincie Noord-Holland | Owl Limited
-185.184.222.93/32 # Netherlands | Provincie Noord-Holland | Owl Limited
 185.195.232.206/32 # United Kingdom | England | 31173 Services AB
 185.195.232.215/32 # United Kingdom | England | 31173 Services AB
 185.195.233.194/32 # Sweden | Stockholm County | 31173 Services AB
 185.198.234.10/32 # Netherlands | North Holland | Royalehosting BV
 185.209.196.166/32 # Germany | Hessen | 31173 Services AB
-185.209.199.111/32 # Sweden | Vastra Gotaland County | 31173 Services AB
 185.209.199.127/32 # Sweden | Vastra Gotaland County | 31173 Services AB
 185.210.18.3/32 # Spain | Region de Murcia | AVATEL TELECOM, SA
 185.213.154.179/32 # Sweden | Vastra Gotaland County | 31173 Services AB
@@ -582,7 +498,6 @@
 186.243.179.87/32 # Germany | Bavaria | IT HOSTLINE LTD
 186.243.205.34/32 # Germany | Free and Hanseatic City of Hamburg | IT HOSTLINE...
 186.243.209.222/32 # Germany | Nordrhein-Westfalen | IT HOSTLINE LTD
-187.45.95.254/32 # Brazil | Paraiba | ASSOCIAÇÃO NACIONAL PARA INCLUSÃO DIGIT...
 187.52.196.64/32 # Germany | Nordrhein-Westfalen | Ivanov Vitaliy Sergeevich
 187.126.34.102/32 # Germany | Hessen | Ivanov Vitaliy Sergeevich
 188.214.34.20/32 # Cyprus | South Cyprus | Edis GmbH
@@ -612,12 +527,10 @@
 195.82.146.180/32 # Estonia | Harju maakond | Vault Dweller OU
 195.82.147.188/32 # Estonia | Harju maakond | Vault Dweller OU
 195.133.38.33/32 # Netherlands | Noord-Holland | NKtelecom INC
-195.182.16.183/32 # Germany | Hessen | Amarutu Technology Ltd
 195.211.190.189/32 # Netherlands | Limburg | INTERKVM HOST SRL
 196.251.86.145/32 # Netherlands | North Holland | internet security cheapy.host
 196.251.116.219/32 # Netherlands | North Holland | internet secuirty Nybula
 198.13.159.44/32 # Netherlands | North Holland | Bl Networks
-198.199.72.73/32 # United States | New Jersey | DigitalOcean, LLC
 199.19.77.84/32 # Poland | Pomeranian Voivodeship | 3K33 sp. z o.o.
 199.91.221.42/32 # Netherlands | North Holland | Bl Networks
 199.217.98.108/32 # Netherlands | North Holland | Bl Networks
@@ -627,12 +540,9 @@
 200.225.185.249/32 # Germany | Nordrhein-Westfalen | Ivanov Vitaliy Sergeevich
 201.4.109.56/32 # Germany | Hamburg | Ivanov Vitaliy Sergeevich
 201.4.115.145/32 # Germany | Nordrhein-Westfalen | Ivanov Vitaliy Sergeevich
-202.70.139.120/32 # Pakistan | Punjab | Cyber Internet Services Private Limited
-204.76.203.31/32 # Netherlands | Provincie Limburg | Pfcloud UG haftungsbesch...
 206.189.97.184/32 # Netherlands | North Holland | Digitalocean, LLC
 207.21.124.68/32 # United States | California | NTT America, Inc.
 207.188.189.35/32 # Spain | Comunidad de Madrid | XTRA TELECOM S.A.
-207.211.164.11/32 # United States | Illinois | Oracle Corporation
 209.17.118.17/32 # Singapore | Southeast | LEASEWEB SINGAPORE PTE. LTD.
 209.99.184.93/32 # Switzerland | Kanton Zurich | SKN Subnet & Telecom Ltd
 209.145.53.180/32 # United States | Missouri | Contabo Inc.
@@ -648,13 +558,3 @@
 216.252.238.64/32 # Netherlands | Provincie Noord-Holland | Psychz Networks
 216.252.238.104/32 # Netherlands | Provincie Noord-Holland | Psychz Networks
 217.160.248.17/32 # Spain | Madrid | IONOS SE
-219.73.68.83/32 # Hong Kong | Hong Kong | PCCW IMS Limited
-220.121.86.39/32 # South Korea | Gyeonggi-do | Korea Telecom
-221.15.191.114/32 # China | Henan Sheng | CHINA UNICOM China169 Backbone
-223.29.233.43/32 # Pakistan | Sindh | Logon Broadband Pvt. Limited
-223.123.34.80/32 # Pakistan | Islamabad | CMPak Limited
-223.123.34.110/32 # Pakistan | Islamabad | CMPak Limited
-223.123.34.118/32 # Pakistan | Islamabad | CMPak Limited
-223.123.34.174/32 # Pakistan | Islamabad | CMPak Limited
-223.123.73.107/32 # Pakistan | Islamabad | CMPak Limited
-223.123.125.32/32 # Pakistan | Islamabad | CMPak Limited
