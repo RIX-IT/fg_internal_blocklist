@@ -1,21 +1,16 @@
 23.234.72.0/24 # United States | California | tzulo, inc.
-23.234.75.0/24 # United States | California | tzulo, inc.
 23.234.96.0/24 # United States | District of Columbia | tzulo, inc.
-23.234.104.0/24 # United States | Texas | tzulo, inc.
 23.234.106.0/24 # United States | Texas | tzulo, inc.
-37.19.200.0/24 # United States | Texas | Datacamp Limited
 77.91.71.0/24 # Israel | Tel Aviv District | Proline IT Ltd
 80.66.197.0/24 # Germany | Nordrhein-Westfalen | Owl Limited
-87.249.134.0/24 # United States | Illinois | Datacamp Limited
 138.226.239.0/24 # Netherlands | Provincie Noord-Holland | DIGITAL NETWORK S....
+143.244.47.0/24 # United States | New York | Datacamp Limited
 147.78.241.0/24 # Germany | Nordrhein-Westfalen | Owl Limited
-151.241.171.0/24 # Germany | Land Berlin | 31173 Services AB
 185.136.15.0/24 # Netherlands | Provincie Noord-Holland | AO ALMAZ
 2.24.131.246/32 # United Kingdom | England | Hostinger International Limited
 2.56.179.16/32 # United Kingdom | England | Worktitans B.V.
 2.58.14.254/32 # Netherlands | Provincie Noord-Holland | CrownCloud GWY IT ...
 2.58.15.231/32 # Netherlands | Provincie Noord-Holland | CrownCloud GWY IT ...
-2.121.56.15/32 # United Kingdom | England | Sky UK Limited
 3.8.22.110/32 # United Kingdom | England | Amazon.com, Inc.
 3.11.13.98/32 # United Kingdom | England | Amazon.com, Inc.
 5.8.18.80/32 # Russian Federation | Saint Petersburg | Petersburg Interne...
@@ -37,6 +32,7 @@
 23.144.160.207/32 # United States | California | SB Professional Services
 23.144.160.214/32 # United States | California | SB Professional Services
 23.159.216.175/32 # United States | California | Byte Node LLC
+23.160.24.53/32 # United States | California | Data Bridge Limited
 23.160.24.153/32 # United States | California | Data Bridge Limited
 23.160.24.242/32 # United States | California | Data Bridge Limited
 23.162.8.104/32 # United States | New York | Jone Broadband LLC
@@ -52,12 +48,15 @@
 23.234.73.226/32 # United States | California | tzulo, inc.
 23.234.74.216/32 # United States | California | tzulo, inc.
 23.234.74.220/32 # United States | California | tzulo, inc.
+23.234.75.101/32 # United States | California | tzulo, inc.
+23.234.75.116/32 # United States | California | tzulo, inc.
+23.234.75.180/32 # United States | California | tzulo, inc.
+23.234.75.193/32 # United States | California | tzulo, inc.
 23.234.78.24/32 # United States | North Carolina | tzulo, inc.
 23.234.78.115/32 # United States | North Carolina | tzulo, inc.
 23.234.78.150/32 # United States | North Carolina | tzulo, inc.
 23.234.79.66/32 # United States | North Carolina | tzulo, inc.
 23.234.88.53/32 # United States | Arizona | tzulo, inc.
-23.234.88.89/32 # United States | Arizona | tzulo, inc.
 23.234.89.32/32 # United States | Arizona | tzulo, inc.
 23.234.91.45/32 # United States | Arizona | tzulo, inc.
 23.234.93.94/32 # United States | California | tzulo, inc.
@@ -70,9 +69,14 @@
 23.234.99.249/32 # United States | District of Columbia | tzulo, inc.
 23.234.103.83/32 # United States | New York | tzulo, inc.
 23.234.103.153/32 # United States | New York | tzulo, inc.
+23.234.104.53/32 # United States | Texas | tzulo, inc.
+23.234.104.64/32 # United States | Texas | tzulo, inc.
+23.234.104.186/32 # United States | Texas | tzulo, inc.
+23.234.104.189/32 # United States | Texas | tzulo, inc.
 23.234.105.86/32 # United States | Texas | tzulo, inc.
 23.234.107.88/32 # United States | Texas | tzulo, inc.
 23.234.107.165/32 # United States | Texas | tzulo, inc.
+23.234.108.207/32 # United States | Georgia | tzulo, inc.
 23.234.109.183/32 # United States | Georgia | tzulo, inc.
 23.234.111.44/32 # United States | Georgia | tzulo, inc.
 23.234.113.24/32 # United States | Utah | tzulo, inc.
@@ -82,13 +86,17 @@
 23.234.118.235/32 # United States | Missouri | tzulo, inc.
 23.234.119.238/32 # United States | Missouri | tzulo, inc.
 31.42.184.213/32 # Ukraine | Kyiv | Virtual Systems LLC
-31.54.250.154/32 # United Kingdom | England | British Telecommunications Limited
 31.56.197.72/32 # Latvia | Riga | CGI GLOBAL LIMITED
 31.57.129.23/32 # Romania | Bucharest | FIVE CYBER HOST SECURITY S.R.L.
 31.57.243.154/32 # United States | Illinois | Latitude.sh LTDA
 31.220.109.219/32 # United States | Arizona | Hostinger International Limited
 35.252.246.89/32 # United States | Oregon | Google LLC
-37.19.210.29/32 # United States | Colorado | Datacamp Limited
+37.19.200.135/32 # United States | Texas | Datacamp Limited
+37.19.200.141/32 # United States | Texas | Datacamp Limited
+37.19.200.159/32 # United States | Texas | Datacamp Limited
+37.19.200.163/32 # United States | Texas | Datacamp Limited
+37.19.221.147/32 # United States | Texas | Datacamp Limited
+37.19.221.168/32 # United States | Texas | Datacamp Limited
 37.19.221.173/32 # United States | Texas | Datacamp Limited
 37.19.221.175/32 # United States | Texas | Datacamp Limited
 37.120.247.228/32 # Romania | Bucharest | M247 Europe SRL
@@ -126,6 +134,7 @@
 45.148.10.212/32 # Netherlands | North Holland | TECHOFF SRV LIMITED
 45.150.112.237/32 # Germany | Land Berlin | Clouvider Limited
 45.151.91.187/32 # Seychelles | Mahe | Ip Vendetta Inc.
+45.153.102.199/32 # United States | District of Columbia | HostRoyale Technolo...
 45.159.85.66/32 # Germany | Baden-Wurttemberg | Clouvider Limited
 45.221.64.224/32 # Seychelles | Mahe | internet security
 46.30.188.33/32 # Netherlands | Provincie Noord-Holland | CrownCloud GWY IT ...
@@ -168,29 +177,21 @@
 69.67.173.30/32 # Romania | Bucharest | Bl Networks
 72.23.77.35/32 # United States | Pennsylvania | Armstrong
 77.83.39.211/32 # Netherlands | North Holland | KPROHOST LLC
-77.86.13.154/32 # United Kingdom | England | KCOM Group Limited
 77.90.153.30/32 # Germany | Schleswig-Holstein | British Telecommunications PLC
 78.121.120.120/32 # France | Nouvelle-Aquitaine | Societe Francaise Du Radiote...
-78.148.69.145/32 # United Kingdom | England | TalkTalk Communications Limited
-79.116.226.47/32 # Spain | Comunidad de Madrid | DIGI SPAIN TELECOM S.A
-79.116.235.61/32 # Spain | Comunidad de Madrid | DIGI SPAIN TELECOM S.A
 79.117.176.238/32 # Spain | Comunidad de Madrid | DIGI SPAIN TELECOM S.A
-79.117.188.187/32 # Spain | Comunidad de Madrid | DIGI SPAIN TELECOM S.A
-79.117.222.107/32 # Spain | Comunidad de Madrid | DIGI SPAIN TELECOM S.A
 79.127.217.43/32 # United States | California | Datacamp Limited
 79.127.217.44/32 # United States | California | Datacamp Limited
-79.127.217.49/32 # United States | California | Datacamp Limited
 79.127.217.53/32 # United States | California | Datacamp Limited
+79.127.217.56/32 # United States | California | Datacamp Limited
+79.127.222.206/32 # United States | Texas | Datacamp Limited
 79.127.222.213/32 # United States | Texas | Datacamp Limited
+79.127.222.218/32 # United States | Texas | Datacamp Limited
 79.133.56.90/32 # Germany | Hessen | Ultahost, Inc.
 79.141.161.139/32 # United States | Illinois | HZ Hosting Ltd
 81.100.146.168/32 # United Kingdom | England | Virgin Media Limited
-81.105.240.69/32 # United Kingdom | England | Virgin Media Limited
 81.177.215.15/32 # Türkiye | Istanbul | GLOBAL CONNECTIVITY SOLUTIONS LLP
-82.44.124.67/32 # United Kingdom | England | Virgin Media Limited
-83.63.10.213/32 # Spain | Andalusia | TELEFONICA DE ESPANA S.A.U.
 83.100.218.72/32 # United Kingdom | England | KCOM Group Limited
-83.106.39.183/32 # United Kingdom | England | Vodafone Limited
 83.136.208.48/32 # France | Île-de-France | PETROSKY CLOUD LLC
 83.136.208.246/32 # France | Île-de-France | PETROSKY CLOUD LLC
 83.136.209.22/32 # France | Île-de-France | PETROSKY CLOUD LLC
@@ -202,13 +203,13 @@
 85.203.54.33/32 # United States | California | SB Professional Services
 85.203.54.98/32 # United States | California | SB Professional Services
 85.239.240.32/32 # United States | Missouri | Contabo Inc.
-86.29.13.229/32 # United Kingdom | Northern Ireland | Virgin Media Limited
-86.31.30.144/32 # United Kingdom | England | Virgin Media Limited
 86.54.24.25/32 # Latvia | Vidzeme | Noyobzoda Faridduni Saidilhom
 86.127.236.61/32 # Spain | Comunidad de Madrid | DIGI SPAIN TELECOM S.A
-86.157.76.52/32 # United Kingdom | England | British Telecommunications Limited
 87.106.191.217/32 # Germany | Hesse | IONOS SE
 87.120.219.26/32 # United Kingdom | England | GLOBAL CONNECTIVITY SOLUTIONS LLP
+87.249.134.16/32 # United States | Illinois | Datacamp Limited
+87.249.134.20/32 # United States | Illinois | Datacamp Limited
+87.249.134.24/32 # United States | Illinois | Datacamp Limited
 88.98.105.166/32 # Spain | Region de Murcia | AVATEL TELECOM, SA
 89.44.80.7/32 # United Arab Emirates | Dubai | HZ Hosting Ltd
 89.45.4.189/32 # United States | California | M247 Europe SRL
@@ -217,7 +218,6 @@
 89.124.96.27/32 # Netherlands | North Holland | SERVERS TECH FZCO
 89.130.146.90/32 # Spain | Andalusia | Orange Espagne SA
 89.195.5.18/32 # United States | California | Mongodb, Inc.
-90.208.212.69/32 # United Kingdom | England | Sky UK Limited
 91.92.34.242/32 # Germany | Hessen | DEDIK SERVICES LIMITED
 91.92.240.100/32 # Germany | Hessen | Omegatech LTD
 91.92.243.126/32 # United States | New York | Omegatech LTD
@@ -234,7 +234,6 @@
 94.140.115.129/32 # Latvia | Riga | Sia Nano IT
 94.154.172.43/32 # Seychelles | Mahe | Ip Vendetta Inc.
 95.81.118.189/32 # Germany | Hessen | NKtelecom INC
-95.144.46.149/32 # United Kingdom | England | British Telecommunications Limited
 103.27.110.232/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.81.230.83/32 # United States | District of Columbia | HostRoyale Technolo...
 103.96.130.107/32 # Hong Kong | Hong Kong | WUZHOUHULIAN INTERNATIONAL CO., LI...
@@ -259,7 +258,6 @@
 117.175.185.81/32 # China | Guangdong Province | China Mobile
 123.139.57.103/32 # China | Shaanxi | China Unicom China1 Backbone
 124.222.137.114/32 # China | Shanghai | Shenzhen Tencent Computer Systems Compa...
-125.253.9.0/32 # Australia | Western Australia | SUPERLOOP AUSTRALIA PTY LTD
 129.226.128.168/32 # Hong Kong | Hong Kong | Shenzhen Tencent Computer Systems ...
 130.49.214.20/32 # Russian Federation | Moskva | GTHost
 130.94.42.226/32 # Singapore | Central Singapore | LIGHT NODE LIMITED
@@ -267,17 +265,13 @@
 134.175.71.50/32 # China | Guangdong Sheng | Shenzhen Tencent Computer System...
 134.195.91.224/32 # United States | California | Hosthatch, LLC
 134.209.82.225/32 # Netherlands | Provincie Noord-Holland | DigitalOcean, LLC
-135.136.19.61/32 # Germany | Hessen | M247 Europe SRL
-135.136.19.122/32 # Germany | Hessen | M247 Europe SRL
 135.136.21.117/32 # United Kingdom | England | M247 Europe SRL
 135.136.22.218/32 # United Kingdom | England | M247 Europe SRL
 135.136.54.114/32 # United States | Illinois | M247 Europe SRL
-135.136.58.185/32 # United Kingdom | England | M247 Europe SRL
 135.136.58.187/32 # United Kingdom | England | M247 Europe SRL
-135.136.58.207/32 # United Kingdom | England | M247 Europe SRL
 138.124.101.92/32 # Netherlands | North Holland | AEZA INTERNATIONAL LTD
 138.199.43.68/32 # United States | Washington | Datacamp Limited
-138.199.43.81/32 # United States | Washington | Datacamp Limited
+138.199.43.80/32 # United States | Washington | Datacamp Limited
 138.249.91.155/32 # Germany | Land Berlin | Ivanov Vitaliy Sergeevich
 139.84.170.230/32 # India | Uttar Pradesh | The Constant Company, LLC
 140.205.220.98/32 # China | Zhejiang | Hangzhou Alibaba Advertising CO.,LTD.
@@ -293,9 +287,6 @@
 143.198.7.94/32 # United States | New Jersey | DigitalOcean, LLC
 143.198.19.135/32 # United States | New Jersey | Digitalocean, LLC
 143.198.163.52/32 # United States | New Jersey | DigitalOcean, LLC
-143.244.47.67/32 # United States | New York | Datacamp Limited
-143.244.47.84/32 # United States | New York | Datacamp Limited
-143.244.47.89/32 # United States | New York | Datacamp Limited
 144.31.53.78/32 # Finland | Mainland Finland | Vpspay Networks LTD
 144.31.221.179/32 # Germany | Hesse | Kyonix Networks Limited
 144.31.221.197/32 # Germany | Hesse | Kyonix Networks Limited
@@ -318,10 +309,13 @@
 149.40.50.111/32 # United States | Massachusetts | Datacamp Limited
 149.40.50.117/32 # United States | Massachusetts | Datacamp Limited
 149.40.50.122/32 # United States | Massachusetts | Datacamp Limited
+151.241.171.67/32 # Germany | Land Berlin | 31173 Services AB
+151.241.171.158/32 # Germany | Land Berlin | 31173 Services AB
+151.241.171.193/32 # Germany | Land Berlin | 31173 Services AB
+151.241.171.199/32 # Germany | Land Berlin | 31173 Services AB
 152.233.51.7/32 # Germany | Land Berlin | Datacamp Limited
 152.233.51.24/32 # Germany | Land Berlin | Datacamp Limited
 152.233.51.54/32 # Germany | Land Berlin | Datacamp Limited
-152.233.51.62/32 # Germany | Land Berlin | Datacamp Limited
 152.234.162.216/32 # Germany | Free and Hanseatic City of Hamburg | Ivanov Vita...
 152.234.172.148/32 # Germany | Hessen | Ivanov Vitaliy Sergeevich
 153.75.82.220/32 # United States | Utah | RouterHosting LLC
@@ -419,8 +413,6 @@
 154.196.86.248/32 # Germany | Hessen | Clouvider Limited
 154.196.87.163/32 # Germany | Hessen | Clouvider Limited
 155.2.191.66/32 # United States | Ohio | Host Universal Pty Ltd
-155.2.191.81/32 # United States | Ohio | Host Universal Pty Ltd
-155.2.191.129/32 # United States | Ohio | Host Universal Pty Ltd
 157.173.219.148/32 # India | Maharashtra | Hostinger International Limited
 157.180.40.106/32 # Finland | Mainland Finland | Hetzner Online GmbH
 157.230.161.18/32 # United States | California | DigitalOcean, LLC
@@ -443,7 +435,6 @@
 169.155.235.151/32 # Spain | Comunidad de Madrid | Space Exploration Technologi...
 170.62.100.156/32 # Sweden | Stockholm County | Datacamp Limited
 170.62.100.221/32 # Sweden | Stockholm County | Datacamp Limited
-170.62.100.251/32 # Sweden | Stockholm County | Datacamp Limited
 170.168.103.208/32 # Germany | Berlin | GTHost
 170.205.31.28/32 # United States | California | Advin Services LLC
 172.67.174.137/32 # United States | California | Cloudflare, Inc.
@@ -503,13 +494,11 @@
 188.214.34.20/32 # Cyprus | South Cyprus | Edis GmbH
 192.109.138.65/32 # Netherlands | Limburg | Colocatel Inc.
 192.155.80.45/32 # United States | California | Akamai Technologies, Inc.
-192.166.208.171/32 # United Kingdom | England | Community Fibre Limited
 192.252.186.62/32 # Hong Kong | Hong Kong | CTG Server Limited
 192.255.141.13/32 # United States | Texas | HostPapa
 193.26.115.42/32 # United States | Florida | 1337 Services GmbH
 193.29.57.37/32 # Germany | Hessen | Michael Sebastian Schinzel trading as I...
 193.32.249.160/32 # Netherlands | Provincie Noord-Holland | 31173 Services AB
-193.32.249.163/32 # Netherlands | Provincie Noord-Holland | 31173 Services AB
 193.32.249.174/32 # Netherlands | Provincie Noord-Holland | 31173 Services AB
 193.32.249.230/32 # Netherlands | Provincie Noord-Holland | 31173 Services AB
 193.177.211.243/32 # Spain | Comunitat Valenciana | XTRA TELECOM S.A.
