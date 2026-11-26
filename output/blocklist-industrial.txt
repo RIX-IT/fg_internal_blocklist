@@ -1,7 +1,7 @@
 23.234.73.0/24 # United States | California | tzulo, inc.
-23.234.74.0/24 # United States | California | tzulo, inc.
 23.234.99.0/24 # United States | District of Columbia | tzulo, inc.
-23.234.107.0/24 # United States | Texas | tzulo, inc.
+23.234.104.0/24 # United States | Texas | tzulo, inc.
+37.19.210.0/24 # United States | Colorado | Datacamp Limited
 37.19.221.0/24 # United States | Texas | Datacamp Limited
 45.134.142.0/24 # United States | Florida | Datacamp Limited
 68.235.46.0/24 # United States | Illinois | tzulo, inc.
@@ -33,7 +33,6 @@
 23.144.160.222/32 # United States | California | SB Professional Services
 23.144.160.250/32 # United States | California | SB Professional Services
 23.159.216.175/32 # United States | California | Byte Node LLC
-23.165.8.107/32 # United States | New York | Etherware Solutions LLC
 23.165.8.168/32 # United States | New York | Etherware Solutions LLC
 23.165.8.169/32 # United States | New York | Etherware Solutions LLC
 23.165.8.194/32 # United States | New York | Etherware Solutions LLC
@@ -43,39 +42,41 @@
 23.227.196.107/32 # United States | Illinois | Hivelocity, Inc.
 23.234.72.73/32 # United States | California | tzulo, inc.
 23.234.72.168/32 # United States | California | tzulo, inc.
-23.234.72.182/32 # United States | California | tzulo, inc.
 23.234.72.254/32 # United States | California | tzulo, inc.
+23.234.74.65/32 # United States | California | tzulo, inc.
+23.234.74.72/32 # United States | California | tzulo, inc.
+23.234.74.80/32 # United States | California | tzulo, inc.
+23.234.74.92/32 # United States | California | tzulo, inc.
 23.234.75.42/32 # United States | California | tzulo, inc.
 23.234.75.120/32 # United States | California | tzulo, inc.
 23.234.75.193/32 # United States | California | tzulo, inc.
 23.234.75.221/32 # United States | California | tzulo, inc.
 23.234.76.92/32 # United States | North Carolina | tzulo, inc.
-23.234.81.108/32 # United States | Washington | tzulo, inc.
 23.234.88.89/32 # United States | Arizona | tzulo, inc.
 23.234.88.240/32 # United States | Arizona | tzulo, inc.
+23.234.89.174/32 # United States | Arizona | tzulo, inc.
 23.234.90.79/32 # United States | Arizona | tzulo, inc.
 23.234.91.154/32 # United States | Arizona | tzulo, inc.
 23.234.96.111/32 # United States | District of Columbia | tzulo, inc.
 23.234.96.215/32 # United States | District of Columbia | tzulo, inc.
+23.234.97.43/32 # United States | District of Columbia | tzulo, inc.
 23.234.97.75/32 # United States | District of Columbia | tzulo, inc.
 23.234.97.79/32 # United States | District of Columbia | tzulo, inc.
 23.234.97.167/32 # United States | District of Columbia | tzulo, inc.
 23.234.98.92/32 # United States | District of Columbia | tzulo, inc.
 23.234.98.125/32 # United States | District of Columbia | tzulo, inc.
 23.234.98.165/32 # United States | District of Columbia | tzulo, inc.
-23.234.104.64/32 # United States | Texas | tzulo, inc.
-23.234.104.166/32 # United States | Texas | tzulo, inc.
-23.234.104.205/32 # United States | Texas | tzulo, inc.
-23.234.104.242/32 # United States | Texas | tzulo, inc.
 23.234.105.52/32 # United States | Texas | tzulo, inc.
 23.234.105.165/32 # United States | Texas | tzulo, inc.
 23.234.106.237/32 # United States | Texas | tzulo, inc.
+23.234.107.84/32 # United States | Texas | tzulo, inc.
+23.234.107.109/32 # United States | Texas | tzulo, inc.
+23.234.107.192/32 # United States | Texas | tzulo, inc.
+23.234.107.195/32 # United States | Texas | tzulo, inc.
 23.234.113.77/32 # United States | Utah | tzulo, inc.
-23.234.114.28/32 # United States | Utah | tzulo, inc.
 23.234.116.226/32 # United States | Missouri | tzulo, inc.
 23.234.117.156/32 # United States | Missouri | tzulo, inc.
 23.234.118.120/32 # United States | Missouri | tzulo, inc.
-23.234.118.235/32 # United States | Missouri | tzulo, inc.
 31.42.184.213/32 # Ukraine | Kyiv | Virtual Systems LLC
 31.56.197.72/32 # Latvia | Riga | CGI GLOBAL LIMITED
 31.57.129.23/32 # Romania | Bucharest | FIVE CYBER HOST SECURITY S.R.L.
@@ -83,10 +84,6 @@
 31.220.109.219/32 # United States | Arizona | Hostinger International Limited
 35.252.246.89/32 # United States | Oregon | Google LLC
 37.19.200.163/32 # United States | Texas | Datacamp Limited
-37.19.210.4/32 # United States | Colorado | Datacamp Limited
-37.19.210.7/32 # United States | Colorado | Datacamp Limited
-37.19.210.21/32 # United States | Colorado | Datacamp Limited
-37.19.210.31/32 # United States | Colorado | Datacamp Limited
 37.120.247.228/32 # Romania | Bucharest | M247 Europe SRL
 37.221.66.27/32 # Republic of Moldova | Chisinau | AVA HOST SRL
 37.221.66.174/32 # Republic of Moldova | Chisinau | AVA HOST SRL
@@ -127,7 +124,6 @@
 45.151.91.187/32 # Seychelles | Mahe | Ip Vendetta Inc.
 45.153.102.152/32 # United States | District of Columbia | HostRoyale Technolo...
 45.153.102.199/32 # United States | District of Columbia | HostRoyale Technolo...
-45.153.102.230/32 # United States | District of Columbia | HostRoyale Technolo...
 45.153.227.213/32 # Germany | Land Berlin | Clouvider Limited
 45.159.85.186/32 # Germany | Baden-Wurttemberg | Clouvider Limited
 45.221.64.224/32 # Seychelles | Mahe | internet security
@@ -161,7 +157,6 @@
 64.226.124.190/32 # Germany | Hessen | DigitalOcean, LLC
 66.78.40.107/32 # United States | Washington | Aokigahara SRL
 66.179.94.117/32 # United States | Pennsylvania | IONOS SE
-66.234.159.191/32 # United States | Illinois | M247 Europe SRL
 66.234.159.193/32 # United States | Illinois | M247 Europe SRL
 66.234.159.222/32 # United States | Illinois | M247 Europe SRL
 66.234.159.231/32 # United States | Illinois | M247 Europe SRL
@@ -171,7 +166,6 @@
 72.23.77.35/32 # United States | Pennsylvania | Armstrong
 77.83.39.211/32 # Netherlands | North Holland | KPROHOST LLC
 77.90.153.30/32 # Germany | Schleswig-Holstein | British Telecommunications PLC
-79.127.217.53/32 # United States | California | Datacamp Limited
 79.133.56.90/32 # Germany | Hessen | Ultahost, Inc.
 79.141.161.139/32 # United States | Illinois | HZ Hosting Ltd
 81.177.215.15/32 # Türkiye | Istanbul | GLOBAL CONNECTIVITY SOLUTIONS LLP
@@ -207,6 +201,7 @@
 101.201.173.184/32 # China | Beijing | Hangzhou Alibaba Advertising Co.,Ltd.
 103.27.110.232/32 # Hong Kong | Hong Kong | Hong Kong San Ai Net Int l Limited
 103.81.230.94/32 # United States | District of Columbia | HostRoyale Technolo...
+103.81.231.211/32 # United States | District of Columbia | HostRoyale Technolo...
 103.81.231.212/32 # United States | District of Columbia | HostRoyale Technolo...
 103.81.231.221/32 # United States | District of Columbia | HostRoyale Technolo...
 103.96.130.107/32 # Hong Kong | Hong Kong | WUZHOUHULIAN INTERNATIONAL CO., LI...
@@ -278,7 +273,6 @@
 144.172.106.140/32 # United States | Utah | Routerhosting LLC
 144.172.115.130/32 # United States | Utah | RouterHosting LLC
 144.172.115.212/32 # United States | Utah | Routerhosting LLC
-146.70.165.89/32 # United States | New York | M247 Europe SRL
 146.70.168.200/32 # United States | New York | M247 Europe SRL
 146.70.173.117/32 # United States | California | M247 Europe SRL
 149.40.50.111/32 # United States | Massachusetts | Datacamp Limited
@@ -448,6 +442,7 @@
 173.249.253.106/32 # United States | Illinois | tzulo, inc.
 173.249.254.44/32 # United States | California | tzulo, inc.
 173.249.254.119/32 # United States | California | tzulo, inc.
+173.249.254.183/32 # United States | California | tzulo, inc.
 173.249.254.226/32 # United States | California | tzulo, inc.
 173.249.255.85/32 # United States | Illinois | tzulo, inc.
 173.249.255.118/32 # United States | Illinois | tzulo, inc.
@@ -474,8 +469,6 @@
 185.86.79.95/32 # Ukraine | Khmelnytskyi Oblast | gmhost Mulgin Alexander Se...
 185.121.233.78/32 # Netherlands | North Holland | SERVERS TECH FZCO
 185.135.86.149/32 # Latvia | Vidzeme | Melbikomas Uab
-185.141.119.147/32 # United States | Michigan | HostRoyale Technologies Pvt Ltd
-185.156.46.168/32 # United States | District of Columbia | Datacamp Limited
 185.198.234.10/32 # Netherlands | North Holland | Royalehosting BV
 185.213.193.23/32 # United States | District of Columbia | Zenlayer Inc
 185.228.83.139/32 # Netherlands | Provincie Noord-Holland | Access2IT Access2....
